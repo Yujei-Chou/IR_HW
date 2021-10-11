@@ -1,0 +1,224 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>   
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="{% static 'assets/favicon.ico' %}" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="{% static 'css/app.css' %}" rel="stylesheet" />
+    <script src="{% static 'js/app.js' %}"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="container">          
+            <div class="upload-container">
+                {% if PubMedDocs%}
+                <h1 style="margin-bottom:0; padding-bottom: 0;">Search keyword</h1>
+                <p>or<a href="home" id="file-re-upload"> upload </a>files again</p>
+                <div class="input-group mr-auto ml-auto col-md-4">
+                    <input type="text" class="form-control" name="keyword" aria-label="Amount (to the nearest dollar)">
+                    <div class="input-group-append">
+                        <button class="btn btn-secondary" id="search-btn" type="button" style="margin-top: 0;"><i class="bi bi-search"></i></button>
+                    </div>
+                </div>                                       
+                <div class="row">
+                    <div class="col-md-1 align-self-center"><img src="{% static 'img/xmlFile_icon.png' %}" width="60px"></div>
+                    <div class="col-md-3 form-group">
+                        <label style="font-weight: 700;">PubMed</label>
+                        <select multiple class="form-control" id="PubMed-select"></select>
+                    </div>
+                    <div class="col-md-3"></div>
+                    <div class="col-md-1 align-self-center"><img src="{% static 'img/jsonFile_icon.png' %}" width="60px"></div>
+                    <div class="col-md-3 form-group">
+                        <label style="font-weight: 700;">Twitter</label>
+                        <select multiple class="form-control" id="Twitter-select"></select>
+                    </div>
+                    <div class="col-md-1"></div>
+                    
+                </div>
+                {% else %}
+                <h1>Upload files</h1>
+                <form class="border-container" id="upload-box" action="upload" method="post" enctype="multipart/form-data">
+                    {% csrf_token %}
+                    <div>
+                        <img src="{% static 'img/jsonFile_icon.png' %}" width="60px"><span id="json-cnt"></span>
+                        <img src="{% static 'img/xmlFile_icon.png' %}" width="60px"><span id="xml-cnt"></span>
+                    </div>
+                    <div class="upload-box-botom">
+                        <p>
+                            <input id="upload" type="file" name="choseFiles" accept=".json, .xml" multiple/>
+                            <a href="#" id="file-browser">Browse</a> your computer.</p>
+                    </div>
+                    <div class="upload-box-botom" style="display: none;">
+                        <p></p>
+                        <button class="btn btn-success" type="submit">Upload</button>
+                        <a href="#" class="btn btn-secondary" role="button" aria-disabled="true" type="submit">Cancel</a>                    
+                    </div>
+                </form>
+                {% endif %} 
+            </div>
+            {% if PubMedDocs%}
+            <img src="{% static 'img/pubMed_icon.png' %}" width="180px" style="padding: 20px;">
+            <div class="card" id="PubMedCard" style="background-color:white">
+                <div class="card-header">
+                    <h5></h5>
+                    <div class="row">
+                        <div class="col-md-2"></div>
+                        <div class="col-md-2"></div>
+                        <div class="col-md-2"></div>
+                    </div>
+                </div>
+                <div class="card-body" style="text-align: left;"></div>
+            </div>
+            <div class="alert alert-warning" id="PubMedAlert" role="alert">Can't find matching data!</div>
+            
+            <img src="{% static 'img/twitter_icon.png' %}" width="180px" style="padding: 10px;">
+            <div class="card" id="TweetCard" style="background-color:white">
+                <div class="card-header">
+                    <h5></h5>
+                    <div class="row">
+                        <div class="col-md-2"></div>
+                        <div class="col-md-2"></div>
+                        <div class="col-md-2"></div>
+                    </div>                    
+                </div>
+                <div class="card-body" style="text-align: left;"></div>
+            </div>
+            <div class="alert alert-warning" id="TweetAlert" role="alert">Can't find matching data!</div>
+            {% endif %}
+        </div>
+    </div>
+    
+</body>
+<script>
+    $(document).ready(function(){
+        let PubMedDocs = "{{PubMedDocs|escapejs}}"
+        let TweetDocs = "{{TweetDocs|escapejs}}"
+        let keyword, PubMedObj, TweetObj;
+
+
+        $('#PubMed-select').on('change', function(){
+            let PMID = $('option:selected', this).attr('pmid');
+            let fileName = $('option:selected', this).attr('filename');
+            if($('#PubMed-select option').length > 0){
+                PubMedObj = PubMedDocs[fileName][PMID];
+
+                $('#PubMedCard > div.card-header > h5').html(PubMedObj['Title']);
+                $('#PubMedCard > div.card-header > div > div:nth-child(1)').html(`sentences: ${PubMedObj['SentenceCnt']}`);
+                $('#PubMedCard > div.card-header > div > div:nth-child(2)').html(`words: ${PubMedObj['WordCnt']}`);
+                $('#PubMedCard > div.card-header > div > div:nth-child(3)').html(`characters: ${PubMedObj['CharCnt']}`);
+                PubMed_annotated(PubMedObj, keyword);
+            }else{
+                $('#PubMedAlert').show();
+                $('#PubMedCard').hide();
+            }         
+        
+        })
+
+        $('#Twitter-select').on('change', function(){
+            let TWID = $('option:selected', this).attr('twid');
+            let fileName = $('option:selected', this).attr('filename');
+            if($('#Twitter-select option').length > 0){
+                TweetObj = TweetDocs[fileName][TWID];
+
+                $('#TweetCard > div.card-header > h5').html(TweetObj['Title']);
+                $('#TweetCard > div.card-header > div > div:nth-child(1)').html(`sentences: ${TweetObj['SentenceCnt']}`);
+                $('#TweetCard > div.card-header > div > div:nth-child(2)').html(`words: ${TweetObj['WordCnt']}`);
+                $('#TweetCard > div.card-header > div > div:nth-child(3)').html(`characters: ${TweetObj['CharCnt']}`);            
+                Tweet_annotated(TweetObj, keyword);
+            }else{
+                $('#TweetAlert').show();
+                $('#TweetCard').hide();                       
+            }
+
+        })
+
+        $('#file-browser').on('click', function(e){
+            e.preventDefault();
+            $('#upload:hidden').trigger('click');
+        });
+
+        $('#upload').bind('change', function(e){
+            let xml_cnt = 0;
+            let json_cnt = 0;
+            $('#upload-box > div:nth-child(4) > p').html(`You just chose ${e.target.files.length} files`);
+            $('.upload-box-botom').toggle();
+            for(let i=0; i<e.target.files.length; i++){
+                if(e.target.files[i].name.split(".").pop() == "json"){
+                    json_cnt += 1;
+                }                
+                if(e.target.files[i].name.split(".").pop() == "xml"){
+                    xml_cnt += 1;
+                }             
+            }
+            $('#json-cnt').html(`x ${json_cnt}`);
+            $('#xml-cnt').html(`x ${xml_cnt}`);
+            $('.border-container').css('border', '5px dashed #7A97FC');
+        });
+
+        $('.btn-secondary').on('click', function(e){
+            e.preventDefault();
+            $('.upload-box-botom').toggle();
+            $('span').empty();      
+            $('.border-container').css('border', '5px dashed rgba(198, 198, 198, 0.65)');           
+        });
+
+        $('#search-btn').on('click', function(e){
+            e.preventDefault();
+            keyword = $('input[name=keyword]').val();
+            PubMed_annotated(PubMedObj, keyword);
+            Tweet_annotated(TweetObj, keyword);
+                        
+            if(keyword.length > 0){
+                find_keyword(PubMedDocs, TweetDocs, keyword);
+            }else{
+                $('option').show();
+                PubMed_exist_handle();
+                Tweet_exist_handle();
+            }
+        })
+
+        if(PubMedDocs){
+            PubMedDocs = JSON.parse(PubMedDocs);
+            // console.log(PubMedDocs)
+            $.each(PubMedDocs, function(key, value){
+                let i=1;
+                let optionTxt = key;
+                $.each(value, function(key, value){
+                    $('#PubMed-select').append(`<option pmid="${key}" filename="${optionTxt}">${optionTxt.concat('-',i.toString())}</option>`)
+                    i+=1;
+                })
+            })
+
+            $('#PubMed-select')
+                .val($('#PubMed-select > option:nth-child(1)').val())
+                .trigger('change');
+        }
+
+        if(TweetDocs){
+            TweetDocs = JSON.parse(TweetDocs);
+            // console.log(TweetDocs);
+
+            $.each(TweetDocs, function(key, value){
+                let i=1;
+                let optionTxt = key;
+                $.each(value, function(key, value){
+                    $('#Twitter-select').append(`<option twid="${key}" filename="${optionTxt}">${optionTxt.concat('-',i.toString())}</option>`)
+                    i+=1;
+                })                
+            })
+
+            $('#Twitter-select')
+                .val($('#Twitter-select > option:nth-child(1)').val())
+                .trigger('change');
+        }
+    });    
+</script>
+</html>
