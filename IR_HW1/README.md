@@ -1,6 +1,10 @@
 # IR_HW
 
-### Use Docker
+### Environment
+- Django 2.2
+- Python 3
+
+### 
 - command
 ```
 docker-compose up
