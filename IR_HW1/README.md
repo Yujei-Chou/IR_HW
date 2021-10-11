@@ -4,7 +4,7 @@
 - Django 2.2
 - Python 3
 
-### 
+### Run website
 - command
 ```
 docker-compose up
