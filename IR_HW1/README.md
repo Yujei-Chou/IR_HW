@@ -3,6 +3,7 @@
 ### Environment
 - Django 2.2
 - Python 3.10.0
+- docker
 
 ### Run website
 - <h4>command</h4>
