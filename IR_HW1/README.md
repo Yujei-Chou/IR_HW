@@ -8,6 +8,7 @@
 ### Run website
 - <h4>command</h4>
 ```
+cd IR_HW1
 docker-compose up
 ```
 - <h4>open website</h4>
