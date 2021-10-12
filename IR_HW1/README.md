@@ -6,14 +6,38 @@
 - Docker
 
 ### Run website
-- <h4>command</h4>
+- <h4>Command</h4>
 ```
 cd IR_HW1
 docker-compose up
 ```
-- <h4>open website</h4>
+- <h4>Open website</h4>
 ```
 127.0.0.1:5000/nlp/home
+```
+
+### Function
+- <h4>Statistics:</h4>
+  <h5>Number of sentence:</h5> &nbsp&nbsp Use nltk <a href="https://www.nltk.org/api/nltk.tokenize.html">sent_tokenize</a> function to calculate number of sentence.
+  <h5>Number of word:</h5> &nbsp&nbsp Use nltk <a href="https://www.nltk.org/api/nltk.tokenize.html">word_tokenize</a> function to calculate number of word.
+
+
+- <h4>Label keyword:</h4>
+```
+function annotate_keyword(text, keyword){
+    let search_idx = 0;
+    let res = '';
+    let found = false;
+
+    while(text.slice(0).indexOf(keyword) != -1 && keyword.length != 0){
+        found = true;
+        search_idx = text.slice(0).indexOf(keyword);
+        res = res.concat(text.slice(0, search_idx), '<span class="label">', keyword, '</span>');
+        text = text.slice(search_idx+keyword.length);
+    }
+    res = res.concat(text);
+    return {res:res, found:found};   
+}
 ```
 
 ### Website
