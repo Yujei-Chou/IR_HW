@@ -2,8 +2,11 @@
 
 ### Environment
 - Django 2.2
-- Python 3.10.0
 - Docker
+
+### Language
+- Python 3.10.0
+- JQuery 3.3.1
 
 ### Run website
 - <h4>Command</h4>
