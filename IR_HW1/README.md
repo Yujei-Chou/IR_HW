@@ -18,9 +18,13 @@ docker-compose up
 
 ### Function
 - <h4>Statistics:</h4>
-  <h5>Number of sentence:</h5> &nbsp&nbsp Use nltk <a href="https://www.nltk.org/api/nltk.tokenize.html">sent_tokenize</a> function to calculate number of sentence.
-  <h5>Number of word:</h5> &nbsp&nbsp Use nltk <a href="https://www.nltk.org/api/nltk.tokenize.html">word_tokenize</a> function to calculate number of word.
-
+  <h5>Number of sentence:</h5> 
+  &nbsp&nbsp Use nltk <a href="https://www.nltk.org/api/nltk.tokenize.html">sent_tokenize</a> function to calculate number of sentence.
+  <h5>Number of word:</h5>
+  &nbsp&nbsp Use nltk <a href="https://www.nltk.org/api/nltk.tokenize.html">word_tokenize</a> function to calculate number of word.<br>
+  &nbsp&nbsp And use <a href="https://www.tutorialsteacher.com/python/string-isascii">isascii()</a> method to check that all characters in the word are ASCII.
+  <h5>Number of character:</h5> 
+  &nbsp&nbsp Use <a href="https://www.tutorialsteacher.com/python/string-isascii">isascii()</a> method to check that every character I count is ASCII.
 
 - <h4>Label keyword:</h4>
 ```
