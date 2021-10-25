@@ -16,11 +16,14 @@ docker-compose up
 ```
 
 ### Website
-- <h4>Upload xml or json files:</h4>
-<p align="center"><img src="https://user-images.githubusercontent.com/56510169/136833318-eb7107f4-38e4-4833-9c6d-b406d207a7e9.png" width="60%"/></p>
+- <h4>Zipf:</h4>
+<p align="center"><img src="https://user-images.githubusercontent.com/56510169/138752015-6b687dd4-0935-40a0-9fac-b0b1868b4ee5.png" width="60%"/></p>
 
-- <h4>Search keyword and list matching files:</h4>
-<p align="center"><img src="https://user-images.githubusercontent.com/56510169/136834171-c44383c7-9ea6-480e-8e1f-a0077c02fd94.png" width="60%"/></p>
+- <h4>Partial Matching:</h4>
+<p align="center"><img src="https://user-images.githubusercontent.com/56510169/138752409-826c4c12-5a31-4685-bc40-0c6fe90f9a0c.png" width="60%"/></p>
 
-- <h4>Label keyword and show statistics data:</h4>
-<p align="center"><img src="https://user-images.githubusercontent.com/56510169/136834020-1800b74c-f3bf-466d-bc2c-2b58700b2c23.png" width="60%"/></p>
+- <h4>Show Searching Result:</h4>
+<p align="center"><img src="https://user-images.githubusercontent.com/56510169/138752663-76614957-ab0b-4736-abe7-0c19301eeb6b.png" width="60%"/></p>
+
+- <h4>Label keyword:</h4>
+<p align="center"><img src="https://user-images.githubusercontent.com/56510169/138752926-6718ad0c-3422-41a5-8f00-3749d9ad6c35.png" width="60%"/></p>
