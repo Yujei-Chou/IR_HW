@@ -1,0 +1,101 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>   
+    <link rel="icon" type="image/x-icon" href="{% static 'assets/favicon.ico' %}" />
+    <link href="{% static 'css/app.css' %}" rel="stylesheet" />
+    <script src="{% static 'js/app.js' %}"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+</head>
+
+<body>
+    <div class="container">
+        <a href="home"><img title="Go to Home Page" src="{% static 'img/pubMed_icon.png' %}"></a>
+        <div class="input-group mr-auto ml-auto col-md-4" id="search-div">
+            {% if not page %} 
+            <div class="input-group-prepend">
+                <button class="btn btn-info" type="button" onclick="show_Zipf()">Zipf</button>   
+            </div>
+            {% endif %}                        
+            <input type="text" class="form-control" name="searchWord" value="{{ keyword }}">
+            <div class="input-group-append">
+                <button class="btn btn-info" type="button" id="search-btn" onclick="partial_matching()">
+                    <i class="bi bi-search"></i>
+                    <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                </button>      
+            </div>
+        </div>
+        {% if page %}            
+            {% for article in page.object_list %}
+            <h4 data-toggle="modal" data-target="#articleModal" articleID="{{article.id}}" onclick="handle_content($(this).attr('articleID'), $(this).html())">{{article.title}}</h4>
+            <p>{{article.abstract}}</p>
+            <hr>
+            {% endfor %}
+
+            <div class="page-links">          
+                <ul class="pagination">
+                    {% if page.has_previous %}
+                    <!-- <li><a href="?page=1&keyword={{ keyword }}" class="page-link">&laquo; first</a></li> -->
+                    <li class="page-item"><a href="?page={{ page.previous_page_number }}&keyword={{ keyword }}" class="page-link">&laquo;</a></li>
+                    {% endif %}
+                    {% for i in page.paginator.page_range %}
+                        {% if page.number == i %}
+                        <li class="page-item active">
+                            <a class="page-link" href="?page={{ i }}&keyword={{ keyword }}">{{ i }}</a>            
+                        </li>
+                        {% elif i > page.number|add:'-3' and i < page.number|add:'3' %}
+                        <li class="page-item"><a class="page-link" href="?page={{ i }}&keyword={{ keyword }}">{{ i }}</a></li>
+                        {% endif %}
+                    {% endfor %}
+                    {% if page.has_next %}
+                    <li class="page-item"><a href="?page={{ page.next_page_number }}&keyword={{ keyword }}" class="page-link">&raquo;</a></li>
+                    <!-- <li><a href="?page={{ page.paginator.num_pages }}&keyword={{ keyword }}">last &raquo;</a></li> -->
+                    {% endif %}     
+                </ul>           
+            </div>
+        {% else %}
+            <div id="Zipf">
+                <h5>Original Zipf</h5><hr>
+                <img src="{% static 'img/withoutPucnc_Zipf.png' %}" class="img-fluid">
+                <h5>Zipf without stopwords</h5><hr>
+                <img src="{% static 'img/withoutStopwords_Zipf.png' %}" class="img-fluid">
+                <h5>Zipf without stopwords & using Porter algorithm</h5><hr>
+                <img src="{% static 'img/Porter_Zipf.png' %}" class="img-fluid">
+            </div>                        
+        {% endif %}        
+    </div>
+
+    <div class="modal fade" id="searchModal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-sm" role="document">
+            <div class="modal-content">
+                <form action="search" method="GET">
+                    {% csrf_token %}
+                    <div class="list-group"></div>
+                </form>
+
+            </div>
+        </div>
+    </div>
+    <div class="modal fade" id="articleModal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                <h5 class="modal-title">Modal title</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                </div>
+                <div class="modal-body"></div>
+            </div>
+        </div>
+    </div>
+
+</body>
+<script>   
+</script>
+</html>
