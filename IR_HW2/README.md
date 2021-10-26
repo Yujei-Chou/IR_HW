@@ -14,6 +14,10 @@ docker-compose up
 ```
 127.0.0.1:5000/nlp/home
 ```
+- <h4>clear web cache</h4>
+```
+Ctrl+F5
+```
 
 ### Website
 - <h4>Zipf:</h4>
