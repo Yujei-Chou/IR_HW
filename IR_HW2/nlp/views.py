@@ -58,7 +58,7 @@ def partial_matching(request):
     tokens = list(withoutPuncTokens.objects.values_list('word', flat=True))
     matching_words = {}
     for token in tokens:
-        matching_words[token] = edit_distance(token, request.POST['searchWord'])
+        matching_words[token] = edit_distance(token, request.POST['searchWord'].lower())
     Top5_matching = [item[0] for item in sorted(matching_words.items(), key=lambda x:x[1])[:5]]
     return HttpResponse(json.dumps(Top5_matching))
 
