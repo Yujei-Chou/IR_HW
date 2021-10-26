@@ -6,7 +6,7 @@ from django.core.paginator import Paginator
 from django.views.decorators.csrf import csrf_exempt
 import json
 import nltk
-import pandas as pd
+# import pandas as pd
 import pickle
 nltk.download('punkt')
 from nltk import word_tokenize, sent_tokenize
