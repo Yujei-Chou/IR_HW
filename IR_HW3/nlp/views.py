@@ -60,7 +60,7 @@ def get_word2vec(words, sample):
 def drawPCA(request):
     input_word = request.POST['keyword']
     PCA_type = request.POST['type']
-
+    
     user_input = [x.strip() for x in input_word.split(' ')]
     result_word = []
     sim_list = []
@@ -81,14 +81,15 @@ def drawPCA(request):
     
     if(PCA_type == '2D'):
         graph = display_PCA_2D(model, user_input, similar_word, labels, color_map, annotation='On', topn=5, sample=10)
-    
+        return HttpResponse(graph)
+
     if(PCA_type == '3D'):
         sim_org = model.most_similar(PorterStemmer().stem(input_word), topn=5)
         for item in sim_org:
             sim_list.append({item[0]: item[1]})        
         graph = display_PCA_3D(model, user_input, similar_word, labels, color_map, topn=5, sample=10)
-        
-    return HttpResponse(graph)
+        return HttpResponse(json.dumps({'graph': graph, 'similarity': sim_list}))
+    
 
 
 def display_PCA_2D(model, user_input=None, words=None, label=None, color_map=None, annotation='On', topn=0, sample=10):

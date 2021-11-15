@@ -1,5 +1,6 @@
 function drawPCA_3D(keyword){
     $('#Graph3D-Body').empty()
+    $('#CS-Body').empty()
     $.ajax({
         url: 'drawPCA',
         method: 'POST',
@@ -8,12 +9,18 @@ function drawPCA_3D(keyword){
             type: '3D'
         },
         success: function(data){
-            $('#Graph3D-Body').html(data.graph) 
-            console.log(data.sim_list)
+            $('#Graph3D-Body').html(JSON.parse(data).graph) 
+            console.log(JSON.parse(data).similarity)
             $('.CS-Header').show()
             window.scrollTo(0,document.body.scrollHeight)
-            $('#CS-Body').append(`<h4 class="fw-bold">Server migration<span style="float: right">20%</span></h4>
-                                  <div class="progress"><div class="progress-bar progress-bar-striped" role="progressbar" style="width: 50%" aria-valuemin="0" aria-valuemax="100"></div></div>`)
+            let progressList = ['bg-success', 'bg-success', 'bg-warning', 'bg-warning', 'bg-danger']
+            JSON.parse(data).similarity.forEach((element, idx) => {
+                let key = Object.keys(element)[0]
+                let value = (element[Object.keys(element)[0]]*100).toFixed(2)
+                console.log(idx)
+                $('#CS-Body').append(`<h4 class="fw-bold">${key}<span style="float: right">${value}%</span></h4>
+                                      <div class="progress"><div class="progress-bar progress-bar-striped ${progressList[idx]}" role="progressbar" style="width: ${value}%" aria-valuemin="0" aria-valuemax="100"></div></div>`)
+            })
         }
     }) 
 }
@@ -25,7 +32,7 @@ function drawPCA_2D(){
     $('#search-div > div > button > span').css('display', 'flex')
     $('#keywords').empty()
     $('#Graph3D-Body').empty() 
-    $('#Graph2D-Body').empty()
+    $('#CS-Body').empty()
     $.ajax({
         url: 'drawPCA',
         method: 'POST',
