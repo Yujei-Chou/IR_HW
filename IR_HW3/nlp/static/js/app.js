@@ -9,15 +9,13 @@ function drawPCA_3D(keyword){
             type: '3D'
         },
         success: function(data){
-            $('#Graph3D-Body').html(JSON.parse(data).graph) 
-            console.log(JSON.parse(data).similarity)
+            $('#Graph3D-Body').html(JSON.parse(data).graph)
             $('.CS-Header').show()
             window.scrollTo(0,document.body.scrollHeight)
             let progressList = ['bg-success', 'bg-success', 'bg-warning', 'bg-warning', 'bg-danger']
             JSON.parse(data).similarity.forEach((element, idx) => {
                 let key = Object.keys(element)[0]
                 let value = (element[Object.keys(element)[0]]*100).toFixed(2)
-                console.log(idx)
                 $('#CS-Body').append(`<h4 class="fw-bold">${key}<span style="float: right">${value}%</span></h4>
                                       <div class="progress"><div class="progress-bar progress-bar-striped ${progressList[idx]}" role="progressbar" style="width: ${value}%" aria-valuemin="0" aria-valuemax="100"></div></div>`)
             })
