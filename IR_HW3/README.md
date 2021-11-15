@@ -23,4 +23,5 @@ python manage.py runserver 0.0.0.0:5000
 <p align="center"><img src="https://user-images.githubusercontent.com/56510169/141831590-6025c38c-636d-46b9-b292-4cc091d155ba.png" width="90%"/></p>
 
 - <h4>Show 5 most similar words:</h4>
-<p align="center"><img src="https://user-images.githubusercontent.com/56510169/141829331-1f8c2ced-1ce3-44ba-8725-45ab7f06176d.png" width="90%"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/56510169/141831760-ab794d81-2c14-489e-8288-9e558ee7133c.png" width="90%"/></p>
+
