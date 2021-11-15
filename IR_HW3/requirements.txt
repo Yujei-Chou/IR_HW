@@ -1,0 +1,6 @@
+Django==2.2
+nltk==3.2.5
+plotly==4.7.1
+gensim==3.6.0
+scikit-learn
+numpy

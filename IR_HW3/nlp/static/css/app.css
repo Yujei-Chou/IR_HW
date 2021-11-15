@@ -1,0 +1,51 @@
+html{
+    scroll-behavior: smooth;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img:nth-child(1){
+    width: 180px;    
+    padding-top: 20px;
+}
+
+
+hr{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 3px solid rgba(0, 0, 0, 0.1);
+}
+
+#search-div{
+    padding: 20px;
+}
+
+#search-div > div > button > span{
+    display: none;
+}
+
+.btn-info{
+    background-color: #3978AD;
+}
+
+.Graph2D-Header, .Graph3D-Header, .CS-Header{
+    display: none;
+}
+
+#CS-Body{
+    margin-bottom: 50px;
+}
+
+.badge{
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+h4{
+    color: #858796;
+}
