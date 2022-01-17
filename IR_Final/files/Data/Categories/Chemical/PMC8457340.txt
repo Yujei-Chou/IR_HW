@@ -1,0 +1,3 @@
+34375299|PMC8457340
+{'Chemical', 'Disease', 'Species'}
+There is an unprecedented demand for infodemic management due to rapidly evolving information about the novel COVID-19 pandemic. The testing navigation feature was added on June 2, 2020 to the assessment flow to support public health officials and public health information phone lines. That being said, rigorous user testing combined with the systematic collection of user feedback, for instance through the integration of a permanent feedback link in the user interface of a chatbot as done by Herriman et al, may have allowed us to better understand user needs and make quicker improvements to Chloe's features.

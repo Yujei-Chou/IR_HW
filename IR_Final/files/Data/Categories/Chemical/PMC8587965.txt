@@ -1,0 +1,3 @@
+34770431|PMC8587965
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+The COVID-19 pandemic has significantly threatened the health and well-being of humanity. The infectious population of our IoT-CTS solutions is slightly over the benchmark scenario with reduced mobility. From the results in Figure 9, we can see that the increasing percentage of environment sensors in an IoT-CTS solution can improve the epidemiological performance and flatten the curves of the infectious, recovered, and fatality population.

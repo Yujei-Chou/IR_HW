@@ -1,0 +1,3 @@
+34571103|PMC8462005
+{'Chemical', 'Disease', 'Species', 'Gene'}
+For more than two years, health care systems have been floundering in a massive crisis of coronavirus disease 2019 (COVID-19) pandemic. The remaining patients underwent medical treatment with LMWH (n=3), UFH (n=2), thrombolysis (n=1), and aspirin (n=1).Overall, there were 4 patients with pulmonary embolism and 8 patients with venous thrombotic events classified in 4 patients with deep vein thrombosis, 3 with inferior/superior mesenteric vein and 1 with portal vein thrombosis. Thrombosis is a major complication in COVID-19 patients with optimal thromboprophylaxis being unknown.

@@ -1,0 +1,4 @@
+34588828|PMC8476178
+{'Chemical', 'Disease', 'Species'}
+Purpose
+In February and March 2020, the introduction of social distancing, closing down of majority of shops, restaurants, gyms, sport facilities, theatres, and limited travel and socializing became key measures taken to prevent the spread of COVID-19. The third group of research is related to problems faced by students in online learning during the lockdown. In case of epistemological dimension of digital competencies, a significant correlation with stress was not found, while a significant negative but very weak correlation was found in relationship with burnout (r = -0.079, p = 0.018).A comparative analysis of digital competence, well-being, stress and burnout revealed differences among the selected countries (see Table 3).

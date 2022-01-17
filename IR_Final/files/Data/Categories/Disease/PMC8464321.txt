@@ -1,0 +1,4 @@
+34584430|PMC8464321
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Since January 2020, considerable emphasis has been placed on identifying distinct risk factors in patients with COVID-19. By performing cluster analysis of the variables using patient demographics and comorbidities, we identified two clusters that provided the best fit among patients who were admitted for COVID-19: cluster 1 (C1; n=193) and cluster 2 (C2; n=290) (Table 1 and Figure 1).In C1, patients were older than in C2 (79.5 vs 53.7 years, p<0.001), with 93.3% of patients 65 or older in C1 and only 15.9% 65 or older in C2. We identified two distinct phenotypes in a sample of US patients admitted for COVID-19.

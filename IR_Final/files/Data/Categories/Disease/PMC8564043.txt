@@ -1,0 +1,4 @@
+34664545|PMC8564043
+{'Disease', 'Species', 'Gene'}
+Background
+Suicide is preventable, yet annually, approximately 800 000 people die of suicide worldwide (World Health Organization,). Most studies found that the completed suicide rate before and during the first COVID-19 pandemic wave was unchanged (Faust et al.,; Comparison of suicide rates between COVID-19-positive and COVID-19-negative cases for the exposure period showed a null (p > 0.05) difference in proportions between the two groups [difference = 10-5 (0.36), 95% CI 10-5 (-2.54 to 3.26), p-value = 1.00].We leveraged epidemiological data implemented a quasi-experimental design with national coverage spanning seven years before the COVID-19 pandemic, a year of the COVID-19 pandemic, information about the three lockdown intervals, and COVID-19 infection status to test for an effect on the rate of severe attempted suicide.

@@ -1,0 +1,4 @@
+34774106|PMC8590133
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+The coronavirus disease 2019 (COVID-19) pandemic has exerted a significant toll on the lives of people who use opioids (PWUOs). Also known as 'Safe supply,' this risk mitigation strategy was designed to provide a safer alternative to an increasingly toxic drug supply and reduce overdose risk while enabling self-isolation among PWUO. The provision of safe supply of opioids in British Columbia for PWUOs described by MacKinnon and colleagues resulted in high provider and patient satisfaction, emphasizing the need to further consider such harm reduction approaches that mitigate patient exposure to an increasingly lethal illicit opioid supply.

@@ -1,0 +1,4 @@
+34760738|PMC8565111
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background:
+The COVID-19 pandemic is still spreading throughout the world, along with its strange and frightening mutations. The birth weight of 78.0% of neonates was >=2.5 kg, whereas 2 (4.9%) of neonates had a birth weight of less than 1.5 kg [Table 3, and Figure 1].SARS-CoV-2 is a novel virus, and we do not have much knowledge about COVID-19 and its maternal and newborn adverse outcomes to date. In this study, all the neonatal pharyngeal swabs were found negative for the COVID-19 RT-PCR test.

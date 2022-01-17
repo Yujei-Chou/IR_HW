@@ -1,0 +1,3 @@
+34798145|PMC8595255
+{'Disease', 'Species', 'CellLine', 'Gene'}
+Rapid and widespread diagnostic testing is critical to providing timely patient care and reducing transmission of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Positive, negative, and overall percent agreement between the Visby COVID-19 test and the reference method were calculated. These results agree with the findings (95% sensitivity, 100% specificity, 96.1% overall concordance) from a recent 78 specimen evaluation of the Visby device described by Renzoni, et al.. Of the two specimens that were discordant on Visby and the reference method, the presumed false negative by Visby was obtained from a specimen near the upper limit of positive by the reference method at Cp = 33.

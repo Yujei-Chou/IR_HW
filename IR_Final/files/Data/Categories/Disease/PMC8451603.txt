@@ -1,0 +1,4 @@
+34490832|PMC8451603
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+ABSTRACT
+Following the past two pandemics of beta-coronavirus infection, severe acute respiratory syndrome coronavirus (SARS-CoV) in 2002 and middle east respiratory syndrome coronavirus (MERS-CoV) in 2012, a third pandemic caused by SARS-CoV-2 has been affecting more than 200 countries with more than 200 million cases and over 4 million deaths. Taken together, this information suggested a productive SARS-CoV-2 infection in NHPs. Future studies need to demonstrate whether asymptomatic infection, viral rebound, close-contact, and fecal-oral transmission of SARS-CoV-2 are possible using the NHP models.

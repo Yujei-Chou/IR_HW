@@ -1,0 +1,4 @@
+33929142|PMC8573937
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background/aim
+COVID-19 is a disease caused by a virus from the family Coronoviridae of viruses first described in the Wuhan region of Hubei State in China in December 20191. Primary cases are described as confirmed cases of COVID-19 who are in close contact with the source or index case, and for whom no other confirmed or suspected case of COVID-19 is possible as a source of the illness [4].Secondary cases are confirmed cases of COVID-19 patients who are believed to have been infected by the primary cases identified by the contact tracing investigation [4]. Four primary cases were family contacts (F), 4 were workplace contacts (W), and 4 were hospital contacts (H) (Table 2).

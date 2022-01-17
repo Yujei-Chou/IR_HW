@@ -1,0 +1,4 @@
+34804387|PMC8604530
+{'Chemical', 'Disease', 'Species', 'Gene'}
+ABSTRACT
+In December 2019, the first cases of coronavirus disease 2019 (COVID19) were identified in Wuhan, China, and subsequently, the virus spread rapidly and became a pandemic with severe impacts on public health. This case highlights the utility of CMR and biomarkers in the diagnosis of COVID-19-related myocarditis. A transthoracic echocardiogram (TTE) demonstrated left ventricular ejection fraction (LVEF) of 40-45%, mildly decreased globular left ventricular systolic function and moderate to severe hypokinesis involving inferior, inferoposterior wall without thinning of myocardium (Video 1 & 2).

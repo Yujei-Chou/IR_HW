@@ -1,0 +1,3 @@
+34713079|PMC8521916
+{'Disease', 'Species', 'Gene'}
+At the time of writing this article, the world population is suffering from more than 2 million registered COVID-19 disease epidemic-induced deaths since the outbreak of the corona virus, which is now officially known as SARS-CoV-2. In particular, in combination with artificial intelligence (AI), one can exploit a powerful tool, which so far has largely been tapped for prediction of COVID-19 spread [cf., Hearing local proximity from ambient audio further appears possible, and could be used to monitor individuals potentially too close to each other in the "social distancing" protective countermeasure scenarios.

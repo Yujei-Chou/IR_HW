@@ -1,0 +1,4 @@
+34548027|PMC8453255
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Upon passage of the March 11th anniversary of the official declaration of the coronavirus disease 2019 (COVID-19) pandemic, the causative severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pathogen has infected over 181 million individuals and resulted in more than 3.9 million deaths worldwide as of July 1, 2021. Given that co-infection with COVID-19 and S. aureus occurred after hospital admission in 76.5% of the patients in our review, preventative measures in the community-setting or treatment in an outpatient environment may be important considerations for mortality reduction from healthcare-associated S. aureus infection. To our knowledge, this is the first study to review and evaluate the outcomes of patients co-infected with COVID-19 and S. aureus.

@@ -1,0 +1,4 @@
+34778846|PMC8577228
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Individuals with immune-mediated inflammatory diseases were shown to be at increased risk of COVID-19-related death compared with the general population. The magnitude of response was similar in patients receiving methotrexate, targeted biologics, and controls. Median titres were numerically lowest in patients receiving methotrexate (median EC50 1751 [IQR 468-4976] compared with patients on targeted biologics (1816 [787-3534]; p=0 65) and healthy controls (2749 [867-4770]; p=0 20).All study participants had detectable neutralising antibodies against wild-type SARS-CoV-2 following the second vaccine dose, and all groups showed increased neutralising antibody titres against wild-type SARS-CoV-2 and the alpha variant after the second dose compared to the first (figure 3A, B ).

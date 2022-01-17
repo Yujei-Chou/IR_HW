@@ -1,0 +1,4 @@
+34697114|PMC8557242
+{'Chemical', 'Disease', 'Species'}
+Objectives
+To our knowledge, this is the first study in England to investigate the understanding of risk and impact of COVID-19 using the perspectives of ethnic minority community leaders. Many commented on inadequate access to general practitioners, a healthcare professional their community holds in high regard and would usually turn to (table 5).All commented on their community's feeling of servitude towards each other during the pandemic (table 5). Participants alluded to the disparities in infection rates and outcomes to historical and structural discrimination.

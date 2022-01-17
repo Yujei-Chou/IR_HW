@@ -1,0 +1,4 @@
+34812305|PMC8603631
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The incidence of sexually transmitted diseases (STD) has increased in recent years, especially in the young population. In both cases considering significant differences when p<0.05.The project was evaluated and approved by the Research Ethics Committee of the Biomedical Research Institute of Lleida. Patients' main symptoms were urethral discharge (59.5%) followed by dysuria (26.6%).Risky sexual relations were reported by 63.2% of patients in 2019, and this percentage decreased to 43.9% in 2020.

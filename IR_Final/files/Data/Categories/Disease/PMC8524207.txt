@@ -1,0 +1,4 @@
+34665318|PMC8524207
+{'Disease', 'Species'}
+Purpose
+The emergence of COVID-19 has dramatically shifted institutional and national protocols for personal protective equipment (PPE) in the healthcare setting, emphasizing reuse and extended use of previously recommended single-use items. In a study of 40 total joint arthroplasty cases, surgeons were stratified into groups for procedures lasting up to 6 h in 2-h intervals, and bacterial colonization on the internal and external surface of surgical masks was investigated to make recommendations for appropriate mask change intervals. COVID-19 has forced the healthcare system globally to reconsider PPE use practices and promote more efficient utilization.

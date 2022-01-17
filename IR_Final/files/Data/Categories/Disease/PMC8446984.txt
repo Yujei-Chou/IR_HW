@@ -1,0 +1,4 @@
+34173235|PMC8446984
+{'Disease', 'Species', 'Gene'}
+Abbreviations
+COVID-19Coronavirus Disease 2019SARS-CoV-2Severe Acute Respiratory Syndrome Coronavirus-2NCnucleocapsidA national blood center licensed predominantly in the western half of the United States questions blood donors regarding receipt of at least 1 dose of COVID-19 vaccine and tests blood samples for the presence of SARS-CoV-2 antibodies (total Ig anti-spike, VITROS Anti-SARS-CoV-2 Total Reagent Pack, Ortho Clinical Diagnostics, Rochester, NY). Returning donors were recounted in different weekly cohorts. This is consistent with latest available values suggesting that 9.1% of donations with spike antibodies are from unvaccinated individuals (compared with 9.9% predicted from self-reported non-vaccinees with NC antibody-confirmed spike antibody).The authors have disclosed no conflicts of interest.

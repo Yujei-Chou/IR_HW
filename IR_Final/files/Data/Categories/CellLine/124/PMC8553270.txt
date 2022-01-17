@@ -1,0 +1,3 @@
+34729363|PMC8553270
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+COVID-19 pandemic has impacted various walks of life. Alasmari has used UTUAT model and found that learning expectancy, effort expectancy, and social influence, mobiles are the important determinants of mobile eLearning adoption in Saudi Arabia. On the other hand, applied TAM to explain the factors importance for the acceptance of eLearning in UAE.

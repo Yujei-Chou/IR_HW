@@ -1,0 +1,4 @@
+34581966|PMC8476981
+{'Chemical', 'Disease', 'Species'}
+Background
+The coronavirus disease 2019 (COVID-19) pandemic, caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), emerged in China in late 2019 from a zoonotic source. These rapid antigen tests (RAT) are usually inferior in terms of sensitivity and specificity to RT-PCR.According to the study by Toptan et al., During this time the CT values are very high, the RAT revealed a diagnostic gap.

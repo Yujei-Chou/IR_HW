@@ -1,0 +1,3 @@
+34682302|PMC8538920
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Invasive pulmonary aspergillosis (IPA) has become a recognizable complication in coronavirus disease 2019 (COVID-19) patients admitted to intensive care units (ICUs). Mortality rate was 30% (three patients died, and only two received antifungal therapy).IPA has been a well-defined complication, especially in immunocompromised patients. Two of the three patients who died were on systemic corticosteroid therapy for COVID-19.

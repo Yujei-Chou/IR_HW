@@ -1,0 +1,4 @@
+33653643|PMC8501000
+{'Chemical', 'Disease', 'Species'}
+To the Editor,
+To the Editor,New research indicates that the incidence of Ventilator-Associated Pneumonia (VAP), in patients infected with SARS-CoV-2 requiring invasive mechanical ventilation, exceeds 50%. demonstrated that routine subglottic secretion drainage in patients undergoing cardiac surgery led to 600% reduction in postoperative VAP incidence. Early utilization of subglottic suctioning may also reduce the need for closed suctioning of the endotracheal tube lumen, thus reducing additional aerosolizing procedures.

@@ -1,0 +1,4 @@
+34227713|PMC8447318
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+The COVID-19 pandemic has dramatically altered the delivery of ambulatory patient care worldwide. 1), patients initially using the video modality were more likely to choose an alternative modality for the next appointment (57.0 vs 19.9%, P < 0.0001), and this modality was more likely to be an alternative telemedicine mode (84.4 vs 33.3%, P < 0.0001). The secondary end-point of ED presentations encompassed both hospital admissions and patients discharged from the ED.

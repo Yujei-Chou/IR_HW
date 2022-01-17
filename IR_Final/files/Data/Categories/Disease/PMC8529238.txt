@@ -1,0 +1,4 @@
+33422820|PMC8529238
+{'Chemical', 'Disease', 'Species'}
+Background
+As a disaster of unprecedented scale, the pervasive social, financial, and psychological impacts of the coronavirus-19 (COVID-19) pandemic are not well known. Higher scores indicated greater suicidal thoughts and more labile mood in response to the COVID-19 pandemic. In the current work, the subset of these participants that responded to our request for follow-up reported a relatively high average number of months that they considered themselves to have been euthymic in the past year (M = 8.39), and a relatively low average number of psychiatric hospitalisations in the past five years (M = 3.37).

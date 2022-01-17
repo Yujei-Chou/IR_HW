@@ -1,0 +1,4 @@
+34689762|PMC8542355
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+Immunization is considered as one of the most cost-effective strategy for disease prevention. However, based on some observations, it is commonly found that many pharmacists CPs influenza vaccines to their patients as part of their current practices. The majority of respondents were knowledgeable in different domains except the domain related to vaccine contraindications and precautions.

@@ -1,0 +1,4 @@
+34542794|PMC8450722
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Introduction
+Coronaviruses in wild and domestic animals have a long history of spillover between species (Cui et al.; Aspects of coronavirus adaptation and spillover in pets, livestock and wild animals are discussed. In farm animals, it is shown that minks are susceptible to infection with SARS-CoV-2 given efficient transmission that occurred in this species on farms in a number of countries (Molenaar et al.).

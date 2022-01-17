@@ -1,0 +1,3 @@
+34347688|PMC8478111
+{'Disease', 'Species'}
+Supplemental Digital Content is available in the text. Despite the intuitive appeal of Rose's logic to SARS-CoV-2, we know of no empirical evidence using a representative population that quantifies whether persons who do not engage in high-risk behavior:and those who self-identify as low-risk:account for the majority of SARS-CoV-2 infections. We arrayed SARS-CoV-2 by the response to the question on self-reported likelihood of having COVID.

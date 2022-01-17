@@ -1,0 +1,4 @@
+34667682|PMC8516323
+{'Disease', 'Species', 'Gene'}
+Objective
+Seasonal influenza is a worldwide contagious upper and lower respiratory tract illness caused predominantly by type A and B influenza viruses. Among the reasons that have been proposed to explain the very low incidence of flu cases during the COVID-19 pandemic are (1) the worldwide implementation of individual and community mitigation measures for SARS-CoV-2 transmission control. The low number of flu infections during 2020-2021 means that there is a slow build-up of susceptibility to influenza viruses and when control measures for COVID-19 are lifted, the number of immunized people will be very low.

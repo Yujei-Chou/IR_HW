@@ -1,0 +1,3 @@
+34793468|PMC8601535
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Several studies of patients with COVID-19 have evaluated biological markers for predicting outcomes, most of them retrospectively and with a wide scope of clinical severity. It is worth highlighting that most studies evaluating biomarkers are retrospective, having enrolled a wide range of hospitalized patients. Lymphocyte cell counts were lower than 1,000 cells/mul in both groups at admission and on days 3 and 7, without difference between complicated and non-complicated groups (S3 Table).

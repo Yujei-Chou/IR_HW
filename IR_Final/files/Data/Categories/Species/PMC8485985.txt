@@ -1,0 +1,4 @@
+34543225|PMC8485985
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+COVID-19 has threatened the health of tens of millions of people all over the world. We aim to provide shareable clinical data to catalyze future COVID-19 research by presenting Columbia Open Health Data for COVID-19 Research (COHD-COVID), a publicly accessible database providing clinical concept prevalence, the clinical concept prevalence ratio between cohorts, clinical concept co-occurrence, and clinical symptom prevalence for a cohort of hospitalized patients with COVID-19 and comparator cohorts (a cohort of hospitalized patients with influenza and a general hospitalized patient cohort) derived from NYP/CUIMC's electronic health records. We chose the 10 most prevalent condition and drug concepts in the COVID-19 cohort for this use case.

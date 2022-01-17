@@ -1,0 +1,4 @@
+34544690|PMC8463132
+{'Disease', 'Species', 'Gene'}
+Background
+Most people with cancer present symptomatically to primary care, although the diagnosis of cancer in general practice is not straightforward., Variables negatively associated with cancer detection rates included registered patients per FTE GP (-2 percentage points difference from Q1 to Q5), GP average age (-3), and IMD score (-5).For the multivariable linear regression models, all variables remained significantly associated (consistently positively or negatively) with cancer detection rates, with the exception of QOF score and patient ethnicity (Table 3). During the COVID-19 pandemic there have been reductions in cancer screening, 2WW referrals, and access to diagnostic tests, with likely negative impacts on cancer diagnoses and outcomes.,

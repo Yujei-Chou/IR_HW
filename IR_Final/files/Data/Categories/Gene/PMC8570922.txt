@@ -1,0 +1,4 @@
+34754184|PMC8570922
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+The Alpha 1 Antitrypsin (AAT) protein is best known for its function as an inhibitor of the serine protease, neutrophil elastase (NE), an enzyme responsible for the proteolytic degradation of lung elastase and alveolar and interstitial lung tissue. Results from both RAPID and RAPID-OLE highlight the disease-modifying effects of AAT therapy in AATD, for which early diagnosis and implementation of treatment is able to slow the progression of AATD-related emphysema and lung density loss, potentially resulting in improved mortality compared with no therapy. This patient case demonstrates the clinical benefits of self-administration on reducing exacerbation frequency and improving QoL compared with receiving no AAT therapy (Table 1).

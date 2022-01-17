@@ -1,0 +1,4 @@
+34746783|PMC8547755
+{'Chemical', 'Disease', 'Species'}
+Purpose:
+Distance education is a teaching method transmitted via certain centers and depends on individuals' self-learning goals, educational content, and tools specially designed for learners in myriad environments. The minimum number of participants required was determined by an a priori power analysis using the software package, GPower 3.1. In our study, most dental students (45.9%, n = 737) expressed the opinion that the distance education model is not an adequate substitute and is not as effective as face-to-face education (59.1%, n = 949).

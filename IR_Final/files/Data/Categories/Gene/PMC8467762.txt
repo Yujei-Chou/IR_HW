@@ -1,0 +1,3 @@
+34574469|PMC8467762
+{'Disease', 'Species', 'Gene'}
+Previously, we demonstrated an 81% reduction in pediatric Emergency Room (ER) visits in Italy during the strict lockdown due to the SARS-CoV-2 pandemic. In a previous Italian epidemiologic study including 15 hospitals over eight Italian regions, we showed an 81% decrease in pediatric Emergency Room (ER) visits during March-May 2020 compared to the corresponding timeframes in 2019, with the largest drop affecting air communicable diseases. An interesting result came out analyzing the trend in ER visits for accidents considering the strict and the relaxed lockdown period.

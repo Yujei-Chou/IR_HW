@@ -1,0 +1,4 @@
+34729011|PMC8557804
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+By the end of December 2019, new-coronavirus 19 (SARS-CoV-2) was identified as the main cause of a cluster of pneumonia cases in Wuhan. In this study, 204 HCWs with confirmed or suspected COVID-19 were enrolled; their mean age (+- SD) was 37 +- 11.5 and their mean body mass index was 29.7 +- 10.6. Our results revealed that chronic diseases and management at home were associated with severe and critical levels of COVID-19, which was inconsistent with the results of Li et al.

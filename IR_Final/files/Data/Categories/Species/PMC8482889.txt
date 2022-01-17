@@ -1,0 +1,4 @@
+34304225|PMC8482889
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Dear Editor,
+Dear Editor,With great interest, I went through the article Intracranial hypertension and visual loss following COVID-19: a case report by Ilhan B et al. The authors have very nicely described a possible association of intracranial hypertension in a COVID-19 positive, obese patient. There are reports associating intracranial hypertension and Vitamin-B12 deficiency in literature.

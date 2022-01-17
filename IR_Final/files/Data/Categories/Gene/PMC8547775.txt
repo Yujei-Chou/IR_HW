@@ -1,0 +1,3 @@
+34710832|PMC8547775
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+The ChAdOx1 nCoV-19 (ChA) (AstraZeneca) and Ad26.COV2.S (AD26) (Janssen) vaccines are virus-based coronavirus disease 2019 (COVID-19) vaccines used worldwide. The frequency of vaccine recipients with SAEs or death by venous thrombosis, hemorrhage, and/or thrombocytopenia was equal to 195 SAEs/OMD and 12.1 deaths/OMD in ChA recipients, as expected, and was slightly lower in AD26 recipients (173 SAEs/OMD and 9.5 deaths/OMD) (Table S10). The phenomenon is even more relevant when analyzing the frequency of SAE-related deaths in AD26 recipients (Fig.

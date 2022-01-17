@@ -1,0 +1,4 @@
+34722158|PMC8547816
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Cytokine storm in severe or critically ill coronavirus disease 2019 (COVID-19) patients is characterized by the elevation of a wide spectrum of inflammatory mediators. Further, in bronchoalveolar lavage (BAL) fluid of COVID-19 patients, a chemokine-rich signature was observed characterized by the expression of CCL2, CCL3, CCL4, CCL7, CCL8, chemokine (C-X-C motif) ligand 2 (CXCL2), CXCL8, CXCL17, and interferon-inducible protein 10 (IP-10).During the amplification phase, inflammatory immune responses get aggravated and the disease progresses rapidly to severe/critical illness. We have created an interactomics network of CRIEGs and their transcription factors with target microRNAs through the Cytoscape software [24,25] (Fig.

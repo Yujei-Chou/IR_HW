@@ -1,0 +1,4 @@
+34343468|PMC8503077
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objectives:
+The current coronavirus disease 2019 (COVID-19) pandemic, caused by severe, acute respiratory syndrome coronavirus 2 (SARS-CoV-2), is a global public health concern. Compared to patients who did not require mechanical ventilator, those who did had 2.6 times higher CFR (OR: 2.6; 95%CI: 1.72, 3.95, P = 0.001).Our study suggests that Yemen has suffered a catastrophic COVID-19 spread, nearly 3 months after the report of its first case on April 10, 2020. The highest CFR was observed in Hadramout region where ICU capabilities were limited.

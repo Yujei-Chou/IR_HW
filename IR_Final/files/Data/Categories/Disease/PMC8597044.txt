@@ -1,0 +1,3 @@
+34803530|PMC8597044
+{'Disease', 'Species'}
+Using daily hedonic housing price index for five Australian capital cities, we document a negative relationship between prior COVID-19 cases and daily housing returns. The second summation term accounts for lagged HPR for autocorrelation of returns. Alternatively, using total active cases as a measure of COVID-19 severity, we find for every doubling of total active COVID-19 cases in the prior day, housing market returns fall by 0.49 basis points daily, or 1.77% annualized.

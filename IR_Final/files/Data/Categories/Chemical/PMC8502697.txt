@@ -1,0 +1,4 @@
+34660200|PMC8502697
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objectives
+While mobility is vital to the well-functioning of cities and counties, travel can also act as a major spreader of disease. Ridership experienced a dip in August but recovered in September and grew further in October (see Table 1).3The data collection and analysis procedures are delineated below. This means that frequent bus travellers behaved like the population at large with regard to protective measures against Covid-19.

@@ -1,0 +1,3 @@
+34769837|PMC8582647
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+The overall unemployment rate in South Africa was impacted by the coronavirus (COVID-19) pandemic, which led many people to resort to informal work such as street trading opportunities in big cities. One of the most important steps towards reducing the risk of impaired health, resulting from inhalation of toxic chemicals, is the measurement and evaluation of the hypothesized risk factors and their impact on workers' respiratory health. The walkthrough survey and vendors interview assessment results respond to "Objective I and II" on the identification of other risk factors and respiratory symptoms and diseases.

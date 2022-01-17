@@ -1,0 +1,4 @@
+34702234|PMC8546753
+{'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+During the COVID-19 pandemic, frontline healthcare workers are at higher risk for mental health disorders because they face increased infection risk, a heavier workload, and potentially, life or death decisions. This crude comparison nonetheless paints a clear picture of the additional stress COVID-19 brought on among our participants. Similar to results from multiple regressions, having a greater proportion of the childcare responsibilities at home, as well as more frequent interactions with patients per week both acted as protective factors against depression (OR = 0.81 and OR = 0.86, P < .01 for both).

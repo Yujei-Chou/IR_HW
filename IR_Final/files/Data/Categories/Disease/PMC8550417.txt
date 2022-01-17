@@ -1,0 +1,3 @@
+34705893|PMC8550417
+{'Chemical', 'Disease'}
+The seventh author's name is spelled incorrectly. The seventh author's name is spelled incorrectly.

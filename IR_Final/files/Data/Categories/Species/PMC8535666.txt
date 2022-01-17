@@ -1,0 +1,3 @@
+34682704|PMC8535666
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The COVID-19 pandemic has resulted in many hospitalized patients and deaths worldwide. During hospitalization, trust in health centers and their professionals meant that the uncertainty occurred mainly due to the disease evolution. Akgun explains how, in this pandemic, two-way communication may help alleviate the fear of abandonment and the feelings of uncertainty that many patients and families experience during COVID-19 hospitalizations.

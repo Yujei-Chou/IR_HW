@@ -1,0 +1,4 @@
+34669152|PMC8527307
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+Purpose
+Coronavirus Disease (COVID-19) is a fast-spreading disease that has caused a global crisis. Except for hsa-miR-466, hsa-miR-3123, hsa-miR-6749-3p, and hsa-miR-7851-3p, all the Diabetes-associated CoV-tar-miRNAs were found to be expressed in the human pancreas (Table 5, Supplemental Table S7).Furthermore, to evaluate whether the Diabetes-associated CoV-tar-miRNAs' favorably hybridize with their viral and host Diabetes-associated RNA targets, we employed RNAhybrid 2.1.2 tool. Among them, hsa-miR-4691-3p and hsa-miR-5196-5p have been shown to have lower MFE and more chances of binding to the viral genome and transcripts than the CP mRNAs.

@@ -1,0 +1,4 @@
+34730750|PMC8522756
+{'Chemical', 'Disease', 'Species', 'Gene'}
+ABSTRACT
+Safe, secure, and viable vaccines are pivotal and sustainable to lessening and mitigating the devastating socioeconomic and health impacts of the current coronavirus disease 2019 (COVID-19) pandemic globally. Beginning in late February, 2021, cases of unusual thrombotic events in association with thrombocytopenia were observed in patients after vaccination with the ChAdOx1 nCoV-19, AstraZeneca vaccine, and the Johnson & Johnson/Janssen COVID-19 Vaccine. Furthermore, for individuals with COVID-19 vaccine-associated thrombosis as well as other AEFI, it is important to determine and identify various immunological and pathophysiological mechanisms of such reaction(s).

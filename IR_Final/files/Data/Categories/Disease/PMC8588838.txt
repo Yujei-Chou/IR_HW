@@ -1,0 +1,3 @@
+34786349|PMC8588838
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Energy poverty has been exacerbated by the COVID-19 pandemic and the economic crisis it triggered. Many countries introduced the possibility for residential consumers in financial hardship to defer the payment of energy bills during confinement. This behaviour, although fully related with the pandemic and the emergency measures, reveals some of the main flaws in the current design of the social tariff, i.e., the complexity and the bureaucratic effort required for the enrolment or the renewal and the lack of information or customer service for vulnerable consumers.

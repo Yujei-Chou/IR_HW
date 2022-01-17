@@ -1,0 +1,3 @@
+34650819|PMC8510828
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Accumulating evidence suggests that a patient subgroup with severe COVID-19 develops a cytokine release syndrome leading to capillary leakage and organ injury. This case report describes a 59-year-old SARS-CoV-2-positive patient with severe ARDS. The following day and despite positive fluid balancing and broad anti-infective therapy including meropenem, vancomycin, azithromycine, itraconazole, and acyclovir, an increase in interleukin 6 (IL-6) plasma level (4118 pg/mL) was noticed accompanied by fever and hemodynamic instability with norepinephrine demand of 1.2 mg/h.

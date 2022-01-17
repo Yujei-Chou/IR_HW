@@ -1,0 +1,3 @@
+34745390|PMC8562059
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The COVID-19 pandemic has forced some restaurants to shift their business models to innovative approaches in Online Food Delivery (OFD) services. Additionally, we tested that the innovation of the delivery options added experiential value while preserving the utilitarian value. However, there were no significant differences among the innovative delivery options (p > .05 in all conditions).The utilitarian value of each experimental condition (Munboxing = 3.97, SD = 0.79; Mhome chef = 3.73, SD = 0.94; MDIY meal kit = 3.53, SD = 1.03; Mstandard = 4.04, SD = 0.78, F (3,203) = 3.458, p < 0.05) revealed significant main effect of the utilitarian value.

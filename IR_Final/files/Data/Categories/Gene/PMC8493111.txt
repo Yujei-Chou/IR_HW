@@ -1,0 +1,4 @@
+34629893|PMC8493111
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+A novel coronavirus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), was first identified in December 2019 as the cause of a respiratory illness called Coronavirus disease 2019, or COVID-19. All the remaining participants answered the daily surveys and complied with at least 80% of the doses indicated for the study. Overall, new COVID-19 (symptomatic with confirmed PCR) developed in 12 of 394 participants (3.04%) during the 21 days of follow-up (Table 2).The incidence of COVID-19 differs significantly between subjects receiving the nasal spray with Iota-Carrageenan (2 of 196 [1.0%]) and those receiving placebo (10 of 198 [5.0%]).

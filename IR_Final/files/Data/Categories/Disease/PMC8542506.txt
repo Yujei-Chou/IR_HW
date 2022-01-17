@@ -1,0 +1,3 @@
+34689776|PMC8542506
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The global coronavirus disease 2019 (COVID-19) pandemic caused by the SARS-CoV-2 coronavirus started in March 2020. Based on a review of the latest literature, the article describes a potential relationship between the incidence of lipid disorders and the prognosis of COVID-19 patients, the impact of SARS-CoV-2 infection on lipid metabolism and the role of statins in the treatment of COVID-19 patients. The characteristics of lipid metabolism disorders in patients with COVID-19 has been partially confirmed in observational studies (Tab.

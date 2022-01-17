@@ -1,0 +1,3 @@
+34581669|PMC8478411
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+High-throughput genomics of SARS-CoV-2 is essential to characterize virus evolution and to identify adaptations that affect pathogenicity or transmission. Tiled-ClickSeq read data were processed and mapped following the scheme in Figure 1H.In the Tiled-ClickSeq data, after UMI deduplication, each isolate had an average coverage between 4500 and 7500 reads and a coverage of 25 reads in greater than 99.5% (29753/29903 nts) of the SARS-CoV-2 genome. Finally, we observed thousands of RNA recombination events corresponding to D-RNAs (BED files for each sample are provided in Figure 5:source data 1).

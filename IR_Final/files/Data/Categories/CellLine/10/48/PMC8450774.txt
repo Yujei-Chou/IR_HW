@@ -1,0 +1,3 @@
+34604541|PMC8450774
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+Background: Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) transmission occurs via airborne droplets and surface contamination. SARS-CoV-2 was already significantly inactivated on the TiO 2 surfaces after 20 min illumination. This research compared the stability of SARS-CoV-2 Spike pseudo virus and infectious SARS-CoV-2 virus on coated and uncoated surfaces, and the results of which evidenced that TiO 2- and TiO 2-Ag coatings, compared to the uncoated control surfaces, effectively inactivated both SARS-CoV-2 pseudo and live viruses under ambient indoor light within hours.

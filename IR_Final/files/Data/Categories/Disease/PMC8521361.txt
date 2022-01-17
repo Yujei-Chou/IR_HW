@@ -1,0 +1,3 @@
+34162297|PMC8521361
+{'Disease', 'Species'}
+The COVID-19 epidemic has revealed a shortage of basic knowledge and understanding of pandemics, especially regarding their dynamics and how to contain them. With ultra-short peer review time the necessary quality control seemed bound to fail, which also inevitably has happened. Provided researchers adhere to such a system, this not only opens for reproductive research of similar events, it also opens for comparative research of generic features common to all disasters and their management.

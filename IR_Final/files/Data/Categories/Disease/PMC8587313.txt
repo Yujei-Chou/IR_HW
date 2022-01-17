@@ -1,0 +1,3 @@
+34770855|PMC8587313
+{'Chemical', 'Disease', 'Species', 'Gene'}
+In the last two years, nucleosides analogues, a class of well-established bioactive compounds, have been the subject of renewed interest from the scientific community thanks to their antiviral activity. Then, based on the calculated energies, the Boltzmann distribution of the conformer populations of the R and S epimers of 11 in CHCl3 and 12 in DMSO was determined (Tables S1-S4 in Supplementary Materials).The results of the calculations indicate that the compounds 12R and 12S in DMSO at 298 K are present for more than 99.9% in a single conformation (Figure 2, Tables S1 and S2 in Supplementary Materials). Column chromatography was performed on silica gel 60 (70-230 mesh) using the specified eluents.

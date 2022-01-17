@@ -1,0 +1,3 @@
+34649869|PMC8521672
+{'Chemical', 'Disease', 'Species', 'Gene'}
+In 2021, many countries have begun distribution of COVID-19 vaccines but are hampered by significant levels of vaccine hesitancy or apathy. Finally, we see that strategies based on some types of cognitive mechanisms are more readily generalisable across regions than mechanisms based on social identity, however, this is not always true of 'nudge' strategies. The Delphi panel reported this strategy as effective in most regions, but with an important adaptation to shift the framing from the individual focus to the community.

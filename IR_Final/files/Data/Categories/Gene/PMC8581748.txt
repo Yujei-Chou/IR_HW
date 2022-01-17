@@ -1,0 +1,4 @@
+34704956|PMC8581748
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Increased physician empathy leads to better patient outcomes. Specifically, the survey included demographic information (gender, grade, race, and program track), questions about attitudes toward empathy, the Likert-scale KSA questions (1: strongly disagree; 2: disagree; 3: neither agree nor disagree; 4: agree; and 5: strongly agree), and program reflection questions (in the postsurvey only; Multimedia Appendices 2 and 3).SASI participants had the option of completing focus groups to explore empathy. The core track participants also showed a significant improvement in health communication skills (question 5).

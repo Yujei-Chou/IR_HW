@@ -1,0 +1,4 @@
+34717886|PMC8549443
+{'Chemical', 'Disease', 'Species', 'Gene'}
+To the Editor:
+To the Editor:As of June 3rd there are over 6.4 million confirmed cases in over 188 countries and territories and 382,435 confirmed deaths. Using the Mount Sinai Health Systems' database of all SARS-Co-V-2 positive patients with an encounter in New York City, we developed a prediction model to identify those patients most likely to succumb to the disease thin 7 days (the median time to death of those who died) from the onset of COVID-19 symptoms. 1B: AUC 0.861), calibration curves; which demonstrate that the magnitude of the assigned probabilities track the relative frequency of the observed outcomes (Fig.

@@ -1,0 +1,4 @@
+34620102|PMC8496134
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+An unknown pneumonia emerged in Wuhan city, the capital of Hubei province in China, in December, 2019. According to the OR values of above predictors, all the selected predictors were categorized into different level risk factors (Table 6): (1) very strong risk factor: chronic kidney disease, weighted as 4, (2) strong risk factor: age above 60, weighted as 3; (3) moderate risk factors: male, with at least one cardiovascular related disease, high fever (temperature >= 38.5C), lymphocyte count < 0.8 x 109 per L, NLR > 4.7, all weighted as 2. So it is crucial to screen risk population for severe patients with COVID-19 as early as possible.

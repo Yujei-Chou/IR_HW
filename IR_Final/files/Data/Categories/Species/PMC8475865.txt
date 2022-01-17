@@ -1,0 +1,3 @@
+34568994|PMC8475865
+{'Chemical', 'Disease', 'Species', 'Gene'}
+To the Editor: Multisystem inflammatory syndrome in children (MIS-C) was described in children in association with SARS-CoV-2 infection in April 2020. The baby was afebrile after 2 d of treatment and respiratory distress improved. Studies done to assess dynamics of antibodies in newborns' serum proved that infants born to mothers with COVID-19 tested negative but had high anti-SARS-CoV-2 IgG concentrations at birth.

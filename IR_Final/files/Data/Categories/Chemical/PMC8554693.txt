@@ -1,0 +1,3 @@
+34728890|PMC8554693
+{'Chemical', 'Disease', 'Species'}
+The energy market is extremely vulnerable to the uncertainty caused by the pandemic and leads to global lockdowns and stagnant economic activity. The effect on the oil price is more strong in the downside trend, while the price is more inefficient in the pre-COVID-19 period. It demonstrates that the impact of COVID-19 on NGP is negative except in the long run.

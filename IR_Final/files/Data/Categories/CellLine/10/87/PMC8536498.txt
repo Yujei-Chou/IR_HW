@@ -1,0 +1,3 @@
+34722851|PMC8536498
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+RNA viruses have high rate of replication and mutation that help them adapt and change according to their environmental conditions. Computationally optimized broadly reactive antigens with consensus sequences, phylogenetic model-based ancestral sequence reconstruction, and immunomics to compute conserved cross-reactive T cell epitopes are some of the algorithms under development for the application of ML in vaccine development. The performance of the current prediction tools for assessing binding stability is dependent on the MHC allele association.

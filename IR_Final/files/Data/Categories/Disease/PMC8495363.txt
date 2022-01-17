@@ -1,0 +1,3 @@
+34579517|PMC8495363
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Acute liver failure is a rare but catastrophic syndrome. On day 17 after admission, the O2, saturations dropped to 70% and a chest CT-Scan was requested and done, which was suggestive of COVID-19 infection (Figure 1. They additionally report that bilirubin was often normal even in extreme cases, unlike the situation of our patient.

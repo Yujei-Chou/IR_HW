@@ -1,0 +1,4 @@
+34660195|PMC8507566
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+In December 2019, an unexplained pneumonia outbreak occurred in Wuhan, one of the most populous cities in central China. TCM syndrome scores were evaluated at baseline and at the end of drug intervention. Inpatients in the treatment group had only one significant symptom, cough (72.4 vs. 96.8, P = 0.002) compared with the control group (Table 1b).The rate of symptom recovery was significantly higher in the treatment group than in the control group based on the Kaplan-Meier curve (Fig.

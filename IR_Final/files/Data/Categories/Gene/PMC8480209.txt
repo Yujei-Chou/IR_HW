@@ -1,0 +1,3 @@
+34580872|PMC8480209
+{'Disease', 'Species', 'Gene'}
+Preeclampsia and severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) infection are both life-threatening disorders when they occur during pregnancy. To the best of our knowledge, this is the first meta-analysis examining the risk of preeclampsia in pregnant women with SARS-CoV-2 infection. in a study of 879 infected pregnant women with COVID-19 (859 singleton pregnancies and 20 multiple gestation pregnancies), described a higher risk of preeclampsia among women with multiple gestation pregnancies and COVID-19.Mendoza et al.

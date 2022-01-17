@@ -1,0 +1,4 @@
+34587547|PMC8526329
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The COVID-19 pandemic has led to significant negative mental health consequences for frontline health care workers (FHCWs). Third, for the first regression model, planned secondary analyses of multi-faceted constructs (e.g., protective psychosocial characteristics) were conducted to identify specific indicator variables from these constructs that were independently associated with PTG.Of the 6,026 presumed FHCWs, 3,360 completed the W1 survey (55.8%), of which 2,579 (76.8%) endorsed having frontline responsibilities in caring for COVID-19 patients; median completion date=04/21/20; range=04/14/20-05/11/20. These findings corroborate prior work demonstrating that the cultivation of positive emotions in the midst of stressful circumstances is linked to greater PTG.

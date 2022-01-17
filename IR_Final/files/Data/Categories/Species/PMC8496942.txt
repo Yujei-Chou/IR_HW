@@ -1,0 +1,3 @@
+34642560|PMC8496942
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Density Functional Theory (DFT) and Quantitative Structure-Activity Relationship (QSAR) studies were performed on four benzimidazoles (compounds 1-4) and two benzothiazoles (compounds 5 and 6), previously synthesized by our group. We observed that Asp-494 showed minimal ionic interactions with the ligand for 6 M18. The receptor-ligand complex showed darker bands for the Leu-287, Met-276, Tyr-239 row for Comp.1-6LU7 and the Leu-675 and Asp-494 row for Comp.1-6 M18, suggesting that these amino acids have more interactions with the ligand in all possible orientations, in agreement with the histogram results.

@@ -1,0 +1,4 @@
+34137123|PMC8447072
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+Regular menstrual cycle is an indicator of the normally functioning hypothalamic-pituitary-gonadal (HPG) axis and a vital sign of women's health and well-being. Previous studies showed that menstrual cycle characteristics are closely linked with future reproductivity. A large prospective study with 391 320 participants found decreased fecundability ratios in women with longer cycle length, both shorter and longer bleeding duration.

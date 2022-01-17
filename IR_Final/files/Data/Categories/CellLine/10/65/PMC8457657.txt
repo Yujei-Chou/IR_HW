@@ -1,0 +1,3 @@
+34550739|PMC8457657
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+Novel sensors can not only detect SARS-CoV-2 or other viruses in real-world samples but also determine if they are infectious. Once the aptamer was grafted on the inner wall of the nanopore, frecnorm decreased with increasing amount of the infectious HAdV (Fig. To extend this aptamer-nanopore sensor for rapid diagnostics of infectious HAdV directly from bodily fluids, we spiked 1.5 ml of human serum and saliva with 15 mul of infectious HAdV solution of different concentrations, therefore avoiding significant dilution of the biological sample.

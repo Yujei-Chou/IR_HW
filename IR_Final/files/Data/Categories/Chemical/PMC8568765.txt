@@ -1,0 +1,3 @@
+34745235|PMC8568765
+{'Chemical', 'Disease'}
+Coronavirus disease 2019 (COVID-19) pandemic has been attributed to SARS-CoV-2 (SARS2) and, consequently, SARS2 has evolved into multiple SARS2 variants driving subsequent waves of infections. This would emphasize the close structural dynamics between SARS1 and VOC spike models which we attribute to high nucleotide similarity. It is worth mentioning that gamma and delta S1-NTD models have similar TM scores (Figure 4F) when compared to the original SARS2 S1-NTD insinuating that both variants have similar S1-NTD structural conformation.

@@ -1,0 +1,4 @@
+34557181|PMC8453017
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The global pandemic set up by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in the early months of the year 2020 has reached considerable proportions and, to date, does not show signs of a slowdown when considered globally. Interestingly, recovered and partially recovered do not show a meaningful difference when compared to the critical cases (Figure 9C).IFNg is released by natural killer (NK) cells upon bystander stimulation by danger signals (Rule n.5 in Appendix A of Supplementary Materials) which, in turn, is released by infected/injured epithelial cells upon viral infection (Rule n.3) and when killed by cytotoxic cells (Rule n.18). The immunological correlates of COVID-19 are far from being elucidated in clinical studies.

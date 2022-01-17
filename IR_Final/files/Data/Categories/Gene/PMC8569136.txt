@@ -1,0 +1,3 @@
+34744992|PMC8569136
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objective: To describe a temporal association between COVID-19 vaccine administration and multiple sclerosis (MS) relapses. She underwent a new MRI showing one enhancing lesion in the spinal cord (Figure 1C). On June 24, he underwent a brain MRI that, compared with a previous routine scan of May 20, 2021, showed a new tumefactive contrast-enhancing lesion in the left fronto-parietal white matter (Figure 1R).

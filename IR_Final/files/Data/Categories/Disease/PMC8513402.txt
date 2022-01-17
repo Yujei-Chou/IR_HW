@@ -1,0 +1,4 @@
+34564721|PMC8513402
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+The SARS-CoV-2 (COVID-19) pandemic has generated a tremendous interest in the use of remote means for cognitive assessment. The study's findings will thus provide valuable information on some practical solutions that can be used as a starting point for those wishing to utilize TeleNP. However, relative to respondents in the research group (1/30 [3.3%]), more respondents in the clinical group (12/42 [28.5%]) were or still are conducting TeleNP evaluations in clinic-to-clinic settings, particularly wherein the examiner and examinee were in different rooms at the same clinic.

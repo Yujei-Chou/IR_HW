@@ -1,0 +1,3 @@
+34639791|PMC8507787
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+During the COVID-19 pandemic, hospitality employees face a tremendous amount of job stress due to the decline in revenue and close contact with people. These different organizational climates exert different impacts on the behavioural intentions and work ethic of members. However, workload stress and interpersonal stress positively correlate with physical and mental health, demonstrating that the greater the workload stress, the poorer the perception of wellness.

@@ -1,0 +1,3 @@
+33161044|PMC8580210
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Emerging evidence indicates that for some people, the COVID-19 lockdowns are a time of high risk for increased food intake. Results showed that 48% of participants reported increased food intake in response to the COVID-19 lockdown. This study aimed to assess reported changes to food intake (changes to overall amount eaten and for HED sweet and savoury foods) during the COVID-19 lockdown and identify the eating behaviour traits that increase susceptibility to increased intake of HED sweet and savoury foods.

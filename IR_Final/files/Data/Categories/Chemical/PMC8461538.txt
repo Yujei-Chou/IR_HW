@@ -1,0 +1,4 @@
+34499044|PMC8461538
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The use of mobile health (mHealth) apps increased during the first decade of the 21st century and this has led to an increase in the amount of time that users devote to improve their health using mHealth app(s). Therefore, H4 was supported for the proposed model with a confidence level of 99.9%.The results also indicated that the research model explains 76.4% of the variance of the intention to use an mHealth app (R2 for behavioral intention to use=76.4%, R2 values for attitude toward using, health benefits, PEOU, and PU are 78.2%, 74.7%, 40.9%, and 72.7%, respectively). This could explain the evolution of mHealth apps that offer an increasing number of benefits to the user.

@@ -1,0 +1,3 @@
+34516558|PMC8475996
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Peter Figueroa and co-authors advocate for equity in the worldwide provision of COVID-19 vaccines. While HICs contributed to the formation and funding of COVAX and the COVAX Facility responsible for equitable global access of COVID-19 vaccines, bilateral contracts with the pharmaceutical companies have monopolized most of the available vaccines. Based on the estimated 3 billion people who live in LMICs, this means the scale-up and manufacture of 6 billion doses, preferably during 2021.

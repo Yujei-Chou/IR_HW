@@ -1,0 +1,4 @@
+34776809|PMC8577180
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+The COVID-19 pandemic and restrictions put in place to control the spread of the disease have deeply affected human society. A great majority of those studies have examined the effect of pandemic lockdown strategies on changes in criminal activity, as there are reasons to suspect that some crimes would increase, such as aggravated assault and domestic violence:the reality which has been borne out (see e.g., Rosenfeld & Lopez,; Piquero et al.,), The first concerns the observation that most property crimes declined during lockdowns in large part without any police influence.

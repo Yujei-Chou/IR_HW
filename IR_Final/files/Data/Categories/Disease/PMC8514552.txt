@@ -1,0 +1,3 @@
+34645849|PMC8514552
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Novel SARS-CoV-2, an etiological factor of Coronavirus disease 2019 (COVID-19), poses a great challenge to the public health care system. performed pharmacophore-based activity prediction of 66 FDA-approved drugs from different classes to identify imatinib molecule and experimentally verified the Mpro inhibition of 9.823 microM.Phytochemicals, the plant-derived molecules from medicinal plants (e.g., turmeric, Saif et al.), Single chain of Mpro with bound N3 peptide was chosen as the structure for docking calculations and dynamic simulations.

@@ -1,0 +1,3 @@
+34591828|PMC8486392
+{'Disease', 'Species'}
+Beginning in January 2021, the U.S. government prioritized ensuring continuity of learning for all students during the COVID-19 pandemic. During August 2-September 17, 2021, systematic Internet searches identified announcements of 248 public districtwide closures and 384 individual school closures for >=1 day attributable to COVID-19. The number of closures was highest in the South.

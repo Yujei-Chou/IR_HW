@@ -1,0 +1,4 @@
+34692292|PMC8523387
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Prompted by the menace of Coronavirus disease 2019 (COVID-19) and its implications all over the world, the Centers for Disease Control and Prevention (CDC) augmented efforts to provide safe care for patients with suspected or confirmed COVID-19. Based on our observations, we speculate that performing doffing using a real-time RADS system is associated with a low incidence of the breach in biosafety and decreased protocol deviations compared with doffing assistance using onsite standard observers or posters in the doffing area. Appropriate doffing of PPE remains crucial to decrease the infection rate among healthcare workers.

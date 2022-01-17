@@ -1,0 +1,3 @@
+34675930|PMC8523987
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+The reasons behind the clinical variability of SARS-CoV-2 infection, ranging from asymptomatic infection to lethal disease, are still unclear. The reads were mapped to the GRCh38 reference human genome using STAR, as part of a pipeline provided by Lexogen and BlueBee. Among the six genes that were found with significantly decreased expression in previously asymptomatic cases relatively to clinical cases, and in line with our research hypothesis, all are involved in innate immune responses ( Supplementary Table S2 ) and two of these genes (IFIT3, IFI44L) belong to the interferon-induced family of genes.

@@ -1,0 +1,3 @@
+34602706|PMC8475876
+{'Chemical', 'Disease', 'Species', 'Gene'}
+On March 11, 2020, Romanian President Klaus Iohannis addressed the media about the pandemic after meeting with the inter-institutional working group tasked to tackle its effects and he explained the problem to the public. Early successes in halting the spread of the virus mystified the way corporate leaders used the pandemic to expand their power. This "avalanche of numbers," as Marco D'Eramo aptly called it:mis- and underreported as they are:conceal in fact wider socio-economic and political forces that led to the transformation of death into a banality during the pandemic (D'Eramo).

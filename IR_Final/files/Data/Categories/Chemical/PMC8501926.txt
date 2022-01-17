@@ -1,0 +1,4 @@
+34627271|PMC8501926
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+Non-communicable diseases (NCDs) are a defining problem of the twenty-first century, hampering nations' economic growth and sustainable development. Our inclusion criteria were for NGO/Government officials: a) working in an organisation which has involvement in decision-making regarding social mobilisation activities; b) working in an organisation which has been involved in social mobilisation activities before and since the COVID-19 pandemic. The remote monitoring and mobilisation of NCD patients discussed by our participants opens a new avenue for potential care and mobilisation, especially during times when patients may be afraid of visiting health facilities such as during times of regional conflict/violence or during health crises such as the COVID-19 pandemic.

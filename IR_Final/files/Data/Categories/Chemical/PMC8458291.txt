@@ -1,0 +1,3 @@
+34552128|PMC8458291
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+In this pandemic SARS-CoV-2 crisis, any attempt to contain and eliminate the virus will also stop its spread and consequently decrease the risk of severe illness and death. In this regard, the ozone-treated virus was first covalently bonded to the glutamine modified surface of silicon "(SARS-CoV-2)-GLU-UD-Si(100)" and then analyzed using AFM and ATR-FTIR techniques; further analyzes were performed using AAS and transmission electron microscopy. The prepared surfaces were sent for ATR-FTIR, AFM, and water contact angle surface characterization immediately after each surface functionalization step.

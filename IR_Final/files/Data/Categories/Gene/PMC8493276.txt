@@ -1,0 +1,4 @@
+34629910|PMC8493276
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+Blended Learning (BL) is one of the most frequently used approaches related to the application of Information and Communications Technology (ICT) in education. This analysis shows that none of the review studies have targeted major players in the adoption of BL, such as policy makers. Therefore, future research should follow a more quantitative approach through meta-analysis in order to provide a better understanding of the nuanced effects of BL; (5) the majority of studies discussed BL as a generic construct and did not focus on the learning models of BL.

@@ -1,0 +1,3 @@
+34786156|PMC8567455
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The coronavirus disease 2019 (COVID-19) is caused by the newly discovered SARS-CoV-2. Muscle atrophy is also an important issue in COVID-19 patients. If hypertriglyceridemia (serum triglycerides > 350 mg/dL) develops, the intravenous lipid dose is required to be changed in order to provide 4%-8% of the total energy to prevent essential fatty acid deficiency.

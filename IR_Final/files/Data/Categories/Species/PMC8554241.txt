@@ -1,0 +1,3 @@
+34722579|PMC8554241
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Coronavirus disease-2019 is caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2 virus). Clinical manifestations of COVID-19 range from an asymptomatic state to multiorgan dysfunction. The severe microvascular injury in COVID-19 infection is suggested to be due to the combined effect of complement activation and hypercoagulability, leading to microvascular thrombosis.

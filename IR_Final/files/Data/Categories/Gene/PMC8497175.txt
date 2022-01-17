@@ -1,0 +1,4 @@
+34642684|PMC8497175
+{'Disease', 'Species', 'Gene'}
+Background
+The coronavirus (COVID-19) pandemic has dramatically altered people's lives by disrupting and changing daily activities, lifestyle, and financial security. 2 depicts the trajectories of perceived stress over time by ED group. Further, while the majority of participants with EDs evidenced lifetime diagnosis of at least one mood or anxiety disorder, we do not have data on current diagnosis of mood and anxiety disorders and thus cannot study differences by current mood or anxiety disorder.

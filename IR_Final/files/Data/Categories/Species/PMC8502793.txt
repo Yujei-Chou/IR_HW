@@ -1,0 +1,4 @@
+34633645|PMC8502793
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background and Objective
+The severe acute respiratory syndrome coronavirus 2 (SARS-Cov-2) pandemic has caused over 212,000,000 coronavirus cases and over 4,400,000 deaths worldwide. The Vd of 4.34 L is comparable with that previously reported for rheumatic diseases (4.83/L reported by Bastida et al.; Our findings strongly support fixed dosing of tocilizumab in ICU-admitted COVID-19 patients at a dose of 600 mg, as it leads to less variability in exposure compared with the currently applied bodyweight dosing.

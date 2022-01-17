@@ -1,0 +1,3 @@
+34698308|PMC8544743
+{'Chemical', 'Disease', 'Species', 'Gene'}
+This study investigates the presence of SARS-CoV-2 in conjunctival secretions and tears and evaluates ocular symptoms in a group of patients with COVID-19. Our results are in line with this hypothesis as our patients with positive ocular samples had moderate or severe disease. In conclusion, our data support the presence of SARS-CoV-2 in tears and conjunctiva of patients with COVID-19.

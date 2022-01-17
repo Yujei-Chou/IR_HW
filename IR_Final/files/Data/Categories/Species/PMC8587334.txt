@@ -1,0 +1,3 @@
+34805376|PMC8587334
+{'Chemical', 'Disease', 'Species', 'Gene'}
+In this article we summarize suspected adverse events following immunization (AEFI) of pericarditis, myocarditis and perimyocarditis that were reported by our regional pharmacovigilance centre after COVID-19 mRNA-vaccination and discuss their association with these vaccines. Among the five myocarditis cases, three occurred after the first mRNA-vaccination with a median latency of 25 days (range 17-28) and two after the second with a median latency time of 3.5 days (range 3-4). Taking both groups of patients with myocarditis and perimyocarditis together, the total median latency time was 3 days (range 1-17) after administration of the second dose, which is consistent with the existing literature.

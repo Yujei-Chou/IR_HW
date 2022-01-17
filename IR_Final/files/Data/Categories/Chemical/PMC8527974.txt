@@ -1,0 +1,4 @@
+34670589|PMC8527974
+{'Chemical', 'Disease', 'Species'}
+To the Editor: 
+ To the Editor: We read with great interest the recent research article, published in Critical Care: "Longitudinal changes in compliance, oxygenation and ventilatory ratio in COVID-19 versus non-COVID-19 pulmonary acute respiratory distress syndrome", by Beloncle and collaborators. We agree with their conclusion that increase in ventilatory ratio (VR) during the first week of illness is characteristic to COVID-19 ARDS and reflects its uniqueness in pathophysiology. High VR are known to be associated with poor outcomes in patients with non-COVID-19 ARDS.

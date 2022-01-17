@@ -1,0 +1,3 @@
+34777938|PMC8579416
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Much research has shown that the first lockdowns imposed in response to the COVID-19 pandemic were associated with changes in routine activities and, therefore, changes in crime. Nevertheless, little research has explored the relationship between multiple lockdowns and crime in the mid-term. For example, opportunities for violent offences and theft are found mostly in 'public places' and thus were likely to decrease during stay-at-home orders and return to normal levels after each lockdown (Balmori de la Miyar et al.,).

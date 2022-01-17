@@ -1,0 +1,3 @@
+34639300|PMC8507683
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Social networking protects mental health during a crisis. Individual-level random intercepts and slopes in self-rated memory, loneliness, and depression were estimated using linear mixed models with restricted maximum likelihood in R v4.0.3. As shown in Table 1, prior contact with friends (B = -0.075, p < 0.001) and organizations (B = -0.073, p < 0.001) were most strongly associated with better mental health during COVID-19 in adjusted models of the full sample.

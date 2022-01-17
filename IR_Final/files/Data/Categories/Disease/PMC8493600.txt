@@ -1,0 +1,4 @@
+34610907|PMC8493600
+{'Disease', 'Species'}
+Summary box
+COVID-19 outbreaks and the repeated lockdowns to control its spread have significantly impacted people's social life, physical and mental health, and the global economy. Despite these, many governments are exploring strategies to find a balance between protecting public health and returning life to near normal. Hence, a vaccine passport might be an incentive for returning to everyday life and eventually opening international travel as the approved vaccines are highly effective in preventing severe disease, hospitalisation and death and reducing transmission.

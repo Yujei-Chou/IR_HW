@@ -1,0 +1,4 @@
+34727904|PMC8562769
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+With more than 231 million people worldwide infected with COVID-19 and more than 4 million deaths since the pandemic began, many governments have implemented several public health policies, such as "social distancing" and "lockdowns" of varying severity for entire populations. In our study, this approach allowed to minimize the influence of university administrations on student responses. It should be noted that the geographical distribution of the results by regions of Russia illustrates the existing heterogeneity in terms of the availability of essential facilities and equipment to study online.

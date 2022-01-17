@@ -1,0 +1,4 @@
+34723986|PMC8559982
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objective
+Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2), the virus that causes coronavirus disease 2019 (COVID-19), has spread rapidly among people experiencing homelessness in some homeless shelters throughout the United States. When analyzing the 77 participants who reported at least one testing event, we identified demographic characteristics that were associated with testing positive for SARS-CoV-2, including having a BMI >=30 (PR 1.86, 95% CI 1.31, 2.63; p = 0.001) or identifying as Non-Hispanic Black race (PR 2.00, 95% CI 1.23, 3.26; p = 0.01)(Table 4). I would recommend to expand a little more and emphasize in the discussion the section related to race/ethnicity and BMI and increased covid risk.**********6.

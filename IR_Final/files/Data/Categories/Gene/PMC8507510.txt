@@ -1,0 +1,3 @@
+34637125|PMC8507510
+{'Disease', 'Species', 'Gene'}
+The WHO characterized coronavirus disease 2019 (COVID-19) as a global pandemic. First, the generalized additive model (GAM) with the Poisson distribution was fitted in every country or province of mainland China (Qi et al., However, if we conducted stratified analysis according to the climatic zones or temperature percentiles, we found a positive correlation in temperate zones or at lower temperatures (e.g., <25th percentiles) but a negative correlation in tropical zones or at higher temperatures (e.g., >75th percentiles).

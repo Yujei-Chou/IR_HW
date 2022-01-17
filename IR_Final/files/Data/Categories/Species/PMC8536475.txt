@@ -1,0 +1,4 @@
+34686943|PMC8536475
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+Background
+The coronavirus disease 2019 (COVID-19) pandemic, which is caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has already affected more than 240 million people around the world. The pGL4.32 [luc2P/NF-kappaB-RE/Hygo] (Promega) reporter vector contains five copies of the NF-kappaB-responsive element (NF-kappaB-RE) linked to the luciferase reporter gene luc2P. After 24 h, the transfected cells were left unstimulated or were stimulated with 1 mug/mL R848 (Resquimod) for activation via TLR7/8 (Invivogen), or 5 mug/mL CL264 (Invivogen) for human TLR7-specific agonists, for 24 h. Relative luciferase activity was then determined by normalizing the values against the firefly: Renilla luciferase signal ratio. It is unknown if the antibody and T cell defects associated with the ATM deficiency may contribute to severe COVID-19.

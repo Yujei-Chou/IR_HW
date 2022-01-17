@@ -1,0 +1,4 @@
+34590682|PMC8500032
+{'Disease', 'Species', 'Gene'}
+Abstract
+About a third of nurses and physicians surveyed in two US healthcare systems showed symptoms of anxiety or depression. Having knowledge of any contact with COVID-19 patients was associated with, on average, 20% higher anxiety and depression scores in nurses relative to those who reported no such contact; no such associations were evident among physicians, except for a suggestion of reduced anxiety among physicians who thought that they had had contact with COVID-19 patients relative to those who did not (RR 0.83, 95% CI: 0.65, 1.06). This is likely an under-estimate of a higher prevalence of mood disorders among HCWs in the two healthcare systems.

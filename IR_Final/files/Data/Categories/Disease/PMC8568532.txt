@@ -1,0 +1,4 @@
+34728443|PMC8568532
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objective
+The COVID-19 Public Stigma Scale (COVID-PSS) was generated based on a qualitative and quantitative approach via a multistage survey design. The reliability of the final 10-item COVID-PSS was satisfactory, with Cronbach's alpha of the subscales and the summary score ranging from 0.76 to 0.85, and the test-retest of subsample with the ICCs ranging from 0.90 to 0.94 (table 3).The distribution of the final 10-item COVID-PSS scores characterised by the anchor-based questions (global fear of COVID-19, perceived risk of COVID-19 infection and the Bogardus Social Distance Scale) is provided in online supplemental table S8. The proposed cut-off scores were ideal for dividing participants who experienced no/minimal or high stigma towards COVID-19 infection.

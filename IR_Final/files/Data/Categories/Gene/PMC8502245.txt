@@ -1,0 +1,4 @@
+34642587|PMC8502245
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Coronavirus pandemic, owing to severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection, which started in Wuhan, China, in December 2019, was later announced as a pandemic by the World Health Organization (WHO) in March 2020. Another issue is if the association between asthma and COVID-19 progress differs according to the age of the patient (adults vs. children).According to his initial laboratory results, leukocyte, lymphocyte, eosinophil, and platelet counts decreased, which were related to myelosuppression of SARS-CoV-2 infection (Table 1). According to an assessment of the Cochrane system, glucocorticoids can lessen the fatality of cases with severe community-acquired pneumonia as well.

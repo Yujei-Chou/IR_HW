@@ -1,0 +1,4 @@
+34645439|PMC8513559
+{'Disease', 'Species', 'Gene'}
+Background
+Since the World Health Organization (WHO) declared COVID-19 a global pandemic in March 2020, health systems across the globe have experienced unprecedented pressure, particularly on healthcare staff working on the frontline. In the face of increased job demands, much of the support desired by participants related to organisational processes and structures. Whilst the authors acknowledge the difficulties of implementing individual support interventions so that they were geographically accessible to all, the potential impact on staff's sense of being cared for or valued by their organisation is useful to understand as it has consequences for retention and staff wellbeing.

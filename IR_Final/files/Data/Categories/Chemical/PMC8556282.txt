@@ -1,0 +1,3 @@
+34716394|PMC8556282
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The COVID-19 outbreak has caused over three million deaths worldwide. Although between severity groups the differences are not considerable, we found significant differences between the severe and fatal COVID-19 groups (Wilcoxon rank-sum test, p < 0.05).Beta diversity analyses showed differences in the microbiota composition between patients with different severity levels of COVID-19 and controls (Fig. Furthermore, our dysbiosis analysis let us detect that COVID-19 microbiota showed higher levels of dysbiosis than from the healthy controls (Supplementary Fig.

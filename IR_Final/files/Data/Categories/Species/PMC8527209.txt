@@ -1,0 +1,4 @@
+34647577|PMC8527209
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Abstract
+The novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is an RNA virus that belongs to Coronaviradae family. Two out of six (CL-44, named Mortaparib; and CL-49, named MortaparibPlus) showed considerable anticancer potential as they inhibit mortalin and PARP1. These computational analyses suggested that (i) MortaparibPlus, but not Mortaparib, could bind stably with ACE2 and TMPRSS2 and (ii) the interactions were significantly stronger with TMPRSS2.In the MTT-based cell viability assay, Mortaparib and MortaparibPlus showed dose-dependent toxicity in the T.Tn cells.

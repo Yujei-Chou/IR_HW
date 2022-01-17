@@ -1,0 +1,4 @@
+34240461|PMC8450811
+{'Chemical', 'Disease', 'Species'}
+Abstract
+The novel coronavirus (COVID-19) pandemic has tested the strength of healthcare systems worldwide. In addition to the more typically examined personnel understaffing, the COVID-19 pandemic has also resulted in increased expertise understaffing:i.e., A test of the conditional indirect effects at high and low levels (+-1 SD) of cognitive failures revealed that the indirect effect from personnel understaffing to near misses via safety workarounds was significant when cognitive failures were higher (b = .09, SE = 0.04, p = .029) but not when cognitive failures were lower (b = -.02, SE = 0.04, p = .626).The present study illuminates some key staffing challenges faced by frontline nurses during the COVID-19 pandemic and their implications for nurse and patient safety.

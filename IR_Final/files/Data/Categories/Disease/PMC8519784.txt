@@ -1,0 +1,4 @@
+34678637|PMC8519784
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Graphical abstract
+COVID-19 is caused by the Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV-2). Two sets of multivariate predictive models were carried out in order to assess the relationship between the pollutants and COVID-19 outcome. On the other hand, an ecological association of city-level COVID-19 case fatality rate with PM10 and PM2.5 exposure was reported by, while also observed that air pollutants such as PM2.5 may assist with the prediction of COVID-19 death.

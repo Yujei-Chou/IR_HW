@@ -1,0 +1,4 @@
+34723167|PMC8541828
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The new coronavirus pandemic is a new infectious disease caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) with acute respiratory syndrome. The final part of the questionnaire was about the reasons for not trust a COVID-19 vaccine. The odd of trust for corona vaccine among participants with age < 32 years old was AOR 3.20; 95% CI (1.9, 5.39) as compared to their counterparts which was on the contrary with the study done in France and United Kingdom.

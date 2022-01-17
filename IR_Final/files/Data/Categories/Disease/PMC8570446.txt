@@ -1,0 +1,3 @@
+34742983|PMC8570446
+{'Chemical', 'Disease', 'Species', 'Gene'}
+COVID-19 has led to global population lockdowns that have had indirect effects on terrestrial and marine fauna, yet little is known on their effects on marine planktonic communities. Among the few reported effects of the lockdown on marine plankton, a decrease in the chlorophyll a (Chl a) concentration was reported from satellite images of the coastal Indian Ocean and of the global ocean. A reduction in freshwater input through treated waste water at our station could also help explain the high salinity observed in May and June 2020 (Supp.

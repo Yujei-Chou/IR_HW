@@ -1,0 +1,3 @@
+34721202|PMC8554096
+{'Chemical', 'Disease', 'Species', 'Gene'}
+This study explored (virtual) sickness presenteeism in the context of the COVID-19 pandemic. First, we aim to gain a deeper understanding of the mechanisms that might explain why individuals choose presenteeism over absenteeism when working from home while ill (Ruhle et al.,; These findings reflect thoughts from the telecommuting literature that working remotely increases the ability of employees to adjust their work to meet personal needs (Golden and Veiga,; Gajendran and Harrison,) and contribute to explaining why individuals choose virtual sickness presenteeism over absenteeism (Ruhle et al.,;

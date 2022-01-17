@@ -1,0 +1,4 @@
+34554384|PMC8458045
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Traumatic brain injury (TBI) and spinal injury have significant burdens on society, beyond disability and mortality rates. Moderate TBI median GCS was 13 in 2019 and 9 in 2020 and for severe TBI; the median GCS was 8 in 2019 and 6 in 2020 (Table 1).In 2019, 20 patients (51.3%) were admitted to ICU. The COVID-19 status of patients could potentially lead to delays to theatre.

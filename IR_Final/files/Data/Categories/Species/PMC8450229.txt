@@ -1,0 +1,4 @@
+34547457|PMC8450229
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Objectives
+Since its onset in late 2019, the worldwide spread of the Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has led to increasingly drastic public health measures with immense social, political, and economic consequences. This increase and the fact that a considerable share of participants did not develop levels of anti-S1 IgG and/or neutralizing antibodies considered to be reactive after the first dose of the vaccine are strong arguments in favor of administering both doses of the vaccine to all recipients, especially older ones. An interesting side note of the examination of ANA in our cohort is the unusually high prevalence of the pattern AC-2.

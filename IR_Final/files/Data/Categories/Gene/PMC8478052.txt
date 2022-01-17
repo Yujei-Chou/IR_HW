@@ -1,0 +1,4 @@
+34477557|PMC8478052
+{'Disease', 'Species', 'Gene'}
+Background
+Throughout the COVID-19 pandemic, health care workers (HCWs) have served on the frontlines of disease management and response. Finally, female nurses were underrepresented in our sample by a percentage difference of 32%, whereas female HCWs in other disciplines and male HCWs were relatively representative in relation to the national sample (percentage differences of <1% to 7%).Depending on whether participants completed the short-form or long-form survey at baseline, completion time varied by approximately 12 minutes, with the long-form survey taking a median of 34 minutes and the short-form survey taking a median of 22 minutes to complete. Following baseline completion, we retained 1859 HCWs for subsequent longitudinal follow-ups.

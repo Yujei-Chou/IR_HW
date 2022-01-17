@@ -1,0 +1,3 @@
+34696040|PMC8541055
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Wearable sensing technologies are having a worldwide impact on the creation of novel business opportunities and application services that are benefiting the common citizen. Security and privacy are two of the most significant aspects in the adoption of wearable sensing technology and systems in many application areas. However, 6G networks will require part of this process to be conducted at edge devices (e.g., wearables, cellular phones, IoTs).Federated learning (FL) is a paradigm in ML/DL that is being investigated to train AI models using a decentralized process that is executed at edge devices.

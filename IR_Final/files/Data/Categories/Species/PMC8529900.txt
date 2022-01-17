@@ -1,0 +1,3 @@
+34703952|PMC8529900
+{'Chemical', 'Disease', 'Species'}
+COVID-19 is a threat to health systems worldwide, with a tremendous impact in many areas of human endeavors. Given the paucity of COVID-19 test and the disproportionately high incidence of COVID-19 related morbidity and mortality among African Americans, it is critical to understand that even among the minority populations are vulnerable groups who are most likely faced with double disadvantages. For many African Americans, the most common reason for delayed vaccination was efficacy and safety concerns.

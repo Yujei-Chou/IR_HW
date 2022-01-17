@@ -1,0 +1,3 @@
+34691766|PMC8517795
+{'Disease', 'Species', 'Gene'}
+The myths surrounding coronavirus disease 2019 (COVID-19) vaccines have prompted scientists to refocus their attention on vaccine hesitancy, which is fuelled by the spread of misinformation. The construct of consideration of future consequences (CFC) refers to the differential between consideration of future against immediate consequences of behaviour (Strathman et al.) Conversely, subjective knowledge may be based on anecdotes shared by consumers with self-reported expertise and over-confidence in what they think they know about a subject (Alba & Hutchinson), resulting in a health information barrier (Noncungu & Chipps).

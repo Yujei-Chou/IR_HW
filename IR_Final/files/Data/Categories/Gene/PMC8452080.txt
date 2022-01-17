@@ -1,0 +1,4 @@
+34543337|PMC8452080
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Effective and appropriate coronavirus disease 2019 (Covid-19) vaccination is the most promising strategy for controlling the spread of SARS-CoV2 infection on a worldwide basis. There was also a negative correlation between age and spike IgG levels after the second injection (r = -0.37, p = 0.002, Fig 2B).Univariate linear regression analysis revealed that age, log-transformed spike IgG after the first injection, and AE score after the second injection were associated with log-transformed spike IgG after the second injection. Thank you for stating the following in the Competing Interests section: MT received a research grant from Abbott.

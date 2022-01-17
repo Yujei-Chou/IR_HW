@@ -1,0 +1,3 @@
+34741250|PMC8570771
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+The elderly population is the most susceptible to SARS-CoV-2 infection and develops the worst clinical phenotype with severe pneumonia and cardiac complications. This evidence suggests that high levels of aldosterone may be associated with increased mortality due to cardiac arrest in COVID-19. Finally, SARS-CoV-2 may directly increase the production of aldosterone through activation of RAAS, and we hypothesize that the main site for production might be in the endothelial cells of pulmonary vessel.

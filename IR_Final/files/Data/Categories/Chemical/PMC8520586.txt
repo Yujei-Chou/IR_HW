@@ -1,0 +1,4 @@
+34642200|PMC8520586
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objective
+This rapid review provides timely information on the impact of COVID-19 on the digital divide during the first wave of the pandemic. Two studies specifically explored whether there were differences in the characteristics of patients fulfilling prearranged or routine video consultations during the pandemic. Within the domain of digital assimilation one study described how face-time technology can sustain relationships among dislocated peer groups, and another how black and elderly males, previously considered a group unprepared to share health information on social media platforms, were the demographic most likely to post content on the pandemic, an important consideration in understanding the emerging scepticism of the COVID-19 vaccine in ethnic groups.

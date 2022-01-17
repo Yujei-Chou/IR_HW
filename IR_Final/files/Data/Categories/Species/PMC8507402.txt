@@ -1,0 +1,4 @@
+34620656|PMC8507402
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objective
+Data on quality of life (QoL) assessment among university students in response to the COVID-19 pandemic are lacking, particularly after the end of movement lockdowns. Simple linear regression revealed that several factors were significantly associated with environmental QoL, as listed in table 5. As a comparison with the norms of the WHOQoL-BREF domain scores in the non-pandemic-affected general population, the psychological (67.72(study) vs 70.6 (general population)) and social relationship (68.32(study) vs 71.5(general population)) QoL levels reported in our study were relatively low, whereas the physical health and environmental QoL levels were comparable.

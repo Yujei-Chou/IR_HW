@@ -1,0 +1,4 @@
+34472523|PMC8509176
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Aim:
+The novel coronavirus disease 2019, a viral infection caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV2), emerged in Wuhan city of China toward the end of the year 2019. Comparison of pre- and postcontinuous variables was done by paired t-test, if the distribution is normal. it has been reported that mean IL-6 levels were more than three times higher in patients with complicated COVID-19 compared with those with noncomplicated disease, and IL-6 levels were associated with mortality risk.

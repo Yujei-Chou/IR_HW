@@ -1,0 +1,4 @@
+34586423|PMC8479260
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Anamnese und Befund
+Ein 72-jahriger Mann stellte sich wahrend der ,,Coronavirus-disease-2019"(COVID-19)-Pandemie im September 2020 erstmalig mit den klassischen klinischen Symptomen einer Innenmeniskuslasion des linken Kniegelenks im Klinikum Garmisch-Partenkirchen vor. Die Osteonekrosen wurden auf die ublicherweise angewendete Kortikoidtherapie zur Behandlung der akuten SARS-Infektion zuruckgefuhrt und als deren Nebenwirkung bewertet. Eine Nebenwirkung dieser Therapie als mogliche Ursache der Osteonekrose kam somit hier nicht infrage.

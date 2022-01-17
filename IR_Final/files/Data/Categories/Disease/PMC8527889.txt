@@ -1,0 +1,4 @@
+34710657|PMC8527889
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Graphical abstract
+COVID-19 has become a global public health emergency. This feature of leflunomide may be beneficial to patients with SLE and COVID-19 and available data indicated that leflunomide is beneficial for SLE patients, regardless of whether they have COVID-19.Calcineurin inhibitor(CNI), including Cyclosporin A (CsA) and tacrolimus, can block NF-kappaB by inhibiting calcineurin, may interfere with the initial steps of cytokine storm release in severe COVID-19, and can inhibit the replication of a variety of coronaviruses at low micromolar concentrations without cytotoxicity . Hence, the effect of azathioprine on the development of COVID-19 warrants further research.

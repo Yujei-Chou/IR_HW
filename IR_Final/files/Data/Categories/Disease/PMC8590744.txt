@@ -1,0 +1,3 @@
+34796075|PMC8590744
+{'Disease', 'Species', 'CellLine'}
+Since 2020, the COVID-19 pandemic has had a significant impact on morbidity and mortality around the world. Finally, our findings suggest that men working in the health sector are 43% less likely to agree to be vaccinated against COVID-19 compared to men who are not part of the health sector (AOR =.572, p = .017). The results suggest that a high percentage of the population would be willing to be vaccinated once a safe and effective COVID-19 vaccine is approved and distributed.

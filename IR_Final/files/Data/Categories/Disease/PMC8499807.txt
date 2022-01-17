@@ -1,0 +1,4 @@
+34437703|PMC8499807
+{'Disease', 'Species'}
+Abstract
+School closures due to the COVID-19 pandemic have had grave effects on the mental and physical health of children, negatively impacting socialization, academics, family finances, and widening inequities. Of 33 staff and student COVID-19 cases connected to in-school transmission, 32 individuals agreed to testing. Our findings correspond to other studies including Falk et al who found 3.7% of school cases in Wood County, WI resulted from in-school transmission, and aligns well with van den Berg et al who found no difference in incidence between 3- and 6-foot distancing in Massachusetts' schools.

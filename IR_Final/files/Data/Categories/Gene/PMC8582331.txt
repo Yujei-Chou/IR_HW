@@ -1,0 +1,4 @@
+34763706|PMC8582331
+{'Disease', 'Species', 'Gene'}
+Background
+Clinical surgical training is indispensable for medical students. The articles not specifically to online education for medical students were not enrolled in this study. Among all the 13 searched articles, there were only 3 articles in which age of medical students was mentioned (age range 21-24 years old in 1, median age 23 years old (range 22-24) in 1 and media age 25 years old (range 24-27) in 1), and there were 4 articles in which percentage of female gender was described (45, 47.4, 50.6, 75%,).There were 8 studies investigating the perceptions of medical students on online surgical education and 5 articles in which the effect of online teaching of basic surgical skills (suture, knot-tying) was studied.

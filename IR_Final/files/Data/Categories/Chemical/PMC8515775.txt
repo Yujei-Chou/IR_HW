@@ -1,0 +1,4 @@
+34660146|PMC8515775
+{'Chemical', 'Disease', 'Species'}
+Background
+Methicillin-resistant Staphylococcus aureus (MRSA) is a virulent strain of S. aureus that is resistant to beta-lactam antibiotics and other antibiotics. This left 76 PGY-1 residents to follow over time and calculate the cumulative incidence of developing MRSA colonization. To our knowledge, our project is the first attempt to follow the same group of HCWs over time to determine their cumulative incidence (occupational risk) of developing MRSA colonization during their employment.

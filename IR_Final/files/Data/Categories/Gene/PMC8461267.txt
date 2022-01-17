@@ -1,0 +1,4 @@
+34571149|PMC8461267
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Introduction
+ Introduction Leishmaniasis is a neglected disease caused by protozoan parasites belonging to over 20 human parasitic species of Leishmania. There appears that CL has the potential to train the innate and adaptive immune systems to produce active memory cells and associated components against COVID-19, a process also called trained immunity" (Arts et al., Clin Microbiol Infect 2019;25:1473-8.Nadim A, Javadian E, Tahvildar-Bidruni G, Ghorbani M. Effectiveness of leishmanization in the control of cutaneous leishmaniasis.

@@ -1,0 +1,3 @@
+34803471|PMC8595903
+{'Disease', 'Species', 'Gene'}
+The World Health Organization (WHO) declared the novel coronavirus outbreak a Public Health Emergency of International Concern on 30 January 2020, and a pandemic on 11 March 2020. Also focused on tailoring non-pharmaceutical interventions for COVID-19 is the fourth paper, entitled "Multitask learning and nonlinear optimal control of the COVID-19 outbreak: a geometric programming approach" by Mikhail Hayhoe, Francisco Barreras, and Victor M. Preciado. Results are illustrated with simulations using data from the COVID-19 pandemic in the Philadelphia metropolitan area.

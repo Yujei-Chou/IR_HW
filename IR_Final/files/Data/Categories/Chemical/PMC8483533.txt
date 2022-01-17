@@ -1,0 +1,4 @@
+34044586|PMC8483533
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+COVID-19 can affect the cardiovascular system, resulting in myocardial injury, intravascular thrombosis, arrhythmias, and sudden cardiac death. These large metropolitan areas were selected because of the combination of high ICD and COVID-19 prevalence. However, the binomial odds of a given patient having at least one shock episode was not different during the 2020 analysis time period compared with 2019 (odds ratio [OR], 1.03 [95% CI, 0.74-1.45; P=0.84] in New York City; OR, 1.17 [95% CI, 0.68-2.00; P=0.57] in New Orleans; and OR, 0.98 [95% CI, 0.61-1.59; P=0.94] in Boston).This retrospective, proof-of-concept study demonstrated an increase in ICD shock burden during the time period of peak COVID-19 activity in early 2020, in New York City, New Orleans, and Boston, compared with the same time period in 2019.

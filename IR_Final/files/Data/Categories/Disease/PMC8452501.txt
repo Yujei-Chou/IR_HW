@@ -1,0 +1,3 @@
+34565922|PMC8452501
+{'Disease', 'Gene'}
+Die Corona-Krise uberlagert in der offentlichen Wahrnehmung, wie stark der Strukturwandel in der Industrie bereits zu weitreichendem Arbeitsplatzabbau fuhrt. Strukturwandel ist aber nicht gleich Strukturwandel: Die Art und Weise, wie Digitalisierung und Dekarbonisierung politisch umgesetzt werden, beeinflusst massgeblich, wie sich die Aussichten fur Beschaftigte in der Industrie entwickeln. Gerade kleine Betriebe scheinen unabhangig von ihrer Wirtschaftlichkeit gefahrdet, da die Rahmenbedingungen der Transformation zu unsicher sind.

@@ -1,0 +1,3 @@
+34580633|PMC8450840
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Nail manifestations are 1 of the several extrapulmonary findings associated with COVID-19 caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Nail changes offer unique insight into the pathophysiologic basis for SARS-CoV-2 and they may serve as diagnostic clues. A 45-year-old man recently presented with horizontal nail grooves across the proximal nail folds of both finger and toe nails approximately 3 and a half months following a diagnosis of SARS-CoV-2 (Fig.

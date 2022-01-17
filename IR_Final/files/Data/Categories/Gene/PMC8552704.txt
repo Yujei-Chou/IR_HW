@@ -1,0 +1,4 @@
+34431689|PMC8552704
+{'Chemical', 'Disease', 'Species', 'Gene'}
+ABSTRACT
+The coronavirus disease 2019 (COVID-19) pandemic has impacted society and human behavior in many significant ways, from as individualized as mask wearing and social distancing to as broad as the complete lockdown of cities. 2b to d and f).We analyzed the testing results for two independent asymptomatic populations, including one cohort from a community surveillance station, which was tested using saliva samples only (n = 466; female, n = 288 [61.8%]), and a second cohort from our health care system preoperative screening stations, which was screened using NP swab samples only (n = 8,461; female, n = 4373 [51.9%]). NP swab samples were collected by trained medical personnel following the standard collection procedure.

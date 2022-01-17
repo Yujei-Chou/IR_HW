@@ -1,0 +1,1 @@
+patient,disease,ra,p,r,treated,correlation,subscale,worldwide,protocol,spondylitis,two,respectively,lymphoma,rheumatoid,si,pctf,arthritis,found,ankylosing,positive,similar,nevertheless,spread,rheumatological,common,pandemic,background,remission,mass

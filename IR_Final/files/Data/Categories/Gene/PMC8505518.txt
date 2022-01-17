@@ -1,0 +1,3 @@
+34635687|PMC8505518
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Access to online information has been crucial throughout the COVID-19 pandemic. Intriguingly, next, we notice that novel information was propagated more when health experts or the crowd (other users) authored it (Fig. However, they subdued their propensity to retweet the influencers when it came to novel information due to a potential lack of trust since of them might be paid to advance novel rhetoric or theories pertaining to the spread of COVID-19.Zooming into the novelty results further (Table S16 in the Appendix), we see a U-shaped quadratic relationship between the informational novelty (stratified into quintiles) and the number of retweets of a tweet.

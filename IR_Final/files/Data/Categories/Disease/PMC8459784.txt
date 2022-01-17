@@ -1,0 +1,3 @@
+34616895|PMC8459784
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Coronavirus Disease 2019 (COVID-19) pandemic has been ferociously destroying global health and economics. By leveraging kernel size of 7 x 7 instead of 3 x 3, the computation of multi-scale feature extraction ability is enhanced but achieved a similar cost. The experimental results reveal that the model with the decoder-based Unet family obtained better performance than FPN.

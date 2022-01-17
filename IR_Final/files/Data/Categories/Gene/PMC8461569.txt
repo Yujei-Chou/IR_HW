@@ -1,0 +1,4 @@
+34525289|PMC8461569
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Presentation of Case
+Dr. Reuben A. Hendler (Psychiatry): A 37-year-old woman was admitted to this hospital because of fever, shortness of breath, and suicidal ideation in March 2020, during the pandemic of coronavirus disease 2019 (Covid-19).Ten days before this admission, fever, fatigue, sore throat, cough, and myalgias developed. Given this patient's personal risk as an essential worker and her understandable concerns about potentially catastrophic or fatal viral exposure to herself and her family members during the Covid-19 pandemic, application of this diagnosis would not be warranted. Malingering differs fundamentally from somatoform processes, and even though the patient expressed suicidal ideation as a response to discharge from the urgent care clinic, she did not have other features, such as personality disorder or uncooperativeness, that are included in the diagnostic criteria for malingering.

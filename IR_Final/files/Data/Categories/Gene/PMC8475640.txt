@@ -1,0 +1,3 @@
+33883398|PMC8475640
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Supplemental Digital Content is available in the text. Here, we describe the educational, curricular, technical, and administrative aspects of our virtual telesimulation elective in an effort to provide other medical schools facing similar challenges with a blueprint for developing active distance learning opportunities for clerkship-level students. Before the first session, students viewed an orientation video describing the mechanics of the virtual telesimulation experience.

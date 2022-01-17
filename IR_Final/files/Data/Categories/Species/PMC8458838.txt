@@ -1,0 +1,3 @@
+34486510|PMC8458838
+{'Disease', 'Species', 'Gene'}
+To the Editor:The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) emerged in China at the end of 2019 and spread worldwide, leading to the current pandemic. In this study, we evaluated SARS-CoV-2 seroprevalence in hospital staff according to department in SUH. The seropositive and symptomatic subjects predominantly reported anosmia (29.2 %) and agueusia (27.2%).The departments in the "geriatric group" showed the highest seroprevalence rate (27.7%) (Supplementary Table  online) and a strong association with seropositive status (OR, 5.3; 95% CI, 3.5-8.2; P < .05) (Supplementary Table  online and Fig.

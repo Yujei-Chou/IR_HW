@@ -1,0 +1,3 @@
+34571479|PMC8458107
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Rapid and accurate testing tools for SARS-CoV-2 detection are urgently needed to prevent the spreading of the virus and to take timely governmental actions. The super-hydrophobic reagent was delivered from Ultratech (USA).A POC genetic analyzer (w x h x l: 9 cm x 10 cm x 5.5 cm, weight: 320 g) powered by a portable battery was constructed together with a microfluidic chip to detect COVID-19 (a black box in Fig. The amplification curves of the three reaction chambers (C2, C3, and C4) were only detectable when the clinical sample of SARS-CoV-2 was loaded (Fig.

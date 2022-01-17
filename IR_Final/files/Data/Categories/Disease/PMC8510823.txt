@@ -1,0 +1,4 @@
+34650648|PMC8510823
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Coronavirus disease 2019 (COVID-19) is an acute respiratory tract infection caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The inclusion criteria were as follows: (1) studies comprising patients diagnosed with COVID-19, with severe patients characterized by an oxygen saturation of 93% or less and/or <300 mmHg weighted oxygen pressure (PaO2)/fraction of inspired oxygen (FiO2); (2) studies with patients who could be divided into critical and noncritical groups based on the above criteria; and (3) studies from which the values of sensitivity and specificity could be obtained directly or indirectly via calculation. Moreover, these patients demonstrated more complications that were related to the values of the NLR.

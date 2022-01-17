@@ -1,0 +1,3 @@
+34713119|PMC8522029
+{'Chemical', 'Disease', 'Species'}
+Healthcare innovation is impeded by high costs, the need for diverse skillsets, and complex regulatory processes. In both cases, government can often be a node that bridges different spatial players when specific needs arise. Such slack can be created, e.g., by developing an open pathway whereby employees across industries can highlight problems and propose possible solutions.

@@ -1,0 +1,3 @@
+34713021|PMC8521919
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The COVID-19 pandemic has brought into sharp focus the need to harness and leverage our digital infrastructure for remote patient monitoring. Discussion of current clinical trials utilizing commercially available, off-the-shelf (COTS) wearable devices pertinent sensors to COVID-19 is included to highlight the current work in this domain (Table 3).There are several metrics related to cardiac function such as HR, HRV, and heart rhythm wherein changes in these metrics may be indicative of COVID-19 infection. WHOOP has focused on correlating changes in RR and recovery levels to predicting COVID-19 in their users.

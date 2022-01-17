@@ -1,0 +1,3 @@
+34667417|PMC8457295
+{'Chemical', 'Disease', 'Species', 'Gene'}
+In the midst of the COVID-19 pandemic, we report two cases of children presenting with typical diagnosis of pediatric inflammatory multisystem syndrome temporally associated with SARS-CoV-2 (PIMS-TS) who suffered from complete heart block requiring pacemaker placement which is an unusual presentation of PIMS-TS. Rhythm was found to be predominantly sinus with intermittent junctional escapes 2 days after TPI. We have summarized the common conduction abnormalities found in PIMS-TS and the requirement of pacemakers in Table 1.The mechanism of cardiac involvement in PIMS-TS is speculative.

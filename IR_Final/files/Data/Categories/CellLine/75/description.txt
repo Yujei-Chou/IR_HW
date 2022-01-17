@@ -1,0 +1,1 @@
+positive,patient,syndrome,presumed,due,symptom,presentation,confirmed,nasopharyngeal,swab,pcr,cohabitation,objective,via,alone,cardiology,unremarkable,aside,recommending,statin,therapy,mildly,elevated,case,tested,caused,percent,severe,acute,respiratory

@@ -1,0 +1,3 @@
+34681279|PMC8538008
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+To date, there have been rapidly spreading new SARS-CoV-2 "variants of concern". The aim of this study was to investigate whether T. officinale aqueous leaf extracts and its high molecular weight components block the interaction of ACE2 receptor and SARS-CoV-2 spike protein. We first investigated the inhibition of interaction between SARS-CoV-2 spike protein RBD and ACE2 using extracts from T. officinale leaves.

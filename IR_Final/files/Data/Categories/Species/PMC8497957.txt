@@ -1,0 +1,3 @@
+34627890|PMC8497957
+{'Chemical', 'Disease', 'Species'}
+Infectious severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has the potential to be collected in wastewater from mucus, sputum, and feces of infected individuals, raising questions about the appropriate handling and treatment of resulting wastewater. Sodium hypochlorite (free chlorine) is widely used for pathogen control in water disinfection applications. Our results showed rapid disinfection of SARS-CoV-2, with less than 1 mg-min/L required for >3 log10 TCID50 reduction in DI water.

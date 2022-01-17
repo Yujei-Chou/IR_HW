@@ -1,0 +1,4 @@
+34515067|PMC8450853
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Introduction
+Several recent publications reported a decrease in the number of hospital admissions for acute cardiovascular diseases (ischemic stroke [IS], acute coronary syndrome, and myocardial infarction) during the COVID-19 pandemic. The proportions of all IS patients receiving IVT or MT remained unchanged with, respectively, 17% versus 17% receiving IVT (p = 0.86), and 5% versus 5% receiving MT (p = 0.48).Using the RES-Q (comparing April 2020 with March 2019), the time to initiation of reperfusion therapy remained unchanged (DNT [24 vs. 25 min; p = 0.58] and ODT [168 vs. 156 min; p = 0.23]). The presented data about stroke hospitalization, age, gender, and reperfusion therapy (IVT, MT) are complete.

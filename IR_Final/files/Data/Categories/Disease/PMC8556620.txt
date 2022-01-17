@@ -1,0 +1,3 @@
+34714347|PMC8556620
+{'Disease', 'Species'}
+This cohort study of college football players in a single athletic conference examines the association of close contact events among players on opposing teams and subsequent positive SARS-CoV-2 tests. In this cohort study, we analyzed SARS-CoV-2 contact exposures and transmission among opposing team players during college football games as the COVID-19 pandemic surged. We report low SARS-CoV-2 interteam transmission risk in college football when rigorous and multipronged protection strategies were implemented, suggesting game play during a pandemic did not seed outbreaks across jurisdictions.

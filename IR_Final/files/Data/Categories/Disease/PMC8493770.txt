@@ -1,0 +1,4 @@
+34615512|PMC8493770
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+The new Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) is causing the greatest infectious pandemic (COVID19) in this century. In subgroup analysis restricted to nursing-home residents (see supplementary Table S7), history of tetanus vaccination was associated with a reduced risk (HR: 0.65; 95% CI: 0.44-0.97; p = 0.036).If we consider COVID19-related mortality risk (Table 6), many comorbidities (cancer, neurological, renal, respiratory, cardiac disease, diabetes and hypertension) appeared associated with an increased risk in the crude analyses. In this analysis, increasing age/years (HR: 1.08; 95% CI: 1.06-1.10; p < 0.001), male sex (HR: 1.82; 95% CI: 1.24-2.70; p = 0.003) and nursing-home residence (HR: 12.56; 95% CI: 8.07-19.54; p < 0.001) were the strongest predictors for COVID19-related mortality.

@@ -1,0 +1,3 @@
+34667337|PMC8516615
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+The COVID-19 pandemic has caused organizational crises leading to shutdowns, mergers, downsizing or restructuring to minimize survival costs. The above leads to the following hypothesis:H1: Role conflict among employees in an organization is positively associated with knowledge hiding. Accordingly, we hypothesize that:H6: Transformational leadership moderates the impact of a) role conflict, b) job insecurity, and c) cynicism on knowledge hiding.

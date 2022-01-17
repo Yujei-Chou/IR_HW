@@ -1,0 +1,4 @@
+34571540|PMC8500061
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Abstract
+Risk stratification involving clinical and sociodemographic factors is crucial to the management of disease in medicine. The first is the neural weights optimization of a given network architecture with the fixed number of clusters  and hidden state dimension  in DICE. Variables used are listed in Supplementary Table S5.We compared our method with baseline methods including (1) PCA for representation learning followed by -means clustering (PCA [k-means]), (2) AE for representation learning followed by -means clustering (AE [k-means]), and (3) AE for representation learning with classification followed by -means clustering (AE w/class [k-means]).

@@ -1,0 +1,4 @@
+34751261|PMC8565915
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Literature shows that the COVID-19 pandemic, which precipitated state-mandated lockdowns and various negative health system changes, decreased the utilization of essential non-COVID-19 healthcare, especially for vulnerable groups. Among types of PhilHealth members, direct-formal contributors (-11%, -28%) and the poorest indirect-indigent or sponsored members (-21%, 39%) also suffered the largest declines in admissions and procedures for both periods (Table 2).Figure 2 summarizes the same-month-prior-year change in healthcare utilization for 2020 relative to 2019 by disease and procedure. However, the data was extracted in April 2021, and four months would have allowed hospitals to complete their claims filing.

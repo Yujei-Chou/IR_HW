@@ -1,0 +1,3 @@
+34692340|PMC8528473
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Introduction: Recent research has observed the ability of coronavirus disease 2019 (COVID-19) to spread in the brain from the respiratory system. In concordance with our results, a study including 357 patients demonstrated that 85.6% had olfaction-related problems caused by COVID-19. Potential neurologic effects and drug interactions have been reported secondary to the medications used to treat COVID-19.

@@ -1,0 +1,3 @@
+34678309|PMC8526121
+{'Disease', 'Species', 'Gene'}
+COVID orchitis (testicular pain) is reported in 10-15% of men with long COVID. Therefore, we performed whole exome sequencing on five individuals, two of which were brothers with COVID-19 orchitis and evaluated an association in serum circulating ACE2 levels. We observed a mutation in NACAD in two brothers and one unrelated man who developed COVID-19 orchitis.

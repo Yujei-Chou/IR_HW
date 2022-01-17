@@ -1,0 +1,3 @@
+34769783|PMC8583033
+{'Chemical', 'Disease', 'Species', 'Gene'}
+This study utilizes modeling and simulation to analyze coronavirus (COVID-19) infection trends depending on government policies. However, Figure 7b has a more significant error than the other graphs because the infection rate beta is approximated by an exponential function according to the social distancing policy, as shown in Equations (38) and (39). The experiment can check the trend of the COVID-19 infected population through the interaction between simulation models that include MCM and TM.

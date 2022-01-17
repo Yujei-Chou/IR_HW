@@ -1,0 +1,4 @@
+34589743|PMC8474571
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Conversion disorder/functional neurological disorder (CD/FND) as described in the DSM-5 can lead to long-term distress, disability, diminished quality of life and demand on health care services..Treatment options for patients with CD/FND are limited and typically have a small effect, leading to a high unmet clinical need. The median score of IL1B in this sample did not differ significantly from the median in the normal sample (p = .317).Scores were elevated (100%) compared to the median from the normal sample and a Wilcoxon Signed Rank Test showed that this was significant (p = .001) for IL-6, IFNgamma, IL17A, IL12 and TNFalpha. It might be indicative of an important role for the vascular and circulatory system in a subset of individuals with FND/CD.

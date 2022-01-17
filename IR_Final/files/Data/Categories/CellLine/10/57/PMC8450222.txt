@@ -1,0 +1,3 @@
+34568589|PMC8450222
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Tuberculosis (TB) is one of the leading infectious diseases worldwide even with the ravaging COVID-19 pandemic in recent times. In our previous report, homology modeling and molecular docking studies were carried out on some IPAs anti-TB agents targeting the QcrB subunit. Therefore, molecular docking simulation was carried out to determine the binding affinities and the residual interactions when the ligand molecules bind with the active pockets of the protein as macromolecule using AutoDock 4.2 module implemented in PyRx 0.8.

@@ -1,0 +1,3 @@
+34552615|PMC8450498
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Current therapeutic strategies and vaccines against SARS-CoV-2 are mainly focused on the Spike protein despite there are other viral proteins with important roles in COVID-19 pathogenicity. Recently, computational experiments of homology modeling and molecular coupling suggested that a high expression of ORF8 and the surface glycoprotein may interact with heme porphyrin in the 1-beta chain of hemoglobin, resulting in a significant decrease in gas exchange processes and aggravating hypoxia in patients with severe disease. An example of this functional mimicry comes from in silico simulations of ORF8-substrate complexes with F1 and C3b.

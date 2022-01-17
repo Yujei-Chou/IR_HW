@@ -1,0 +1,4 @@
+34734909|PMC8575111
+{'Chemical', 'Disease', 'Species', 'Mutation'}
+Introduction:
+The current coronavirus disease 2019 (COVID-19) pandemic continues to affect populations worldwide. Herein, we aimed to report a young female, a known case of NMOSD who was complicated with 2 distinct episodes of COVID-19 while treatment with rituximab. Based on pulmonary disease service consultation, treatment started with therapeutic plasma exchange (TPE) due to severity of respiratory involvement related to COVID-19.

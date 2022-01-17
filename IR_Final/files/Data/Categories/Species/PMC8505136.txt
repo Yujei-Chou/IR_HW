@@ -1,0 +1,3 @@
+34238832|PMC8505136
+{'Chemical', 'Disease', 'Species'}
+During the COVID-19 pandemic, some mental healthcare in the United Kingdom has moved online, with more likely to follow. Once fully familiar with the transcript, pertinent comments were highlighted (coded) and copied into a separate Microsoft Excel table. "It was posited that briefer, more frequent consultations might shorten overall treatment durations, for example, by improving motivation with homework tasks as staff could "check in to see how they are getting on with that, ...it might not be like a full hour, it might just be 15 to 20 minutes just to kind of see how they are getting on with that experiment, and that encourages them to keep doing it."

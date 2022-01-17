@@ -1,0 +1,4 @@
+34557002|PMC8453645
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Purpose
+The COVID-19 pandemic originated in Wuhan, China. According to the present study, almost half (46.2%) of the participants used traditional medicines for the prevention and treatment of COVID-19 cases. The study conducted in Morocco identified 23 medicinal plants for the prevention of COVID-19.

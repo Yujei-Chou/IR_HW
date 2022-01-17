@@ -1,0 +1,4 @@
+34637281|PMC8567418
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Conspectus
+KuhnemundM.WeiQ.DaraiE.WangY.Hernandez-NeutaI.YangZ.TsengD.AhlfordA.MathotL.SjoblomT.OzcanA.NilssonM.Nat. Higher catalytic efficiencies of PBCV-1 and T4 RNA ligase 2, directly reflecting on increased efficiency for RCA-based detection of targeted RNA, can be achieved by incorporating ribonucleotide substitutions in appropriate positions in the PLPs, thereby widening the scope of enzyme-assisted nucleic acid amplification tests (NAATs).Upon ligation, PLPs circularized in a target-dependent manner can be amplified via RCA (Figure 2A). This is a key feature of PLP-RCA providing an intrinsically digital detection of the target molecules upon amplification in a homogeneous solution.

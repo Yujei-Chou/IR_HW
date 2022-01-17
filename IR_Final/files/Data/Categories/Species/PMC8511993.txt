@@ -1,0 +1,3 @@
+34641073|PMC8511993
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Electrospun nanofibres can outperform their melt-blown counterparts in many applications, especially air filtration. Only a few academic groups, including NanoLayr Ltd., have investigated aqueous solution ES and other methods of fabricating green electrospun NFs. With regards to filtration efficiency, NIOSH 42CFR84 N95 was achieved for sample material with NF areal weights of over 1.5 gsm (with a filtration efficiency reaching 98.10%), and ASTM F2299 Level 2 was achieved for samples with NF areal weights exceeding 1 gsm (with a filtration efficiency reaching 99.97% for 300 nm-sized particles and a pressure drop of 44 Pa).

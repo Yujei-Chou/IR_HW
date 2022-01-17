@@ -1,0 +1,4 @@
+34745449|PMC8567870
+{'Chemical', 'Disease', 'Species', 'Gene'}
+ABSTRACT
+Coronavirus disease (COVID-19) caused by SARS-CoV-2 has led to over 241 million reported infection cases and 4.9 million deaths worldwide. In patients with saliva Ct values lower than 25 and disease duration shorter than 10 days (n = 9), 67% of the positive cases were detected by Flowflex, 44% by Panbio and Joinstar, and 56% by PCL (Table 2 and Figure 2(c)). Antigen tests detect viral proteins and suffer from a lower sensitivity than RT-PCR but are still very useful in certain clinical situations.

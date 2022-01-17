@@ -1,0 +1,4 @@
+34535484|PMC8450967
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Introduction
+Sampling frame includes a variety of healthcare worker job roles including ancillary workers in healthcare settings will improve the generalisability of results across diverse healthcare job roles. Some identifiable data (eg, name, DOB, address) will be collected during registration and/or the questionnaire to facilitate secure data linkage (see Data linkage, below).Participants will be invited to complete the baseline questionnaire between 1 December 2020 and January 2021. The baseline questionnaire will include three open-ended free-text questions: 'What are your thoughts on why people from ethnic minorities working in health and care have been more severely affected by COVID-19?', '

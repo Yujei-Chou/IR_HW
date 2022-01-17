@@ -1,0 +1,4 @@
+34729153|PMC8481715
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Purpose:
+The severity of the coronavirus disease 2019 (COVID-19) caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has led to a pandemic crisis, with dramatic loss of human life worldwide. Regarding active disease, the odds of these patients are 3.9 times greater than the odds of patients in remission (p = 0.041). By Cox regression, age was an important factor in reducing survival time with an HR of 1.36 per year (p = 0.035), as well as being in palliative treatment (HR = 10.7043, p = 0.002) or having active cancer without treatment (HR = 8.685, p = 0.008).It is worth stressing that, out of the full cohort, 342 patients presented severe COVID-19 (according to the pre-established definition), where over two-thirds of the patients required hospitalization.

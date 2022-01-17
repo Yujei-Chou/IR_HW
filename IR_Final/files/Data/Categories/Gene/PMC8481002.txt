@@ -1,0 +1,4 @@
+34597690|PMC8481002
+{'Disease', 'Species', 'Gene'}
+Background
+The novel coronavirus disease 2019 (COVID-19) pandemic is considered the greatest public health crisis of this century, with both the case rate and death toll continuing to rise worldwide. Total recovery was complete for all procedures at the end of the study period (Figure 2 ).During the surge there was an increase in the proportion of patients admitted from the Emergency Department (ED) (34.9% pre-surge, 53.4% during surge, 35.2% post-surge one and 33.5% post-surge two). This is one of the first studies to analyze the trends of cardiac admissions and procedures after both the initial and second COVID-19 surges at a time when patients were returning to cardiovascular care.

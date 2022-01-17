@@ -1,0 +1,4 @@
+34706962|PMC8551748
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objective
+This is the first study that highlights how patients with osteoarthritis experienced the COVID-19 pandemic in Italy. The interviewees reported to have achieved a good level of active acceptance without resignation towards the general situation induced by the pandemic. I have never been pushed to do certain treatments [active exercise] in order to take care of osteoarthritis ... then COVID-19 has nothing to do with it [my not taking care of OA right now, during the pandemic]" (Participant 11, male, employed).The reasons behind the lack of seeking physiotherapy for OA also before the COVID-19 pandemic outbreak were expressed by patients in their belief that seeing a physiotherapist was not necessary for their pathology.

@@ -1,0 +1,3 @@
+34786571|PMC8580838
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+Proteins interacting with ADP-ribosyl groups are often involved in disease-related pathways or viral infections, making them attractive drug targets. We used this system to generate a MARylated YFP protein with stable S-glycosidic bond able to bind ADP-ribosyl readers or erasers. Similarly to the binding of CFP-fused MDO2 to MARylated YFP-GAP to measure FRET (Figures 5 A and S5, dissociation constant K D = 654 nM), we used Nluc-fused MDO2 to generate a bioluminescence resonance energy transfer (BRET) signal upon interaction with MARylated YFP-GAP (Figure 5B).

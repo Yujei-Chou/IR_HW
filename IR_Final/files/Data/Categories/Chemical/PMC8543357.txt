@@ -1,0 +1,3 @@
+34722648|PMC8543357
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Anti-glomerular basement membrane (anti-GBM) disease is a rare form of small-vessel vasculitis that typically causes rapidly progressive glomerulonephritis with or without alveolar haemorrhage. Previously, there has only been one reported case of TNF-alpha antagonist-induced anti-GBM disease, where the patient received adalimumab for over 4 years to manage his rheumatoid arthritis. This was due to the development of leucopenia 2 weeks following the commencement of oral cyclophosphamide.

@@ -1,0 +1,4 @@
+34652571|PMC8517060
+{'Disease', 'Species', 'Gene'}
+Dear Editor,
+Dear Editor,The use of chest radiography (CXR), chest CT and lung ultrasound in patients affected by COVID-19 pneumonia has been extensively covered in the literature. These imaging modalities are known to play an important role in initial evaluation of patients with clinical suspicion of SARS-CoV-2 infection. Moreover, CXR or chest CT was requested in case of suspected pneumothorax, due to the immediate importance of this finding for the management of the patient.

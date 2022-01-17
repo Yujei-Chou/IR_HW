@@ -1,0 +1,4 @@
+34594113|PMC8476942
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+A cluster of pneumonia cases with an unknown causative organism was identified in one of China's provinces, Hubei, in the city of Wuhan. Most of the infected asthmatics had a history of contact with COVID-19 subjects, which is consistent with previously published reports. Furthermore, there was no difference in the presenting symptoms of an asthma flare-up, laboratory indicators, and hospitalization outcomes (critical care admission and hospital stay) between asthmatics with and without a COVID-19 diagnosis.

@@ -1,0 +1,3 @@
+34575078|PMC8466866
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+(1) Background: The novel coronavirus COVID-19 has been recognized by the World Health Organization as a public health emergency of international concern and has caused cancellation of elective cochlear implantation in many countries. In addition, early results of hearing preservation after CI implantation are presented. The results can be divided into: loss of hearing (no detectable hearing), minimal HP (range 1-25%), partial HP (range 26-75%), and complete HP (range > 75%).Between January and March 2021, we made 371 telephone calls to patients waiting in the queue for CI surgery.

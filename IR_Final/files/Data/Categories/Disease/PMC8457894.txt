@@ -1,0 +1,3 @@
+34584807|PMC8457894
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Pregnancy was reported to be a risk factor for coronavirus disease 2019 (COVID-19), with an increased risk for premature birth. We describe a 34-year-old, critically ill woman at 30 weeks of gestation with COVID-19, who was successfully treated with remdesivir and combined high-dose betamethasone (12 mg/day for two days) and methylprednisolone (125 mg/day for three days) followed by steroid tapering. On the third day of COVID-19 development, she was admitted to the former hospital.

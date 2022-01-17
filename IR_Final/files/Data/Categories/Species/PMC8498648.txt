@@ -1,0 +1,4 @@
+34642523|PMC8498648
+{'Chemical', 'Disease', 'Species'}
+Dear Editor,
+Dear Editor,Guaranteeing a venous access in critically ill COVID-19 patients may pose a challenge to intensivists who need to strike a balance between optimizing resources and time, minimizing personnel exposure and avoiding equipment contamination/environmental viral spread, while assuring a quick, safe and durable venous line. Uncommon venous cannulations, such as the catheterization of the great saphenous vein or the popliteal vein (non-central venous lines), have also gained frequency among critically ill patients with COVID-19. Minor hematomas without clinical significance were seen around the insertion site in most patients.

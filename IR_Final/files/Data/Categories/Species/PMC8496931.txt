@@ -1,0 +1,4 @@
+34627834|PMC8496931
+{'Disease', 'Species', 'Gene'}
+Dear Editor,
+Dear Editor,We have read with great interest the article of Foley et al. For this reason, effective preoxygenation and mask ventilation options, which reduce aerosol formation, gain importance in these patients who can desaturate rapidly. An important focus of the article is to optimize successful airway management while minimizing healthcare workers' exposure risk.

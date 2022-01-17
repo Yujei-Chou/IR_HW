@@ -1,0 +1,1 @@
+group,table,disease,p,higher,control,treatment,ambulatory,spring,one,symptom,study,background,diuretic,inpatient,wuhan,severity,value,significant,case,respiratory,compared,significantly,hf,first,december,day,coronavirus,inflammatory,width

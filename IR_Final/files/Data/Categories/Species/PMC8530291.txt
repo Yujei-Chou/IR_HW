@@ -1,0 +1,4 @@
+34673782|PMC8530291
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Influenza virus infection can range in clinical severity from asymptomatic to severe symptomatic illness that might be fatal. Some studies during the 2009 H1N1 pandemic also identified predictors of influenza severity not included in our PFIs including IgM levels, age>45 years, sex, aspartate aminotransferase levels, or lactate dehydrogenase levels. We down-weighted pre-existing factors associated with derangements in PFIs unrelated to the acute infection that can misclassify patients as having severe LRTI.

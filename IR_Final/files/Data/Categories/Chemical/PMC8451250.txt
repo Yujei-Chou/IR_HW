@@ -1,0 +1,4 @@
+34568576|PMC8451250
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Myocardial injury has been identified as a common complication in patients with COVID-19 and has been associated with poorer outcomes. A total of 231 patients (25.2%) presented hs-TnI levels below the limit of detection, 497 (54.1%) had measurable hs-TnI levels below the 99th URL and 190 (20.7%) fulfilled criteria for myocardial injury as defined in the fourth universal definition of myocardial infarction. Around a fifth of the study population fulfilled strict criteria for the diagnosis of myocardial damage.

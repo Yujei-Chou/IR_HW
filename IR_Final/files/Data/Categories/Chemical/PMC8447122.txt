@@ -1,0 +1,4 @@
+34327785|PMC8447122
+{'Chemical', 'Disease', 'Species'}
+Abstract
+COVID-19 is responsible for life-threatening pneumonia that may require invasive mechanical ventilation. The extremely severe COVID-19 patient may develop complete alveolar consolidation and airway closure for several weeks. On day 10, computed tomography showed a small residual left pneumothorax but severe lung consolidation with only a few aerated alveoli and air bronchogram (Figure 2A).On day 19 post-intubation, the airway pressure curve evaluating alveolar recruitability by recruitment-to-inflation ratio, as suggested by previous works, consisted of a straight line reaching 51cmH2O pressure after insufflation of 67 mL of air at 5 L/min insufflation rate (Figure 1B).

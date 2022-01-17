@@ -1,0 +1,4 @@
+33914618|PMC8553187
+{'Disease', 'Species', 'Gene'}
+Objective:
+Coronavirus disease 2019 (COVID-19), first reported in December 2019, has spread rapidly via person-to-person transmission leading to a global pandemic. Altschul et al found that patients with COVID-19 and emergent large vessel occlusion had a higher risk of mortality during the pandemic vs patients without COVID-19 (OR 16.63 [95% CI, 2.47-112], p = 0.004) and mortality was higher if patients were older than 60 years of age and had pulmonary symptoms. Confounding variables such as disease severity, co-morbidities, medications, and treatment were variably reported and thus not summarized in our review.

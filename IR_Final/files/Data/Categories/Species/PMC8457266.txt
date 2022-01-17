@@ -1,0 +1,4 @@
+34667395|PMC8457266
+{'Disease', 'Species', 'Gene'}
+Background :
+The current COVID-19 pandemic has resulted in widespread disruption of clinical care of all the non-COVID illnesses. The risk adjustment for congenital heart surgery category 1 was less represented and category 3 more represented in 2020 as compared to 2019, indicating more complex nature of operations performed during the pandemic times [Supplementary Table 1].Trends in catheterization laboratory procedures paralleled those of surgeries, with an overall reduction of 74.3% (total no = 887 in 2020 and 3454 in 2019), majorly contributed by reduction in elective procedures (total no = 457 in 2020 and 1997 in 2019, 78.1%) [Table 3 and Figure 2b]. Trend of reduction in the procedures for individual CHDs also paralleled that of surgeries [Table 4].

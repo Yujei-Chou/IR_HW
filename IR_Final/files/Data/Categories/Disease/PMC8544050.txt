@@ -1,0 +1,3 @@
+34427263|PMC8544050
+{'Chemical', 'Disease', 'Species'}
+Rhino-orbital-cerebral mucormycosis (ROCM) with intracranial extension is a fatal disease. Anterior rhinoscopy and nasal swab sample culture confirmed mucormycosis. The histopathology examination of excised frontal lobe lesion was suggestive of fungal granuloma having septate thinned fungus hyphae consistent with Aspergillus [Fig.

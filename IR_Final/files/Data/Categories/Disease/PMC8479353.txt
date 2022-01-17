@@ -1,0 +1,3 @@
+34597761|PMC8479353
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The ongoing vaccination program in control of the novel coronavirus is providing opportunity to public health emergency authorises for coming out of this current pandemic crisis. The American Society of Dermatologic Surgery (ASDS) is providing a guidance report on SARS-CoV-2 vaccine related adverse effects, and more specifically on delayed dermal filler inflammatory reactions. Delayed hypersensitivity reaction to hyaluronic acid dermal filler following influenza-like illness.

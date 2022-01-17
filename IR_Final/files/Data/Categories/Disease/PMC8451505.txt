@@ -1,0 +1,3 @@
+34556286|PMC8451505
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The novel coronavirus disease-2019 (COVID-19) was designated a pandemic by the World Health Organization on March 11, 2020. The latter proved essential in discerning the direct effects of COVID-19 as opposed to a nonspecific response to an acute respiratory virus. In this study, the incidence of atrial arrhythmias in the influenza cohort was not significantly different than that of patients hospitalized with COVID-19 (10% to 13%), suggesting that AF may not be a unique attribute of severe acute respiratory syndrome coronavirus 2.

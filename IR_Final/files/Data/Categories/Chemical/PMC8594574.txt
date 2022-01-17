@@ -1,0 +1,4 @@
+34588290|PMC8594574
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+Significance
+The ongoing COVID-19 pandemic caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) continues to be a major global challenge to public health and has caused unprecedented losses to the global economy and ecology. Notably, the correlation coefficient of prediction improved by more than twofold compared to the MM-GBSA method (i.e., r = 0.33), indicating that a higher-order nonlinear structure, relevant to DeltaDeltaGbind prediction embedded in the energy terms, was captured by the NN model. The model predicts both qualitative and quantitative effects of amino acid changes in the RBD of the spike protein on changes in binding affinity with hACE2.

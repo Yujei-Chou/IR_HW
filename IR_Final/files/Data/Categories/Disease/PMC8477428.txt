@@ -1,0 +1,4 @@
+34621092|PMC8477428
+{'Disease', 'Species', 'Gene'}
+Abstract
+Since the first reported case of coronavirus disease 2019 (COVID-19), there have been more than 201 million people infected globally, leading to more than 4.27 million deaths up to early August 2021. However, as pregnant and lactating women are generally excluded from clinical trials, the registration and widespread roll-out of COVID-19 vaccines was undertaken without adequate safety and efficacy data for these women. One such innovation is bringing together not only national immunization technical advisory groups but also experts in the population of interest: pregnant women.

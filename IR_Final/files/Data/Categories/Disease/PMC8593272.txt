@@ -1,0 +1,4 @@
+34753795|PMC8593272
+{'Chemical', 'Disease', 'Species'}
+Background
+The COVID-19 pandemic raised a variety of healthcare and clinical ethical issues at social, policy making, institutional and professional levels. Thirty-four out of 40 CESSs reported having used professional ethical guidance from the wide array promulgated during the pandemic (six missing responses). Twenty-six out of 40 CESSs developed their own local documentation in response to the pandemic, with varied focus; some reported development and/or adjustment to existing CESS terms of reference and/or referral pathways (n=7) and a majority produced ethical guidance documents (n=18) including ethical decision-making frameworks, triage guidance and visiting policies.

@@ -1,0 +1,4 @@
+34635077|PMC8505015
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+During the COVID-19 pandemic, the scope of community containment measures have been unprecedented in modern history and are colloquially referred to as "lockdowns". Crude values are included in the Additional file 3.ED visits, mental health diagnoses, police responses, and calls to the Here 24/7 crisis line during the first wave lockdown (March 17 to May 4, 2020) were compared to ED visits, mental health diagnoses, police responses, and crisis calls over the same period in 2019, in order to compare the lockdown period to baseline. Suicide attempts were significantly decreased during the period of lockdown compared to a year before.

@@ -1,0 +1,3 @@
+34531275|PMC8462013
+{'Chemical', 'Disease', 'Species', 'Gene'}
+At the end of the 19th century, Emili von Behring (figure 1) demonstrated that serum from horses infected with diphtheria or tetanus was useful in treating people affected by these diseases, inaugurating the passive immunisation as a new therapeutic strategy. The first publications designed to assess the safety of convalescent plasma concluded that the risk is similar to that of conventional plasma transfusion. In conclusion, the available evidence, reinforced with the publication of the DAWn-PLASMA and Sekine's clinical trials, does not support the use of convalescent plasma in the standard treatment of COVID-19.

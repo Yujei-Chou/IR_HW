@@ -1,0 +1,3 @@
+34741093|PMC8571358
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Prediction of complex epidemiological systems such as COVID-19 is challenging on many grounds. We designed a multi-variate recurrent neural network with LSTM layers to predict three variables of COVID-19 confirmed cases and deaths, as well as foot traffic for multiple sub-populations using an iterated multi-step (IMS) estimation. In this research, we used an IMS method since the length of the prediction horizon is not long.

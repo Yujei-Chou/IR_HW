@@ -1,0 +1,3 @@
+34790233|PMC8592767
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Fake news is challenging to detect due to mixing accurate and inaccurate information from reliable and unreliable sources. In this section, the proposed system of detecting COVID-19 fake news is introduced. The proposed model is registered the highest performance (ACC = 77.24%, PRE = 77.87%, REC = 77.24%, and F1 = 77.02%), while LSTM is registered the worst performance (ACC = 70.16%, PRE = 69.92%, REC = 70.16%, F1 = 69.9%) Table 15 describes the obtained performance of CV and the testing validation for DL using dataset 1.

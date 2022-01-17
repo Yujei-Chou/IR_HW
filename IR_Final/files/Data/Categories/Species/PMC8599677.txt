@@ -1,0 +1,3 @@
+34789851|PMC8599677
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+SARS-CoV-2 infection results in a spectrum of outcomes from no symptoms to widely varying degrees of illness to death. Although not statistically significant, a trend toward a weak positive association was found between DEspRhigh neutrophils and CD8 T cells in patients with COVID-19 (Fig. A high number of circulating DEspRhigh neutrophils is associated with an increased level of CCL23 and NETosing neutrophils in critically ill COVID-19 patients, identifying DEspRhigh neutrophils as an intermediate biomarker to track in clinical trials of therapies for COVID-19 and a new potential therapeutic target for the prevention of immune cell-driven hyperinflammation.

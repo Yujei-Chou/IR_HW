@@ -1,0 +1,4 @@
+34764508|PMC8577702
+{'Chemical', 'Disease', 'Species'}
+Sir,
+Sir,The important perioperative challenges during surgical debridement for post-coronavirus disease (COVID)-19 rhino-orbital-cerebral mucormycosis include difficult airway, uncontrolled diabetes mellitus (DM), side effects of amphotericin B (AmB), presence of other comorbidities and post-COVID-19 systemic abnormalities including a decline in respiratory function. Post-COVID-19 pulmonary fibrosis leads to breathlessness, dyspnoea, cough, fatigue, limited exercise tolerance and an abnormal ABG picture (low PaO2, high PaCO2, low SpO2). In addition, FESS is in proximity to the pacemaker and requires the use of cautery leading to electromagnetic interference.

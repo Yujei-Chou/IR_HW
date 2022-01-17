@@ -1,0 +1,4 @@
+34749700|PMC8573761
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+Coronavirus disease 2019 (COVID-19) outbreak caused by severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) is a global threat. The results obtained indicated that ACE-2 and NRP-1 gene expression were significantly downregulated in periapical abscess, periapical granuloma, and radicular cyst when compared to healthy control (P   0.001) (Fig. On the other hand, the expression of ACE-2, NRP-1 and TMPRSS2 was insignificantly affected when the cells were treated with higher concentrations of oleic acid or 17-octadecynoic in comparison to other FAs.

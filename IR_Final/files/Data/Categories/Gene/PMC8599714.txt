@@ -1,0 +1,4 @@
+34805775|PMC8599714
+{'Disease', 'Species', 'Gene'}
+Abstract
+Since the declaration of a pandemic on March 11, 2020, the coronavirus disease (COVID-19) created many challenges for health care systems worldwide. The full list is in Supplementary MaterialTable S1.The system needed to accurately capture speech from staff and a bed bound patient, whilst minimizing the impact of background noise:from respiratory ventilators, bedside medical equipment, as well as conversations from nearby beds. Video-call solutions have been rapidly adopted across healthcare settings to address many challenges that COVID-19 created.

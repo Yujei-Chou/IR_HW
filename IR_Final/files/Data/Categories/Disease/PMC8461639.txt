@@ -1,0 +1,3 @@
+34583485|PMC8461639
+{'Disease', 'Species', 'Gene'}
+We would like to thank the editor for the opportunity to respond to the letter and comments by Dr. Safa, and we appreciate their comments regarding the need for a more efficient teaching methodology. Multiple studies have reiterated the findings we are showing in our paper that webinar-based education is effective and well adopted by learners. Our study, among others, continued to show an encouraging trend that the use of distant education methods is well perceived by the young generation, which may influence future curriculum development.

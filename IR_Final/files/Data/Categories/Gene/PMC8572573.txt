@@ -1,0 +1,4 @@
+34743747|PMC8572573
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Sustainable access and improved utilization to healthcare services are vital towards the physical, social, and mental health and of older people. These main themes are the sub themes of access and utilization of healthcare services among the elderly during COVID-19 pandemic is provided in Table 2. 5, the mutual relationship between the access of the elderly to COVID-19 related services and non COVID-19 related is centrally mentioned that can be affected by the personal determinants the same as the elderly's accommodation challenges and their perceived attitude of aging.

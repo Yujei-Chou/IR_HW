@@ -1,0 +1,4 @@
+34687386|PMC8536900
+{'Chemical', 'Disease', 'Species'}
+Correction to: Journal of Natural Medicines 10.1007/s11418-021-01575-1
+In the original publication of the article, under the section "Use of traditional herbal medicine during the COVID-19 pandemic and its antiviral activity against SARS-CoV-2", on third paragraph, the mathematical symbol was published incorrectly as "<=". The correct symbol should read as ">" in the following occurrence "IC50 of > 100 microM". The correct value is 534.6.Finally, under the section "Identified medicinal plants and their active compounds against SARS-CoV-2", on the following sentence "On the other hand, ouabain reportedly showed the antiviral activity ...", CC50 value of ouabain was published incorrectly as 416.66 microM. The correct value is > 10 microM.

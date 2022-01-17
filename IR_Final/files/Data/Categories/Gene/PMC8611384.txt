@@ -1,0 +1,3 @@
+34817837|PMC8611384
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Few evidences are present on the consequences of coronavirus disease 2019 (COVID-19) pandemic on pancreatic surgery. Although no difference was noted in terms of adjuvant treatments between the semesters (p = 0.2), a 50% decrease was documented in the phases 2 (p = 0.03) and 3 (p = 0.02) of 2020. This discrepancy was related to a significant reduction in the waiting time during 2020 phase 1 [50.7 (+- 20.9) days] in comparison to the same weeks of 2019 [78.4 (+- 45.6) days] (p < 0.0001).The rapid worldwide spread of COVID-19 pandemic has required an urgent reassessment of the healthcare systems, with re-allocation of medical resources and the creation of prioritization criteria of treatment.

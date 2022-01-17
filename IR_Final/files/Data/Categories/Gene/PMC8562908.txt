@@ -1,0 +1,3 @@
+34744212|PMC8562908
+{'Chemical', 'Disease', 'Species', 'Gene'}
+COVID-19 has brought about a marked slowdown in global economic development. The terms health and public have a high frequency in this cluster relative to the total for the corpus. 2).The research carried out and grouped in this cluster has placed great importance on the rapid spread of the disease and the new societal habits established in response.

@@ -1,0 +1,4 @@
+34813042|PMC8609508
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Purpose of Review
+The new SARS-CoV-2 enters through and initially affects the respiratory system, but it can generate a multiorgan dysfunction syndrome (MODS). Many studies have explored the relationship between gut dysbiosis, severe COVID-19, and elevated inflammatory markers. Aimed at the process of virus elimination and containment, this amplified immune cascade activation with hyperinflammation is characterized by a dysregulated robust secretion of proinflammatory cytokines (e.g., IL-1, IL-6, IL-17, TNF-alpha, IFN-gamma) and acute phase reactants that trigger systemic inflammation, hypercoagulation leading to ARDS and MODS.In both COVID-19 patients and animal models, severe SARS-CoV-2 infection is found to be associated with low serum levels of interferons (IFN) I and III and increased chemokines and cytokines.

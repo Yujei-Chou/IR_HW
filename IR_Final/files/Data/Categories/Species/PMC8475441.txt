@@ -1,0 +1,4 @@
+34562220|PMC8475441
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Graphical abstract
+Since the early days of 2020, the world is gripped by a COVID-19 pandemic caused by the highly contagious acute respiratory syndrome coronavirus 2 (SARS CoV-2). Molecular docking has been employed in structure-based drug design against emerging viruses (Elhefnawi et al.; In line with our findings, polymyxin B, rifampicin, and chlorhexidine have been repurposed as SARS-CoV-2 main proteinase inhibitors in other studies that followed comparable in silico approaches (Maffucci and Contini; Pathak et al.;

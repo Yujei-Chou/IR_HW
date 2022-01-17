@@ -1,0 +1,4 @@
+34449405|PMC8462489
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+In the United Kingdom, 27% of men and 30% of women live with obesity and have an increased risk of chronic diseases such as type 2 diabetes (T2D), mental health problems, and certain malignancies, and a reduced life expectancy. The baseline phenotype of Low Carb Program app users was broadly similar to the retrospective control group in terms of baseline weight, proportion of patients with diabetes, and baseline HbA1c, but was significantly different in terms of age and gender (Table 2).Of the recruited participants (n=105), all enrolled onto the Low Carb Program app. A much more likely scenario is that engagement with the Low Carb Program app helped to complement remote management in patients' achievements of clinical outcomes.

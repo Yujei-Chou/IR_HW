@@ -1,0 +1,4 @@
+34604574|PMC8451365
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Summary
+The COVID-19 pandemic caused by Severe Acute Respiratory Virus 2 (SARS-CoV-2) is a serious public health crisis in the history of humanity. MMR, BB, and MJU independently screened the titles and abstracts of the articles and checked full-text eligibility (Tab. We observed that the symptoms like anorexia (26%), chest tightness (25%) and rhinorrhea (13%), and one comorbidity, i.e., acute respiratory distress syndrome (61%) were examined with significant prevalence, but they were under-reported in the published systematic reviews.

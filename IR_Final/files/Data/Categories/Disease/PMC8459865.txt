@@ -1,0 +1,4 @@
+34667785|PMC8459865
+{'Chemical', 'Disease', 'Species', 'CellLine'}
+BACKGROUND:
+Emerging and new pathogens are major threats for global public health. Sharma suggested the use of the ML algorithms compared to traditional methods is good choices for early stage disease screening. It should be noted that data collection was done in two stages, 1-with CT-Scan (whole of data), and 2-without CT-Scan features (whole of data except CT findings).In this step, seven ML algorithms including MLP, C4.5, RF, SVM, NB, BN and K-star, were designed for developing COVID-19 diagnostic model.

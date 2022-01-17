@@ -1,0 +1,3 @@
+34469645|PMC8451183
+{'Disease', 'Species'}
+To the Editor: In December 2020, the University of California San Diego Health (UCSDH) workforce experienced a dramatic increase in severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections. However, coincident with the end of California's mask mandate on June 15 and the rapid dominance of the B.1.617.2 (delta) variant that first emerged in mid-April and accounted for over 95% of UCSDH isolates by the end of July (Figure 1), infections increased rapidly, including cases among fully vaccinated persons. reported a preserved vaccine effectiveness of 88% against symptomatic disease associated with the delta variant.

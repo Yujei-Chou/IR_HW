@@ -1,0 +1,4 @@
+34463724|PMC8499820
+{'Disease', 'Species', 'Gene'}
+Abstract
+IMPACT STATEMENTMultiinflammatory syndrome in children (MIS-C) is a novel and rare inflammatory disorder associated with severe acute respiratory syndrome coronavirus 2 infection in school-age children. However, our current understanding of MIS-C disease onset, progression, and long-term patient outcomes is incomplete. Further, while autoantibodies have been observed in patients with severe MIS-C and in adult patients with COVID-19, their causal role in pathogenesis is unclear, and ANA profile is not expected to hold high clinical specificity and value in the diagnosis of SARS-CoV-2-related autoimmune response in children and adults.

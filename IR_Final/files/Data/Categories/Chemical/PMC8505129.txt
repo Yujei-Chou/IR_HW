@@ -1,0 +1,3 @@
+34232921|PMC8505129
+{'Chemical', 'Disease', 'Species', 'Gene'}
+COVID-19 may cause intussusception in infants. A literature review revealed 9 other cases with COVID-19 and intussusception. The association between COVID-19 and intussusception may be related to mesenteric lymphadenopathy and hypertrophy of Peyer patches, evoking a local reactive mesenteric adenitis which causes an alteration in peristaltic intestinal movement or acts as a lead point for the intussusceptum.

@@ -1,0 +1,4 @@
+34756072|PMC8579926
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+ABSTRACT
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which is the causative agent of human coronavirus disease 2019 (COVID-19), was identified in Wuhan, China, in December 2019. The same is true for the sequences from subcluster 1b that had more genetic diversity and belonged to the B.1.177 lineage. Mutation profiles in the open reading frame 1a (ORF1a), ORF1b, S, ORF3a, E, M, ORF6, ORF7a, ORF8, N, and ORF10 genomic regions of SARS-CoV-2 were assessed by comparing the nucleotide and deduced amino acid sequences of the Tunisian strains with those of the Wuhan reference strain, using the sequence alignment performed by MUSCLE multiple sequence alignment algorithms implemented in MEGAX.Partial S gene amplicon consensus sequences were submitted to the NCBI database under accession numbers MZ150010 to MZ150210.

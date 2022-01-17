@@ -1,0 +1,4 @@
+34588250|PMC8479939
+{'Disease', 'Species', 'Gene'}
+Introduction
+A randomised controlled trial examining the effect of Intensive Care Unit-specific Virtual Reality for Family members/relatives (ICU-VR-F) on psychological well-being and quality of life using an innovative and uniform modality. We expect a needed time of 6 months based on the admission rate history of the participating hospitals. Differences in the proportion of participants in the intervention group and participants in the control group with clinically relevant symptoms of PTSD (IES-R sum score >=22), depression (HADS depression score >8) or anxiety (HADS anxiety score >8) will be analysed using a mixed-effects logistic regression model.

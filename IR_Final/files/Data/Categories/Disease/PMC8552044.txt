@@ -1,0 +1,4 @@
+34722252|PMC8552044
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objective
+On December 31st, 2019, Chinese health authorities reported an outbreak of pneumonia of unknown etiology in the city of Wuhan (Hubei Province, China), which the Center for Disease Control and Prevention of China identified as a novel coronavirus, classified as SARS-CoV-2; in mid-February it was named COVID-19, the combination of Corona VI-rus D-isease and year of identification, 2019. Descriptive statistics were used to analyze the characteristics of the patient cohort. None presented symptoms and signs of SARS-COV-2 infection as of May 18th 2020.Cancer patients under antineoplastic therapy were considered a vulnerable population at the beginning of the SARS-CoV-2 pandemic.

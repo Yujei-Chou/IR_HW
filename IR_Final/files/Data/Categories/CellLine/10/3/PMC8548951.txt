@@ -1,0 +1,3 @@
+34664677|PMC8548951
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+The spread of the novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) emerged suddenly at the end of 2019 and the disease came to be known as coronavirus disease 2019 (COVID-19). Recently, a combination of remdesivir and GC376, an inhibitor of the 3C-like protease (3CLpro) for treating feline infectious peritonitis (coronavirus infection), had a synergistic antiviral effect against SARS-CoV-2 in Vero cells, implying that these compounds inhibit the replication of SARS-CoV-2 through different drug targets. Tocilizumab has been approved to treat severe complications related to SARS-CoV-2 in China.

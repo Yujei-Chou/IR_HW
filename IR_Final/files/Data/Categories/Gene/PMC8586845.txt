@@ -1,0 +1,3 @@
+34786007|PMC8586845
+{'Disease', 'Species', 'Gene'}
+The COVID-19 pandemic is the first pandemic of the digital age. For this reason, it brought about unconventional problems revolving around the role that ICT now plays in our lives. We also hope that the special issue will stimulate the formation of a community focused on research and development of IoT-driven mobile and pervasive systems for fighting COVID-19 and any other emerging epidemics.

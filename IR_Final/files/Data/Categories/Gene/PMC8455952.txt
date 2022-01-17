@@ -1,0 +1,3 @@
+34568389|PMC8455952
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objective: We investigated whether there were sex differences in adverse reactions to an inactivated SARS-CoV-2 vaccine among medical staff in China. In contrast, concerns regarding adverse reactions independently increased the risk of adverse reactions following vaccination (OR = 6.79, 95% CI: 2.66-17.37), and a history of adverse reactions to other vaccines increased the risk of adverse reactions to both injections in men (OR = 31.30, 95% CI: 7.35-133.35). No assessment was made as to whether the reported adverse reactions were related to vaccination.

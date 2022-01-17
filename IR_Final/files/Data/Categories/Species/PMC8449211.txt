@@ -1,0 +1,3 @@
+34536212|PMC8449211
+{'Disease', 'Species'}
+Dear editor, we would like to share ideas on the publication "Temporal metabolic response to mRNA COVID-19 vaccinations in oncology patients." concluded that "Consideration should be given to performing FDG PET at least 2 weeks after the COVID-19 vaccine.." This report can confirm that both immunological and metabolic responses occurred at lymph node following COVID-19 mRNA vaccination. However, the problem might still exist after 2-week period of waiting and it is sometimes not possible to have a long waiting.

@@ -1,0 +1,4 @@
+34744580|PMC8565264
+{'Chemical', 'Disease', 'Species'}
+Background
+To date, most efforts to understand the comparative population health impact of COVID-19 have been made using mortality-based metrics. DALYs quantify the full population health impact and are calculated by summing YLD and YLL. When these cannot be calculated, it is preferred to use estimates of the mean duration of 7.79 days (95% uncertainty interval: 6.20-9.64 days) for lower respiratory tract infections from the GBD study, or to derive them from consultation with within-country clinical expert groups.

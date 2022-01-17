@@ -1,0 +1,4 @@
+34728874|PMC8553382
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Dear Editor,
+Dear Editor,After reading some recent reports on the appearance or de novo recurrence of different glomerulopathies after the application of vaccines against COVID-19 we would like to contribute our experience. Four patients (P) previously asymptomatic began with asthenia (P1, P2), foamy urine (all) and edema (P2, P3) within 2 weeks after the first dose of the COVID-19 vaccine (P1: Sinopharm, P2: Oxford-AstraZeneca, P3 and P4: Gamaleya). Renal biopsies performed showed two IgA nephropathy with crescent (Supplementary Fig.

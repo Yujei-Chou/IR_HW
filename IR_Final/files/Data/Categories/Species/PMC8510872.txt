@@ -1,0 +1,3 @@
+34638169|PMC8510872
+{'Disease', 'Species'}
+Automatic document classification for highly interrelated classes is a demanding task that becomes more challenging when there is little labeled data for training. In response the group has been working on automatic document classification machine learning models (https://covid19.ccg.unam.mx/machinelearning.html), however the number of classes, the interconnected nature of the clinical fields and the very little labeled examples imposes considerable challenges. We then compared the results with the same classification model but without the OGER extracted features.

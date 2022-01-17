@@ -1,0 +1,4 @@
+34686211|PMC8533667
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Background
+Anatomically modern humans emerged in Africa ~300,000 to 200,000 years ago; they then dispersed worldwide from Africa many tens of thousands of years ago, but the timing remains controversial. Further, Japanese individuals with the AA genotype of SNP rs1057001 in the tribbles pseudokinase 2 (TRIB2) gene showed relatively high expression levels of several thermogenic-related genes, suggesting that this genotype is adaptive to cold climates. Normalization of count data and estimation of log2 fold change (LFC) between the experimental conditions were performed using the Bioconductor R package DESeq2 ver.

@@ -1,0 +1,3 @@
+34752471|PMC8577770
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Olfactory loss has been identified as one of the common symptoms related to COVID-19 infection. A copy of the search strategies is provided in the Review Supplement (S1 Text).Study selection criteria were established according to considerations pertaining to population, study design and outcomes. Only three published papers assessed treatment for persistent OD due to COVID-19.

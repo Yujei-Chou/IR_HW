@@ -1,0 +1,1 @@
+pneumonia,patient,j,objective,reason,casanova,manresa,f,gudiol,etiology,risk,hospitalization,class,outcome,hospitalized,basis,conventional,admission,dorca,carratala,background,b,constructed,table,bivariate,analysis,statistical,el,johansson,cap

@@ -1,0 +1,4 @@
+34795485|PMC8592821
+{'Disease', 'Species', 'Gene'}
+Purpose
+Since December 2019, severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2), the novel coronavirus first detected in China (Wuhan, Hubei Province), which caused coronavirus disease 2019 (COVID-19), many developed and developing health care systems are facing unprecedented circumstances. Six factors were identified (see Table 4) and primarily named as anxiety or fear of being affected, practices to avoid being infected by COVID-19, attitudes about the affected individuals, being avoided or judged by others, health care settings' policies and procedures, and willingness to care for COVID-19 patients. The results proved good psychometric properties that measure stigma associated with TB and HIV/AIDS from community and patient perspectives.

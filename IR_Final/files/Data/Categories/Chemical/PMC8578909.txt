@@ -1,0 +1,4 @@
+34757458|PMC8578909
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objectives
+Since the first reported human infection with severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) in December 2019 in Wuhan, China, coronavirus disease 2019 (COVID-19) has spread throughout the world. However, the parosmia score increased significantly between home and follow-up testing (p = 0.014).Investigating olfactory dysfunction in COVID-19 patients over a long period of time, we had three main findings. Based on multiple studies that reveal beneficial features of olfactory training, daily practicing with four odourants has become standard recommendation of COVID-19 related OD.

@@ -1,0 +1,3 @@
+34776657|PMC8575655
+{'Disease', 'Species', 'Gene'}
+The outbreak of COVID-19 in China started at the end of December 2019. However, the older interviewees not only perceived the reduction in mobility and social interactions relating to outdoor activities as the most dreadful consequence of COVID-19, but it was also repeatedly brought up to explain loneliness, depression, anxieties, changes in eating habits (such as excessive drinking), emotional outbursts and irritating behaviours of the elderly during the COVID-19 pandemic. As the quote suggests, two kinds of social pressures had influenced elderly mobility during the pandemic.

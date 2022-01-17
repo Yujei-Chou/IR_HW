@@ -1,0 +1,4 @@
+34651048|PMC8510791
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Coronaviruses (CoVs), belonging to the family Coronaviridae, are enveloped nonsegmented, single-stranded positive-sense RNA viruses and infect humans and various animals (bats, birds, camels, cats, dogs, and mice). The search revealed an identical sequence from Homo sapiens viral protein (Human SARS coronavirus) with PDB entry 7KQE. In the current paper, we have predicted the structure and functions of SARS-CoV-2 B.1.617.1 variant partial S protein using state of art bioinformatics approach.

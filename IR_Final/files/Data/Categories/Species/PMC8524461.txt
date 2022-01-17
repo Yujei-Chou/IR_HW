@@ -1,0 +1,4 @@
+34628488|PMC8524461
+{'Chemical', 'Disease', 'Species'}
+Key Points
+COVID-19 increases venous thromboembolism (VTE) risk. This patient received an enhanced regime of low-molecular weight heparin (LMWH) as per NICE guidelines (NG 186) due to the increased risk of VTE in COVID-19. Unilateral spontaneous psoas haematomas have previously been described in the use of the standard prophylactic dose of LMWH.

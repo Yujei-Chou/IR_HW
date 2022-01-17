@@ -1,0 +1,4 @@
+34735954|PMC8514683
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Graphical abstract
+Wastewater surveillance of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) genetic fragments (i.e., RNA) has proven to be an effective tool for assessing COVID-19 infections at the community level. Immediately after virus concentration, RNA was extracted from 280 muL of the eluate using the QIAamp Viral RNA Mini Kit (Cat. Of the 108 COVID-19 cases, 58 (53.7 %) were detected on day 0, and 97 (89.8 %) were detected on day 7.Surveillance for SARS-CoV-2 RNA in repatriation flight wastewater using pooled results from all three RT-qPCR assays demonstrated a PPV of 87.5 % and an NPV of 76.9 % for COVID-19 cases during the post-arrival 14-day quarantine period (83.7 % accuracy) (Fig.

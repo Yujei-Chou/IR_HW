@@ -1,0 +1,3 @@
+34716320|PMC8556331
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Understanding the trajectory, duration, and determinants of antibody responses after SARS-CoV-2 infection can inform subsequent protection and risk of reinfection, however large-scale representative studies are limited. We therefore used a multivariable biphasic exponential mixed model to estimate that antibody responses were likely to remain positive, i.e., >=42 ng ml-1, for 703 (95% Crl 371-2654), 490 (286-923), 561 (334-1456) and 441 (285-809) days from the start of infection for White females, White males, non-White females and non-White males aged 60 years, respectively. This exponential decline model had been widely used in studies on antibody kinetics.

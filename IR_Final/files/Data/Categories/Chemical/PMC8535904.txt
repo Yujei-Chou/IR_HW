@@ -1,0 +1,3 @@
+34682940|PMC8535904
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The training of emergency and intensive care teams in technical and non-technical skills is fundamental. The specific objectives were: To determine the training needs of multi-professional health care teams with respect to technical and non-technical skills associated to the care of COVID-19 patients; to design simulation scenarios adjusted to the needs of the participants; to put into practice high-fidelity clinical simulation scenarios with native workers (zone 3); and to analyze the acquisition of technical and non-technical competences during the simulated experiences. To evaluate each scenario, a tool was designed to evaluate the dimensions (due to their length).

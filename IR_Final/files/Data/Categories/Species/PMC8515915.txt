@@ -1,0 +1,4 @@
+34649620|PMC8515915
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+Background
+Coronavirus disease 2019 (COVID-19), caused by the newly emerging severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2), has spread extensively worldwide. Notably, the most frequent RBD variants seen in clinical isolates, N501Y and S477N, remained similarly sensitive to the majority of the selected NAbs; only 24-1L failed to neutralize N501Y. Substitutions responsible for major antigenic escape were in antigenic site 1 (K417N, F486L), antigenic site 2 (N450K, E484K, E484Q, L452R, F490S), and antigenic site 3 (R346S). The resistance profile of each human convalescent plasma sample was distinct, possibly because of the different repertoires of antigenic sites on the RBD targeted by polyclonal antibodies (Fig.

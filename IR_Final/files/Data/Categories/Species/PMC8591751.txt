@@ -1,0 +1,4 @@
+34538746|PMC8591751
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Introduction
+The Coronavirus Disease 2019 (COVID-19) pandemic has had a profound impact on medical training in the United States over the past year. The decreased physical constrains and increased efficiency of time that the virtual spaces offered improved access to these sessions by applicants from around the country, previously restricted by geography and scheduling during in-person recruitment. The increase in virtual events designed for URiM applicants created a more equitable process.

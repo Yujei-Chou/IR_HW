@@ -1,0 +1,4 @@
+34568582|PMC8449284
+{'Disease', 'Species', 'Gene'}
+Abstract
+The world faces a severe and acute public health emergency due to the ongoing coronavirus disease 2019 (COVID-19) global pandemic. Consenting non-volunteer health workers participated in the online survey until the minimum sample size estimated for each stratum of nonvolunteer HCWs was exceeded. The difference in proportions was found to be statistically significant, thus indicating a significant association between ethnicity and volunteering (chi2 = 20.498, P < .001).There were more volunteers (23.0% and 50.0%) compared to nonvolunteers (22.1% and 41.6%) among the lowest income earners (<=$100 000 and $101 000-$200 000).

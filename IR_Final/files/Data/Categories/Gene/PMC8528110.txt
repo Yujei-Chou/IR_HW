@@ -1,0 +1,4 @@
+34668728|PMC8528110
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+ABSTRACT
+The ability to detect and characterize antibodies targeting severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) proteins in plasma has been one of the most informative tools during the ongoing COVID-19 pandemic. Moreover, average CPM for each SARS-CoV-2 peptide across the 22 individuals strongly correlated between sample types (Pearson R = 0.87) (Fig. Our study and prior reports demonstrate strong agreement between paired plasma and DBS for single-epitope SARS-CoV-2 binding assays, such as the commonly used RBD ELISA.

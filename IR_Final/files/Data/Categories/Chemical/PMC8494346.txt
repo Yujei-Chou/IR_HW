@@ -1,0 +1,3 @@
+34613978|PMC8494346
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Due to the COVID-19 pandemic, higher educational institutions worldwide switched to emergency distance learning in early 2020. May influence intrinsic motivation, persistence, and procrastination, we included participants' gender and age as control variables. However, our findings corroborate those from earlier studies insofar as they underline the associations between perceived competence and positive learning behavior (e.g.,), that is, lower procrastination and higher persistence (e.g.,), even in an exceptional situation like pandemic-induced distance learning.

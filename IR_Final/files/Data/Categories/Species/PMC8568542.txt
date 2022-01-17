@@ -1,0 +1,3 @@
+34745514|PMC8568542
+{'Chemical', 'Disease', 'Species', 'Gene'}
+In the current information age, the human lifestyle has become more knowledge-oriented, leading to sedentary employment. Hence, in this work, we propose a strategy using multimodal artificial intelligence to classify mental stress and identify the scale of the stress. Late fusion employs a fusion technique to combine decision values from individual modalities.

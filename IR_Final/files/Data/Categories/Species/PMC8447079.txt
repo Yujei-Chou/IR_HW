@@ -1,0 +1,4 @@
+34292599|PMC8447079
+{'Disease', 'Species', 'Gene'}
+Abstract
+In 2019, one in 11 of the world's people were aged 65+ years, and this ratio was predicted to increase to one in six by 2050 (United Nations,). In some countries, health systems have completely collapsed (WHO,).A general lack of national preparedness before 2020 protected long-term weaknesses in social policies and emergency response strategies in most countries. Nurses, as frontline defenders of public health and equity, need to get involved in endorsing social norms that will be acceptable going forward (Lewis et al.

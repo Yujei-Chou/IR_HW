@@ -1,0 +1,3 @@
+34667984|PMC8519320
+{'Chemical', 'Disease', 'Species'}
+Point-of-care ultrasound has become an integral aspect of critical care training. Finally, the increase in the faculty clinical workload limited faculty ability to supervise scanning sessions in real time, to review learners' portfolio, and to conduct in-training and summative assessments. Before COVID-19, our faculty had used income from continuing medical education ultrasound teaching events to partially fund this course.

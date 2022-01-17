@@ -1,0 +1,3 @@
+33845033|PMC8553403
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Before the coronavirus disease 2019 (COVID-19) pandemic, use of telehealth services had been limited in cardiovascular care. This notice permits clinicians to use platforms that are not HIPAA-compliant, a practical approach given the need to increase telehealth services quickly. A December 2020 retrospective medical record review evaluating telemedicine access for primary and specialty ambulatory care visits among 148,402 patient encounters at a large academic health system during the early phase of the COVID-19 pandemic demonstrated that older age, Asian race, non-English language as the patient's preferred language, and Medicaid were independently associated with fewer completed telemedicine visits.

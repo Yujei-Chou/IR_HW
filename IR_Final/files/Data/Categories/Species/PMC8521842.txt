@@ -1,0 +1,3 @@
+34713121|PMC8521842
+{'Disease', 'Species'}
+The novel coronavirus disease (COVID-19) forced rapid adaptations in the way healthcare is delivered and coordinated by health systems. This is an observational, descriptive study that aims to summarize the early experience of the deployment of a platform consisting on a decision-tree algorithm to perform COVID-19 risk assessment in patients seeking emergency room evaluation for acute symptoms amid the pandemic combined with a chatbot to both disseminate health informations and track patient's symptoms evolution when needed. The algorithm was conceived to be used in the public health system in Brazil, leveraging available resources in specific regions.

@@ -1,0 +1,3 @@
+34697612|PMC8529268
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+Low- and middle-income countries (LMICs) are significantly affected by SARS-CoV-2, partially due to their limited capacity for local production and implementation of molecular testing. We found that final concentrations of 1.6 ng/muL of Taq DNA polymerase and 1.7 ng/muL of M-MLV RT were sufficient to achieve a fluorescence ratio >=2 for both high and low viral RNA load samples (Figure S3). This showed that 10 nM Cas12a was sufficient for a fluorescence ratio >3 for N and ORF1ab targets.

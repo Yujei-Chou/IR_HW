@@ -1,0 +1,4 @@
+34745267|PMC8570879
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Introduction
+The COVID-19 pandemic has affected 109 million people, causing 2.4 million deaths worldwide to date. Currently, little is known about the potential of VADE following COVID-19 immunization. It is therefore intriguing to speculate on the interaction between vaccination and the presence of active SARS-CoV-2 in an asymptomatic individual with low-level, high-level, or without preexisting neutralizing antibody.

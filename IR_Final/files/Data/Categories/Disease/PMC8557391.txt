@@ -1,0 +1,3 @@
+34732330|PMC8557391
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+The Nrf2 transcription factor governs the expression of hundreds genes involved in cell defense against oxidative stress, the hallmark of numerous diseases such as neurodegenerative, cardiovascular, some viral pathologies, diabetes and others. have demonstrated that NRF2 pathway is suppressed in lung biopsies obtained from COVID-19 patients, whereas Nrf2 activators such as 4-octyl-itaconate and dimethyl fumarate trigger cellular antiviral response, resulting in SARS-CoV-2 replication inhibition. In a further study TAT-CAL-DEETGE peptide was tested as a potential neuroprotectant against global cerebral ischemia.

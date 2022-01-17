@@ -1,0 +1,3 @@
+34562485|PMC8459388
+{'Chemical', 'Disease', 'Species', 'Gene'}
+To control the evolution of a pandemic such as COVID-19, knowing the conditions under which the pathogen is being transmitted represents a critical issue, especially when implementing protection strategies like social distancing and face masks wearing. For a quiescent droplet in a stagnant air, the evaporation process is limited only by the mass diffusion of the vapour in the air and the Sherwood number is then equal to 2. More or less refined models have been proposed to take into account the heat and mass transfers within a droplet.

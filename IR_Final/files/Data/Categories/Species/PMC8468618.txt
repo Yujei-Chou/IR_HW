@@ -1,0 +1,3 @@
+34575221|PMC8468618
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+(1) Background: Chronic rhinosinusitis with nasal polyps (CRSwNP) is one of the most studied rhinological disorders. The morphological aspects observed in CRSwNP are presented in Figure 7, and those seen in the nasal mucosa of COVID-19 patients in Figure 8.In 39% (n = 14/25) of CRSwNP samples, surface microbial biofilms were identified (Figure 7C,D), in 44% (n = 11/25) ciliary abnormalities were detected (Figure 7B arrow) (p = 0.0581), and in 76% (n = 19/25) mucous cell hyperplasia was found (Figure 7F-H) (statistically significant, p = 0.0011). Morphological changes were classified dichotomously as present or absent; further stratification might allow additional results and interpretations.

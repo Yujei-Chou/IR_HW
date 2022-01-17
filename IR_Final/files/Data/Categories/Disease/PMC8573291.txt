@@ -1,0 +1,4 @@
+34740897|PMC8573291
+{'Disease', 'Species', 'Gene'}
+Objectives
+What are the perspectives of primary care physicians and pediatricians in Texas regarding COVID-19 vaccine acceptance and patient barriers to vaccination?Vaccine acceptance was high among primary care physicians with the majority of the participants stating they would receive the COVID-19 vaccine when available. While COVID-19 is highly transmissible, with a rate of reproduction (R0) ranging from 1.9 to 6.5, and the effects are potentially life threatening, our study suggests that physicians may feel a duty to provide care to their patients and a willingness to assume risks associated with unvaccinated patients. We surveyed PCPs in the state of Texas to assess their acceptance of COVID-19 vaccination and their perceptions of patient and community acceptance.

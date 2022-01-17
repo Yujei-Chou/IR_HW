@@ -1,0 +1,4 @@
+34606520|PMC8523052
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+The Coronavirus Disease 2019 (COVID-19) pandemic has resulted in over 50 million cases and nearly 2 million deaths in 2020, with cases in nearly every country. The cumulative number of DALYs averted over the entire 10-year time horizon is positive for all vaccine strategies, although it is especially high for a short duration of natural immunity and long vaccine campaign (Fig 5).Over 10 years, our base case vaccination scenario averts 70.1 (95% CrI: 69.9, 70.6) thousand DALYs, at an additional cost of $2.0 (95% CrI: 0.1, 2.9) million after deducting the cost of the vaccination programme (Table 2). One page 6, could the authors clarify this vaccination prioritization strategy, "individuals 65+ years old for the first quarter before shifting to 15+"?

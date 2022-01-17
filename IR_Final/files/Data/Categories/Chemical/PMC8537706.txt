@@ -1,0 +1,3 @@
+34681948|PMC8537706
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Chronic diseases and viral infections have threatened human life over the ages and constitute the main reason for increasing death globally. Probiotics could also be associated with their essential role in animating the immune system to fight COVID-19 infection. In babies with allergies and chronic respiratory diseases, probiotic treatments simulate the cytokine profiles and induce Treg cells parallel with the high concentration of IL-10 and TGF-beta.

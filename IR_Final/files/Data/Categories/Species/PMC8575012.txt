@@ -1,0 +1,4 @@
+34643535|PMC8575012
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The COVID-19 pandemic has created a global health care crisis, with over 123 million infections reported in more than 185 countries. Over the same period, 1422 adults with COVID-19 were admitted at the 3 study hospitals. A systematic review of imaging findings in children with COVID-19 reported that up to 60% of asymptomatic children had abnormal CT scan findings, including ground-glass opacification and consolidation.

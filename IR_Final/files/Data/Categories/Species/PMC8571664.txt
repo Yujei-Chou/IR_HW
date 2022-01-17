@@ -1,0 +1,4 @@
+34741638|PMC8571664
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Abstract
+Coronavirus disease 2019 (COVID-19) is a pandemic infection caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Also, VCAM1 and BAG3 showed potential interaction with spike glycoprotein, E2 glycoprotein precursors, excised polyprotein 1.4369 (gene: orf1ab), and Full_polyprotein 1.4382.We further compared mean gene expression in a cohort with female and male samples to identify gender-dependent responses (GTEx, release V8). When we compared male and female blood samples together, we found that expression of FASLG, CTSW, CTSE, and BAG3 substantially increased around the age of 50 and VCAM1 around the age of 60 years (Fig.

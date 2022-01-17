@@ -1,0 +1,3 @@
+34739972|PMC8556692
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Coronavirus disease 2019 (COVID-19) has caused a massive disaster in every human life field, including health, education, economics, and tourism, over the last year and a half. The techniques for nonparametric strategies are established based on statistical skills that aid in analyzing histogram data; these tools include intra-class variance, entropy, error rate, and so on. Here, in this section, the computational complexity of the algorithms WOA is evaluated to compare it with mWOAPR.

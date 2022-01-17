@@ -1,0 +1,4 @@
+34642576|PMC8499882
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+Globalization in the contemporary era has been structured by a liberal international order, a rules-based system reflecting the principles of economic interdependence, democracy, human rights and multilateralism. The first is the establishment of regional conventions in Africa and Latin America that extend protections to individuals threatened by violence. To explain the absence of global mobility from the LIO, I emphasize the status quo ante, which allows destination states to employ unilateral policies to modulate the cross-border movement of people in ways that are both economically and politically useful to those states.

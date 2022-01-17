@@ -1,0 +1,4 @@
+34785375|PMC8590621
+{'Chemical', 'Disease', 'Species'}
+Dear Editor:
+Dear Editor:The impact of the COVID-19 pandemic is likely to be deeper in resource-limited settings, including Venezuela, where its effects are compounded by the country's complex humanitarian crisis, inadequately resourced health systems, and concurrent HIV epidemics. Here we determined the prevalence of undiagnosed HIV in suspected COVID-19 patients during the first wave, as well as their clinical-epidemiological characteristics, at the main sentinel hospital in Caracas, Venezuela. A higher proportion of skin lesions and lymphadenopathies were found in HIV-positive patients compared to HIV-negative ones (80% vs. 3.5%, p < 0.001; 60% vs. 5.1%, p < 0.001; respectively).Quarantine, social distancing, and community containment have reduced access to routine HIV testing and, thus, access to know their HIV status, which challenges completion of UNAIDS' first 90-90-90 target globally.

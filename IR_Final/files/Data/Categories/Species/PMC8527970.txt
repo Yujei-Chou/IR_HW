@@ -1,0 +1,4 @@
+34670496|PMC8527970
+{'Disease', 'Species', 'Gene'}
+Background
+In Norway, due to the COVID-19 pandemic outbreak, the government closed most activities in the society starting on 12 March 2020. Some expressed a feeling of panic about getting sick as well as about being left alone with the full responsibility for providing care:In addition, the participants described the continuing deprivation experienced by the person with dementia who was now unable to attend daycare: 'Every morning he asked, "Am I going anywhere today? As the current project collected data about the spouses lived experiences of the corona pandemic, the study was not considered dependent of the approval from REC.

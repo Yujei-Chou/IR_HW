@@ -1,0 +1,3 @@
+34652601|PMC8518276
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Newly emerging infectious diseases, such as the coronavirus (COVID-19), create new challenges for public healthcare systems. The health belief model (HBM) assumes that health behaviour depends on the perceived threat, the perceived benefits of health behaviour, and the perceived cost of health behaviour, comprising economic, social, and psychological costs, such as anxiety, shame, or discomfort (Rosenstock,; Becker et al.,). This optimism bias has been proposed to explain the discrepancy between sensory evidence and people's cognitive representations of risk at the beginning of COVID-19 epidemic (Savadori et al.,;

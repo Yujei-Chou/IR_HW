@@ -1,0 +1,3 @@
+34788645|PMC8590745
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+The COVID-19 pandemic has become a severe public health crisis worldwide since December 2019. These results suggest that Keguan-1 could reduce the inflammatory response of lung tissue after ALI in mice. In this study, the results showed that Keguan-1 significantly decreased alveolar macrophage necrosis in BALF and neutrophilic infiltration in lung tissues of ALI mice, subsequently inhibiting the expression of inflammatory mediators, including TNF-alpha, IL-6, IL-1beta, KC, and MIP2.

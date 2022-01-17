@@ -1,0 +1,3 @@
+34611034|PMC8494538
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Long COVID is characterized by the emergence of multiple debilitating symptoms following SARS-CoV-2 infection. We addressed these questions in an observational study of 65 individuals who had recovered from mild COVID-19. Although both the numbers of circulating EM T cells and combined PD-1 and CD28 antigen density in CM cells distinguished asymptomatic from symptomatic participants (figure 2B, online supplemental figure 3), neither predicted responsiveness to HRA (online supplemental figure 4).Most patients with long COVID have mild or asymptomatic initial infections and are often diagnosed months later.

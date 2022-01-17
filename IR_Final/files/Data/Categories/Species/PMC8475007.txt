@@ -1,0 +1,3 @@
+34629809|PMC8475007
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Coronavirus disease 2019 (COVID-19), caused by the novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), is an acute infectious disease that spreads mainly through the respiratory route. A low incidence of severe liver injury (9%) was also reported by a German study enrolling 44 patients of which 6 had deranged ALT. Starting from these premises, it would be interesting to know whether patients with asplenia or spleen dysfunction could be more susceptible to Sars-CoV-2, both in terms of severity and incidence of the disease.

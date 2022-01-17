@@ -1,0 +1,3 @@
+34776872|PMC8579006
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+SARS-CoV-2 is the viral cause of the COVID-19 pandemic. Following treatments with either SARS-CoV-2 S1 protein or heat-inactivated SARS-CoV-2 S1 protein (boiled for 1 h), fluorescence emission was measured at 533 nm for Green dextran and 615 nm for Texas Red dextran. To further assess lysosome function, we determined the percentage of lysosomes containing the pH-sensitive enzyme cathepsin D. Similar to that observed in CLU199 neuronal cells, SARS-CoV-2 S1 (100 ng/ml) treatment for 30 min decreased the percentage of endolysosomes containing enzymatically active cathepsin D in human cortical neurons (Figure 2C).SARS-CoV-2 S1 induced endolysosome enlargement and neurite dystrophy.

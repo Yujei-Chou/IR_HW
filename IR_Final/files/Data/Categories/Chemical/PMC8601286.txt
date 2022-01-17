@@ -1,0 +1,3 @@
+34805496|PMC8601286
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Supplemental Digital Content is available in the text. There were no differences in the occurrence of AEs according to the presence of SARS-CoV-2-specific cell-mediated immunity at baseline (0.0% [0 of 3] versus 29.3% [12 of 41] for those with or without prevaccine response, respectively; P = 0.551).In contrast to most previous studies, we have performed a comprehensive evaluation of vaccine immunogenicity that comprised different methodological approaches to both SARS-CoV-2-specific cell-mediated and humoral immunities. Cucchiari et al found that 54.7% of KT recipients had a positive S protein-reactive ELISpot assay after the second dose of mRNA-1273.

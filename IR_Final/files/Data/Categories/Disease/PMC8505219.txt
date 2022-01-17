@@ -1,0 +1,4 @@
+34661045|PMC8505219
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Study Objectives
+COVID-19 has been associated with residual respiratory and cardiovascular complications even in asymptomatic patients. Case series in patients with COVID-19 have shown that patients can have persistent dyspnoea, restlessness, anxiety, palpitations, fatigability. Abnormal EEG waves are very commonly seen during sleep in COVID-19 survivors.

@@ -1,0 +1,3 @@
+34631727|PMC8493244
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background: The outbreak of COVID-19 attracted the attention of the whole world. The weight coefficients of these features were higher than 1.5 (Table 4).Prediction of disease outcome is one of the most interesting and challenging tasks for physicians. Borderline-1 Smote was used to solve the data imbalance between death and survival patients.

@@ -1,0 +1,3 @@
+34584498|PMC8461039
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The coronavirus (COVID-19) disease has caused serious and irreversible damage to the ecotourism industry, posing serious challenges to all parts of the ecotourism supply chain. in their paper, used an evaluation method to assess the imposed costs by the coronavirus, especially the social cost in the TI. Furthermore, Constraints (16), (19) are deemed meaningful when the objective value is equal to the AL.To better illustrate the procedure of the used methodologies in this paper, we have prepared a pseudo-code shown in Fig.

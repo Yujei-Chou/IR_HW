@@ -1,0 +1,3 @@
+34710175|PMC8553063
+{'Chemical', 'Disease', 'Species', 'Gene'}
+This paper focuses on the application of deep learning (DL) in the diagnosis of coronavirus disease (COVID-19). Together with the volumetric assessment, the two segmentation tasks enabled a chest CT scan prediction to give statistical information on COVID-19 anomalies. The next operation is the batch normalization that addresses the issues of internal covariance shift inside feature maps.

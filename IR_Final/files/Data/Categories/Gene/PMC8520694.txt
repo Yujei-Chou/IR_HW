@@ -1,0 +1,4 @@
+34703602|PMC8520694
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+Sudden Sensorineural Hearing Loss is defined as sensorineural hearing loss of 30dB or greater over at least three contiguous audiometric frequencies occurring within a 72-h period, usually accompanied by tinnitus or temporary spells of vertigo. In a comparative study by Mustafa et al, the amplitudes of transient evoked otoacoustic emissions (TEOAEs) and thresholds of pure-tone audiometry were significantly worse in COVID-19-infected patients in comparison to normal non-infected subjects concluding COVID-19 infection could have deleterious effects on cochlear hair cell functions despite being asymptomatic. Coagulopathic disorder with thrombotic events in COVID-19 patients is described which can lead to SSNHL.

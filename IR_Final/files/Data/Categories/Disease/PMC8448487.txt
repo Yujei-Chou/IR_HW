@@ -1,0 +1,4 @@
+34566238|PMC8448487
+{'Chemical', 'Disease', 'Species'}
+Graphical abstract
+Coal accounts for around a third of global primary energy supply and is responsible for 40% of global CO2 emissions. To investigate the implications of different post-COVID-19 coal demand scenarios on coal producing countries, we run a simulation of the demand scenarios presented in the previous sections with the COALMOD-World (CMW) model under two modalities: a "competitive market" scenario, without additional constraints imposed on global coal trade in the model; and a "limited market" scenario, with policy driven import bans in China and India from 2025 onwards, representing the attempt to prop-up their national coal industry as an economic recovery measure. Scenarios taking into account additional policies aimed at reducing the use of fossil fuels could significantly worsen the outlook for coal producers and should be assessed in further studies.

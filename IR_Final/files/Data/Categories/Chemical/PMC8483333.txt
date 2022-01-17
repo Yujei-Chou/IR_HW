@@ -1,0 +1,4 @@
+34591874|PMC8483333
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+In September of 2020, roughly half of United States (US) universities and colleges allowed at least some students back for in-person instruction. I suggest the authors re-consider the effect size in light of data related to SARS-CoV-2. Most often in cost effectiveness analyses, both cases prevented and QALYs (gained) are presented as outcomes.[Response] Thank you.

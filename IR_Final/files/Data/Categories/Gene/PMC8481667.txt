@@ -1,0 +1,4 @@
+34603199|PMC8481667
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Aims
+Coronavirus disease 2019 (COVID-19), caused by SARS-CoV-2, is a serious global public health problem that has affected more than 100 million people worldwide (as of January 26, 2021). Our findings are surprising because in-hospital use of sulfonylurea has been associated with lower mortality. suggested that mortality was significantly greater in patients with T2DM who had COVID-19 and received insulin, compared with those who did not receive insulin (HR, 7.70; 95% CI, 4.22-14.05).

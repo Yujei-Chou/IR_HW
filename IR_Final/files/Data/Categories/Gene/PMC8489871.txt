@@ -1,0 +1,4 @@
+33844937|PMC8489871
+{'Chemical', 'Disease', 'Species', 'Gene'}
+To the Editor:
+To the Editor:We read with great interest the article by Bellani and colleagues, "Noninvasive Ventilatory Support of Patients with COVID-19 outside the Intensive Care Units (WARd-COVID)," published in AnnalsATS. Bellani and colleagues demonstrated that NIV is feasible outside the intensive care unit (ICU) in COVID-19-associated AHRF, with an overall success rate of 65% and a 60-day mortality rate of 25%. Bellani and colleagues also identified elevated levels of CRP as an independent predictor of NIV failure.

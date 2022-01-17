@@ -1,0 +1,3 @@
+34803818|PMC8595264
+{'Disease', 'Species', 'Gene'}
+Research shows that trained mentors achieve better results than untrained ones. This indicates a decoupling of mentoring targets from the consideration of the resources needed to achieve them. Contrasts revealed that respondents viewed learning targets as probably more achievable than the other targets, with F(1, 173)=59.48, p<0.001, partial eta2=0.26; respondents deemed coping targets probably less likely to be achieved, with F(1, 173)=49,49, p<0.001, partial eta2=0.35.A look at the mean values in Table 1 shows that potential mentors are of the opinion that resources for their school mentoring are sufficiently available.

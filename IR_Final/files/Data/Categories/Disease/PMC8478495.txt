@@ -1,0 +1,4 @@
+34594139|PMC8478495
+{'Disease', 'Species'}
+Abstract
+Till June 10 of 2021, the WHO reported that there have been 174,061,995 confirmed cases of COVID-19, including over 3.7 million deaths. They are gradually formed and updated with the increasing knowledge of COVID-19, the progress of epidemic control and needed changes for behavioral responses and prevention measures after each sporadic outbreak shown in Table 1. Are they waiting for the next resurgence like Guangzhou or India so that citizens tend to be more willing to have vaccine shots as COVID-19 goes back to higher priority?

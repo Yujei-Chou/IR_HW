@@ -1,0 +1,3 @@
+34682874|PMC8541059
+{'Chemical', 'Disease', 'Species', 'Gene'}
+High-flow nasal oxygen (HFNO) is recommended as a first-line treatment in patients with acute hypoxemic respiratory failure due to COVID-19. Our study shows that effectiveness of HFNO (understood as no requirement to escalate the therapy for respiratory failure, and discharge from hospital) in patients with severe respiratory failure is 46% (Table 7), which is in line with data in the literature:from 34 to 62% depending on the severity of ARDS. Our relatively low rate of intubation is related to using NIV in some patients.

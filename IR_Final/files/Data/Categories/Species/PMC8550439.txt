@@ -1,0 +1,3 @@
+34705857|PMC8550439
+{'Chemical', 'Disease', 'Species', 'Gene'}
+This study aimed to generate a linguistic equivalent of the COVID Stress Scales (CSS) in the Serbian language and examine its psychometric characteristics. Bearing in mind that the factorial structure of the CSS may differ between populations, we decided to evaluate both the six and five-factor structure of the Serbian CSS using the confirmatory factor analysis (CFA). Reviewer #4: Dear Editor,Thanks for the opportunity to review the manuscript titled, "Validity and reliability of the Serbian COVID Stress Scales" by Milic et al.

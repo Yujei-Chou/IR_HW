@@ -1,0 +1,4 @@
+34287033|PMC8552727
+{'Chemical', 'Disease', 'Species', 'Gene'}
+ABSTRACT
+A cluster of mysterious viral pneumonia cases, later named coronavirus disease 2019 (COVID-19), was first identified in Wuhan city, China, in December 2019. Only one patient with a positive culture for A. baumannii tested negative by the FTD assay (target not included in the panel). Of the laboratory findings, significantly more patients with coinfections had abnormal serum creatinine levels (P = 0.001), lower platelet counts (P = 0.044), and higher C-reactive protein (CRP) levels (P = 0.025) than those infected with only SARS-CoV-2 (Table 5).FTD assay results were not directly communicated to the treating clinicians; therefore, antibiotic optimization and modifications were not pursued.

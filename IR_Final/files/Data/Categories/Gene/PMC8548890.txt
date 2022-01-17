@@ -1,0 +1,4 @@
+34715180|PMC8548890
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+Following major changes to healthcare policy and delivery practices due to the COVID-19 pandemic, myriad reports called for special attention to at-risk populations impacted by the pandemic, including perinatal women. Another report examined perceived impact of the pandemic on mental health among perinatal women recruited for a randomized trial of integrated OB/GYN and behavioral healthcare, finding that women who screened positive for depression endorsed a greater perceived impact of the pandemic on their mental health, as well as greater disruption in accessing mental health care. Table 2 includes a summary of COVID-19 related impacts on mental health, somatic functioning and stress levels.

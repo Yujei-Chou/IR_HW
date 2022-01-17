@@ -1,0 +1,3 @@
+34722016|PMC8544642
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Introduction: Some studies have highlighted the effect of COVID-19 infection on the quality of sleep; however, the data is limited. Patients were followed up 30 days after their recovery from COVID-19 (Table 1).The mean PSQI score was significantly higher in the post-COVID-19 group compared to the pre-COVID-19 group (6.28 +- 2.11 vs. 3.22 +- 0.80; p-value <0.0001). More inclusive data may be required to critically comment on the true prevalence of insomnia in long COVID.

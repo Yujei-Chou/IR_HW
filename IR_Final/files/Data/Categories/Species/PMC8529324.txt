@@ -1,0 +1,4 @@
+34697596|PMC8529324
+{'Chemical', 'Disease', 'Species'}
+Introduction
+Physical activity is an essential component in the prevention of almost all chronic diseases particularly in cardiovascular diseases. The data transfer to the Polar-flow-web page showed that the patients wore the watches for an average of 15 hours per day. During the first and second COVID-19 lockdown in Germany no changes in daily physical activity were found in a cohort of patients after PVI.The study was co-funded by the Ministry of Science research and culture State of Brandenburg.

@@ -1,0 +1,4 @@
+34614328|PMC8531987
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+After the emergency use authorization of the BNT162b2 messenger RNA (mRNA) vaccine (Pfizer-BioNTech) against coronavirus disease 2019 (Covid-19) by the Food and Drug Administration, authorization was also granted for use in Israel. This subgroup was chosen post hoc according to the apparent increase in risk observed in male teenagers and young adults. Repeating these analyses with a shorter follow-up of 7 days owing to the presence of a cluster that was noted after the second vaccine dose disclosed similar differences in male recipients between the ages of 16 and 19 years (risk difference, 13.62 per 100,000 persons; 95% CI, 8.31 to 19.03).

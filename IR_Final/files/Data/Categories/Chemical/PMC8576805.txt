@@ -1,0 +1,4 @@
+34446469|PMC8576805
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The toll of the COVID-19 pandemic remains high, with 188,655,968 confirmed cases and 4,067,517 attributed deaths worldwide as of the 16th of July. Contributions of individual authors are listed in supplement S1.Adult (>=18 years) hospitalised patients with laboratory or radiological confirmed COVID-19 were screened for eligibility. There were no significant interactions between the fraction of inhaled oxygen (FiO2) at baseline (p-value=0.0906) or the time from symptoms to randomisation (p-value=0.9386) and randomised treatment in their effect on the primary outcome (supplement S5).Numbers of serious or severe adverse events reported were similar in both study arms: 20.6% (66/320) in the plasma-arm and 22.1% (36/163) in the control group (supplement S6).

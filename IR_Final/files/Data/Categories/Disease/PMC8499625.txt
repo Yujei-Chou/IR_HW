@@ -1,0 +1,3 @@
+34006345|PMC8499625
+{'Chemical', 'Disease', 'Species', 'Gene'}
+This paper focuses on climate anxiety and its role in the psychology of climate change, compared with responses to the COVID-19 global pandemic. Ursano and colleagues describe climate change as one of the top threats to global health in the 21st century, and psychology has begun to respond. The Handbook of Climate Psychology defines climate anxiety as a 'heightened emotional, mental or somatic distress in response to dangerous changes in the climate system', but suggests that 'paying heed to what is happening...is a healthier response than turning away in denial or disavowal'.

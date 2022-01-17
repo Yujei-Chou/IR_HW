@@ -1,0 +1,4 @@
+34321401|PMC8562915
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract:
+Coronavirus disease (COVID-19), first discovered in Wuhan in December 2019, is an acute respiratory infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Thus, for hypertensive COVID-19 patients, the double blow of gastrointestinal dysfunction and inflammation induced by SARS-CoV-2 infection and high blood pressure should be considered (as shown in Fig. Preliminary data have shown that RAAS inhibitors upregulate ACE2 receptor expression in animal models, raising concerns about whether these drugs increase the risk of SARS-CoV-2 infection and result in poor clinical prognosis.

@@ -1,0 +1,3 @@
+34264868|PMC8492316
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Neutrophil-mediated activation and injury of the endothelium play roles in the pathogenesis of diverse disease states ranging from autoimmunity to cancer to COVID-19. As expected, purified histone H4 increased expression of E-selectin (Figure 4A), ICAM-1 (Figure 4B), and VCAM-1 (Figure 4C) by HUVECs, while defibrotide almost completely abolished these effects. We found defibrotide to counteract endothelial cell activation and hypercoagulability triggered by NETs and histone H4.

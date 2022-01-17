@@ -1,0 +1,3 @@
+34648703|PMC8531985
+{'Disease', 'Species', 'Gene'}
+To the Editor: Previous studies have shown that the BNT162b2 (Pfizer-BioNTech), mRNA-1273 (Moderna), and Ad26.COV2.S (Johnson & Johnson-Janssen) vaccines provide robust protective efficacy against coronavirus disease 2019 (Covid-19). By 8 months after BNT162b2 vaccination, the median live-virus neutralizing antibody titer (53), pseudovirus neutralizing antibody titer (160), and RBD-specific binding antibody titer (755) elicited by the vaccine were lower than the peak titers by a factor of 34, 4, and 29, respectively. With all three vaccines, T-cell responses showed broad cross-reactivity against SARS-CoV-2 variants (Fig.

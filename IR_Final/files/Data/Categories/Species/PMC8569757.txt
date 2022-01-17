@@ -1,0 +1,4 @@
+33773523|PMC8569757
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background/aim
+Rheumatoid arthritis (RA) and ankylosing spondylitis (AS) are the two most common rheumatological diseases worldwide [1]. Nevertheless, similar to patients with AS, a positive correlation was found between PCTF and SIS, HADS-depression subscale, and HADS-anxiety subscale (r = 0.34, p = 0.003; r = 0.23, p = 0.005; r = 0.48, p < 0.001, respectively) in patients with RA.A pandemic that has spread to large masses worldwide and has caused nearly 2 million deaths will inevitably have a psychological impact on many individuals, including patients with chronic diseases such as RA and AS. An important outcome of the current study is the finding of a more pronounced negative correlation between coping skills and disease activity in patients with RA compared to patients with AS.

@@ -1,0 +1,4 @@
+34745315|PMC8560188
+{'Chemical', 'Disease', 'Species'}
+Background
+On December 17, 2019, a case of pneumonia-like illness appeared in Wuhan, China. Gender, racial, and class differences were not significant predictors for willingness to obtain a vaccine (p = 0.483, p = 0.288, and p = 0.275 respectively).Willingness to obtain a vaccine is dependent on confidence in the US healthcare system (p < 0.001), with those agreeing that they have trust in the US healthcare system being more likely to receive the vaccine. This finding is consistent with the polls, conducted around the study's time, showing low vaccine acceptance among the public.

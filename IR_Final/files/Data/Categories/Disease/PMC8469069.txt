@@ -1,0 +1,3 @@
+34577097|PMC8469069
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Drug repositioning is a successful approach in medicinal research. A special case represents retroviruses, which use reverse transcriptase (RT) during replication. evaluated the antiviral activity of 25 nM and 25 microM concentration of compound 1 and 4 (a derivative of compound 3, Figure 1), respectively, in lung carcinoma cells (A549) treated with the compounds 16 h before infection and observed blocked tyrosine-phosphorylation of EGFR, which is otherwise triggered by RSV.

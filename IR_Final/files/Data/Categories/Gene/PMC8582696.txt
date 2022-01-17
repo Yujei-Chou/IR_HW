@@ -1,0 +1,3 @@
+34769901|PMC8582696
+{'Disease', 'Species', 'Gene'}
+Aim: An online survey was proposed to the health workers of a public hospital of an Italian northern city. Regarding their COVID-19 psychological and professional experience, the results of the survey's quantitative part showed that many HCWs reported feelings of uncertainty (40.16%), fear that the people they care about may get sick (65.47%) and worries of being infected (27.03%) as the main pandemic difficulties. Someone also highlighted the perception of abandonment in people suffering from other pathologies and many of them, in line with Cipolletta and Ortu and Tomaino et al.,

@@ -1,0 +1,3 @@
+34696282|PMC8537408
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Evidence on the effectiveness of SARS-CoV-2 vaccines in nursing home (NHs) residents is limited. Consistently with these findings, data from 2501 US NHs indicate that the spread of SARS-CoV-2 significantly decreased five and six weeks after the first BNT162b2 vaccine dose, both among residents and staff. The present data lend support to the necessity of a high SARS-CoV-2 vaccination coverage among NH residents.

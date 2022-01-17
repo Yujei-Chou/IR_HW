@@ -1,0 +1,4 @@
+34678266|PMC8492746
+{'Disease', 'Species', 'Gene'}
+Objectives
+The novel coronavirus (COVID-19) pandemic has disproportionately affected nursing home residents. Conversely, facilities providing higher nursing hours per resident per day (0.83, 95% CI 0.76-0.90) exhibited a protective effect on odds of COVID-19-related death. Consistent with our findings, Gorges et al found a less pronounced marginal effect of racial and ethnic makeup in nursing homes on COVID-19 deaths; and a recent resident-level analysis found an increased risk of COVID-19 hospitalizations for nonwhite residents (Black, Hispanic, Asian American), whereas increased mortality risk was only found in Asian Americans.

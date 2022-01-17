@@ -1,0 +1,4 @@
+34642663|PMC8499911
+{'Chemical', 'Disease', 'Species'}
+ABSTRACT
+Epidemics are based on an ensemble of transmission events among heterogeneous hosts; in fact, epidemics are determined by the density and intensity of natural biological fluxes among biological entities connected by complex networks that respond to a highly variable ensemble of causes and forces (Baquero; Baquero et al.). There are apparently numerous differences in viral loads when comparing asymptomatic and non-severe symptomatic patients (Lee et al.).This period refers to the duration of infectiveness, the time duration which a person harboring the virus is able to transmit that infection to another human. The positive effect of an early lockdown for elderly patients as a single intervention on the evolution of epidemics is clearly visible in our modeling.

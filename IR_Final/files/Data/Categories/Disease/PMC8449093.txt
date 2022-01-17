@@ -1,0 +1,4 @@
+34567551|PMC8449093
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+The post-acute COVID-19 syndrome (PACS) includes a plethora of non-specific symptoms with no approved therapy. The following is a clinical case of a patient with PACS who reported considerable improvement with aprepitant, a neurokinin 1 receptor (NK-1R) inhibitor which is indicated for the treatment of nausea and vomiting associated with chemotherapy, and which is currently being explored for use in acute COVID19.The patient is a 39-year-old woman, a nurse by profession, current smoker. The present article describes the subjective positive response to aprepitant of a patient with PACS.

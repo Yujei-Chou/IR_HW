@@ -1,0 +1,3 @@
+34574804|PMC8468291
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background: Sports university students are usually expected to lead an active life and have a lower risk of depression. Our research found that being overweight was not associated with total sedentary time, which is contrary to most previous research. The results of the multivariate regression showed that recreational screen time was associated with an increased risk of depression among sports university students, while sedentary time spent completing schoolwork was associated with a decreased risk of depression; total sedentary time and other modalities of SB were not significantly associated with depression.

@@ -1,0 +1,3 @@
+34629700|PMC8492004
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The COVID-19 pandemic could result in large government interventions in the banking industry. This suggests that intervened banks experience a decrease in their ability to price over marginal costs. We tackle this issue in Appendix B, where we show that the decline in the Lerner index is not driven by a mechanical measurement error based on the evidence that potential mismeasurement of marginal costs with respect to the costs used by banks in pricing decisions is not different between treatment and control groups.

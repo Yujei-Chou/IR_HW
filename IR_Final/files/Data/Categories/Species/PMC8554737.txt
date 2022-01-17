@@ -1,0 +1,4 @@
+34714497|PMC8554737
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+To the Editor
+To the EditorInterventions to address viral persistence of COVID-19 in immunosuppressed individuals are urgently needed for both patient and societal benefit. Following diagnosis of specific antibody deficiency aged 24 years (based on suboptimal conjugated and unconjugated vaccine responses and reduced class switched memory B cells, described online supplementary), he was commenced on subcutaneous immunoglobulin replacement (SCIg) and maintained on 8 g/week with trough IgG levels of 12-15 g/L. Sinopulmonary infection history included RT-PCR-confirmed HKU1-coronavirus infection 12 months previously. To our knowledge, this is the first description of therapeutic mRNA vaccination in the context of persistent SARS-CoV-2 infection.

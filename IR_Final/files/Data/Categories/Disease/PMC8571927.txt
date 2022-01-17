@@ -1,0 +1,4 @@
+34795820|PMC8571927
+{'Disease', 'Species'}
+Introduction
+Sleep is a naturally re-occurring physiological phenomenon that is essential for rest, repair, learning, and development. Table 3 shows that there was no association of sleep problem with any of the sociodemographic factors studied, the exception to this where age (r=0.26) and social support (r=-0.18) as shown in Table 4. Another important finding in this study was that increasing age was also significantly associated with sleep problems.

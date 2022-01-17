@@ -1,0 +1,3 @@
+34737902|PMC8559421
+{'Chemical', 'Disease', 'Species', 'Gene'}
+In this review, we provide an overview of the current research and treatment of all types of traumatic brain injury (TBI) before illustrating the need for improved care specific to mild TBI patients. For computed tomography (CT) positive mild TBI patients, intraventricular and/or petechial hemorrhages are particularly associated with worse long-term outcomes (GOSE <5, OR: 3.47), while epidural hematomas are not. The optimal management for CT positive TBI patients taking oral antiplatelet and anticoagulation medication is not clear.

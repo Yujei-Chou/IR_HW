@@ -1,0 +1,4 @@
+34548691|PMC8447449
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Abstract
+The 2019 pandemic due to the coronavirus disease (COVID-19) and the subsequent ongoing lockdowns is on course to reverse years of gains in the alleviation and reduction of poverty, thereby undermining pre-existing global efforts to eradicate poverty through the achievement of specific Sustainable Development Goals (SDGs) by 2030. This aligned with the findings of FAO (2020), that found that the lockdown caused an income shock that will negatively affect the food security and nutrition of the poorest as incomes fall and food prices increase. During the total lockdown phase, owing to movement restrictions they conducted no business at all and therefore had no income whatsoever.

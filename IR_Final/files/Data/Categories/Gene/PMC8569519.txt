@@ -1,0 +1,3 @@
+34754136|PMC8569519
+{'Chemical', 'Disease', 'Species', 'Gene'}
+NGOs are important civil actors in societies' emergency and disaster responses, and they come together on social media to identify prominent issues and coordinate issue responses. In the economic sub-issue network, when public attention was low, there were 180 NGOs connected by 157 ties (density = 0.0041; see Fig. We used "specialists" as reference, and did not find support for the differential influence of generalists and specialists at low (Estimates = -0.109, p > .05) nor high (Estimates = 0.003, p > .05) issue attention stages in the whole networks (H2a & b were rejected).

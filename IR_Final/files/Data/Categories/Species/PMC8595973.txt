@@ -1,0 +1,3 @@
+34800535|PMC8595973
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Implementing a lockdown or activity restriction to reduce the spread of COVID-19 cases is assumed to improve air quality in highly populated cities. 3 shows the PM2.5 and PM10 concentrations in 2020, highlighting 56 days before and during the lockdown period. This letter pointed to limitations of past studies and comparing air quality pre- and during lockdown is misleading.

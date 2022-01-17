@@ -1,0 +1,3 @@
+34700073|PMC8541821
+{'Gene', 'Disease', 'Species', 'Mutation'}
+I read with interest the recent publication by Bayarri-Olmos et al. The SARS-CoV-2 receptor-binding domain (RBD) variant investigated by Bayarri-Olmos et al., already demonstrated enhanced binding of the Y453F RBD to human ACE2 in September 2020.The author declares no conflicts of interests with the contents of this article.

@@ -1,0 +1,3 @@
+34720426|PMC8545718
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The COVID-19 pandemic's first wave required considerable adaptation efforts on the part of healthcare workers. Problematic organisational changes were more frequently mentioned in surgical departments (59.2%) and less frequently in non-hospital institutions (34.8%).The second most frequently cited problematic situations related to COVID-19 involved workloads (from under-utilisation to overload) and work schedules. Based on the present findings, we suggest two possible means of reinforcing meso-level resilience.

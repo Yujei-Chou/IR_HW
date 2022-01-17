@@ -1,0 +1,4 @@
+34735523|PMC8568101
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Introduction
+Coronavirus disease 2019 (COVID-19) is predominantly a respiratory illness caused by severe acute respiratory syndrome coronavirus 2 (SARS-COV-2) that first arose in December 2019 in Wuhan, China. found that in patients hospitalized with COVID-19, famotidine use was associated with a reduced risk of clinical deterioration leading to intubation or death; however, other observational studies did not find a reduced risk of mortality, intensive care unit admission, and/or intubation with the use of famotidine in patients with COVID-19.To our knowledge, two meta-analyses on the use of famotidine in patients with COVID-19 have been published. Despite the use of both PPIs and H2 blockers in the setting of acid suppression, H2 blockers like famotidine may have a better long-term safety profile; observational studies such as one by Xie et al.

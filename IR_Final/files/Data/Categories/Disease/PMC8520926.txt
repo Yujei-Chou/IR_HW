@@ -1,0 +1,3 @@
+34671616|PMC8520926
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background: Secondary infections pose tremendous challenges in Coronavirus disease 2019 (COVID-19) treatment and are associated with higher mortality rates. After 14 days of anti-HHV-1 therapy, the number of HHV-1 reads decreased and reached to single digit level of RPM. To the best of our knowledge, this is the first report describing re-activation of latent HHV-1 in a critically ill COVID-19 patient with prolonged ECMO support.

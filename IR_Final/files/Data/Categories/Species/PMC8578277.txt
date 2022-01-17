@@ -1,0 +1,4 @@
+34755189|PMC8578277
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Abstract
+The initial wave of the COVID-19 pandemic had a global impact on the provision of cancer care, manifest in postponement of and alterations to standard therapy. Despite this, after referral, a greater proportion of patients in the pandemic group went on to receive adjuvant therapy (70.7 versus 49.1 per cent, P = 0.017), with a corresponding reduction in the proportion of patients that were referred in whom adjuvant therapy was not indicated (3.5 versus 12.2 per cent, P = 0.002). The UK has reported national-level data, describing substantial alterations to standard colorectal care during the pandemic interval.

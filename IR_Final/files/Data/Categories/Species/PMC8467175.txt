@@ -1,0 +1,4 @@
+34563144|PMC8467175
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The rapid, widespread escalation of Coronavirus Disease 2019 (COVID-19) has led the WHO to declare this disease a global pandemic. A second meta-analysis included 3 studies performed in school settings and revealed that the hand hygiene promotion program had a beneficial effect, since the number of laboratory-confirmed influenza cases was lower in hand hygiene promotion intervention, compared to the control group, RR: 0.49, 95%CI [0.38;0.62], (p < 0.0001) (Fig. For studies during an interepidemic period, the certainty of evidence was downgraded by -2, due to risk of bias (Fig.

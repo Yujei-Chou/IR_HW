@@ -1,0 +1,4 @@
+34797482|PMC8603898
+{'Disease', 'Species', 'Gene'}
+Background
+The COVID-19 pandemic significantly affected healthcare delivery over the past year, with a shift in focus toward emergent and urgent care and away from nonurgent and preventative care. This demonstrates a 17% decrease in treatment of melanoma patients post-lockdown compared with pre-lockdown. Despite no overall delay in care between biopsy and surgery identified due to the pandemic, fewer patients presented with in situ disease post-lockdown (15.3% vs. 17.9%, p = 0.412), and a higher proportion presented with advanced disease (stage III and IV melanoma, 11.2% vs. 9.9%, p = 0.618; Table 1).

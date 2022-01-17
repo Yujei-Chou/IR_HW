@@ -1,0 +1,3 @@
+34677197|PMC8541609
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+COVID-19 has shown significant morbidity with the involvement of multiple systems, including the cardiovascular system. The significant rise of cardiac biomarkers in blood was an independent predictor of worse in-hospital prognosis and mortality. Studies suggested that patients who have recovered from COVID-19 will present a greater risk for a range of cardiac diseases, including heart failure, myocardial infarction (MI), and arrhythmia in the mid- and long-term.

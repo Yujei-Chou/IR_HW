@@ -1,0 +1,4 @@
+34779849|PMC8593765
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Key Points
+Excess mortality is a measure of the net impact of COVID-19 that can be used to compare countries with different reporting systems and different definitions of COVID-19 deaths. We calculated excess mortality relative to 2019 after adjusting for key characteristics and averaging over the January 2019 census population. The posterior mean of the annualized baseline mortality rates inferred from the model range from a minimum of 0.5 deaths per 1000 individuals for the 10 to 19 years age range to a maximum of 150 deaths per 1000 individuals for age 80 years and older, also in agreement with national statistics (Figure 3A).On the basis of our census data collected on 3 occasions, once in person and twice over the telephone, we conclude that mortality did not increase in 2020 across our 135 study villages or paras.

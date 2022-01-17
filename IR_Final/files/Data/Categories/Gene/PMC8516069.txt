@@ -1,0 +1,3 @@
+34660506|PMC8516069
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Introduction/Objective: Pandemic of COVID-19 is a major public health problem. Thus, it seemed imperative to understand and state the positive predictors of the functional COVID-19 domain of HL to establish a pattern and create HL promoting programs of COVID-19 and to act near those with lower HL.Thereby, this study aims at understanding the predictors of HL of COVID-19:functional domain among a mainly rural district in Portugal, to promote prevention programs and provide scientific recommendations for the prevention of COVID-19/pandemics in the future. The analysis of residues is a useful tool for verifying the assumptions of the models regarding the AIC concentration variable.

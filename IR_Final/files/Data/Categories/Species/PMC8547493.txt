@@ -1,0 +1,3 @@
+34669371|PMC8547493
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The COVID-19 pandemic has exacerbated our society's tremendous health equity gap. ACE2 immobilization on the surface of the active cotton swab surface involved covalent anchoring of ACE2 through the formation of an amide bond since the activation process of the cotton swabs with potassium periodate generated aldehyde functional groups confirmed by an increased band signal at 1654 cm-1 using Fourier-transform infrared spectroscopy (FTIR) (Figure S5). A lower incubation time yielded a lower sensitivity (low color intensity) due to a restricted time period to allow for interactions and sandwich formation between the cotton swab-ACE2-virus-ACE2-AuNano-cys.

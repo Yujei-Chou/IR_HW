@@ -1,0 +1,3 @@
+34744334|PMC8556863
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Pulmonary mucormycosis (PM) is a rare disease. The protocols followed for pre-operative workup, antifungal therapy and surgical management, which were common to all cases, are presented below. Three patients had neutropenia (< 1500 cells/mm3), including one renal allograft recipient on immunosuppressive therapy.

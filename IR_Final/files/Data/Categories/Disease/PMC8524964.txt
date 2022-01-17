@@ -1,0 +1,3 @@
+34636246|PMC8524964
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Direct detection of SARS-CoV-2 in biological specimens is often challenging due to the low abundance of viral components and lack of enough sensitivity. For example, it was difficult to attach antibodies on the surface of Co2+/ABEI/MBs. As shown in Figure S7C, the CL responses for the N protein decreased with a prolonged incubation time from 5 to 20 min and achieved constant values at 20 min, suggesting that the immunoreaction reached an equilibrium state between MAA/Co2+/N-Ab/BSA and the N protein.

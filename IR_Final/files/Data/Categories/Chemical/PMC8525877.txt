@@ -1,0 +1,3 @@
+34690451|PMC8525877
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Air quality changes during the coronavirus disease 2019 (COVID-19) pandemic in China has attracted increasing attention. We found sharp declines in all air pollutants from February 2020 to January 2021. Moreover, another study in China not only observed sharp drops with 12.9 mug/m3 and 18.9 mug/m3 in NO2 and PM2.5 due to stringent traffic restrictions and self-quarantine interventions but also found that the drops could avoid a total of 8911 NO2-related deaths (95% confidence intervals [CI]: 6950, 10866) and 3214 p.m.2.5-related deaths (95%CI: 2340, 4087).

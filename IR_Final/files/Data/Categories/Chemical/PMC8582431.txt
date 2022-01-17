@@ -1,0 +1,4 @@
+34669275|PMC8582431
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+Non-parametric survival analyses are sophisticated statistical techniques that have become very popular in current medical research. This regression method is widely used for investigating the association between patients' survival time and one or more categorical or continuous variables. Hence, censoring of patients who died for any other cause because the follow-up stops violates the independent censoring assumption (i.e., the event "death from another cause" is informative), thus biasing the cumulative incidence of death associated with COVID-19 pneumonia.

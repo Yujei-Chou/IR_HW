@@ -1,0 +1,3 @@
+34599924|PMC8480010
+{'Disease', 'Species', 'CellLine'}
+The coronavirus disease 2019 (COVID-19) pandemic has been associated with a declining volume of patients seen in the emergency department. These changes have been attributed to several factors including fear of contracting the virus and shelter-in-place orders. Significant differences were noted in the intent of those who died from non-natural causes with a greater proportion of homicides (10.4% vs. 12.8%; p = .03) and a smaller proportion of suicides during the pandemic study period (31.9% vs. 27.8%; p = .02).

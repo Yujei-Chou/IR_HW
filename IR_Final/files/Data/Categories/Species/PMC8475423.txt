@@ -1,0 +1,4 @@
+34570331|PMC8475423
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Purpose
+Resilience refers to the process of adaptation to or dealing with adversity in a positive way. In addition, the absence of loneliness reduced the likelihood of perceiving the social distancing recommendations as restrictive (OR 0.62, 95% CI 0.45-0.86), whereas stress-coping ability, living arrangement, and walking speed were not associated with the perceived restrictiveness of social distancing recommendations. Higher walking speed was an important predictor of maintenance of high QoL only among those who perceived social distancing as restricting their activities.

@@ -1,0 +1,4 @@
+33883260|PMC8546712
+{'Disease', 'Species', 'Gene'}
+ABSTRACT
+Coronavirus disease 2019 (COVID-19) was first detected in December 2019 in Wuhan, China. The COVID-19 antibody seroprevalence was reported for the whole study population and different age and gender subgroups. While 1,332 individuals, which account for 3.77% (bootstrap 95% CI, 3.58%, 3.97%) of the cohort, tested positive for COVID-19 antibody (either IgM or IgG), 168 people (0.48%; bootstrap 95% CI, 0.40%, 0.55%) were positive for both IgG and IgM. Among the 1,332 who tested positive, 531 were males and 801 were females.

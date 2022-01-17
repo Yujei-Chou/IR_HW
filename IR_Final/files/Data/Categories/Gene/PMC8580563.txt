@@ -1,0 +1,3 @@
+34753174|PMC8580563
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Thromboembolic events are frequently reported in patients infected with the SARS-CoV-2 virus. In addition, PLTs  contents of calcium and cyclic-adenosine-monophosphate (cAMP) were identified to play central role in antibody-induced procoagulant PLT formation. Our data indicate that upregulation of cAMP could be a potential therapeutic target to prevent antibody-mediated coagulopathy in COVID-19 disease.

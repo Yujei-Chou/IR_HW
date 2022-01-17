@@ -1,0 +1,4 @@
+34605352|PMC8544667
+{'Chemical', 'Disease', 'Species', 'Gene'}
+ABSTRACT
+The coronavirus 2019 (COVID-19) outbreak has caused major changes in daily life and routine activities in societies all over the world. In our cohort, 31.3% of patients required PICU admission, median 2 days. reported that serum IL-1, IL-2, and IL-6 levels were elevated in patinets with MIS-C. IVIG resistance was found 55.2% of our patients, which was higher than KD that reported by Pilania et al.

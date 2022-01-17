@@ -1,0 +1,3 @@
+34769726|PMC8582683
+{'Chemical', 'Disease', 'Species', 'Gene'}
+In the early stage of the COVID-19 pandemic in South Korea, public fear or social scaring of urban living was observed, which caused people to change their daily routines. Several countries' outbreak triggered global public fear and anxiety of urban living. A larger, city-level analysis in South Korea found that spatial connectivity had bigger impacts on proliferating the COVID-19 pandemic than urban density.

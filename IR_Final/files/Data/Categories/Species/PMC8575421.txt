@@ -1,0 +1,4 @@
+34765899|PMC8575421
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+The rates of injury-related death and disability have been steadily increasing in low- and middle-income countries (LMICs). A threshold for radiological consolidation was established from a score of 0.6875 (11/16), which means bridging in at least 3 out of 4 cortices, and initial presence of callus in the last one (3 + 3 + 3 + 2).This was a single-center, descriptive study, survey (cross-sectional) design. Although these results are to be considered a failure from a therapeutic point of view, they provide further support to the direct correlation between the capacity to perform a proper S&S and the BH process (Fig.

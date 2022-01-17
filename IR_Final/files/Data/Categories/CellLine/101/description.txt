@@ -1,0 +1,1 @@
+n,serum,patient,result,immunity,found,collection,value,fig,study,define,symptom,appeared,shortly,onset,participant,test,still,experiencing,least,one,line,large,survey,germany,prevalence,date,pcr,serological,functional

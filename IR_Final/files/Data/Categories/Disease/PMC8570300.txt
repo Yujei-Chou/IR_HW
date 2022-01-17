@@ -1,0 +1,3 @@
+34746051|PMC8570300
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background: During the COVID-19 pandemic, telemedicine use has increased within community pediatrics. Prior to the COVID-19 pandemic, strides in telemedicine were lagging for community pediatrics. We suggest further studies that (1) assess via objective measures (2), differentiate between visits that focus more on a physical exam vs. those that relate to preventive, behavioral, developmental, or administrative issues, as well as chronic care (3), assess the use of pediatric telediagnostics, and (4) reassess over time.

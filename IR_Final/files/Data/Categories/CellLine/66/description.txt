@@ -1,0 +1,1 @@
+mean,summary,change,point,time,statistic,descriptive,parameter,analyzed,baseline,value,absolute,cardiac,item,arterial,volume,blood,pbv,pulmonary,index,output,end,pressure,background,hemodynamic,day,order,balance,fluid,http

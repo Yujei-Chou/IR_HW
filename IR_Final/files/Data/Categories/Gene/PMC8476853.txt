@@ -1,0 +1,3 @@
+34595149|PMC8476853
+{'Chemical', 'Disease', 'Species', 'Gene'}
+This paper aims to evaluate the performance of multiple non-linear regression techniques, such as support-vector regression (SVR), k-nearest neighbor (KNN), Random Forest Regressor, Gradient Boosting, and XGBOOST for COVID-19 reproduction rate prediction and to study the impact of feature selection algorithms and hyperparameter tuning on prediction. The reproduction rate (Ro) is an important parameter to predict the spread of a disease in a pandemic situation. The XGBoost has the best scores for the MAE, R-squared, and RAE, and the second-best score for RRSE.Experiment 3 was conducted without feature selection and with hyperparameter tuning.

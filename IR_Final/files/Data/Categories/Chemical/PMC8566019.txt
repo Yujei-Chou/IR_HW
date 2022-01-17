@@ -1,0 +1,4 @@
+34732250|PMC8566019
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Dextromethorphan hydrobromide (DXM) is a popular antitussive medication in the USA. ED vital signs showed a heart rate of 166 beats per minute, blood pressure 125/94 mmHg, respiratory rate 24 breaths per minute, 90% oxygen saturation on room air, and temperature 103.5  F. Physical examination and full history were unable to be performed due to her agitation. After 24 hours of critical care support, a trial off sedation was attempted.

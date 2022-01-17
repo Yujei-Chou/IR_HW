@@ -1,0 +1,3 @@
+34595854|PMC8484998
+{'Chemical', 'Disease', 'Species'}
+Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has become a global public health threat. It is intriguing that 25.0% of patients with COVID-19 who had not received hydroxychloroquine nor azithromycin still had a QTc interval of 500 ms or greater, compared with 10.8% of their COVID-negative peers. Finally, the use of medications that prolongs QT interval was not analyzed.

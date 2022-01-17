@@ -1,0 +1,4 @@
+34632264|PMC8497879
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+Learning pointsEarly identification and treatment of acute psychotic symptoms and severe depression may have an impact on post-operative complications and length of hospital stay. During the ICU treatment, the patient was seen daily by the psychosomatic liaison consultant (Table 1) of the Department of Cardiovascular and Thoracic Surgery who knew the patient from the pre-transplant psychotherapeutic treatment. Due to complications, our patient developed acute psychosis/delirium while in the ICU.

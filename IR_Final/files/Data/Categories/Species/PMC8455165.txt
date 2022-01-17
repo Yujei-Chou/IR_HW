@@ -1,0 +1,3 @@
+34565805|PMC8455165
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The coronavirus pandemic is more fully exposing ubiquitous economic and social inequities that pervade conservation science. Here, we (1) describe how the pandemic differentially manifests inequity on project teams, particularly for groups that have been structurally excluded from conservation science, (2) consider equitable career advancement during the coronavirus pandemic, and (3) offer suggestions for PLs to provide mentorship that prioritizes equity and wellbeing during and beyond the pandemic. These differences mean that rejoining lab and field work efforts pose different risks to team members as coronavirus prevalence ebbs and flows in a community.

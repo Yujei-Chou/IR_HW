@@ -1,0 +1,3 @@
+34574915|PMC8471382
+{'Chemical', 'Disease', 'Species'}
+Background: The coronavirus 2019 (COVID-19) pandemic forced students and teachers to rapidly adopt digital education methods. For COVID-19, a basic reproduction number (R0) of 2.5 has been estimated. In our hands, the exploitation of the digital LMS feedback option with the lowest possible threshold, namely the retrospective analysis of students' overall evaluation of DTMs with scores from 0 to 5, yielded novel, significant insights (Figure 1 and Figure 2; Table 3): first, the average evaluation of a DTM was significantly correlated with the number of figures provided in the DTM, obviously following a saturation curve (Figure 1).

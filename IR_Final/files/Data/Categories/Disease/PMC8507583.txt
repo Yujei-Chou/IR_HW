@@ -1,0 +1,3 @@
+34660188|PMC8507583
+{'Chemical', 'Disease', 'Species', 'Gene'}
+As different types of hazards, including natural and man-made, can occur simultaneously, to implement an integrated and holistic risk management, a multi-hazard perspective on disaster risk management, including preparedness and planning, must be taken for a safer and more resilient society. This study introduces a non-ICU patient classification framework developed based on available patient mobility data. A common strategy in patient evacuation is evacuation prioritization, i.e., the less vulnerable ambulatory patients are evacuated first, followed by patients in critical conditions or with special constraints like infectious COVID patients.

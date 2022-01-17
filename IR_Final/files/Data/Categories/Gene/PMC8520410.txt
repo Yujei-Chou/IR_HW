@@ -1,0 +1,4 @@
+34667693|PMC8520410
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+For about a year now, the world has been under the grip of the coronavirus disease 2019 (COVID-19) pandemic. The mean time of onset of the first HSV infection was 8 +- 6.48 days while the onset on the second and third attacks were 11 +- 3.44 and 22 +- 3.53 days, respectively (Table 2).Depending on the host cell type, HSV can produce lytic and latent lytic stages, where the lytic stage can occur in a variety of tissue types, while the latent stage tends to occur in neuronal tissues. Four pathomechanisms have been proposed to explain the higher frequency of herpes reactivations during COVID-19.

@@ -1,0 +1,4 @@
+34515235|PMC8450839
+{'Chemical', 'Disease', 'Species'}
+Dear Editor,
+Dear Editor,The emergence of severe acute respiratory syndrome coronavirus 2 disease (COVID-19) has caught off guard and shattered the entire scientific and medical world system. Spirometry and diffusion lung carbon monoxide were the most common answers (almost 80% of the specialists believe that these exams are indicated for each follow-up). In a study recently published in Nature (March 22, 2021), it is recommended that clinical assessment and chest X-ray have to be guaranteed in all patients at 12 weeks while pulmonary functional tests (PFTs), 6-min walking tests (6MWTs), sputum sampling, and echocardiogram have to be provided according to clinical judgment; moreover, patients are recommended to be evaluated with chest high-resolution CT, CT pulmonary angiogram, or echocardiogram, or discharged from follow-up.

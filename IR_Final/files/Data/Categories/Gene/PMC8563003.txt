@@ -1,0 +1,3 @@
+34739862|PMC8563003
+{'Disease', 'Species', 'CellLine', 'Gene'}
+There is increasing evidence that elimination strategies have resulted in better outcomes for public health, the economy, and civil liberties than have mitigation strategies throughout the first year of the COVID-19 pandemic. On balance, there is a case for progressive elimination of COVID-19 across the globe, particularly if vaccine and antiviral effectiveness can be improved. Vaccinating children and educating their parents of its necessity is an essential step towards eliminating the virus in the USA and globally.

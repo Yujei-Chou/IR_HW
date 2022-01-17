@@ -1,0 +1,3 @@
+34658396|PMC8507416
+{'Disease', 'Gene'}
+Director:Hemos leido con mucho interes el articulo publicado recientemente por Sanchez et al., sobre <<Docencia en tiempos de crisis: Aula Virtual AEC. Por lo anterior, y con la llegada de la COVID-19, se exacerban las alarmas por la disminucion de las practicas quirurgicas complicando el aprendizaje de los residentes, limitando todavia mas las horas de practica clinica e impactando de forma directa en la apropiada adquisicion de conocimientos teoricos y practicos.

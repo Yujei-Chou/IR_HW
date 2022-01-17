@@ -1,0 +1,3 @@
+34580278|PMC8476510
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+SARS-CoV-2 outbreak has been declared by World Health Organization as a worldwide pandemic. Furthermore, with a direct comparison between the Discharged group and the Follow-up group, we found a significantly higher expression level of CD8+ T cell anti-viral functional genes in the Discharged group, most of which were the IFN-related genes (IFITM1, IFITM2, IFI6, TRIM22, and ISG15) (Fig. Moreover, the Monocle analysis showed that the Late Follow-up group contributed all cells in CD8A+CXCR5+ central memory T subset (Fig.

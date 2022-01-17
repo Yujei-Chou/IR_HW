@@ -1,0 +1,3 @@
+34734898|PMC8575116
+{'Disease', 'Species', 'Gene'}
+Supplemental Digital Content is available in the text. Of the 50 respondents who had in-person encounter in an inpatient setting, 33% or 66% of respondents reported at least 1 encounter (7 had 1 encounter, 13 had 2 to 5 encounters, and 13 had >5 encounters) with COVID-19 patients within the last 2 weeks. Our survey found that ~38% of respondents (neurologist or neurology practitioners) indicated exposure to COVID-19 at work in July.

@@ -1,0 +1,4 @@
+34134025|PMC8595066
+{'Chemical', 'Disease', 'Species'}
+Background
+Since the outbreak of the coronavirus disease 2019 (COVID-19) in 2020, the United States suffered over 32 million infections, with an estimated death toll from COVID-19 of well over half a million as of April 2021. A meta-analysis, covering 136 studies of populations affected by COVID-19 found that at least 15-16% of the general population experienced symptoms of anxiety or depression. We examined seven different COVID-19 dimensions: Sociodemographic covariates.

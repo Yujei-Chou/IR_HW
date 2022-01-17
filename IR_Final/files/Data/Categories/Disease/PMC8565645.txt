@@ -1,0 +1,3 @@
+34732152|PMC8565645
+{'Disease'}
+Correction to: BMC Public Health (2020) 20:1571. Correction to: BMC Public Health (2020) 20:1571. http://orcid.org/10.1186/s12889-020-09681-7 It was highlighted that in the original article, in the Methods and Results sections of the Abstract, the word "threat" was erroneously written as "treat" in the below two sentences.

@@ -1,0 +1,3 @@
+34650963|PMC8505690
+{'Chemical', 'Disease', 'Species', 'Gene'}
+With the outbreak and pandemic of COVID-19, point-of-care testing (POCT) systems have been attracted much attention due to their significant advantages of small batches of samples, user-friendliness, easy-to-use and simple detection. PDA nanovesicles with particle size below 100 nm facilitate higher sensitivity owing to their larger surface area for reaction. An example of a wearable electrochemical biosensor on the basis of flexible zinc-oxide nanowires (ZnO NWs) electrodes is described, which could be applied to the detection of lactate and sodium in sweat during exercise.

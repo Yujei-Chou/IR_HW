@@ -1,0 +1,3 @@
+34611319|PMC8491448
+{'Disease', 'Species', 'Gene'}
+Cross-reactive CD4+ T cells, likely induced by common cold coronavirus infections, are detected in 20-50% of peripheral blood samples from SARS-CoV-2 unexposed individuals. To study whether this may be because CD8+ memory T cells are mostly located in tissues, Niessl at al. Cross-reactive CD4+ cells were detected at similar levels in blood and tissue, whereas cross-reactive memory CD8+ T cells were largely absent in matched blood samples.

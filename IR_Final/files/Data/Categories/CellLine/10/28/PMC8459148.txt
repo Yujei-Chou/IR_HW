@@ -1,0 +1,4 @@
+34554325|PMC8459148
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Graphical abstract
+Among many metabolites, ATP is majorly produced in mitochondria and resides in cells with a concentration of 5-10 mM. Intracellular ATP represents the principal source of cellular energy and is indicative for cell energy status and viability. In summary, the probe enters the model cells U2OS with high efficiency shortly within 3 h. The probe is live cell imaging compatible and possesses high specificity for intracellular ATP. Addition of 140 microM ATP to 250 nM probe in solution elicits a strong increase in fluorescence (Fig.

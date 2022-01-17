@@ -1,0 +1,3 @@
+34310530|PMC8549134
+{'Disease', 'Species', 'Gene'}
+Solid organ and islet transplant (SOT) recipients have higher risk of death following severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection. Despite these limitations, there appears to be an early indication that vaccinated SOT recipients have a reduced risk of death from COVID-19 compared with unvaccinated SOT recipients. All these authors are also affiliated to NHS Blood & Transplant, UK.

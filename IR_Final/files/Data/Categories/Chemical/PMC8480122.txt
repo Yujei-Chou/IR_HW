@@ -1,0 +1,4 @@
+34587963|PMC8480122
+{'Chemical', 'Disease', 'Species'}
+Background
+Smartphone applications can be the solution to medical students' struggles for learning high volumes of material in a relatively short time. A number of studies have focused on evaluating students' acceptance and satisfaction of e-learning. Over the span of the first four months of the research (February 3 to June 5 2019), a total of 65 students were expected to pass the orthopedic course without using the Orthobox application who comprise the control group.

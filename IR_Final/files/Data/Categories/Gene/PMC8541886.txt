@@ -1,0 +1,3 @@
+33983136|PMC8541886
+{'Disease', 'Species', 'Gene'}
+The COVID-19 crisis has seriously affected academic medical centers (AMCs) on multiple levels. For AMCs, every step of the leadership recruiting process:from skill identification and candidate sourcing to evaluations and selection:has grown more complicated in recent years. The COVID-19 crisis has shown that systemic changes are required in many areas.

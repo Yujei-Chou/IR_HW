@@ -1,0 +1,4 @@
+34616662|PMC8462023
+{'Chemical', 'Disease', 'Species', 'Gene'}
+BACKGROUND
+Core Tip: Coronavirus disease 2019 (COVID-19) affects people of all ages; however, the risk for severe illness increases with age, with older adults being at highest risk. Our initial search did not identify studies exclusively designed for critically ill elderly patients with COVID -19 admitted to the ICU. Moreover, comparison between mechanically ventilated patients and non-ventilated ones revealed that the latter presented significantly lower mortality rates regardless of age (1% and 22.5% in the 18-to-59 and >= 60-age group respectively).Finally, two recently published large-scale studies by Guillon et al and Dres et al, the latter focusing exclusively on elderly patients over 70 years old, demonstrated similar results with reported mortality rates 38.7% in patients >= 65 years and 45.8% in patients >= 70 years, respectively.

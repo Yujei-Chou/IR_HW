@@ -1,0 +1,3 @@
+34774773|PMC8578027
+{'Disease', 'Species', 'Gene'}
+The coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection is currently a global pandemic. Interestingly, we showed that SARS-CoV-2 NSP3 has both endoplasmic reticulum and mitochondrial localizations. In addition, SARS-CoV-2 NSP3 is more closely related to mitochondrial ribosomal proteins, whereas SARS-CoV NSP3 is related to the cytosolic ribosomal proteins.

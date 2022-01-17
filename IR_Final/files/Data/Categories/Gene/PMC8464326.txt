@@ -1,0 +1,4 @@
+34584432|PMC8464326
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Introduction
+The COVID-19 pandemic has caused a huge number of deaths. This study attempted to summarize the results of earlier published studies on the attitude towards SARS-CoV-2 vaccination among healthcare workers. Furthermore, rehabilitation center workers showed a positive attitude to the COVID-19 vaccine compared to other professionals in the Canadian sample (Table 2).In the current review, different factors were observed in terms of their significance to escape from or reduce the rate of the COVID-19 vaccination approach among healthcare workers.

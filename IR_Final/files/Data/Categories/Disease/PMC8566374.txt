@@ -1,0 +1,4 @@
+34751255|PMC8566374
+{'Disease', 'Species', 'Gene'}
+Introduction
+In March 2020, the World Health Organization (WHO) declared the Coronavirus Disease 2019 (COVID-19) a pandemic. Similarly, the median of IgG antibodies was higher in the hospitalized group, when compared to the asymptomatic group (6.8 versus 1.5; p = 0.002), and the median of IgG antibodies in the mildly symptomatic group was higher than in the asymptomatic group (4.1 versus 1.5; p = 0.007) (Table 1 and Figure 1B).The multiple linear regression analysis was conducted to verify the relationship between severity and antibody levels after adjustment for gender and age as potential confounders. Because of this, those tests would be more suitable for the analysis of CP donor plasma.

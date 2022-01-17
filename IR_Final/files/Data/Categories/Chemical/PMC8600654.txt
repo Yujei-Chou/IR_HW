@@ -1,0 +1,3 @@
+32555514|PMC8600654
+{'Chemical', 'Disease', 'Species'}
+In the uSA and around the world, the COVID-19 pandemic arrived as the population was fighting a devastating opioid overdose epidemic. All providers with prescriptive authority should be allowed to prescribe buprenorphine, which could be achieved by removal of the requirement for a US Drug Enforcement Administration 'X' waiver. Importantly, the structure of treatment settings themselves could increase infectious spread without thoughtful redesign.

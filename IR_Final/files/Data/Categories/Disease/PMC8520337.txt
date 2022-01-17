@@ -1,0 +1,3 @@
+34693210|PMC8520337
+{'Disease', 'Species', 'Gene'}
+BOAST (British Orthopaedic Association Standards for Trauma & Orthopaedics) guidelines recommended that during the coronavirus pandemic most upper limb fractures should be treated conservatively, and removable casts should be used, where possible. Student's t-test was used to compare the initial volar angulation seen in both groups. Twice as many participants underwent operative fixation in the soft-combi casts, suggesting a more unstable set of DRFs which may affect any comparisons made between the groups.

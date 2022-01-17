@@ -1,0 +1,3 @@
+34639530|PMC8507992
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The outbreak of COVID-19 has prompted consideration of the importance of urban resilience. The construction of the main functional area began; it was proposed to optimize urbanization and significantly improve comprehensive urban carrying capacity, resilience, and risk resistance. The low significance level and weak agglomeration trend of social and ecological resilience are additional evidence of the imbalanced social and ecological development among cities in the YRB.The local autocorrelation test showed that in 2011, 2014, 2016, and 2018, 19.4%, 16.4%, 17.9%, and 16.4% of the cities, respectively, showed obvious positive spatial correlation (Table 3).

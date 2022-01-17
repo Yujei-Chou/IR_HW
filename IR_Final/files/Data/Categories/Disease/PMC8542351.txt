@@ -1,0 +1,3 @@
+34722843|PMC8542351
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+The coronavirus (COVID-19) pandemic has undeniably influenced the global economy and environment. MSEs digitization should be of importance for multiple organizations across the supply chain and policy-makers. COVID-19 resulted in MSEs facing greater challenges and uncertainties; organizational actors need to build greater adaptability through digitization.

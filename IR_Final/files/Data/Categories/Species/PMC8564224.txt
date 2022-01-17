@@ -1,0 +1,3 @@
+34726998|PMC8564224
+{'Disease', 'Species', 'Gene'}
+This study describes and analyses the Medicare Benefits Schedule (MBS) activity and cost data for specialist consultations in Australia, as a result of the coronavirus disease 2019 (COVID-19) pandemic. Although this represented a minimal change (~1%) in overall activity, there was no significant change in the average monthly number of specialist consultations after the COVID-19 MBS telehealth funding changes were introduced (p = 0.717).Prior to COVID-19, specialist consultations were primarily delivered in-person with a monthly average of 0.7% of video consultations (Table 1). As a whole, the costs to the MBS for specialist consultations did not differ significantly after COVID-19 telehealth funding was introduced.

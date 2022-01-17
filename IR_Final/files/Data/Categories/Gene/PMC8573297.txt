@@ -1,0 +1,3 @@
+34748094|PMC8573297
+{'Chemical', 'Disease', 'Species', 'Gene'}
+To assess the prognostic role of different inflammatory indices on the outcome of cancer patients with COVID-19. The PLR as an inflammatory index (< 196.4 vs > 196.4) significantly predicts poor patients' prognosis (OR 7.11, P = 0.040, Table 6).However, univariate analysis for COVID-19 associated ICU admission in adult cancer patients revealed that disturbed conscious level (DCL) associated significantly with inferior outcome of the patients (OR 11.1, P = 0.046). These data are in agreement with many recent reports concluded that decreased lymphocyte to C-reactive protein ratio is considered a predictor factor for poor outcome and mortality in COVID-19 patients.

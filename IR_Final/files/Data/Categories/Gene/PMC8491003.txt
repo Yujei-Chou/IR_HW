@@ -1,0 +1,4 @@
+34607865|PMC8491003
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Objective
+There is no study from India with representation from multiple states that has detailed the clinical profile and evaluated for factors associated with death. The largest increase in mortality risk was observed in patients aged 60-69 years as compared with those aged 50-59 years (OR 3.13, 95% CI 2.61 to 3.76).The presence of comorbidities significantly increases the death risk due to COVID-19. Mortality was higher among patients requiring invasive mechanical ventilation (SHR 19.57, 12.21-31.35, p<0.001) and those requiring vasopressors (SHR 11.36, 7.79-16.56, p<0.001).

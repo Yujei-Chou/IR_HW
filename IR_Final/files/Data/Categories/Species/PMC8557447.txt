@@ -1,0 +1,4 @@
+34729198|PMC8557447
+{'Chemical', 'Disease', 'Species', 'Gene'}
+ABSTRACT
+In the current coronavirus disease 2019 (COVID-19) pandemic, acute respiratory illnesses presenting with diffuse or multifocal ground-glass opacities (GGOs) on chest computed tomography (CT) scan suggest the diagnosis of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection. Six hours after the test, the patient developed cough, dyspnea, fever (37.5 C) and hypoxemia with increased alveolar-arterial oxygen tension difference (53 mmHg at room air). It should be noted that the clinical characteristics of humidifier lung and other HP phenotypes are somewhat different.

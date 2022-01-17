@@ -1,0 +1,3 @@
+34649146|PMC8504924
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+Owing to the shortage of specific medicines, the global pandemic of COVID-19 caused by SARS-CoV-2 has been the greatest challenge for the science community. These 30 phytochemicals were subjected to molecular docking against Mpro of SARS-CoV-2. The study also shows that all the screened phytochemicals also have drug scores similar to the reference and could be utilized as drug candidates against COVID-19.The two screened phytochemicals of B. asiatica viz.

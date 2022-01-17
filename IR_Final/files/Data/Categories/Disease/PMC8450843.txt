@@ -1,0 +1,4 @@
+34515129|PMC8450843
+{'Disease', 'Species', 'Gene'}
+Introduction
+The pandemic caused by the new coronavirus, whose epicenter was in the city of Wuhan, China, in December 2019, generated a progressive demand in health services due to its high transmissibility. The agreement between the 2 evaluators regarding tomographic severity classification was almost perfect, as shown by the kappa coefficient in Table 2.Of the 117 exams classified as compatible, 111 (94.8%) were presented with ground-glass opacities, either with rounded morphology and multifocal distribution, or with nonrounded morphology with peripheral and bilateral distribution, with an association with "crazy paving" in 83 (70.9%) exams (Fig. Approximately 1/3 of the patients (7/20) presented consolidations with air bronchograms, findings suggestive of pneumonia of non-viral etiology (Fig.

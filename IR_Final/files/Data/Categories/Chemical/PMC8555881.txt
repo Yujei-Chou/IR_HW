@@ -1,0 +1,4 @@
+32868652|PMC8555881
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Aim
+Coronavirus disease 2019 (COVID-19) is a recently encountered disease that has been declared a pandemic in 2020 by WHO. Baseline characteristics of the study groups are presented in (Table 1).Overall, in our study cohort were 58 patients (81.7%) with nonsevere COVID-19 and 13 (18.3%) with severe disease. After adjusting for age, smoking, BMI and metabolic syndrome components, the logistic regression analysis indicates that NAFLD (men: OR 3.29, 95% CI: 3.28, 3.58, P = 0.001; women: OR 3.25, 95% CI: 3.09, 3.47, P = 0.002), obesity (men: OR 2.35, 95% CI: 2.19, 2.61, P < 0.001; women: OR 3.32, 95% CI: 3.09, 3.55, P = 0.012), metabolic syndrome (men: OR 3.32, 95% CI: 3.2, 3.61, P = 0.001; women: OR 3.28, 95% CI: 3.16, 3.42, P = 0.002) were associated with severe COVID-19.

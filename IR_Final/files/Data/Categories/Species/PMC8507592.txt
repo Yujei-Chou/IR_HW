@@ -1,0 +1,3 @@
+34259660|PMC8507592
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Supplemental Digital Content is available in the text. As sensitivity analysis, we repeated the overall model adjusting for occupancy and with hospital trust included as a random effect. 1B).For patients admitted in December 2020-January 2021 (peak second wave) compared with June-September 2020 (post-first wave), adjusted mortality was 88% (CI, 62-118) higher in ICU and 59% (CI, 39-82) higher in HDU (sTable 2, http://links.lww.com/CCM/G595).

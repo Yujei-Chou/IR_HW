@@ -1,0 +1,4 @@
+34543431|PMC8500010
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Summary
+Research has shown that physical activity (PA) reduces the risk of non-communicable diseases, including cardiovascular conditions (e.g. stroke, diabetes, hypertension) and neurodegenerative disorders (e.g. Alzheimer's disease, Parkinson's disease). This measure is validated; it includes three domains of PA (i.e. vigorous PA, moderate PA and walking), and has satisfactory reliability and validity scores on African samples. The first baseline model, tested the relationship between PA and mental health without adjusting for the ultimate confounding variables.

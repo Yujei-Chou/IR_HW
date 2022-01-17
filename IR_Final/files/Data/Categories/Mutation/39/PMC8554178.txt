@@ -1,0 +1,4 @@
+34714491|PMC8554178
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Dear Editor,
+Dear Editor,The current global pandemic caused by the SARS-CoV-2 coronavirus is ongoing. To date, the mechanisms of antiviral resistance with SARS-CoV-2 and the point mutations are still not fully understood. Probably the combined use of different antivirals, with different molecular targets, and in association with immunomodulatory/anti-inflammatory agents to manage the hyperinflammatory state in the most severe stages of COVID-19, could reduce the risk of developing drug-resistant viral forms, have greater therapeutic efficacy and a lower risk of drug-related adverse reactions.

@@ -1,0 +1,4 @@
+34402750|PMC8451658
+{'Chemical', 'Disease', 'Species', 'Gene'}
+ABSTRACT
+The current SARS-CoV-2 (Severe Acute Respiratory Syndrome Coronavirus Type 2) pandemic continues taking its toll on human health resulting in 4.1 million lives lost worldwide (as of 20 July 2021). These data are in line with large epidemiological data analysis identifying being male as a high-risk factor for COVID-19 related death. Critically ill male COVID-19 patients presented the highest estradiol levels compared to critically ill male non-COVID-19 patients (p = 0.0293) or male patients with CHD (p = 0.0004) or healthy males (p = 0.001) (Figure 1(a)).

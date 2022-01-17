@@ -1,0 +1,4 @@
+34689821|PMC8542409
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+Allogeneic hematopoietic stem cell transplantation (allo-HCT) has remained the best treatment option for many patients with life-threatening hematological disorders such as acute myeloid leukemia. This prompted us to look for factors associated with Ab levels in allo-HCT recipients. Looking at associations between T cell subset frequencies among absolute lymphocytes and anti-RBD Ab levels at day 49, we observed significant correlations with percentage of naive CD4+ T cells (Spearman r = 0.46, P = 0.0038) but not with percentage of TFH (Spearman r = 0.21, P = 0.2) (Additional file 1: Figure 7).Finally, we performed multivariate linear regression analysis to assess whether baseline counts of class-switched memory B cells, naive CD4+ T cells and TFH cells independently correlated with Ab titers at day 49.

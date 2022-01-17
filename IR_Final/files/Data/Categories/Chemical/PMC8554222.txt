@@ -1,0 +1,4 @@
+34713589|PMC8554222
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+People living with HIV (PLHIV) on antiretroviral therapy (ART) are required to visit healthcare facilities regularly for consultations or medication refills, which has become challenging during the COVID-19 pandemic. Prior to the selection of the pharmacies, PSB convened its members to sensitize them about the survey. Overall, 83.9% of PLHIV who were offered home delivery of ART accepted, highlighting the potential for a courier DSD model.

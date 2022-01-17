@@ -1,0 +1,3 @@
+34538093|PMC8454595
+{'Chemical', 'Disease', 'Species', 'Gene'}
+COVID-19 has become a global health concern, due to the high transmissible nature of its causal agent and lack of proper treatment. CRP levels are also reported positively correlated with lung lesion during the early stages of SARS-CoV-2 infection. Since several reports suggesting a correlation between platelet count and disease severity in COVID-19 exists, further evidence should be collected to evaluate the importance of low platelet count as a biomarker of worse COVID-19 disease prognosis (Table 2).D-Dimer, a fibrin degradation product, is an indicator of hypercoagulation state, secondary fibrinolysis, the abnormal process of coagulation and thrombosis.

@@ -1,0 +1,4 @@
+34591281|PMC8482358
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Introduction
+The life-threatening pandemic COVID-19, emerged in late 2019, caused by SARS-CoV-2 virus that has been considered a grim reaper with around 5 million death cases worldwide as reported by the WHO. Antibody coating plays a significant role in tissue engineering and regenerative medicine. Regarding to the main physiological functions mediated by ACE2' enzymatic activity in the body that are controlling blood pressure and cardiovascular homeostasis, maintaining a cardiovascular anti-hypertrophic effect and facilitating efficient vasodilation, the application of anti-ACE2-coated MSCs in the setting of COVID-19 may generate undesirable effects due to the inhibition of the enzymatic activity of ACE2.

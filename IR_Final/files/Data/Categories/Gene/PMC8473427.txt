@@ -1,0 +1,3 @@
+34579281|PMC8473427
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Mass vaccination against the COVID-19 pandemic is ongoing worldwide to achieve herd immunity among the general population. The daily preventive behaviors against COVID-19 were measured via a modified 9-item scale developed by previous studies. Among the items of the HBM, perceived susceptibility of COVID-19 decreased in the post-vaccination group (p < 0.001), reflecting that the participants intended to believe that COVID-19 vaccination could reduce the risk of SARS-CoV-2 infection to some extent, which was consistent with previous findings.

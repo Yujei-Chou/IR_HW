@@ -1,0 +1,4 @@
+34683969|PMC8538155
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Simple Summary
+mRNA therapeutics are an innovative pharmaceutical technology with the capacity to create a new type of drugs that will make personalized medicine possible. A study performed on apoE-/- mice using cationic and ionizable lipid LNPs carrying siRNA demonstrated that the hepatic uptake of ionizable, but not cationic, LNPs is ApoE dependent, suggesting that LNP charge plays a role in LNP tissue tropism. Another study utilizing modified mRNA LNPs investigated therapeutic delivery of interleukin 10 (IL-10) into Ly6C+ inflammatory leukocytes in a mouse model of inflammatory bowel disease (IBD).

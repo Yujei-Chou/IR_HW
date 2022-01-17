@@ -1,0 +1,3 @@
+34657424|PMC8547163
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+A reliable and sensitive detection approach for SARS-CoV 2 is essential for timely infection diagnosis and transmission prevention. That is, the coupling of Au NPs greatly improved the photoelectric conversion efficiency of 2D Yb-TCPP nanosheets. To obtain the best sensing performance of the developed PEC aptasensor, it was essential to optimize the important parameters, including the concentrations of Au NPs/Yb-TCPP-4 and AA and incubation time (Figure S8).

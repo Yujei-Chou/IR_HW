@@ -1,0 +1,3 @@
+34754950|PMC8568531
+{'Disease', 'Species', 'Gene'}
+We retrospectively analysed the swab samples tested for COVID-19 from 7 March 2020 to 17 August 2021 at the Indian Council of Medical Research-Regional Medical Research Centre, Bhubaneswar, Odisha. The positivity rate among those aged >=18 years (13.8%) was relatively higher than those aged 0-17 years (11.6%) and comparable with the overall positivity (figure 1). The median age (Q1-Q3) of childhood cases was 13 years (8-15 years) and the median age (Q1-Q3) of cases above 18 years was 35 years (26-48 years) (figure 2).Our findings demonstrated that the positivity rate among children was less than the adults during the last two COVID-19 waves.

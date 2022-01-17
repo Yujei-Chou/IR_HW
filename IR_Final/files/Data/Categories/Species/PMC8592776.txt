@@ -1,0 +1,4 @@
+34759047|PMC8592776
+{'Disease', 'Species'}
+Summary
+Restrictions imposed by the COVID-19 pandemic have presented new challenges to medical educators. We sought to assess the perceived impact of COVID-19 on Canadian surgical residency education. Personal protective equipment (PPE) shortages across the country led to fewer learning opportunities, as only essential personnel were allocated equipment to attend procedures.

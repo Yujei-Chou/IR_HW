@@ -1,0 +1,3 @@
+34707756|PMC8520422
+{'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+In response to COVID-19 pandemic, the Zimbabwe government put in place various rigorous measures to curb the spread of the virus. Encouragingly, a remarkable decrease in the number of SARS-CoV-2 cases and total deaths have been observed in the country since the vaccination started until recently (8th June 2021), compared to the rising levels before vaccination. Specifically, the efficacy or effectiveness of these vaccines against the Beta and Delta variants circulating in the country.

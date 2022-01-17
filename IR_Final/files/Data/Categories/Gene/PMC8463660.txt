@@ -1,0 +1,4 @@
+34595368|PMC8463660
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Abstract
+Persistence of hemostatic abnormalities remains unclear in patients with coronavirus disease 2019.Changes in hemostasis and fibrinolysis were analyzed at discharge and 6-month follow-up. We aimed to evaluate the changes over 6 months in routine hemostasis laboratory parameters and tPA ROTEM after COVID-19 ICU discharge. Indeed, patients treated with apixaban (n = 5) had significantly prolonged CT compared to patients not taking DOACs (n = 16; 99 seconds [78-141] vs 70 seconds [65-84] respectively; P = .03).We evaluated the changes over 6 months in routine hemostasis laboratory parameters and tPA ROTEM after COVID-19 ICU discharge and observed that, with the exception of tPA CT, values generally normalized over time.

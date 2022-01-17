@@ -1,0 +1,3 @@
+34697319|PMC8545937
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Acid suppressants are widely-used classes of medications linked to increased risks of aerodigestive infections. Other comorbidities including heart failure and stroke were not found to be statistically significant predictors of COVID-19.Females (adjusted odds ratio 0.89, 95% CI 0.83-0.95, P = 0.000213; Fig. Finally, those who resided in localities with more than 4.4% of the adult population utilizing public transportation as their main means of commute also were more likely to test positive (adjusted odds ratio 1.1, 95% CI 1.03 to 1.18, P = 0.0034; Fig.

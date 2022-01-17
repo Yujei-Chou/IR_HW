@@ -1,0 +1,4 @@
+34795545|PMC8593898
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Abstract
+During the ongoing COVID-19 pandemic across the globe, public health measures have been implemented to reduce community transmission of the virus, including stay-at-home orders, quarantine, and social distancing measures. This survey for the first time suggested a possible significant short (and long) term impact of the COVID-19 pandemic on the quality of sleep and anxiety levels in the UK. Unsurprisingly, the data regarding the long-term cognitive consequences of COVID-19 is still lacking, but one study of 279 patients hospitalized with COVID-19 found that, three months after discharge, 34% reported significant memory loss and 28% described impaired concentration.

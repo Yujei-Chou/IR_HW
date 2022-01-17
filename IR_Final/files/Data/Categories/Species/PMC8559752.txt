@@ -1,0 +1,4 @@
+34733042|PMC8559752
+{'Disease', 'Species'}
+How to cite this article
+Cardiopulmonary resuscitation (CPR) in patients with coronavirus disease-19 (COVID-19) poses many challenges to the healthcare workers (HCWs) including, but not limited to, potentially reduced performance due to limitations imposed by respirators and other personal protective equipment (PPE), along with increased risk of infection due to aerosolization of viral particles. However, during activities like delivery of chest compressions, far higher inspiratory flow rates are likely to be generated. Increased flow rates have been proven to result in enhanced penetration of aerosol via respirators:a potential safety hazard during busy shifts in typical COVID ICUs.

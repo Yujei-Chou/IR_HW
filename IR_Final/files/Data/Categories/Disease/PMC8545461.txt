@@ -1,0 +1,4 @@
+34710717|PMC8545461
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objectives
+Health literacy has been addressed in various studies as a range of skills individuals need to access, understand, and use basic health information to obtain better health outcomes. Lower perceived income group was also found to have lower health literacy level of participants (r = 0.35; P < 0.01).In the multivariate logistic regression analyses with the final model (Table 4 ), those aged between 25 and 34 years compared with those aged >=65 years from a public hospital were associated with adequate health literacy (odds ratio [OR] = 2.75; 95% CI 1.10-4.90). This study is one of them that focused on the comparative health literacy level of patients from between hospital types.

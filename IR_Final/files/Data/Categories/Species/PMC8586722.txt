@@ -1,0 +1,4 @@
+34781027|PMC8586722
+{'Chemical', 'Disease', 'Species', 'Gene'}
+To the editor,
+To the editor,Solid organ transplant recipients are at high risk of developing severe forms of Covid-19 infection, requiring urgent access to vaccination. There were no reported issues of therapeutic adherence, immunosuppressive drugs were well tolerated and CNI trough levels were stable around 8ng/ml since the first months of transplantation. To our knowledge, this is the first report of pancreas allograft rejection following Covid-19 vaccine.

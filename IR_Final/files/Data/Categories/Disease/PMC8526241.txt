@@ -1,0 +1,3 @@
+34676259|PMC8526241
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The COVID-19 epidemic is spreading day by day. The ECN is modified by using the mayfly optimization (MFO) algorithm. The designed classifier of the proposed method offers a 97.1% sensitivity rate, whereas FOMPA, MID, and 4S-DT have 95.85%, 93.66%, and 91.68%, respectively, for 500 epochs.

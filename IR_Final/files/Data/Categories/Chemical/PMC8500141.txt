@@ -1,0 +1,3 @@
+34569609|PMC8500141
+{'Chemical', 'Disease', 'Species'}
+To the Editor:Although growing evidence indicates that SARS-CoV-2 transmission in schools is infrequent, especially among younger students, questions remain about risks across age levels. However, COVID-19 incidence was higher for high school-aged persons residing in the in-person districts, as compared to the remote district (RR: 1.61 [1.40-1.85]). All authors have submitted the ICMJE Form for Potential Conflicts of Interest.

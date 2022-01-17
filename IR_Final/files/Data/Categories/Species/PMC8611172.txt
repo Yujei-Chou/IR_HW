@@ -1,0 +1,4 @@
+34817746|PMC8611172
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Purpose
+Women and men who have completed "active" treatment for breast cancer continue to worry about the risk of recurrence and the long-term impact of their therapy. Five patients mentioned immunity or prevention of COVID-19 (Table 2).The majority of the participants had multiple providers who entered medications in the EMR prior to the study visit. This would not be possible at the current level of vitamin and supplement documentation in the EMR.Our study of supplement use in this cohort of breast cancer survivors confirms Velicer et al.

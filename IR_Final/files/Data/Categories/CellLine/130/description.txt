@@ -1,0 +1,1 @@
+testing,patient,reaction,vaccine,background,mrna,oral,graded,challenge,offered,concern,majority,anaphylaxis,first,received,second,dose,risk,inconclusive,skin,allergic,negative,et,banerji,adapted,protocol,vaccination,disease,coronavirus,global

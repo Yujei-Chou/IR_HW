@@ -1,0 +1,4 @@
+34609549|PMC8490137
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Purpose
+Coronavirus disease 2019 (COVID-19) has rapidly developed into a global health threat since emerging in China in late 2019. Time to hospital discharge or "ready for discharge" did not differ according to baseline ordinal scale category except among patients in ordinal category 5 at baseline (39 in the tocilizumab plus remdesivir group, 9 in the placebo plus remdesivir group) for whom tocilizumab was associated with longer time to discharge [hazard ratio 0.36 (95% CI 0.14-0.91)]; however, the small number of patients in this subgroup limits interpretability (Online Resource Fig. No difference was observed between treatment arms for the original primary outcome: clinical status at day 28 on the 7-category ordinal scale (Online Resource Fig.

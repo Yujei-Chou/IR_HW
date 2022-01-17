@@ -1,0 +1,3 @@
+34760003|PMC8548900
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The confirmed and suspected cases of the 2019 novel coronavirus disease (COVID-19) have increased in the entire world. COVID-19 guidelines presented by the Society of Critical Care Medicine Surviving Sepsis suggest carrying out endotracheal intubation following airborne precautions, which include the patient stay in an AIIR and a fitted N95 respirator use. If facilities are provided for safe placement of nasojejunal tubes, they can overwhelm difficulties with GI intolerance.

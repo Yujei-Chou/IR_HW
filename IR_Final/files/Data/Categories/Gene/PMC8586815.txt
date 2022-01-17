@@ -1,0 +1,3 @@
+34785843|PMC8586815
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Online reviews remain important during the COVID-19 pandemic as they help customers make safe dining decisions. It was revealed that incorporating topics and sentiment embedded in a review into a regression could better predict general review score than using the numerical star ratings given by the users. Two machine learning and two deep learning algorithms were applied to test their abilities to classify customer sentiment mined from customer reviews using purely text-only messages, as shown in Table 4 .

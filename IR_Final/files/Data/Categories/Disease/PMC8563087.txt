@@ -1,0 +1,3 @@
+34740619|PMC8563087
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Meteorological variables, air pollutants, and socioeconomic factors are associated with COVID-19 transmission. identified a 9% increase in confirmed cases of COVID-19 when the T was below 8  C. BRT results showed that all variables, not only T, have a non-linear effect on R n, with positive and negative effects, and their effects have one or more inflexion points (Fig. This represents an impediment to conducting conclusive studies on factors affecting COVID-19 transmission.

@@ -1,0 +1,4 @@
+34645678|PMC8515430
+{'Disease', 'Species'}
+Rogiers A, Pires da Silva I, Tentori C, et al. Clinical impact of COVID-19 on patients with cancer treated with immune checkpoint inhibition. doi: 10.1136/jitc-2020-001931
+Rogiers A, Pires da Silva I, Tentori C, et al.

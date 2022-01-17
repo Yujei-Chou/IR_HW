@@ -1,0 +1,3 @@
+34574505|PMC8464860
+{'Chemical', 'Disease', 'Species'}
+The COVID-19 pandemic has changed the way many people live. Student's t-test was introduced to establish correlations between insomnia and caffeine consumption. Almost half of the respondents declared a negative impact of the pandemic on sleep (48.76%, n = 645), 29.02% (n = 384) observed neither a positive nor negative impact of the pandemic on sleep, while 22.22% (n = 294) rated the impact as positive.

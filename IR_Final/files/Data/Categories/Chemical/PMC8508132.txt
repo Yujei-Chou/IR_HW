@@ -1,0 +1,3 @@
+34638539|PMC8508132
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The reason behind the high inter-individual variability in response to SARS-CoV-2 infection and patient's outcome is poorly understood. Sphingolipid serum levels in COVID-19 patients were investigated by untargeted and targeted lipidomics. Furthermore, a detailed study by A. M. Poss, based on machine learning and sphingolipid profile in sera, identified sphingosine, DhCer C16:0, DhCer C18:1, and Cer C18:0 as dysregulated sphingolipids chains that can contribute to predicting the evolution of CVD.

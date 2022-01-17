@@ -1,0 +1,3 @@
+34810229|PMC8610615
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Depression entails changes in the mental health of individuals worldwide. Furthermore, 29.9% presented symptoms of mild anxiety and 20.7% of moderate or severe anxiety, as shown in figure 1.When studying the potential links between levels of depression and certain sociodemographic variables, we organized the information using a cross table, as shown in table 2.We applied chi2 test to determine any statistically significant differences that might suggest a link between sociodemographic categories and depression (see table 2). This study found that there was a reduction in mean scores related to the psychological impact associated with the pandemic situation after 4 weeks.

@@ -1,0 +1,3 @@
+34682996|PMC8544365
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The risk of the geographic transmission of emerging infectious diseases through air travel varies greatly. Furthermore, the number of imported cases of typhoid (n = 3) and paratyphoid (n = 0) reported during the COVID-19 pandemic was lower than that reported for the same disease from 2011 to 2020. For paratyphoid, the total number of cases was 61, the total number of domestic cases was 19, and the total number of imported cases was 42 (Table 2).

@@ -1,0 +1,3 @@
+34562376|PMC8457758
+{'Disease', 'Species', 'Gene'}
+In The Lancet Infectious Diseases, Eric Haas and colleagues estimated the benefits of the rapid mass roll-out of the Pfizer-BioNTech vaccine in Israel between Dec 20, 2020, and April 10, 2021. They found substantial benefits of the vaccine in terms of preventing thousands of deaths, hospitalisations, and new SARS-CoV-2 infections in individuals aged 16 years and older. Thanks to the successful vaccination programme, non-pharmaceutical restrictions were gradually lifted in Israel in February-March, 2021, and the national economy is reported to have recovered in April-June 2021, with an estimated economic growth of more than 5 5% forecasted for 2021.

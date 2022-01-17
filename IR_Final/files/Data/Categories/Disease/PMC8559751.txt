@@ -1,0 +1,4 @@
+34733045|PMC8559751
+{'Chemical', 'Disease', 'Species'}
+How to cite this article
+With interest, we read the article by Mehra et al. We should know if the patient was diagnosed with myocarditis, endocarditis, or Takotsubo syndrome (TTS) increasingly recognized as cardiac complications of a SARS-CoV-2 infection. The discrepancy between high proBNP and only mild systolic dysfunction should be explained.

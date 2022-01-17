@@ -1,0 +1,4 @@
+34590967|PMC8500310
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Abstract
+A major viral respiratory disease appeared in Wuhan, Hubei Province, China, in December 2019 (Jaimes et al.,; The binding affinity and fitness score of the top thirty-one ligands are shown in and Table S4. In the TM-NAM complex, three hydrogen bonds (C-O...H-N) are detected with various amino acids including ASP435 (2.114), TRP461 (2.777), and GLY464 (2.314).Interestingly, it is observed that the ligands only show hydrogen bonds with the binding site residue ASP435, and GLY464 (Figure 5A).

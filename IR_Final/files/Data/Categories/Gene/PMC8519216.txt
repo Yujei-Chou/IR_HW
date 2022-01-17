@@ -1,0 +1,4 @@
+34731140|PMC8519216
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+After the coronavirus disease (COVID-19) outbreak, on January 23, 2020, in Wuhan, China, the people's government of Hainan province on January 24 started a public health emergency II magnitude response and promoted the magnitude response of public health emergencies on the following day (January 25). The number of tourists at Hainan leisure island between January 2018 and August 2020 was collected from the official websites of the People's Government of Hainan Province, the Department of Ecology and Environment of Hainan Province, and the Health Commission of Hainan Province, and the relevant policy documents on epidemic prevention and control measures of Hainan leisure island were collected from January 24, 2020 to March 3, 2020. We used the quadratic trend model to predict tourist numbers on Hainan Island; the calculated length was 7, and there were no missing data.

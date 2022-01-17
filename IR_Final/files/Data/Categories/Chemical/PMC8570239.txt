@@ -1,0 +1,3 @@
+34741188|PMC8570239
+{'Chemical', 'Disease', 'Species', 'Gene'}
+SARS-CoV-2 vaccination with mRNA product BNT162b2 elicited high immunogenicity in healthy subjects in trials. No significant relationship between IgG titer at T1, T2 and T3 and multiple combinations of clinical and demographic variables was detected except for age (supplementary materials, Table S6).At T2, 2/7 (28.6%) subjects were non-responders in the IMID subjects previously treated with B-cell depleting agents (rituximab or ocrelizumab) after two doses of BNT162b2. In the subgroup of patients under B-cell depleting agents, this proportion is reduced to about 30%.

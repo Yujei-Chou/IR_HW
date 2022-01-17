@@ -1,0 +1,3 @@
+34574965|PMC8471439
+{'Chemical', 'Disease', 'Species', 'Gene'}
+This study scrutinizes management and clinical presentation of severe acute respiratory syndrome coronavirus type 2 (SARS-CoV-2) in pediatric inpatient care and evaluates the utilization of pediatric healthcare capacity during the pandemic. During the period of symptom- based SARS-CoV-2 screening we observed that fever, cough, dyspnea or tachypnea and presence of respiratory symptoms for more than 2 weeks were frequently reported among SARS-CoV-2 positive pediatric patients (Table 3, Figure 3). According to the test strategy in our clinical center, most symptomatic patients presented to the hospital or were incidentally found on screening.

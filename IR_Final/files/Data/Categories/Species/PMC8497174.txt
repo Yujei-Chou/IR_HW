@@ -1,0 +1,4 @@
+34642682|PMC8497174
+{'Disease', 'Species', 'Gene'}
+Background
+The COVID-19 pandemic has dramatically affected university students' lives around the world. Further, in a study with data from 2016/2017 the mean depression score (PHQ) was 6.77 (SD = 4.84), and the mean anxiety score (GAD) was 6.23 (SD = 4.27) in a German student sample with similar age and gender distribution to the present study. Results of the regression analyses showed that mindfulness was the most relevant protective factor against depression, anxiety and perceived stress.

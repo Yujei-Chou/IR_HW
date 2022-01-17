@@ -1,0 +1,4 @@
+34715314|PMC8553421
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objective
+The impressive success of mass vaccination in curtailing the coronavirus 2 (SARS-CoV-2) by halting transmission has paved the road for returning to "pre-pandemic life". 2-5 The Israeli vaccination campaign took place during the third and largest wave of the pandemic (see Figure 1 ). A second study used a test-negative design to examine the effectiveness of the BNT162b2 vaccine in Qatar, and found that the VE was 89.5% (95% CI:[85.9-92.3]) against the Alpha variant but only 75% (95% CI:[70.5-78.9]) against the Beta variant, at least 14 days after the second dose.

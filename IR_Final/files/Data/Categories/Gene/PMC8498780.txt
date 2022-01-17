@@ -1,0 +1,3 @@
+34642617|PMC8498780
+{'Chemical', 'Disease', 'Species', 'Gene'}
+COVID-19 has made a global impact since early 2020, requiring characterization of the SARS-CoV-2 virus, including transmission risk. This province had the highest COVID-19 incidence during the first wave in the Netherlands. Although not significantly different, seropositive participants also reported more frequently severe, unexpected muscle or joint pain (25.0% versus 15.2%, P = 0.06) and shortness of breath (35.7% versus 24.3%, P = 0.06), but less frequently a sore throat (25.0% versus 34.9%, P = 0.14).Next, we compared the percentage of seropositive patients in subgroups (Table 3, Table 4 ).

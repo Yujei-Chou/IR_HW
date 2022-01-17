@@ -1,0 +1,4 @@
+34593004|PMC8483940
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+Background
+High numbers of global SARS-CoV-2 infections have led to the emergence of variants, notably alpha variant (B.1.1.7 UK), beta (B.1.351 S. Africa), gamma (P.1 Brazil), epsilon (B.1.429 California), iota (B.1.526 New York), and now, delta and kappa (B.1.617.2 and B.1.617.1 India). Emergent data suggests partial immunity to the kappa variant (B.1.617.1), as convalescent sera and vaccine-elicited (Pfizer BNT162b2 and Moderna mRNA-1273) antibodies show a 2.3- and 4-fold reduction in neutralization in vitro respectively (noting that this study used protein-pseudotyped lentiviruses lacking the T478K mutation found in delta variant [B.1.617.2]). The GATK variants were next filtered with allele fraction >=80 and min read depth 30x.

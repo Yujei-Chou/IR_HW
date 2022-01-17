@@ -1,0 +1,4 @@
+34648168|PMC8515783
+{'Chemical', 'Disease', 'Species'}
+Objective
+The coronavirus disease 2019 (COVID-19) pandemic has impacted many educational institutions worldwide by suspending most in-student activities. Our study began with a sample of N = 202 third-year medical students who were taking their mandatory psychiatry clerkship and consented to participate. Furthermore, there were no significant differences in the magnitude of improved student attitudes between the pre-COVID and during-COVID cohorts from pre- to post-clerkship, which suggests that the virtual and traditional clerkships were equally effective at improving student attitudes.

@@ -1,0 +1,3 @@
+34552949|PMC8451950
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+SARS-CoV-2 variants of concern show reduced neutralization by vaccine-induced and therapeutic monoclonal antibodies; therefore, treatment alternatives are needed. A formulation of equine polyclonal F(ab')2 fragments against the receptor binding domain (RBD) of SARS-CoV-2 was tested in a multi-center, double-blind, placebo-controlled phase II/III clinical trial showing that it is well tolerated and leads to clinical improvement of hospitalized patients with moderate to severe COVID-19. Differences between potencies were statistically significant for the anti-S1 formulation (sum-of-squares F test; p < 0.01).

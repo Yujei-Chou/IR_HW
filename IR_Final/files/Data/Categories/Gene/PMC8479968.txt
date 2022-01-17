@@ -1,0 +1,4 @@
+34595391|PMC8479968
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Introduction
+Rapid detection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the aetiological agent associated with coronavirus disease 2019 (COVID-19), is critical for infection control and patient management. Repeat testing resolved the indeterminate/invalid results for 7 (63.6 %) of 11 patients. Among the 85 patients with indeterminate/invalid results, repeat testing provided definitive results for 81 (95.3 %).When the initial test was performed with the Xpert Xpress CoV-2 (n=421, 29.1 %), repeat testing produced the same results as the initial ones for 402 (95.5 %) patients.

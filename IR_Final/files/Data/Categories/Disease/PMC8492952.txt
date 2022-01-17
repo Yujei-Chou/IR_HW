@@ -1,0 +1,3 @@
+34631639|PMC8492952
+{'Chemical', 'Disease', 'Species'}
+Over the last few decades, the perception of disease has changed significantly. However, this model of the sick person's role is not ideally applicable in all areas and has led to criticism. In a State of solidarity, it is up to each individual to decide how to manage his/her own health, as long as this does not create risks for others.

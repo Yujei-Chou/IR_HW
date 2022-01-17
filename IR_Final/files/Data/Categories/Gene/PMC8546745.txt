@@ -1,0 +1,3 @@
+34720247|PMC8546745
+{'Disease', 'Species', 'Gene'}
+The K-12 school setting is often considered an ideal environment to provide social emotional programming for children and youths. Various SSWs indicated that technological difficulties prohibited students from engaging in academic and social emotional supports. Although challenging, SSWs should work with their administrators to schedule planning time and set boundaries around their role in engaging in emergent (i.e., student exhibiting suicidal ideation) and non-emergent situations (i.e., emotional or behavioral outbursts that can be managed by a teacher or administrator).The role of SSWs can differ substantially by the school context (i.e., grade level, student demographics, school needs).

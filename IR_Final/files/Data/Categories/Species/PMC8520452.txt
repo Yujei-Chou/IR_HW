@@ -1,0 +1,3 @@
+34690401|PMC8520452
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Information about blood arterial oxygen saturation (SpO2) is crucial in critical care settings or home health monitoring during the COVID-19 pandemic. According to the histogram the NIBP measurement caused the increase of SpO2 value. The root mean square error (RMSE) remains around 1.47-1.50.Pulse oximeters are well known and commonly-used devices.

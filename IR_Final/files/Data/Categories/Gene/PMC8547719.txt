@@ -1,0 +1,4 @@
+34702344|PMC8547719
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Coronavirus-disease-2019 (COVID-19) is caused by coronavirus-2 (SARS-CoV-2). To conclude, this French multicenter study shows that few patients with NMDs presented symptoms of and/or tested positive for COVID-19 during this first lockdown period. The primary endpoint was the impact of COVID-19 on NMD.

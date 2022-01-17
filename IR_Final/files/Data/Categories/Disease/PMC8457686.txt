@@ -1,0 +1,3 @@
+34580559|PMC8457686
+{'Chemical', 'Disease', 'Species'}
+At the onset of the Covid-19 pandemic South Africa was praised for decisive political leadership based on scientific advice and the strictness of the measures it imposed to limit domestic spread of the virus. From the perspective of evidence-based policymaking a particularly unusual aspect of the situation, as in other countries, is that it was possible to anticipate the negative economic and social consequences of the strict lockdown with more confidence than the epidemiological outcomes. Unlike some others, the government acted in a manner which suggests a primary concern with public health and a desire to act on the best available evidence.

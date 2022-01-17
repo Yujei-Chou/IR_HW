@@ -1,0 +1,3 @@
+34598958|PMC8488713
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Multisystem inflammatory syndrome in adults (MIS-A) is an uncommon and under-recognised postinfectious manifestation that presents 4-6 weeks after COVID-19 infection. When she returned to the ED 2 days later with worsening symptoms, her vital signs revealed tachycardia and a high fever of 39.4 C, but normotensive and normal saturations on room air. Severe COVID-19 infection and atypical pneumonia were considered unlikely as PCR test was negative and there was no significant respiratory involvement.

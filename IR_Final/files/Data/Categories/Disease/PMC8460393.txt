@@ -1,0 +1,3 @@
+34557996|PMC8460393
+{'Chemical', 'Disease', 'Species', 'Gene'}
+As the coronavirus disease 2019 (COVID-19) pandemic continues to generate significant morbidity and mortality as well as economic and societal impacts, the landscape of potential treatments has slowly begun to broaden. Use of the DCEA model can help value therapies based on reductions in health inequities among specified at-risk subgroups. Given that only a minority of COVID-19 cases require hospitalisation, as well as the dearth of long-term clinical data post-discharge to compare against other severe conditions, the additional value for therapeutics in preventing severe COVID-19 outcomes remains an issue of debate.

@@ -1,0 +1,3 @@
+33394667|PMC8603437
+{'Disease', 'Species'}
+The COVID-19 pandemic has changed the face of education for undergraduate and graduate medical trainees. Those designated as active caregivers on wards and ICUs are rapidly equipping themselves with the knowledge and skills needed for this role. With guidance on the basic principles of interpreting evidence and a pathway to accessing what were previously considered unconventional resources, the changes brought by the pandemic could become tremendous opportunities for trainees to augment their understanding of how to appraise literature critically and efficiently.

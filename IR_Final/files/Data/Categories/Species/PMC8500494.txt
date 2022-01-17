@@ -1,0 +1,4 @@
+34675738|PMC8500494
+{'Disease', 'Species', 'Gene'}
+Dear editor
+We would like to thank Chu and Hale for their comments regarding our recent paper published in the journal. As an insight to how our summative ISCEs ran at our institution, we eventually executed these in-person. An up-to-date nationwide assessment of students' views with regards to these online assessments given recent exposure to in-person alternative could be warranted.

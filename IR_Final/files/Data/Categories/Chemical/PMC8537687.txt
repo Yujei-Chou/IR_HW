@@ -1,0 +1,3 @@
+34683149|PMC8537687
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background: Early and accurate detection of COVID-19-related findings (such as well-aerated regions, ground-glass opacity, crazy paving and linear opacities, and consolidation in lung computed tomography (CT) scan) is crucial for preventive measures and treatment. Results: Our method exhibits average area under the curve (AUC) up to 98.84%, 98.47%, and 95.51% for COVID-19-CT-Seg, MosMed, and cross-dataset, respectively, and outperforms various state-of-the-art methods. These parameters are responsible for exploiting the key features from the given data sample and are initially trained using an independent training dataset.

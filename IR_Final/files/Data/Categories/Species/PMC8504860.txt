@@ -1,0 +1,4 @@
+34649737|PMC8504860
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Background
+Coronavirus disease (COVID-19), caused by the SARS-CoV-2 virus, is a pandemic which has rapidly spreading worldwide causing high numbers of infections and death. Only adult patients, of both genders, with a confirmed test for SARS-CoV-2 virus infection were included. We found that the highest risk of death was for a COVID-19 patient with obesity, diabetes mellitus, and smoking history (OR = 31.16, 95% CI = 4.164-233.16; p <0.00001), followed by patients with obesity, diabetes mellitus, hypertension, and smoking history (OR = 29.40, 95% CI = 3.92-220.70; p <0.00001).Long ago, it was described the association between viral and non-viral diseases with ABO blood groups.

@@ -1,0 +1,4 @@
+34754852|PMC8554423
+{'Chemical', 'Disease', 'Species', 'Gene'}
+BACKGROUND
+ Core Tip: Based on the analyses of 18 studies from major national and international cancer registries, it is evident that among symptomatic coronavirus disease 2019 (COVID-19) cancer patients, approximately one in six patients required intensive level of care, and one in four patients had a fatal outcome. This is hypothesis-generating and further incites the discussion about how frequently should cancer patients be treated in the absence of symptoms if at all. They found active chemotherapy has no significant impact on mortality from COVID -19 infection (27% mortality observed on active chemotherapy patients vs 29% on non-chemotherapy patients; P = 0.467) after adjusting for age, comorbidities.

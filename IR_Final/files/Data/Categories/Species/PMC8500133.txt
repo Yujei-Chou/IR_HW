@@ -1,0 +1,4 @@
+34570195|PMC8500133
+{'Chemical', 'Disease', 'Species'}
+ABSTRACT
+Novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infections continue to present a vexing constellation of symptoms, including skin findings. A high type I IFN response to SARS-CoV-2 infection is associated with lower severity of disease and is hypothesized as a cause of pernio-like lesions, commonly referred to as COVID toes. J.W.Q.: analysis of data, interpretation, and substantial revision.

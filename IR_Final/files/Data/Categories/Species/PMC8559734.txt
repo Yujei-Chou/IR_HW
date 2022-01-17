@@ -1,0 +1,4 @@
+34733032|PMC8559734
+{'Chemical', 'Disease', 'Species', 'Gene'}
+ABSTRACT
+The coronavirus disease (COVID-19), which has become a pandemic, is caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Secondly, the time point for data collection varied across included studies making it difficult to estimate the true effectiveness of awake proning in patients with COVID-19. Awake proning of nonintubated patients with COVID-19 might improve oxygenation; however, high-quality studies to base this evidence are lacking.

@@ -1,0 +1,4 @@
+34654599|PMC8492605
+{'Disease', 'Species'}
+Background and objectives
+Healthcare systems have been called upon to identify and address social determinants of health (SDOH) to improve patient care, enhance population health, and limit healthcare costs. Navigation for all identified needs was available for up to one year from the ED visit until the need was either resolved (need was met, successful link to community service provider who would be able to address the need within one year, or the community service was unavailable or the waitlist was longer than one year) or unresolved (unable to reach the beneficiary on three attempts or the beneficiary opted out of navigation).Due to the COVID-19 pandemic, in the post-period of the study, the approach to HRSN screening was modified. The proportion of individuals identified as having a need for assistance with food, housing, and utility services all increased from the pre- to the post-period.

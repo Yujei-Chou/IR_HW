@@ -1,0 +1,3 @@
+34589363|PMC8464349
+{'Chemical', 'Disease', 'Species', 'Gene'}
+In this report, we present a case where the patient developed a border-zone ischemic stroke with central retinal artery occlusion (RAO) following coronavirus disease 2019 (COVID-19) disease. The pathogenesis of stroke or RAO in COVID-19 is multifactorial. On admission, the patient was found to be slightly disoriented with a Glasgow Coma Scale (GCS) score of 14/15; he had right-sided hemiparesis with a muscle power of 2/5 with extensor plantar response.

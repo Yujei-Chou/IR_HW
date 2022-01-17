@@ -1,0 +1,4 @@
+34584479|PMC8464332
+{'Disease', 'Species'}
+Dear editor
+We would like to thank the readership of the journal for their comments pertaining to our paper on "Changing Student Perception of an Online Integrated Structured Clinical Examination During the COVID-19 Pandemic". However, the change scores in Questions 5 and 6 in Table 2 specifically address the online nature of assessments and we had asked two versions of these questions - "If you do not do well" in Question 5 and "If you do well to" in Question 6 to parse the relevance of the examination outcome of students sitting these high stakes examinations if they were indeed conducted online. This key stake-holder data will be needed before general implementation of this format for summative clinical assessments.

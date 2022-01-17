@@ -1,0 +1,3 @@
+34650874|PMC8488066
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The Coronavirus disease 2019 (COVID-19) infection has classical symptoms of high fevers, diarrhea, cough, and dyspnea; however, there are cases recording more unconventional features. The laryngoscopy revealed a left-sided vocal cord paralysis but patent airway. Based on no previous history of intubation, severe inflammatory response to COVID-19 throughout the hospital course and the late complication of unilateral laryngeal nerve palsy, especially after the full recovery of hypoxic respiratory failure strongly indicate the potential association of neuro-invasiveness of SARS-CoV-2.

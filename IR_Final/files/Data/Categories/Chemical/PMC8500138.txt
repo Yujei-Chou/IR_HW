@@ -1,0 +1,2 @@
+34597401|PMC8500138
+{'Chemical', 'Disease', 'Species'}

@@ -1,0 +1,3 @@
+34669712|PMC8528322
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Understanding and monitoring the epidemiological time delay dynamics of SARS-CoV-2 infection provides insights that are key to discerning changes in the phenotype of the virus, the demographics impacted, the efficacy of treatment, and the ability of the health service to manage large volumes of patients. Most desirable is the lowest LOO score alongside a Pareto score where k <= 0.7 and an .We present two sets of results in this paper: (i) the evolution of the times to clinical outcome over the course of the pandemic, and (ii) the variation in those times by sex and age group. This difference is not found between genders for the time delay distribution of hospitalisation to death.

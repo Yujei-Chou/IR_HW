@@ -1,0 +1,4 @@
+34520542|PMC8499941
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Abstract
+Messenger RNA (mRNA) molecules have shown promise as vaccine candidates in the current COVID-19 pandemic and may enable a large number of new therapeutic applications. We introduce the SUP as a readily calculated observable that is directly related to an RNA molecule's overall rate of cleavage. We found that designs from the tested algorithmic and crowdsourcing approaches encompassed a wide range of sequence space, as monitored by principal component analysis (PCA), pairwise Levenshtein distance, and positional entropy, and that sequences with low AUP values did not localize to specific regions of sequence space (Supplementary Figure S2).

@@ -1,0 +1,3 @@
+34777051|PMC8578375
+{'Disease', 'Species', 'Gene'}
+Background: Due to the COVID-19 pandemic, the healthcare system in general and psychosomatics in particular were forced to change counseling-specific services and break up established structures. The COVID-19 pandemic posed new challenges for the healthcare system in general and psychosomatics in particular. In 2.9% the contact took place as a group therapy session and in 30.6% as a planning interview for admission (day clinic /ward, Table 1).Satisfaction ratings comparing the three counseling formats showed on average a high to very high level of satisfaction (Figure 1).

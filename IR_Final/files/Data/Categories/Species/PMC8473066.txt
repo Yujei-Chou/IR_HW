@@ -1,0 +1,4 @@
+34592419|PMC8473066
+{'Chemical', 'Disease', 'Species', 'Gene'}
+To the Editor
+To the EditorLong COVID is defined by the French National Health Authority as persisting symptoms more than 4 weeks after COVID-19. The mean of aortic SUVmax in the 10 aortic hypermetabolism patients was higher than in the 37 non-aortic hypermetabolism patients (3.36, SD 0.63 and 2.51, SD 0.18, respectively, p=0,002). No patient of this control group had visually detected aortic hypermetabolism and comparative analysis with non-parametric Kruskall-Wallis test showed significant differences in mean aortic SUVmax between our 10 patients with aortic hypermetabolism and non-COVID-19 control group (3.36, SD 0.63 and 2.15 (SD 0.59), respectively; p< 0.0001).This study is retrospective and, consequently, suffers from several biases.

@@ -1,0 +1,4 @@
+34810189|PMC8609493
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objective
+This study examines a broad, global population of registered COVID-19 clinical trials for results dissemination patterns. Similarly, over 3500 reviews of COVID-19 studies in humans are registered on the PROSPERO database as of March 2021.Expectations for sharing of trial results change during public health emergencies. For trials with multiple publications, we selected the earliest publication date for the dissemination route(s) relevant to each analysis.

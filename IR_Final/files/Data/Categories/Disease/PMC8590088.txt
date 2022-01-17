@@ -1,0 +1,4 @@
+34804531|PMC8590088
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+A 19-year-old male patient was hospitalized for intermittent fever, dry cough, and malaise. Thereafter, treatment with 5000 IU of Citoneurin (vitamin B1 [thiamine hydrochloride], 100 mg/day; vitamin B6 [pyridoxine hydrochloride], 100 mg/day; and vitamin B12 [cyanocobalamin], 5000 mcg/day) orally and olfactory training, which consists of inhaling identified flasks containing cinnamon, cloves, and lavender for 15 min/day were prescribed. The patient gave his informed consent prior to his inclusion in the study.

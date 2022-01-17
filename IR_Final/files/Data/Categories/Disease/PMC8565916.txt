@@ -1,0 +1,4 @@
+34754898|PMC8565916
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objective
+The COVID-19 pandemic has disrupted the lives of school-aged youth across Canada and globally. Among students who engaged in any solitary use of alcohol or cannabis in the past 30 days, fewer than half (46%) reported using substances to cope with COVID-19-related changes and these rates did not significantly differ by sex (46% female, 47% male; chi2 = 0.1, p = 0.7676).Table 2 presents results of the sex-stratified GLMM models estimating the log-odds of engaging in substance use to cope with COVID-19-related changes. For both female and male students, increased age was a significant correlate of substance-related coping during COVID-19.

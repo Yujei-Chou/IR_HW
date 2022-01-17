@@ -1,0 +1,3 @@
+34649281|PMC8524636
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+For the podcast associated with this article, please visit https://academic. In a Fast Track article entitled 'Predictors of mortality in thrombotic thrombocytopenia after adenoviral COVID-19 vaccination: the FAPIC score', Jae Il Shin from the Yonsei University College of Medicine in Korea, and colleagues aimed to analyse the clinical presentation, treatment modalities, outcomes, and prognostic factors of adenoviral TTS, as well as identify predictors for mortality. In a commentary entitled 'The neutrophil-lymphocyte ratio and incident atherosclerotic events: the impact of racial differences?',

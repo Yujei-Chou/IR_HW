@@ -1,0 +1,3 @@
+34608151|PMC8490433
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Chemical reactions of single molecules, caused by rapid formation or breaking of chemical bonds, are difficult to observe even with state-of-the-art instruments. The rate of event appearance was clearly increased by upregulating the Ni2+ concentration in trans from 0 to 1 mM (Supplementary Figs. With a +160 mV potential continuously applied, all three compounds report negative proceeding binding events (Ib < Ip), dramatically different from that of the catechol that reports positive proceeding events (Ib > Ip).

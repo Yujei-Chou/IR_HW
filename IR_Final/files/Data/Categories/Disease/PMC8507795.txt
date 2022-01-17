@@ -1,0 +1,3 @@
+34639712|PMC8507795
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The COVID-19 pandemic has undoubtedly affected all national healthcare systems at different levels. With workload significant for intensive care unit (ICU) staff along with the greatest COVID-19 exposure, perhaps our results are skewed as the majority of our respondents worked in medicine. This can be related to medical specialties also managing high numbers of COVID-19 patients.

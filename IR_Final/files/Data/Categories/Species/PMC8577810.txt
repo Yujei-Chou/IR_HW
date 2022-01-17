@@ -1,0 +1,4 @@
+33819846|PMC8577810
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Viral epidemics have negative, and in some cases, extreme impacts on psychological well-being, particularly in health care workers. "When asked about what they were most worried about since the outbreak, 6 students were most worried about family and vulnerable relatives (e.g. children, grandparents); 6 were most worried about how their studies were being affected (e.g. competency, motivation); 5 were most worried about the uncertainty about 'getting back on our feet' (e.g. the economy, international security, air travel, social distancing, and job prospects); and one student was most worried about job opportunities. We chose commonly used standardised instruments Second, the limitation often highlighted with content analysis is that the researcher conducting the analysis can ignore the context that the categories and words are within.

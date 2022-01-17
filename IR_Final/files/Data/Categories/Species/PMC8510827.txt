@@ -1,0 +1,4 @@
+34650611|PMC8510827
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The outbreak of the novel coronavirus pandemic has affected more than 200 countries globally, and as of March 1, 2021, over 113,467,303 confirmed cases of coronavirus disease 2019 (COVID-19) have been reported with over 2,520,550 deaths. We identified patients who received a laboratory diagnosis of COVID-19 between January 15 and March 15, 2020, at the west campus of Union Hospital in Wuhan. Our study found that the administration of QPD reduced the mortality rate of patients with COVID-19 and for the British and Indian COVID-19 variants that are currently emerging, Traditional Chinese medicine may be an option.

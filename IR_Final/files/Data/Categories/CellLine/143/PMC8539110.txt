@@ -1,0 +1,3 @@
+34696205|PMC8539110
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+COVID-19 has been spreading worldwide since late 2019. This review aims to review the most updated evidence concerning COVID-19 vaccination in high-risk groups to facilitate their decision-making. The first dose vaccination substantially reduced the risk of COVID-19-related hospitalizations in elderly, frail patients with co-morbidities, with the Pfizer vaccine BNT162b2 effectiveness being 71.4% (95% CI, 46.5-90.6) and ChAdOx1nCoV-19 (developed by Oxford University and AstraZeneca) 80.4% (95% CI, 36.4-94.5).

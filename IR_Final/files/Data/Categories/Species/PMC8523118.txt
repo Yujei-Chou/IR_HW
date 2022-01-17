@@ -1,0 +1,4 @@
+34664222|PMC8523118
+{'Disease', 'Species'}
+Introduction
+The Irish government acted decisively in mid-March 2020 to put the country in lockdown due to concern regarding COVID-19 spreading throughout communities. The COVID-19 pandemic has brought with it significant challenges for health services worldwide. This has been demonstrated in the case of acute myocardial infarction, with fewer overall presentations, longer time from first symptom to presentation (potentially leading patients to miss the thrombolysis window), more complicated in-hospital stay and worse overall outcomes reported in the COVID era than in the corresponding period in 2019.Fewer presentations have also been reported in the field of acute stroke.

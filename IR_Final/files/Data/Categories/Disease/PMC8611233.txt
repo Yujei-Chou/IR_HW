@@ -1,0 +1,4 @@
+34815281|PMC8611233
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Objectives
+We hypothesised that newspaper advertisements for dietary supplements that claimed to have an infection prevention effect have increased since the spread of COVID-19.We examined the functions and ingredients claimed in advertisements for dietary supplements that have increased since the spread of COVID-19.We investigated the content and changes in the number of advertisements that claimed to have an infection prevention effect. We hypothesised that newspaper advertisements claiming an infection prevention effect have increased since the spread of COVID-19. There is insufficient evidence to judge whether they have preventive effects against COVID-19.As evident in table 4, however, advertisements used phrases that indicated preventive effects against COVID-19.

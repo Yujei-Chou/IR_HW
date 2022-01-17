@@ -1,0 +1,3 @@
+34627487|PMC8497034
+{'Chemical', 'Disease', 'Species'}
+We read with great interest the Article by Renato D Lopes and colleagues showing that, among patients hospitalised with COVID-19 and elevated D-dimer concentration, in-hospital therapeutic anticoagulation with rivaroxaban or enoxaparin followed by rivaroxaban to day 30 did not improve clinical outcomes but increased bleeding compared with prophylactic anticoagulation. Furthermore, considering that risk of mortality and severe forms of COVID-19 pneumonia increase with ageing, it seems reasonable to prefer the adoption of an age-adjusted cutoff in this patient group. Therefore, the results of this large, multicentre, randomised trial should be interpreted cautiously for patients with COVID-19.

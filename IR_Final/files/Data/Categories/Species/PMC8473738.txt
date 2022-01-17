@@ -1,0 +1,3 @@
+34589017|PMC8473738
+{'Chemical', 'Disease', 'Species'}
+In this study, we considered the reverse causality of the technology acceptance model, specifically in the post-COVID-19 scenario. We believe that such an impact is ultimately reflected in PU of technology and post-COVID-19 attitude of users toward technology. More specifically, we suggest that the post-COVID-19 acceptance of technology behaviors will influence computer efficacy, mastery experience, and SRL of users while using technology that will have a favorable impact on the beliefs of users concerning ease of using technology.

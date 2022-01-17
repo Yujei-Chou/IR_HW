@@ -1,0 +1,4 @@
+34535820|PMC8448391
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background and objective
+The work situation is an important dimension of professional life and wellbeing. The authors highlighted a need for alternative employment models in rheumatology to improve recruitment. Figure 3 illustrates the different trends by creating three age groups (<40 years, 40-50 years, >50 years) and four new variables: delegation to RFAs (item 4.3, response yes); delegation to GPs (item 4.4, response yes); cooperation with RFAs (item 4.1, responses very good and good); and cooperation with GPs (item 4.2, responses very good and good).In the youngest group of respondents, 65% rated cooperation with medical assistants/nurses as good (40% with GPs), compared to higher ratings in the group 50 years and older.

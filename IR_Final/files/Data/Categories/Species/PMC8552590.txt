@@ -1,0 +1,4 @@
+34718065|PMC8552590
+{'Chemical', 'Disease', 'Species'}
+Background
+Infection rates with severe acute respiratory syndrome coronavirus type 2 (SARS-CoV-2) and subsequently morbidity and mortality remain high. CT values were lowest in NP swabs (mean 28.7, SD 8.2) compared to mouthwash samples (mean 35.1, SD 4.8), and buccal swabs (mean 34.6, SD3.5).The overall sensitivity with different CT values is shown in Table 2 .Mouthwash was shown to be significantly more sensitive compared to buccal swabs regarding the overall sensitivity (p < 0.001) and in NP swab samples with a CT value less than 30 (p = 0.021). In three patients, mouthwash samples were demonstrated to have a higher sensitivity than NP swabs.

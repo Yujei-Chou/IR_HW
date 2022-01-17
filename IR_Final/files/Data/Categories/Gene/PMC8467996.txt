@@ -1,0 +1,3 @@
+34574350|PMC8467996
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The dynamically changing epidemiological situation caused by the SARS-CoV-2 virus is associated with the increased burden and fatigue of medical personnel. Results: In the studied group of medical personnel (n = 110) using FFP2/FFP3 masks, no significant differences (p > 0.05) were found between the parameters of geometric examination performed before and after leaving the isolation ward of the hospital. Adverse effects of being in the isolation zone were related to the profession and age of the medical staff.

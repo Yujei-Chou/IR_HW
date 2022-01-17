@@ -1,0 +1,3 @@
+34659851|PMC8516575
+{'Chemical', 'Disease', 'Species', 'Gene'}
+To report a patient with nonarteritic anterior ischemic optic neuropathy (NA-AION) occurring soon after the COVID-19 vaccination. Optical coherence tomography confirmed optic disc swelling in the right eye. As mentioned, patients with COVID-19 infection can manifest with hypercoagulability and hypoxemia, both of which may contribute to the development of NA-AION.In contrast, various adverse effects have been reported with COVID-19 vaccine, but these events' specific mechanism and frequency have not been investigated thoroughly.

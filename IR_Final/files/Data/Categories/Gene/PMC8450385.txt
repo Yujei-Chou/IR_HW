@@ -1,0 +1,3 @@
+34552902|PMC8450385
+{'Disease', 'Species', 'Gene'}
+Background: Understanding the levels of health literacy among different groups is essential for better public health interventions targeting specific subgroups of the population. For the first time, this article focused on the differences of health literacy in diverse age groups of Chongqing residents before and after the era of COVID-19 and it discussed the influencing factors of various age groups on the level of health literacy in disparate dimensions. These factors have had an impact on the health literacy of residents of all ages in terms of chronic disease prevention.

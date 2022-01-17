@@ -1,0 +1,4 @@
+34738516|PMC8569922
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Introduction
+PCR-based diagnostics of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a well-established method with numerous commercially available kits and in-house assays published over the last months. In none of the RDT tested did we observe a considerable discrepancy between the detectability of fresh specimens and pools with a comparable Cq value (data summarised in Supplementary Figure S1).Since some of the swabs had been transported to the laboratory in viral transport medium, the final concentration of viral transport medium in pools was <= 20% v/v for each pool, <= 10% v/v for 38 pools and 0% for 25 pools. For these RDT, the proficiency to detect those pools that contained culturable SARS-CoV-2 was even better, with values up to 100% (data not shown).

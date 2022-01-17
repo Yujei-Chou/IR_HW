@@ -1,0 +1,3 @@
+34630183|PMC8499705
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background: Restrictions due to the COVID-19 pandemic have led to everyday reliance on digitalisation of life, including access to health care services. This is important to understand whether people with SMI have adapted to the increased digitalisation of life and remain connected to their sources of support. More people with bipolar disorder self-reported a mental health decline (51.9%) compared to people with psychosis (34.8%) There was no association between decline in mental health and age [ = 2.99, P = 0.39].In the light of this, we examined whether a decline in mental health was associated with greater use of the Internet after adjusting for age and diagnosis.

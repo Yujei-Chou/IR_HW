@@ -1,0 +1,4 @@
+34703637|PMC8521128
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objective
+Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), is associated with significant morbidity and mortality, especially among susceptible populations such as the elderly and those with comorbidities. Sputum Gram staining was positive for Gram-positive cocci, but no organism was isolated. The authors screened 80 (14.7%) of 542 patients with COVID-19 for primary bacterial respiratory co-infection, of whom 15 (2.8%) were treated as having true primary respiratory co-infections, defined as any infection identified within 72 hour of admission.

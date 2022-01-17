@@ -1,0 +1,3 @@
+34586056|PMC8544967
+{'Chemical', 'Disease', 'Species', 'Gene'}
+We established an online registry of coronavirus disease-associated mucormycosis cases in India. Rapid data collection, which can be accomplished through collaborative online registries, is essential to identifying risk factors for CAM. Among 53 patients with available follow-up data at 42 days, 17 (32.1%) had an incomplete recovery, 20 (37.8%) had a full recovery, 10 (18.9%) had vision loss, and 6 (11.3%) had died (Figure).In agreement with previous studies, we found that diabetes and steroid use were major risk factors for CAM.

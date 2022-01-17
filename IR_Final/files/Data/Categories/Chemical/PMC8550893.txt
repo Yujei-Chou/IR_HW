@@ -1,0 +1,3 @@
+34725537|PMC8550893
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Multiplexed detection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) rather than detection targeting a single gene is crucial to ensure more accurate coronavirus disease 2019 (COVID-19) diagnostics. Accordingly, this lab-on-disc platform, independent of bulky instruments, is suitable for rapid, point-of-care testing of SARS-CoV-2 in resource-limited settings. By testing various copies of SARS-CoV-2 RNA, we demonstrated that visual RT-DAMP assays with N-1, N-2, and E primer sets can detect 5, 500, and 500 copies RNA within 50 min, respectively, showing high detection sensitivities (Fig.

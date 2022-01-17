@@ -1,0 +1,4 @@
+34740916|PMC8573300
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Introduction
+Early literature on the COVID-19 pandemic indicated striking ethnic inequalities in SARS-CoV-2-related outcomes. Eight studies on African-Americans, six studies on Hispanic-Americans and three studies on Asian-Americans reported unadjusted effect estimates on COVID-19 severity among hospitalised patients and the pooled ORs showed no significant differences between ethnic groups, except for a higher risk in Asian-Americans (3.10; 1.83 to 5.26) (online supplemental appendix figure 7). For the US studies, the summary of pooled unadjusted and adjusted OR for death among hospitalised COVID-19 patients stratified by ethnicity is shown in figure 6.

@@ -1,0 +1,3 @@
+34777557|PMC8576144
+{'Chemical', 'Disease', 'Species', 'Gene'}
+A dangerous infectious disease of the current century, the COVID-19 has apparently originated in a city in China and turned into a widespread pandemic within a short time. This model achieved an average sensitivity of 85.71% and an average specificity of 84.88%.In the preceding sections, we explored the use of the classification and the segmentation models in the medical applications. The abovementioned steps and procedures in the processing of CXR images and the detection of COVID-19 lung involvement have been illustrated in Fig.

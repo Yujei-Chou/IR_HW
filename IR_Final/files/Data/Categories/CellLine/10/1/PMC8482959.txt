@@ -1,0 +1,3 @@
+34593760|PMC8482959
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+The coronavirus disease 2019 (COVID-19) pandemic has caused large-scale economic and social losses and worldwide deaths. SARS-COV-2 RNA was also detected in the CSF sampling of a patient with neurological manifestations of demyelinating disease, although the respiratory symptoms were mild. Bulk and single-cell RNA sequencing in both humans and mouse revealed that ACE2 and coronavirus cell entry-related genes are expressed in respiratory epithelium and olfactory epithelium, but not in olfactory sensory neurons or olfactory bulb neurons, indicating that SARS-CoV-2 may infect nonneuronal cell types in the olfactory bulb and thus lead to anosmia in COVID-19 patients.

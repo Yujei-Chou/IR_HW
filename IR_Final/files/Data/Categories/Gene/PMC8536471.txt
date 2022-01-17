@@ -1,0 +1,4 @@
+34687377|PMC8536471
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Coronavirus Disease 2019 (COVID-19), caused by the newly emerged SARS-CoV-2 virus, has abruptly spread from China as a global pandemic, Italy being one of the earliest affected countries. Among these, only 2/110 (1.8%) patients tested positive for SARS-CoV-2 IgG. The first had an asymptomatic SARS-CoV-2 infection and the other one presented upper airway symptoms (published and unpublished data). Two of the 4 INS patients experienced a relapse during the SARS-CoV-2 infection; both were easily managed with oral steroids.

@@ -1,0 +1,3 @@
+34770423|PMC8587284
+{'Chemical', 'Disease', 'Species', 'Gene'}
+COVID-19 frequently provokes pneumonia, which can be diagnosed using imaging exams. The lower performance in the second fold was somewhat expected since it contains few COVID-19 examples for training. Nevertheless, to the best of our knowledge, we achieved the best identification rate of COVID-19 among other types of pneumonia using segmented CXR images in a less biased configuration.

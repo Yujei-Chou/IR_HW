@@ -1,0 +1,3 @@
+34639783|PMC8508172
+{'Chemical', 'Disease', 'Species', 'Gene'}
+COVID-19 has an impact on the day-to-day life of students, with school closure and detrimental effects on health and well-being that cannot be underestimated. Follow-up data were collected in June and July 2020, over half a year since the spread of COVID-19, which facilitated analyses of its impact on the health behaviours and well-being of young people. The students should be more resilient towards the impact of COVID-19 on healthy living.

@@ -1,0 +1,3 @@
+34659200|PMC8515900
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+Impressive efforts have been made by researchers worldwide in the development of target vaccines against the novel severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) and in improving the management of immunomodulating agents. In addition, the use of immunosuppressive agents in the clinical management of COVID-19 patients has been clarified by consolidated data. More recently, the largest RCT on colchicine in non-hospitalized COVID-19 patients (COLCORONA) did not meet the primary endpoint but demonstrated that in patients with PCR-confirmed COVID-19, colchicine led to a significant reduction in the composite rate of death or hospitalization.

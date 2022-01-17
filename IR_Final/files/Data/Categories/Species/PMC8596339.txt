@@ -1,0 +1,4 @@
+34789210|PMC8596339
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+Caused by SARS-CoV-2, the 2019 novel coronavirus disease (COVID-19), first reported in Wuhan, China, has rapidly resulted in a global pandemic. First, general evaluation of the formal orientation (the approach provided by institutions and teachers/instructors to help students get familiar with the learning platform/software, and contents and learning arrangements) process on how to proceed with online learning provided by the institutions to medical students is measured by five-point anchors of "excellent, good, neutral, poor, bad" and an extra anchor of "not clear". This is a cross-sectional survey conducted at the early stage of online learning implementation in various institutions in response to COVID-19 in China.

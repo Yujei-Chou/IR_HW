@@ -1,0 +1,3 @@
+34650954|PMC8506250
+{'Disease', 'Species', 'CellLine'}
+This paper uses the daily seasonally-adjusted data for net revenues and openings of small businesses in the accommodation, food services, leisure, and hospitality sectors in the United States from January 10, 2020, to June 24, 2021. The results from the Dorta-Sanchez bootstrap unit-root test for a random walk with drift show that the COVID-19 crisis has significantly affected revenues and openings of small leisure and hospitality firms. We utilize the recent bootstrap unit-root test for a random walk with drift proposed by Dorta and Sanchez.

@@ -1,0 +1,4 @@
+34642609|PMC8502244
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Kawasaki disease (KD) is the most common and self-limited systemic vasculitis in pediatrics, mainly affecting the small and medium-sized vessels. The follow-up laboratory test demonstrated a positive value of immunoglobulin G (IgG) antibody for SARS-CoV-2.KD is an acute vasculitis of childhood, with 50% of cases occurring in those under two years of age and 80% in those under five years of age, and is the leading cause of acquired heart disease in pediatrics in developed countries. Based on our knowledge, this is the first report regarding MIS simulating atypical KD during the COVID-19 pandemic in Iran.

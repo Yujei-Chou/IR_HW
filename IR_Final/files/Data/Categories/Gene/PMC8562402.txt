@@ -1,0 +1,3 @@
+34677149|PMC8562402
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Atmospheric ozone is produced when nitrogen oxides react with volatile organic compounds. Ozone can reduce biomarkers such as C-reactive protein (CRP), erythrocyte sedimentation rate, and uric acid, which have been shown to reduce CRP in patients with COVID-19 (Figure 1).Ozone shows strong anti-inflammatory properties by modulating NOD-, LRR- and pyrin domain-containing protein 3 (NLRP3) inflammation, that plays a vital role in the onset and persistence of inflammation in various diseases. Oxygen-ozone therapy appears to be an effective treatment for COVID-19 patients with severe respiratory failure.

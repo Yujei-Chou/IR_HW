@@ -1,0 +1,1 @@
+mutation,vlds,time,virus,infection,variant,mean,lineage,available,value,since,study,caused,new,first,population,individual,digital,model,content,implementation,commonly,high,epidemic,evolution,saudi,presented,region,method,running

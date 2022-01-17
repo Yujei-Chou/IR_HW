@@ -1,0 +1,4 @@
+34695187|PMC8574313
+{'Disease', 'Species'}
+Abstract
+The ongoing COVID-19 pandemic caused by the new Coronavirus SARS-CoV-2 is among the biggest global challenges of our time, and its quantitative analysis has thus been an intense focus of recent research . Putting , i.e. measuring time in units of , we thus derive where we have defined  as an effective time-dependent reproduction rate for group . In this work, we have shown that the efficiency of a stratified epidemic strategy dividing the population into a low- and a high-risk group is drastically limited by synchronization effects occurring for any finite coupling between the groups.

@@ -1,0 +1,3 @@
+34622376|PMC8497144
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Warfarin has been used as an anticoagulant by millions of patients due to its effectiveness, availability, and low cost. Protocol and CPA updates along with clinic team education was considered the study intervention. A significant difference was also seen from the post- to post2 intervals of 2.23 days (p < 0.001) and in the pre- to post2- intervention of 4.12 days (p < 0.001).The mean TTR (SD) measured pre- and post-intervention showed no significant difference in pre- 70.11% (25.95) versus post-intervention of 69.76% (25.69) with a difference of - 0.35% (29.93) (p = 0.956).

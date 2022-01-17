@@ -1,0 +1,3 @@
+34777353|PMC8586491
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+The global outbreak of the SARS-Cov-2 virus in 2020 has killed millions of people worldwide and forced large parts of the world into lockdowns. It is important to note, that not all functions of gammadelta T cells require their TCR, for example gammadelta T cell can target cancer cells through the NKG2D receptor, independently of the TCR.COVID-19 patients show elevated IFN- gamma levels and Jouan et al. This shows that gammadelta T cells appear to be heavily involved in respiratory virus infections such as influenza viruses.

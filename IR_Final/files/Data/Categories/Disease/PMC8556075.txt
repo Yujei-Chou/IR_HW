@@ -1,0 +1,4 @@
+34737165|PMC8556075
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Introduction
+Severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) still continues its effects despite vaccination and isolation applications around the world. Fifty patients diagnosed with acute COVID-19 pneumoniae were screened for the prevalence of ANAs. Although the positivity rate of the IIF-ANA test was lower in the control group compared to COVID-19 patients, the difference was not statistically significant (p = 0,63, Chi - Square test).ANCA (myeloperoxidase: MPO) was positive in one (N: 1/50, 2%) female serum detected as nucleolar (+-) (AC-8) pattern by IIF-ANA test.

@@ -1,0 +1,4 @@
+34699787|PMC8545676
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Main text
+The spike protein of SARS-CoV-2 directs binding to the viral receptor, stimulating a membrane fusion reaction that allows virus entry. Mutating the palmitoylated Cys residues in the spike cytoplasmic tail, or knocking down ZDHHC9 and/or ZDHHC20 expression by siRNA, decreased spike half-life, suggesting a role for S-acylation in spike protein turnover. Finally, the team showed that a defect in spike acylation led to decreased particle infectivity.

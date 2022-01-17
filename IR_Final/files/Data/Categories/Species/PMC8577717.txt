@@ -1,0 +1,3 @@
+34777552|PMC8577717
+{'Disease', 'Species', 'Mutation', 'Gene'}
+Coronaviruses are genetically variable, enveloped, ssRNA viruses that cause respiratory infections in birds and many mammals, including humans. The WHO requirement for 'comparative assessment of virus characteristics' of a new SARS-CoV-2 variant should increase our understanding and awareness of this VOI. A Japanese group has raised major concerns regarding circulation of the vaccine-resistant SARS-CoV-2 variants, reporting that the Mu lineages are significantly (p = 0.031) resistant to convalescent-serum-mediated neutralization compared with other VOIs or VOCs presently classified.

@@ -1,0 +1,3 @@
+34768648|PMC8584586
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+In 2020, SARS-COV-2 put health systems under unprecedented resource and manpower pressure leading to significant number of deaths. Two recent meta-analyses are reassuring and suggest the relative safety of colchicine administration. Out of 172 results, 27 studies reported outcomes regarding colchicine utilization against SARS-COV-2 and are discussed in the following sections (Figure 3).As could be predicted by known pathophysiology and its properties, studies that evaluated colchicine against the risk of infection with SARS-COV-2 showed no protective effect.

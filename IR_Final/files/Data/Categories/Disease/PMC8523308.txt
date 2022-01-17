@@ -1,0 +1,4 @@
+34690460|PMC8523308
+{'Disease', 'Species'}
+Introduction
+COVID-19 or SARS-CoV-2 was first identified as a potential threat in China in December 2019, and on March 11, 2020 declared as a pandemic by the World Health Organization. According to survey 50.07% of the surgeon gathered COVID-19 pandemic information from News Paper/News Channels but for larger proportion of surgeons (65.98%) source of information was Social Media [WhatsApp, Facebook, etc.].8.45% feel that the pandemic will last 3 months or more. By using Multivariate analysis only two factors were found to increase fear, Single earning member in the family and Significant loan.

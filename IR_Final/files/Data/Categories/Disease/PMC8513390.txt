@@ -1,0 +1,3 @@
+34660208|PMC8513390
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The superficial temporal artery (STA) pseudo-aneurysm is usually associated with trauma. To our knowledge, we here report the first case of an STA pseudo-aneurysm that was potentially affected indirectly by the Covid-19 pandemic. At the same time, an aneurysm arising from the right STA was also noted.

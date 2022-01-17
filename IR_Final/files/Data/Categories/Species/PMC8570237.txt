@@ -1,0 +1,3 @@
+34739551|PMC8570237
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+SARS-CoV-2 is a unique event, having emerged suddenly as a highly infectious viral pathogen for human populations. Protein sequence comparisons have previously been used to investigate critical amino acid changes in the SARS-CoV-2 Spike protein (Letko et al.), 1A) (Ou et al.).To quantify functional differences between the N0 ancestor and the Spike-RBD sequences, we conducted 10 ns molecular dynamics (MD) simulations (Methods) of the Spike-RBD in complex with hACE2 (starting point for each simulation was modeled off crystal structures of the SARS-CoV-2 Spike-RBD/hACE2 complex) (Lam et al.).

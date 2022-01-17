@@ -1,0 +1,3 @@
+34684315|PMC8541287
+{'Chemical', 'Disease', 'Species', 'Gene'}
+This study aimed to investigate changes in the exercise pattern and dietary habits in adolescents during the COVID-19 pandemic. An international online survey demonstrated reduced physical activity levels (vigorous, moderate, walking, and overall) during home confinement due to the COVID-19 crisis (5.04 +- 2.51 day/week vs. 3.83 +- 2.82 day/week of physical activities, p < 0.001). The 2020 group showed lower odds regarding the frequency of vigorous and moderate aerobic exercise than the 2019 group (all p < 0.001).

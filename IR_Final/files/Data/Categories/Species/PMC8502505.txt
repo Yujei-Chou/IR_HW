@@ -1,0 +1,3 @@
+34660884|PMC8502505
+{'Chemical', 'Disease', 'Species', 'Gene'}
+To prevent the spread of the COVID-19 pandemic, governments in various countries have severely restricted the movement of people. It can be seen that the basin size distributions of Tokyo and Sapporo in the daytime deviate significantly from a straight line, which is very different from the simulation results (dotted lines). On the other hand, during the morning rush hour, the scaling laws hold universally, even though the number of moving people in the basin has decreased significantly.

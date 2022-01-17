@@ -1,0 +1,4 @@
+34212441|PMC8597137
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+The proposed method allows for better passive protection of infections by alternating work periods with full personnel and short rest periods. Another observation concerns the application of the direct design method in which it is assumed that the difference  is calculated from the ratio between the internal source and the airflow, i.e. considering the steady-state value of the transients considered above for concentrations. Once again, the stationary method overestimates the calculation parameters and therefore the probability of individual contagion risk.

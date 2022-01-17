@@ -1,0 +1,4 @@
+34528526|PMC8555587
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background & objectives:
+Patients with severe COVID-19 may develop acute respiratory distress syndrome and acute lung injury, resulting in morbidity and mortality caused by damage to the alveolar lumen by inflammation and pneumonia. Since TLR7 recognizes single-stranded RNA (ssRNA), a non-specific increase in TLR7 expression in nasopharyngeal (NP) cells of COVID-19 positive and negative groups in our study indicated infection with other ssRNA viruses, which needs to be investigated (Fig. It is speculated that SARS-CoV-2 ssRNA, recognized by MDA5 and RIG-I triggers increased expression of IFNs and induces pro-inflammatory cytokines such as IL-6, TNF-alpha, IL-1 through NFkappaB. In concordance with the speculations, our study showed significantly higher MDA5 expression Fig.

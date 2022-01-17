@@ -1,0 +1,3 @@
+34696214|PMC8538620
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+COVID-19 vaccines are the most critical measure for controlling the COVID-19 pandemic; however, we have little information on their complications. This case report shows the importance of considering hyperthyroidism as a possible complication after COVID-19 vaccination. Fortunately, this patient, who had a strong desire for the second dose of the BNT162b2 mRNA COVID-19 vaccine, was able to receive it on Day 71 without any serious complications including recurrence of hyperthyroidism.

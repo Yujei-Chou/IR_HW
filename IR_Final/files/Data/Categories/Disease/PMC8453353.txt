@@ -1,0 +1,3 @@
+34520282|PMC8453353
+{'Disease', 'Species'}
+to the editor: We read with great interest the many comments made by Nuschke and Haouzi regarding our manuscript. Tobin's pathophysiological arguments are very solid but are not sufficient to disqualify different points of view. That patients with severe COVID-19 pneumonia have a peculiar involvement of neurological function and that may blunt dyspnea sensation seems to us a plausible hypothesis and we took the risk to propose a conceptual working hypothesis to address this important scientific question just emerged in COVID-19 outbreak.

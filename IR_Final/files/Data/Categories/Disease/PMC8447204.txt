@@ -1,0 +1,4 @@
+34169629|PMC8447204
+{'Disease', 'Species', 'Gene'}
+Abstract
+The COVID-19 pandemic placed great demands and exerted tremendous stress on the lives of health care workers. This puts health care workers (HCWs) at great risk of exposure (Thielking, ).Unfortunately, the unavailability of timely relevant data makes it difficult to estimate the true burden of HCW infection and plan effectively strategies for management (Bandyopadhyay et al., ; Nurses whose healthcare organizations provided them with PPE and/or accommodations during the COVID pandemic experienced lower burnout (Jo, ).

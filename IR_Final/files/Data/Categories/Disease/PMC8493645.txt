@@ -1,0 +1,3 @@
+34629751|PMC8493645
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+The outbreak of the COVID-19 pandemic is unarguably the biggest catastrophe of the 21st century, probably the most significant global crisis after the second world war. In , authors studied the feasibility of the teleultrasound examination and consultation amid situations like the COVID-19 pandemic. In risk assessment and proper triaging of COVID-19 patients, deep learning algorithms are being used to build prediction models to prognosticate patients' conditions.

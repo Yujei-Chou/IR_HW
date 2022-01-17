@@ -1,0 +1,4 @@
+34688726|PMC8530765
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The COVID-19 pandemic caused institutions and universities worldwide to shut down and move to online models during Spring  . The study was conducted in two parts 1) a 3.5-month period that represented air sampling inside HVAC of two dorms without specific knowledge of a COVID-19 case; and 2) air sampling from HVAC associated with a suite containing one student who tested positive for COVID-19 by nasal swab RT-PCR.Two student dorms were selected for the current study, designated here as Dorm1 and Dorm2. We detected SARS-CoV-2 RNA by RT-PCR in air January 19-25 using Methods 2 and 3 in both dorms at a time when no student testing was scheduled.

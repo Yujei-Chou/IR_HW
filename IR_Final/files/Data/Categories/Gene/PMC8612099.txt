@@ -1,0 +1,4 @@
+34715194|PMC8612099
+{'Disease', 'Species', 'Gene'}
+Background
+The global outbreak of the Coronavirus disease 2019 (COVID-19) has profoundly threatened the psychological and physical well-being of adolescents worldwide. Based on the positive nature of hope, we hypothesize that there is a positive correlation between hope and self-control, and the association between insecurity and self-control will be weaker in adolescents with a higher level of hope than those with a lower level (H 3).In summary, based on empirical and theoretical evidence, the present study constructed a moderated mediation model to examine the mediating effect of self-control on the link between perceived insecurity and subjective well-being of adolescents with the moderating role of hope in the first half. The current study has confirmed the mediating role of self-control between perceived insecurity and subjective well-being among youths.

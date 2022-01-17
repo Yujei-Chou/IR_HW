@@ -1,0 +1,3 @@
+34789010|PMC8601155
+{'Disease', 'Species'}
+The past year marked what for many is the most significant event they have yet lived through. I am uniquely positioned to reflect on how the pandemic spotlighted the pharmaceutical industry, and what that looked like. Companies unable to provide physical distancing, work from home or other safety measures and without a proper plan in place for testing in a workplace would see limited success with preventing the spread of COVID-19.

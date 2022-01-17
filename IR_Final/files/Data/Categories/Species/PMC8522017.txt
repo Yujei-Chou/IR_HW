@@ -1,0 +1,3 @@
+34713157|PMC8522017
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background: Research publications related to the novel coronavirus disease COVID-19 are rapidly increasing. Applying the LDA model to these documents returns an estimate of the proportions of each topic that week. We performed a post hoc analysis by analysing the proportion of the term "mask" (as shown in Figure 4B) in different topics: Topic 24 ("airborne transmission protection") 2.3%, Topic 16 ("guidelines") 0.078%, Topic 6 ("surgery") 0.033%, Topic 2 ("epidemiology") 0.0090%, Topic 8 ("mental Health") 0.018%.Applying our LDA model to LitCovid abstracts shows that temporal topic proportions have a very strong agreement with an average Normalized Euclidean Distance (NED) of 0.0303 (STD 0.0128).

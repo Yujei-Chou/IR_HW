@@ -1,0 +1,4 @@
+34423352|PMC8499734
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+The Covid-19 pandemic has presented social and healthcare challenges. Nevertheless, a tertiary liver unit in London, England, reported that the Covid-19 period was associated with a 2-fold increase (from 19% to 48% P = <0.0001) in admissions for alcohol-related liver disease (ARLD) and an increase from 11% to 24% in those cases requiring intensive or high dependency care. The group with Covid-19 infection and AUD were significantly younger (mean age 62 vs 70 years, P < 0.001), more likely to be male (72.7% vs 52.1%, P < 0.001), of white ethnicity (98.5% vs 85.0%, P < 0.001) and died as an inpatient at a significantly younger age (mean age 63.1 vs 71.6 years, P < 0.001) compared to those with Covid-19 infection and screened low risk for AUD.

@@ -1,0 +1,3 @@
+34684447|PMC8538622
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The COVID-19 pandemic has uncovered the increased susceptibility of individuals with obesity to infection and severe disease leading to hospitalization and death. While this is possibly related to systemic pro-inflammatory cytokine responses, there are clinical observations that some patients have increasing D-dimer levels after therapy suggesting a possible role of COVID-19 in the development of thrombosis leading to fatalities. Studies including epidemiological investigations and clinical trials provide evidence that vitamin D deficiency may lead to an increased risk of influenza and other respiratory tract infections.

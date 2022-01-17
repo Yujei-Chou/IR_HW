@@ -1,0 +1,3 @@
+34639358|PMC8507622
+{'Disease', 'Species'}
+The COVID-19 pandemic has challenged governments worldwide with the design of appropriate policies that maximize health outcomes while minimizing economic and mental health consequences. Regarding the effects of the policy of closing bars and restaurants, estimates showed that it was statistically significant with a negative sign. Regarding individuals' socio-economic control variables, the results are in line with what is generally assumed in life satisfaction literature before and during the pandemic.

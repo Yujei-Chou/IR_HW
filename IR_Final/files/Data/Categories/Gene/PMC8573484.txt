@@ -1,0 +1,4 @@
+34777582|PMC8573484
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background:
+In December 2019, a novel SARS-CoV-2 infection was first documented in Wuhan, China, and quickly escalated to a global pandemic by March 2020. As shown in Table 4, age older than 70 years (HR 2.07, 95% CI 1.26-3.40, p < 0.004), presence of COVID-19 complications (HR 9.18, 95% CI 5.05-16.71, p < 0.0001), and evidence of metastatic disease (HR 2.74, 95% CI 1.62-4.63, p < 0.0001) were associated with higher mortality. Within the 39 patients (7.9%) with long-term SARS-CoV-2-related complications, the most frequent were asthenia (n = 7, 17.9%), dyspnea (n = 8, 20.5%), and arthromyalgia (n = 7, 17.9%).Since December 2019, the emergence and rapid expansion of the SARS-CoV-2 infection has forced oncologic decisions to be primarily based on the prognosis of the malignancy, the risk-benefit assessment of the anticancer therapy, and the predicted outcome of a potential COVID-19 infection.

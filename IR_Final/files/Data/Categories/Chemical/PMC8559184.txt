@@ -1,0 +1,3 @@
+34734103|PMC8559184
+{'Chemical', 'Disease', 'Species'}
+People with developmental disabilities (DD) are devastatingly impacted by COVID-19, yet no studies have explored the experiences of developmental disability nurses during the pandemic. In fact, our search at that time yielded zero research studies related to the impact of COVID-19 on people with DD. As of July 2021, we are aware of no other studies that explore the impact of COVID-19 on people with DD and their support staff including nurses, from the lens of the DD nurse.

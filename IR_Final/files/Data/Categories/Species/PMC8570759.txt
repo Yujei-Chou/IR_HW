@@ -1,0 +1,4 @@
+34461136|PMC8570759
+{'Disease', 'Species', 'Gene'}
+Introduction
+Structural inequities (i.e., sociocultural and political disadvantages created by unfair systems) in access to reproductive health care, including contraception, in the United States (US) predated the COVID-19 pandemic. Our findings indicate that women were facing barriers to care because of COVID-19, both early and mid-COVID-19 pandemic, with about half of contraception users who sought care during the COVID-19 pandemic reporting at least one barrier to contraception. We find that this additional burden created challenges for a minority of women to access contraceptive care.

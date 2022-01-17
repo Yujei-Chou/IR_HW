@@ -1,0 +1,4 @@
+34352148|PMC8447342
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+Antibodies (Abs) are produced by B cells in response to viral infection or vaccination. Furthermore, as T cells comprise the other major arm of the adaptive immune response (for SARS-CoV-2 excellently reviewed in), studies delineating the cooperation between T and B cells are advantageous to fully understand the control of SARS-CoV-2.As the SARS CoV-2 S glycoprotein harbors the well-exposed receptor-binding domain (RBD), an immunodominant determinant of the trimeric surface spike glycoprotein, responses against S or RBD is the best indicators of past infection for individual and population studies. Evaluation of SARS-CoV-2 spike-specific IgG responses at the population level is, therefore, critical for determining public health measures that aim to curtail transmission.

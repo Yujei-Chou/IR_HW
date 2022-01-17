@@ -1,0 +1,4 @@
+34693384|PMC8520828
+{'Chemical', 'Disease', 'Species'}
+Objectives
+Uptake of preventive measures required to reduce SARS-CoV-2 virus transmission is crucial for the control of the coronavirus disease 2019 (COVID-19) pandemic. 102204)Lastly, participants shared they experience difficulties applying the preventive measures to individual situations. Our qualitative study amongst persons of Ghanaian and Eritrean origin suggests that the uptake of preventive measures in place to reduce the transmission of SARS-CoV-2 is subject to how awareness of, engagement by, and opportunities to act upon these measures are shaped by migration-related, sociocultural and socioeconomic factors.

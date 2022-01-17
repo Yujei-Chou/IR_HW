@@ -1,0 +1,4 @@
+34800689|PMC8598257
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Objective
+ Background Streptococcus pneumoniae remains the most common cause of community-acquired pneumonia (CAP) (Johansson el al., Statistical analysis Bivariate tables were constructed for patients with B-PCAP and SARS-CoV-2 pneumonia. DOI:10.1001/jama.2020.6775Roson B, Carratala J, Dorca J, Casanova A, Manresa F, Gudiol F. Etiology, reasons for hospitalization, risk classes, and outcomes of community-acquired pneumonia in patients hospitalized on the basis of conventional admission criteria.

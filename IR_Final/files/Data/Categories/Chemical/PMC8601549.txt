@@ -1,0 +1,3 @@
+34793573|PMC8601549
+{'Chemical', 'Disease', 'Species'}
+The first case of COVID-19 was detected in North Carolina (NC) on March 3, 2020. This required that staffing on the project be shifted to include additional visualization specialists, especially as retrospective analysis of results provided to the state over time were analyzed for both effectiveness and accuracy. One key insight was determining what the y-axis would be for the PowerPoint deliverables described in Table 1.

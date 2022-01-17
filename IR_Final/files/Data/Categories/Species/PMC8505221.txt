@@ -1,0 +1,4 @@
+34635926|PMC8505221
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Purpose
+Coronavirus SARS-COV2 (COVID-19) pandemic started in Wuhan, Hubei Province of the People's Republic of China, around December 2019, and has since overwhelmed health care across the world. Attached in the Appendix A is the MD Anderson Cancer Center testing policy. Table 2 shows that there was no significant difference in patient demographics and clinical characteristics among converters, and COVID-19-ve PC patients.

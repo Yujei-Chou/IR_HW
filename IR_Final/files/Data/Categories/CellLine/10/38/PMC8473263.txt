@@ -1,0 +1,4 @@
+34592443|PMC8473263
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Objectives
+ Introduction The SARS-CoV-2 virus causing the COVID-19 pandemic is an airborne respiratory virus that directly infects cells expressing the ACE2 protein. Both of these models are consistent with SARS-CoV-2 infected macrophages observed in heart autopsies (Bearse et al., 2020).A set of therapeutic agents targeting the mast cells and COX-2 exhibit efficacy in COVID-19 patients (Blanco et al.,

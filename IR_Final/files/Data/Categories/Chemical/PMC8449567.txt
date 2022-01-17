@@ -1,0 +1,4 @@
+34584615|PMC8449567
+{'Chemical', 'Disease', 'Species'}
+Image in medicine
+A 48-year-old male patient with a significant history of hypertension for 8 years and newly diagnosed diabetes was admitted on account of fever and difficulty in breathing from 15 days, initially exertional but later present at rest. Following admission, he was placed on 15 L O2/min because of not maintaining saturation later put on a mechanical ventilator on pressure support mode with positive end-expiratory pressure (PEEP) 8 cm H2O and 80% FiO2 for the next 8 days. High-resolution computed tomography (HRCT) thorax (A) revealed multiple areas of ill-defined ground-glass opacities with septal thickening and few areas of consolidation.

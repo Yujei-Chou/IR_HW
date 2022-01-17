@@ -1,0 +1,4 @@
+34733538|PMC8558598
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background:
+While a small proportion of patients with Coronavirus Disease-2019 (COVID-19) were known to develop acute kidney injury or require renal replacement therapy, the true rates of acute kidney injury and renal replacement therapy in hospitalized, critically ill COVID-19 patients were unknown. CKD prevalence was similar in COVID-19 (13%) and in patients who had infection with ACE2-associated viruses (6%) but lower than in patients with non-ACE2-associated viruses (29%).The similar rates of AKI in critically ill patients across viral groups suggests, but does not prove, that downregulation or binding of ACE2 may not be associated with increased rates of AKI. Other limitations include the high I2 value associated with COVID-19 studies (98.1%) and that only one reviewer screened the literature and extracted the data.

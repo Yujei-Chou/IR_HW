@@ -1,0 +1,3 @@
+34744839|PMC8564104
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background: The outbreak of 2019 coronavirus disease (COVID-19) has become a global pandemic. Similarly, there was no evidence supporting an association of schizophrenia, depression, or bipolar disorder with the risk of critically ill COVID-19 or hospitalization with COVID-19.We found a suggestive causal association between genetically predicted critically ill COVID-19 and higher odds of schizophrenia (OR = 1.043; 95% CI, 1.005-1.082; p = 0.027). First, our study was based on the European population; therefore, generalizability to other populations cannot be assumed.

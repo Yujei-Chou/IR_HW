@@ -1,0 +1,3 @@
+34604162|PMC8484631
+{'Chemical', 'Disease', 'Species', 'CellLine'}
+The Covid-19 outbreak has spread over the world, limiting population and trade, causing job losses, and forcing businesses to close. H01: The pandemic of Covid-19 has an effect on the FMCG industry's ability to survive. However, given the annual decrease in Malaysian GDP (-1.92) during the global pandemic in 2020, compared to the annual rise (2.27) in 2019, we can conclude that the Covid-19 has a negative effect on Malaysia economic outlook, leading to acceptance of the hypothesis.

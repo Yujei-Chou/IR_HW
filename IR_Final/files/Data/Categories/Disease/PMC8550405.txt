@@ -1,0 +1,4 @@
+34705841|PMC8550405
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Retraction of published research is essential for correcting errors in the scientific literature and maintaining trust in research. We therefore conducted a cross-sectional study of the Covid-19 articles that had been retracted up to 19th December 2020, to clarify the extent of inconsistencies in the process for retracting Covid-19 research and whether any recommendations could be made to address them. We also provide recommendations for authors of any research documents on how to reduce the risk of inappropriately citing retracted articles.

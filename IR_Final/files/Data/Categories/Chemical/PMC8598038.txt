@@ -1,0 +1,4 @@
+34788299|PMC8598038
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+In times of public health crises, such as a global pandemic, governments and individuals around the world are faced with the task of finding and taking effective measures of limiting the spread and impacts of the disease. With regards to clinical guideline panels, it is notable that they are more likely make strong recommendations when there is high certainty evidence (https://www.jclinepi.com/article/S0895-4356(21)00068-8/fulltext).This is an interesting point and something that would certainly be worthwhile to test, i.e. whether the findings we observed for quality of evidence effects in a health domain, would be the same in another domain. We hope this will be helpful in providing a condensed overview of the results without cluttering the writing.

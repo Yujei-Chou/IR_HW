@@ -1,0 +1,4 @@
+34785268|PMC8590622
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objectives
+Studies from the United Kingdom and worldwide have shown that children and young people have made up a small proportion of those infected with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Those individuals who reported positive PCR tests were more likely than other participants to report worsening of fever, cough, and sore throat symptoms during the same week.478 participants provided serology samples and their baseline characteristics are displayed in Table 4 . The serology sub-study cohort was not representative of the overall study as described in the results section.

@@ -1,0 +1,4 @@
+34704086|PMC8531275
+{'Disease', 'Species', 'Gene'}
+Background
+The coronavirus (COVID-19) pandemic is a global health crisis that has sent governments and citizens scrambling for resources and solutions to cope. Fifteen keywords were searched from 27 to 30 September 2020 on the Apple iOS and Google Android Play stores to identify apps that addressed stress, anxiety and depression (Fig. Among the 20 apps that were available on both platforms, 3 and 4 apps scored better in terms of engagement and information, respectively for their iOS versions, while the Android versions of 1 and 5 apps scored better in the same categories (Table 1).The mean subjective scores (iOS 2.92 +- 0.77, Android 2.85 +- 0.76) of the apps were the lowest in comparison to all the other objective quality parameters (Table 1).

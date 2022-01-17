@@ -1,0 +1,4 @@
+34710561|PMC8547796
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Coronavirus disease 2019 (COVID-19) is caused by the novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Increased mortality was observed in patients who were implanted with single chamber pacemaker and Micra (either VVI or AV Micra), p<0.001. reported the outcomes of a small series of 7 COVID-19 patients who were treated for severe bradyarrhythmias requiring pacing (3 TVP, 4 permanent leadless pacemakers), in whom death from complications of COVID-19 infection occurred in 57% (4/7) during the initial hospitalization, and in 71% (5/7) within three months of presentation.

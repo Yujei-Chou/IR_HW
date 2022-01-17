@@ -1,0 +1,4 @@
+34629953|PMC8478433
+{'Chemical', 'Disease', 'Species'}
+ABSTRACT
+The WALANT anesthetic technique (Wide Awake Local Anesthesia no Tourniquet) is an innovation in hand surgery in orthopedics and traumatology services. The hypothesis of the present study is that the WALANT anesthetic technique is efficient for anesthetize and does not generate pain in patients during the intraoperative period of hand surgery, corroborating to the possibility of evaluating the efficacy of surgery in active movement during the intraoperative period. The patients subjected to this technique did not feel any pain during the surgery, proving it to be effective in its purpose.

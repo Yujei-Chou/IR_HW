@@ -1,0 +1,4 @@
+34427254|PMC8544106
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Purpose:
+The COVID-19 pandemic has resulted in a drastic change in the life styles with extensive and far reaching consequences. This was an online survey on practice patterns in the treatment of corneal ulcer during the COVID-19 pandemic. Also, Table 5 reveals that maximum participants, i.e., 72 (44.4%) reported corneal practices were compromised due to the limited availability of essentials (tissue adhesives, BCLs, medications, etc.).

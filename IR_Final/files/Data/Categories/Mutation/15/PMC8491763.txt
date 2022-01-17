@@ -1,0 +1,3 @@
+34611326|PMC8491763
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+The unprecedented public health and economic impact of the COVID-19 pandemic caused by infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has been met with an equally unprecedented scientific response. Comparison of the S protein sequences indicates SARS-CoV-2 may have emerged from the recombination between bat and pangolin coronaviruses. It was suggested that the acquisition of the furin-cleavage site in the SARS-CoV-2 S protein was essential for zoonotic transfer to humans, and experimental data confirmed that SARS-CoV-2 pseudoviruses lacking this cleavage site in the S protein are incapable of facilitating entry into human airway cells.

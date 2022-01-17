@@ -1,0 +1,4 @@
+34713799|PMC8555371
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The Delta variant (Phylogenetic Assignment of Named Global Outbreak (Pango) lineage designation B.1.617.2) of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) drives a surge in new infections worldwide. We included 3,355 participants, 2,497 first-time participants and 858 returning participants, of whom 54.1% were women, 20.8% were aged < 18 years and 13.4% were aged >= 65 years. The proportion of self-reported vaccinated participants was similar to that of the general population of Geneva across most age groups; study participants aged >= 70 years reported higher vaccination rates than their counterparts in the general population (Supplementary Table S2).The overall seroprevalence estimate was 66.1% (95% CrI: 64.1-68.0), including a seroprevalence of 29.9% (95% Crl: 28.0-31.9) for infection-derived antibodies (Figure 2).

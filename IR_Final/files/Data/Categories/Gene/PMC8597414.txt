@@ -1,0 +1,3 @@
+34812252|PMC8597414
+{'Chemical', 'Disease', 'Species', 'Gene'}
+This paper investigates the Chicago Board Option Exchange Volatility Index's ('VIX') response to the COVID-19 pandemic crisis, in terms of information efficiency. In a second step, we involve different techniques to capture the potential presence of deterministic chaos in efficiency series itself. Moreover, two ways to quantify the efficiency are used here: one for detecting long-run memory in VIX's returns' series (the 'Hurst exponent') and, respectively, one designed to capture the short-range memory (the 'fractal dimension').

@@ -1,0 +1,3 @@
+34567132|PMC8457965
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Lack of knowledge about appropriate handwashing practices has caused great concerns for human health, especially in the risk of many communicable diseases. Several studies have been conducted to investigate the issues regarding handwashing and general hygiene in school students. Regarding the use of soap in handwashing, 77.5% of students washed their hands before and after eating, whereas 52% washed their hands after using the toilet and 83% while preparing food (p value = 0.001).Regarding students' performance, 92% used water and soap to wash their hands (Figure 2), and 97% (p value < 0.001) agreed that using soap and water is the best method to wash their hands (Table 4).

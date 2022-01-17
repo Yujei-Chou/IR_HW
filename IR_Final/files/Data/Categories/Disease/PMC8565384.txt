@@ -1,0 +1,3 @@
+34760193|PMC8565384
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+The SARS-CoV-2 3-chymotrypsin-like protease (3CLpro or Mpro) is a key cysteine protease for viral replication and transcription, making it an attractive target for antiviral therapies to combat the COVID-19 disease. Furthermore, the Michaelis-Menten kinetics of 3CLpro was also examined before and after Bi(iii)-binding (Fig. The MM/GBSA free energy analysis indicated that the protomer-protomer interactions of 3CLpro dimer in the presence of Na(i) are quite stable, with a binding free energy of -75.36 kcal mol-1 between the two protomers.

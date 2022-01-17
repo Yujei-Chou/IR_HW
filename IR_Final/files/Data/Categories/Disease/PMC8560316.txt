@@ -1,0 +1,4 @@
+34725981|PMC8560316
+{'Disease', 'Species'}
+Introduction
+The first unknown pneumonia cases were identified in Wuhan, China, in December 2019. The key strategies and directions to strengthen the WHO's role and governance to prepare for and respond to the outbreak of new infectious diseases can be summarized as follows. Moreover, WHO does not have the authority to impose legal sanctions for countries that do not comply with the IHR (2005).The major amendments of IHR (2005) were guided at the 74th WHA; 1) needs to provide a clear guidance and tools for countries through regional and country-offices to work collaboratively with partners and States Parties, 2) needs to develop a stronger and scientific evidence-based IHR (2005) monitoring and evaluation framework to increase the accuracy of assessment and reporting on national capacity.

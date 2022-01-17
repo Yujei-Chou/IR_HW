@@ -1,0 +1,3 @@
+34744560|PMC8565260
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objectives: To decrease the rapid growth of SARS-CoV-2 in Germany, a stepped lockdown was conducted. Population's acceptance of and compliance with measures are key factors for the success of governmental strategies entering and exiting a lockdown. As shown in Figure 3, respondents accept higher unemployment rates (than the current rate of 5%) if mandatory tracing app is prevented (25%), if ICU overload will be avoided (23%), or if isolating elder persons is avoided (10%).Subgroup analyses considering socio-demographic parameters show different choice patterns (see Supplementary Material).

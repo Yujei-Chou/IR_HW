@@ -1,0 +1,3 @@
+34769678|PMC8583134
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Even several months after the start of a massive vaccination campaign against COVID-19, mortality and hospital admission are still high in many countries. Those therapies showed similar benefits in term of reduction both in hospital admissions and deaths. We assumed three scenarios of monoclonal antibody use in people over 70 years of age (rates of use of 50, 70, or 90%), and estimated their respective consequences on hospital admissions, deaths, and costs, as if they were administered according to the above-mentioned rates assuming the same efficacy showed data reported in the REGEN-COV trial (NCT04425629).

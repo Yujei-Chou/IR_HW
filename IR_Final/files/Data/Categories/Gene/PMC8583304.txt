@@ -1,0 +1,3 @@
+34769951|PMC8583304
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Education and health are two inseparable aspects of a single dynamic which aims to support and increase the physical and mental well-being of children and young people. This initiative mainly focuses on giving hospitalized students equal opportunities compared to their peers and preserving educational and existential continuity until they return to school, as enshrined in Article 14 of the Charter of Fundamental Rights of the European Union: "Every child has the right to education, whatever his condition". Si-Ho students frequently suffer from loss of concentration due to the drugs taken for the therapy.

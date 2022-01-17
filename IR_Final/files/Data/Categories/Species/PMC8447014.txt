@@ -1,0 +1,4 @@
+34275134|PMC8447014
+{'Chemical', 'Disease', 'Species'}
+The research response in Australia has been rapid, but better coordination is imperative
+The research response in Australia has been rapid, but better coordination is imperativeThe coronavirus disease 2019 (COVID-19) pandemic has seen clinical trials launched at exceptional speed in unprecedented numbers. Only seven trials (12%) included populations at high risk of poor outcomes from COVID-19 such as people with comorbidities (eg, cancer, cardiovascular disease, chronic kidney disease).Nineteen (35%) were prevention trials. Of the 34 COVID-19 treatment trials in Australia, the proportion assessing each core outcome was low (Box 3).

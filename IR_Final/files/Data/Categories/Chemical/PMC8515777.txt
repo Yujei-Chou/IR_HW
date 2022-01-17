@@ -1,0 +1,3 @@
+34664035|PMC8515777
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The present study aimed to critically review the legal frameworks on cyber safety of children living in the member countries of the Association of Southeast Asian Nations (ASEAN) and related policy implications. The results revealed numerous inconsistencies among the ASEAN countries in legislation pertaining to the online safety of children. As per a recently conducted UNICEF poll and youth talk, 85.7% of young Cambodians aged between 12 and 15 were in danger of online violence, cyberbullying and digital harassment (The ASEAN Post,).

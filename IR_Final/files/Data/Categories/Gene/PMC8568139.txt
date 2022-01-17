@@ -1,0 +1,3 @@
+34735458|PMC8568139
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Ali-M3, an artificial intelligence program, analyzes chest computed tomography (CT) and detects the likelihood of coronavirus disease (COVID-19) based on scores ranging from 0 to 1. The accuracy and reliability of the data were confirmed by PMDA during the approval process of Ali-M3.9. PMID: 25560730] doi:10.7326/M14-0698Based on the conclusion of this paper, "Our results indicated that AI-based CT diagnosis could be useful for ...", it seems that you want to prove that Ali-M3 can be used to diagnose COVID-19, but the data samples used to evaluate Ali-M3 and the results are not good enough to support your conclusion.

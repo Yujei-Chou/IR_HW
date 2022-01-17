@@ -1,0 +1,4 @@
+34219466|PMC8483479
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The COVID-19 epidemic emerged in Wuhan, China in December 2019, and was associated with an unpreceded healthcare crisis. We sought to analyze the clinical outcomes of AIS in patients positive with COVID-19 based on age. There was a significantly lower rate of mortality between each age group favoring younger age (21.9% versus 45.0% versus 48.8%, P=0.047).After adjusting for hypertension and National Institutes of Health Stroke Scale in the multivariable model (Tables 2 and 3), a 1-year increase in age was significantly associated with fewer instances of favorable outcome (odds ratio [OR], 0.95; 95% CI, 0.90-0.99; P=0.048).

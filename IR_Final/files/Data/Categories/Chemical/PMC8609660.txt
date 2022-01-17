@@ -1,0 +1,3 @@
+33998655|PMC8609660
+{'Chemical', 'Disease', 'Species', 'Gene'}
+COVID-19 pandemic is increasingly being recognized in infants and some develop cytokine storm mediated tissue damage. Features of acute encephalopathy, hypercytokinemia and restricted diffusion on DWI-MRI, with post-encephalopathic epilepsy, pointed to a differential of ADEM:acute leukoencephalopathy with restricted diffusion (ALERD) as the primary diagnosis; establishing ALERD as a possible neurological complication of COVID-19 infection in infants. Over the course of next 5 months, she developed repeated episodes of epileptic spasms with Electroencephalogram (EEG) features of hypsarrhthymia (Fig.

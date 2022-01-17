@@ -1,0 +1,4 @@
+34703641|PMC8521158
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+THE GLOBAL STATUS OF COVID-19 PANDEMIC
+Since the discovery of a novel type of coronavirus named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2, also known as 2019-nCoV, or HCoV-19), the causative agent of coronavirus disease 2019 (COVID-19), COVID-19 has been spreading globally during a short period of time. However, it is well established that intermediate hosts are needed for bat-origin coronaviruses before they acquire sufficient mutations to have the ability to infect humans, such as dromedary camels for MERS-CoV. Two groups reported that they found SARS-CoV-2-related coronaviruses in Malayan pangolins (Manis javanica) and their RBD region had a high similarity to that of SARS-CoV-2. In addition, the research on susceptibility of marine wildlife (especially marine mammals) to SARS-CoV-2 is still lacking.

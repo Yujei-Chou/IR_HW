@@ -1,0 +1,3 @@
+34655528|PMC8514341
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Since the development of vaccines effective against COVID-19, there has been widespread expert consensus among clinicians in support of vaccination of patients with inflammatory bowel disease on biological therapies or immunomodulators. We assessed SARS-CoV-2 vaccination uptake in consecutive patients with inflammatory bowel disease regularly attending the infusion centre at the John Radcliffe Hospital (Oxford, UK) for maintenance infliximab or vedolizumab infusions between April, 2020, and January, 2021. These patients were invited to participate in our ongoing COVID-19 seroepidemiology studies.

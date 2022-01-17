@@ -1,0 +1,3 @@
+34682855|PMC8541024
+{'Chemical', 'Disease', 'Species', 'Gene'}
+This study aimed to investigate the association of income level with susceptibility to coronavirus disease 2019 (COVID-19) and COVID-19 morbidity and mortality. In the CCI score = 1 group, the high-income group had 0.43 times lower odds of mortality due to COVID-19 (95% CI = 0.22-0.83, p = 0.01).A lower income level was associated with a higher susceptibility to COVID-19 infection; however, COVID-19 morbidity and mortality were not related to income level in the overall population. A retrospective study in a European urban area showed increased incidences of COVID-19 in low-income groups (risk ratio (RR) = 1.67, 95% CI = 1.41-1.96 for men and RR = 1.71, 95% CI = 1.44-1.99 for women).

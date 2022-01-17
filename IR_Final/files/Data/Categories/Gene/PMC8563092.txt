@@ -1,0 +1,4 @@
+34740679|PMC8563092
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Purpose
+The COVID-19 pandemic has had a devastating impact on the world. Participants were asked the following questions: A dedicated digital librarian team is also part of the Office Hours ECHO. The fact that 53 participants attended at least 21 sessions and 58 participants attended at least 31 sessions during the evaluation period (June 1, 2020-May 31, 2021) demonstrates the value of this program for so many clinical and non-clinical healthcare professionals.

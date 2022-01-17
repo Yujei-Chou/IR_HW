@@ -1,0 +1,4 @@
+34566219|PMC8450140
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Graphical abstract
+The importance of cost-effective, portable, rapid and specific diagnostic devices for detection of infectious agents has well proven in the current COVID-19 pandemic. 1 The present review discussed the currently available MIPs-based electrochemical nanosensors for the detection of SARS-CoV-2. The experimental data indicated that the developed sensor could be used for the analysis of the real sample where all other interfering proteins will be present.

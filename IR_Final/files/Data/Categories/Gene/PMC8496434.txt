@@ -1,0 +1,4 @@
+34620175|PMC8496434
+{'Disease', 'Species', 'Gene'}
+Background
+Uganda's adoption of the District Health System structure was formed largely through devolution in the late 1990s. The vast majority of respondents reported that they were responsible for disseminating accurate and timely information about COVID-19 to various groups (Table 6) This highlights the importance of ensuring that the information sent to health workers in the first place is adequate and timely, as it a part of a larger chain of information dissemination that has significant impacts on combatting COVID-19 in Uganda. The following section outlines the contours of the infodemic in Uganda, as reported by survey respondents.

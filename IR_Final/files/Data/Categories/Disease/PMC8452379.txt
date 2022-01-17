@@ -1,0 +1,4 @@
+34544423|PMC8452379
+{'Chemical', 'Disease', 'Species'}
+Background
+Since the emergence of the COVID-19 pandemic, the number of cases have already reached 82 million worldwide at the end of 2020. The economic, health and demographic components were compared to COVID-19 cases and deaths. Figure 2 summarizes the correlation of components to COVID-19 cases and deaths at the regional level.

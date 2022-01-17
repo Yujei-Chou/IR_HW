@@ -1,0 +1,4 @@
+34632322|PMC8496485
+{'Disease', 'Species', 'Gene'}
+Abstract
+The COVID-19 pandemic and subsequent expansion of telehealth are exacerbating existing inequities in healthcare access. When restricted to primary care visits, results were similar except telehealth engagement was more likely in Black patients compared to White (OR 1.20, 95% CI 1.08-1.34; P < .001; Supplementary Appendix Table S2).Table 3 displays the demographic factors associated with the use of video versus telephone-only amongst the subset of telehealth users. The telehealth expansion of 2020 occurred without established evidence for the best use of video or telephone visits for patients.

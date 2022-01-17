@@ -1,0 +1,4 @@
+34635510|PMC8506050
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objectives
+To our knowledge, this is the first systematic review and meta-analysis to explore quality of life (QoL) outcomes in elderly intensive care unit survivors and to explore sources of variation between these studies. Trends in physical health scores were also lower in comparison to younger ICU controls (mean difference=-2.63), whereas mental health scores were higher (mean difference=2.65).This review has systematically evaluated the literature on QoL for elderly ICU survivors in the medium-to-long term, using EQ-5D composite scores. Our study reports the first known meta-analysis of QoL in elderly patients following ICU.

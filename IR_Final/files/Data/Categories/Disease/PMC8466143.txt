@@ -1,0 +1,3 @@
+34562885|PMC8466143
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The development of reliable and robust diagnostic tests is one of the most efficient methods to limit the spread of coronavirus disease 2019 (COVID-19), which is caused by the severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2). The characteristics of several reported LFIA devices for SARS-CoV-2's antigen detection are shown in Table 1. Among 100 COVID-19 positive samples and 450 healthy blood samples, the QD-based LFIA for the detection of SARS-CoV-2 IgM and IgG antibodies can achieve 99% sensitivity with only 0.22% cross-reactive results.

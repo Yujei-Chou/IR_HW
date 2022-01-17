@@ -1,0 +1,3 @@
+34722003|PMC8541317
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Competing endogenous RNAs (ceRNA) play a crucial role in cell functions. Our computations identified 195 genes and 29 miRNAs which vary in competitive behavior specifically in presence of SARS-CoV-2 RNA. As a result of perturbation simulations in the ceRNA network of SARS-CoV-1 infected cells, it was observed that SARS-CoV-1 RNA was perturbing in almost all cells (2779 of 2800), while 6 genes (HMBOX1, MYCN, IGFBP3, DIRAS3, IKZF1, ZNF763) lost their perturbation ability in presence of SARS-CoV-1 RNA in ceRNA network (Supplementary Data).

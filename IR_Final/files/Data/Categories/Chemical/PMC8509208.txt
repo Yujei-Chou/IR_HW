@@ -1,0 +1,3 @@
+34640536|PMC8509208
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection remains a huge challenge for contemporary healthcare systems. Other researchers indicate to a positive correlation between the ACE2 expression and age especially in the early secretory phase of the endometrium. Given the above evidence clearly demonstrating the main role of estrogen in the immune, and non-immune responses to viral infections, it is not surprising that postmenopausal women who developed COVID-19 had a more severe course of infection.

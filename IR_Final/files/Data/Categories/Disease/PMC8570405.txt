@@ -1,0 +1,4 @@
+34777986|PMC8570405
+{'Chemical', 'Disease', 'Species'}
+Introduction
+In March 2020, the World Health Organization (WHO) declared COVID-19 a global pandemic. We are under so much stress..."Non-COVID-19 related themes were also identified and may be broadly categorised as biomedical, practical, and emotional. However the theme that was most prevalent in our study was that of uncertainty regarding COVID-19 hospital procedures.

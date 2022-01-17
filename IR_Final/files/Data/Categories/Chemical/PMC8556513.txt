@@ -1,0 +1,4 @@
+34740112|PMC8556513
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Vaccines developed against COVID-19 have provided great public health benefits by protecting the global population from deadly SARS-CoV-2. Differences in the total IgG levels between the COVID-19 experienced and naive groups were evaluated using the two-tailed Mann-Whitney U-test. A positive correlation was found in the experienced HCWs between their baseline anti-SARS-CoV-2 antibody levels and their antibody levels following vaccination, particularly two weeks after the the first dose of the vaccine (Pearson's Correlation Coefficient = 0.518, p=0.004, see S1, supplementary material).

@@ -1,0 +1,4 @@
+34788237|PMC8582975
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background:
+Infection by the novel coronavirus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) also known as "COVID-19," was first described in Wuhan in China's Hubei Province in December 2019 as an illness that caused difficulty breathing. In a retrospective study reviewing 129 severely ill patients with COVID-19 who underwent MRI examinations, Lecler et al found 9 patients (7%) had T2/fluid-attenuated inversion recovery image (FLAIR) hyperintense, nonenhancing nodules in the posterior globe. Multiple publications of COVID-19-related Miller Fisher syndrome report presentaions of ophthalmoplegia, loss of tendon reflexes, and acute onset ataxia with complete or incomplete response to treatment with IVIg.

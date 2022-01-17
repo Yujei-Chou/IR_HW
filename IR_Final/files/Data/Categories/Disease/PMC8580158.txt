@@ -1,0 +1,3 @@
+34777595|PMC8580158
+{'Chemical', 'Disease', 'Species'}
+Introduction  Amidst another wave of COVID-19, the alarming number of cases per day in India has affected the healthcare system and professionals tremendously. Only patients who test negative on RT-PCR should be taken into the operating room. Color-coded categorization of cancer patients has been established based on tumor features and patient-associated factors graded according to the American Society of Anaesthesiologists (ASA) score:     RED: High priority cases including cancer-associated emergencies, not amenable to endoscopic or nonsurgical treatment, with any ASA score in patients < 80 years old, or in ASA 1 or 2 in case of older patients; surgery should be performed within 2 weeks.

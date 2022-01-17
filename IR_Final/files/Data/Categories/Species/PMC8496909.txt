@@ -1,0 +1,3 @@
+34642519|PMC8496909
+{'Disease', 'Species', 'Gene'}
+Psychologists worldwide are becoming increasingly concerned about the negative impact of the novel coronavirus (COVID-19) pandemic on adolescents' mental health. Furthermore, indicated that resilience buffers the negative association between the Big Five of neuroticism and COVID-19 stress. The present study collected data from Japanese youths living in urban areas to examine, for the first time, whether resilience, which is known as a protective factor, buffers the relationship between the personality trait of environmental sensitivity, which has traditionally been regarded as a vulnerability factor, and COVID-19-related distress.

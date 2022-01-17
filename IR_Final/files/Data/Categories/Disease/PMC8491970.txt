@@ -1,0 +1,3 @@
+34624350|PMC8491970
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Solid waste management (SWM) is a service of public health that is often understated in its significance. The treatment and management of COVID-waste by different countries during pandemic has been also discussed in Table 1. Conversely, it is unaddressed and necessary to know whether the disinfection works in the particles across all layers of trapped virus before making sure the reprocessing of COVID-waste.

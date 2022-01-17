@@ -1,0 +1,4 @@
+34752804|PMC8572039
+{'Chemical', 'Disease', 'Species'}
+Aim
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has three possible transmission routes: indirect contact transmission via deposited or transmitted infectious droplets via surfaces, direct transmission of virus-carrying droplets when in close vicinity, and airborne transmission through aerosols emitted by infected individuals. This hypothesis is supported by the finding that most environmental air samples taken remote from the infected HCW after the mask experiments were also positive. Furthermore, SARS-CoV-2 RNA was less frequently detected in air samples obtained in the ICU during AGMP in comparison to those obtained in homes, which is surprising as the risk is deemed high especially during AGMP  .

@@ -1,0 +1,3 @@
+34525276|PMC8461567
+{'Chemical', 'Disease', 'Species', 'Gene'}
+To the Editor: We conducted a global, randomized, placebo-controlled, phase 1-2-3 pivotal trial in which two 30-mug doses of BNT162b2 (Pfizer-BioNTech) were administered 21 days apart (ClinicalTrials.gov number, NCT04368728). Efficacy waned to 84% between 4 and approximately 6 months after dose 2. Third, neutralization GMTs against the beta variant increased more after dose 3 than did GMTs against wild-type virus, to more than 15 times as high (in younger adults) and more than 20 times as high (in older adults) as those after dose 2, reducing the gap between neutralization of wild-type virus and the beta variant.

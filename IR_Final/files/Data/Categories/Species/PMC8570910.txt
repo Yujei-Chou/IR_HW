@@ -1,0 +1,4 @@
+34344044|PMC8570910
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Zusammenfassung
+ Die Impfung gegen das severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), dem Erreger der coronavirus disease 2019 (COVID-19), ist seit Dezember 2020 in Deutschland verfugbar. Fur andere Wirkstoffe, die bei psychisch erkrankten Patienten aufgrund ihrer phasenprophylaktischen Wirkung eingesetzt werden, z. B. Valproinsaure   , Carbamazepin  und Lamotrigin  , werden von einigen Autoren sowohl eine unterstutzende   als auch eine supprimierende Wirkung auf das Immunsystem beschrieben  . Ein erhohtes Risiko fur Komplikationen einer COVID-19-Impfung unter Behandlung mit Psychopharmaka ist anhand der aktuellen Datenlage nicht ableitbar.

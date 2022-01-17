@@ -1,0 +1,4 @@
+34646930|PMC8501666
+{'Disease', 'Species', 'CellLine', 'Gene'}
+Highlights
+There is increasing interest in patient care delivery strategies aimed at dismantling barriers to healthcare access for patients with gynecologic malignancies. Distance > 50 miles from cancer center was associated with a significantly higher cost for travel per visit ($60.77 vs $37.98, p = 0.026), as was rural county of residence ($61.43 vs $37.98, p = 0.026.)The majority of patients expressed interest in using telemedicine appointments (75.7%) or a smartphone app (87.5%) as a component of their cancer care. Racial disparities in healthcare access are also pertinent to gynecologic oncology patients.

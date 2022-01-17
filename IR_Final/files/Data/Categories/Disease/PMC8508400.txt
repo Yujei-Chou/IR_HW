@@ -1,0 +1,4 @@
+34642875|PMC8508400
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Purpose
+Corona Virus Disease 2019 (COVID-19) is a viral disease caused by Severe Acute Respiratory Syndrome Coronavirus type 2 (SARS-CoV-2). The study is registered at the German registry for clinical studies (DRKS00023742) and at ClinicalTrials.gov (NCT04679584).The NAPKON-POP COVIDOM-study inclusion criteria comprise (i) a positive PCR test for SARS-CoV-2 (positive pathogen testing) at least 6 months before inclusion in the study, (ii) primary residence in one of the three study regions, (iii) age >= 18 years at the time of recruitment (Berlin) or infection (Kiel, Wurzburg) and (iv) written informed consent to participate in the study. Population-based cohort studies on COVID-19 currently include infected, potentially infected and uninfected participants.

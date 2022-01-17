@@ -1,0 +1,3 @@
+34593822|PMC8484594
+{'Disease', 'Species', 'Gene'}
+Herd immunity by mass vaccination offers the potential to substantially limit the continuing spread of COVID-19, but high levels of vaccine hesitancy threaten this goal. Among those reluctant to vaccinate in Latin America, hesitant respondents were sensitive to the particular vaccine on offer. In a sub-group analysis, we find that Evangelicals prove equally responsive to endorsements from their religious representatives as to recommendations from public health authorities (Supplementary Table 11).

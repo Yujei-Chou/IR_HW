@@ -1,0 +1,3 @@
+34564542|PMC8482114
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Background and objectives: vaccine injections are a common cause of iatrogenic pain and anxiety, contributing to non-compliance with scheduled vaccinations. The secondary objective was to record adverse reactions to the cooling packs or flu vaccine. As demonstrated in Table 2, the median pain VAS scores did not differ between the groups (intervention group: median pain VAS = 7.0, IQR = 18; control group: median pain VAS = 11.0, IQR = 14; p = 0.26, two-tailed Mann-Whitney U test).Localised pain 24 h post-immunisation was experienced by 42.1% in the intervention group and 68.8% in the control group (p = 0.18, two-tailed Fisher's exact probability test).

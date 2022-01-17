@@ -1,0 +1,3 @@
+34646800|PMC8502853
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objectives: According to the World Health Organization (WHO), an early and consistent international and national response is needed to control a pandemic's spread. In our perspective, we reviewed Canada's early response to the COVID-19 pandemic in terms of public health policies and interventions. Restricting provincial border restrictions however, was only adopted by 46% (n = 6) provinces and/or territories, and had an implementation date range of 55 days and a standard deviation of 22 days.

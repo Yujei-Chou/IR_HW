@@ -1,0 +1,3 @@
+34516136|PMC8457325
+{'Chemical', 'Disease', 'Species', 'Gene'}
+SARS-CoV-2 that caused COVID-19 has spread since the end of 2019. The result shows that ARG61(chain A)-ASP72(chain B) in the palmitoylated E protein pentamer possess a lower distance of 6 A while that in the non-palmitoylated E protein is over 10 A. It means that the structure of the E protein pentamer without palmitoylation is unstable compared with that of the E protein pentamer with palmitoylation. Based on the MD simulations, the topological and electrostatic studies reveal how palmitoylation affects the E protein pentamer.

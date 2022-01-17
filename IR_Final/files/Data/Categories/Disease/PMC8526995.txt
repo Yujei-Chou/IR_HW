@@ -1,0 +1,3 @@
+34690429|PMC8526995
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+The U.S. 2020 hurricane season was extraordinary because of a record number of named storms coinciding with the COVID-19 pandemic. These additional data allow us to examine if we find a similar influence of COVID-19 on evacuation intentions at the beginning and the end of the hurricane season. Based on the survey that we conducted in early June 2020 of 600 respondents residing within coastal regions of Florida, our results show that when it comes to the factors that influence evacuation intentions, flood risk perceptions are overshadowed by perceived risks related to COVID-19.

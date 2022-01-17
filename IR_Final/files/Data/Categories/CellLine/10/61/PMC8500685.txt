@@ -1,0 +1,4 @@
+34658663|PMC8500685
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Graphical abstract
+Nanotechnology has been one of the fastest developing branches of science and technology in recent years. Magnetic hyperthermia has synergistic effects, which improve the drug delivery systems with engineered MNPs as shown in Fig. The antibodies derived MNPs were observed as a biomarker for Parkinson's and Parkinson's dementia disease, with ultra-sensitive IMR to assay the plasma alpha-synuclei, where the hydrodynamic antibody is functionalized with MNP Fe3O4 of 40 nm.

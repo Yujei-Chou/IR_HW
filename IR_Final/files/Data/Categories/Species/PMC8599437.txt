@@ -1,0 +1,3 @@
+34805086|PMC8599437
+{'Chemical', 'Disease', 'Species'}
+This paper examines the effects of the pandemics-related uncertainty on corporate innovation in Chinese firms. There are several issues regarding modeling the determinants of corporate innovation at the firm-level data. Table 3 provides the findings of the fixed-effects estimations with the current controls, where the dependent variable is the corporate innovation (innovt).

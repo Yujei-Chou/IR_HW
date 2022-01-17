@@ -1,0 +1,4 @@
+34602662|PMC8475166
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objective
+The outbreak of coronavirus disease 2019 (COVID-19), caused by infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), spread rapidly to countries around the world after emerging in the city of Wuhan, China. The patients in both groups were receiving prophylactic anticoagulation in accordance with our ICU protocol for patients with COVID-19. Patient 6 presented with acute ischemic strokes in the left parieto-occipital and right parietal lobes, with hemorrhagic transformation, together with multiple supratentorial and infratentorial hematomas (Figure 6).All six of the patients in the w/CVC group required tracheal intubation and mechanical ventilation, compared with only seven of the 14 patients in the w/oCVC group, although the difference was not statistically significant (Table 2).

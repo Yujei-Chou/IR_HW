@@ -1,0 +1,3 @@
+34214742|PMC8579247
+{'Disease', 'Species', 'Gene'}
+The present study aimed to evaluate base rate estimates, course of, and psychopathology and personality risk factors for COVID-19-related post-traumatic stress disorder (PTSD) in community-dwelling adults during the pandemic. Median test-retest r values across the three waves were 0.64 (SD = 0.08), 0.55 (SD = 0.05), 0.53 (SD = 0.05), and 0.59 (SD = 0.05) for the DSM-5 Level 2 Acute Stress, Dissociation, Anxiety and Depression scales. In particular, multiple logistic regression results suggested that the participant's level of acute stress in March 2020 was a significant and non-trivial risk factor for COVID-19 related PTSD not only at Wave 1, but also in June 2020 (i.e., Wave 2) and December 2020 (i.e., Wave 3).

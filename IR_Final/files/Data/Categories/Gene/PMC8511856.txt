@@ -1,0 +1,3 @@
+34646033|PMC8511856
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Virus entry, consisting of attachment to and penetration into the host target cell, is the first step of the virus life cycle and is a critical 'do or die' event that governs virus emergence in host populations. This finding implies that oligomers of IFITM3 presenting multiple amphipathic helices to the inner leaflet of cell membranes are responsible for inhibition of virus-cell fusion. Furthermore, 25HC inhibited cell-cell fusion induced by Nipah virus fusion protein, suggesting that this oxysterol produced by CH25H directly modifies cellular membranes, including the plasma membrane and endosomal membranes, to impede the cell entry of diverse viruses.

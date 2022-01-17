@@ -1,0 +1,4 @@
+34800687|PMC8595975
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Objectives
+ Introduction Globally, as of 15 October 2021, there have been more than 239.4 million confirmed cases of Coronavirus disease 2019 (COVID-19), including over 4.8 million deaths(WHO, 2021b). 73% effectiveness against COVID-19 cases was observed among the elderly after vaccination with 1 dose of the ChAdOx1 vaccine in England(Lopez Bernal et al., The Egger's test and funnel plots showed no publication bias of the VE against SARS-CoV-2 infection (t value of Egger's test = -2.91, P = 0.0988) among fully vaccinated individuals, while there was publication bias of the VE against COVID-19 related hospitalization (t value of Egger's test = -2.91, P = 0.006). (

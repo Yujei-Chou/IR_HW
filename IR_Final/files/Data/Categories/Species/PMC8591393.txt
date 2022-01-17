@@ -1,0 +1,4 @@
+34768197|PMC8591393
+{'Disease', 'Species', 'Gene'}
+Introduction and importance
+Hydatid disease is an anthropozoonosis caused by the larval stage of the Echinococcus granulosus. In this article we describe a case of duodenal fistulization of hepatic hydatid cyst. The surgical approach was a right subcostal laparotomy, a single hydatid cyst of the segment III of the liver was identified measuring 2 cm with extra parenchymal development.

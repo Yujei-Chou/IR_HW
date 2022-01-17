@@ -1,0 +1,4 @@
+34651099|PMC8502841
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+Learning pointsNasopharyngeal swab for SARS-CoV-2 detection has low diagnostic accuracy in some context. Mechanical circulatory support was first attempted by IABP insertion due to its low rate of possible related vascular complications compared to Impella pump. At 8 months of follow-up complete recovery of biventricular function was observed (Table 1).During the ongoing epidemic, different cases of SARS-CoV-2 myocarditis have been reported.

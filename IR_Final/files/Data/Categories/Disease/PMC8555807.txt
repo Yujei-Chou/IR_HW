@@ -1,0 +1,3 @@
+34714857|PMC8555807
+{'Chemical', 'Disease', 'Species'}
+This paper uses publicly available data and various statistical models to estimate the basic reproduction number (R0) and other disease parameters for Ghana's early COVID-19 pandemic outbreak. Additionally, we estimated the evolution of the reproduction number before a local maximum incidence of the COVID-19 pandemic in the country. With this observation, it can be inferred that the reproduction number and incidence rate paint an accurate picture of the COVID-19 spread in Ghana at the early stages of the pandemic from March to early May 2020.

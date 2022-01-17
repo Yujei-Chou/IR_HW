@@ -1,0 +1,4 @@
+34319235|PMC8500349
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+Patients with chronic conditions like chronic obstructive pulmonary disease (COPD) and interstitial lung disease (ILD) must often manage their diseases from a community setting, and this presents natural challenges in monitoring patient health status. Using classification/regression/machine learning approaches, we will investigate whether any demographics and/or other numerical information obtained during the baseline and longitudinal data collection periods of the study might serve as predictors for subject dropout and the percentage of adequate data. This can be partly mitigated by attempting to recruit people who are at high risk of exacerbation.

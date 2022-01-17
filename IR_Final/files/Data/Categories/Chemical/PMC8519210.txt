@@ -1,0 +1,4 @@
+34731151|PMC8519210
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+A new pandemic of the viral disease "corona virus disease-19 (COVID-19)" started in Wuhan, capital of Hubei province in China late in 2019. Investigation: Ziad Elnasser, Haneen Obeidat. Software: Haneen Obeidat, Abdullah Jaradat, Mo'ath BaniSalem.

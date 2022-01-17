@@ -1,0 +1,3 @@
+34723235|PMC8547805
+{'Disease', 'Species', 'Gene'}
+shows the de novo prevalence of anti-Spike S1 immunoglobulin G antibody levels in humoral responsive participants to SARS-CoV-2 mRNA vaccination at the time point T2 in medical personnel, dialysis patients and kidney transplant recipients. While levels of anti-Spike S1 IgG antibody titres were independent of vaccine type in medical personnel, these titres were significantly higher in dialysis patients as well as in transplant recipients using mRNA-1273 vaccine compared to BNT162b2 mRNA. NCT04799808 The authors declare no conflicts of interest.

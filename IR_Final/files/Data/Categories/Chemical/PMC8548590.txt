@@ -1,0 +1,3 @@
+34702862|PMC8548590
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Two surveys of principal investigators conducted between April 2020 and January 2021 reveal that while the COVID-19 pandemic's initial impacts on scientists' research time seem alleviated, there has been a decline in the rate of initiating new projects. For both articles and preprints, we find that the fraction of new co-authorships appearing on COVID-19-related papers increased in 2020 (Fig. 6) The effects discussed in this paper are based on correlations, leaving open questions about what exactly may be the key mechanisms causing the decline in new research projects.

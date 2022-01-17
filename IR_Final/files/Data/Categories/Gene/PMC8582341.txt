@@ -1,0 +1,3 @@
+34764472|PMC8582341
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Systemic inflammation elicited by sepsis can induce an acute cerebral dysfunction known as sepsis-associated encephalopathy (SAE). In support, more pronounced cytokine production in the hippocampus (including of IL-1beta) and more frequent spatial learning deficits were observed in aged mice than in juvenile mice at 4-24 h post injection of LPS. Consistent with the roles of amyloid pathology in synapse loss, LPS injection into aged APP/PS1 mice with abundant Abeta plaques resulted in greater impairment of working memory at 2 h post injection and a more significant reduction in dendritic spine density in the hippocampus at 3 months post injection.

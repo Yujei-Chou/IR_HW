@@ -1,0 +1,4 @@
+34671900|PMC8528483
+{'Disease', 'Species', 'Gene'}
+Introduction
+Despite the widespread availability of SARS-CoV-2 vaccines in the USA, vaccine hesitancy continues to represent a significant impediment to the attainment of herd immunity and the end of the COVID-19 pandemic. From there, using simple-chi-square tests, we examined the relationship between vaccination status and total misinformation exposure, as well as the individual relationships for each specific misinformation theme (IBM SPSS v.26, New York, NY).As part of this analysis, we constructed a more comprehensive logit regression model to determine the effects of misinformation exposure on vaccination status while also accounting for demographic and political differences that are believed to influence vaccine hesitancy (STATA v.17, College Station, TX). Strategic and targeted messaging will be essential in order to increase vaccine acceptance among individuals exposed to these types of misinformation.

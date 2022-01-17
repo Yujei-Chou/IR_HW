@@ -1,0 +1,3 @@
+34592439|PMC8474800
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The second wave of COVID-19 due to Delta (B.1.617.2) variant led to the rapid rise of total coronavirus and COVID-associated mucormycosis cases reported from India. The overloading of intracellular and excess free iron could be the unique risk factors for mucormycosis (Ibrahim et al., In a previously published study, it was found that surgery with medical treatment with amphotericin B appeared to be superior (odds ratio = 0.2, p < 0.04) than amphotericin B alone (61.5% vs. 10.3% patient survival) (Bala et al.,

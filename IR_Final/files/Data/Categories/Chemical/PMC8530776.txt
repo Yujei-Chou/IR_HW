@@ -1,0 +1,3 @@
+34690037|PMC8530776
+{'Chemical', 'Disease', 'Species'}
+This article discusses drastic changes in the practice of end-of-life care during the COVID-19 pandemic. On the fly, emergency medicine physicians, anesthesiologists, and intensivists developed novel intubation protocols and improvised barriers to mitigate their risk of exposure while managing the airways patients in the context of COVID-19. Some states regionalized their resources to attempt to find unoccupied beds and ventilators.

@@ -1,0 +1,4 @@
+34739532|PMC8570482
+{'Chemical', 'Disease', 'Species'}
+Objectives
+The outbreak of COVID-19 was declared a pandemic by the WHO on 11th March 2020. Over 80% of participants had received training on mechanical ventilation (84.3%, n = 504) or caring for patients with infectious disease (92.5%, n = 553), and half of them (58.4%, n = 349) had experience caring for mechanically ventilated patients with infectious diseases. Most nurses in this study had a positive behavioral intention to care for COVID-19 patients on mechanical ventilation.

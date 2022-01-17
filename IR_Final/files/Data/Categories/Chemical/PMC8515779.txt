@@ -1,0 +1,3 @@
+34648086|PMC8515779
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Suicide Prevention Awareness Month may have a special meaning for patients with diabetes in September 2021, almost 2 years after the onset of the COVID-19 pandemic. A study carried out by our group showed that 52.9% of patients with type 2 diabetes and 32.7% of those with type 1 diabetes had a positive screening for mental health disorders in the first 3 months of the pandemic in Brazil. The risk of suicide seems to be increased during the COVID-19 pandemic.

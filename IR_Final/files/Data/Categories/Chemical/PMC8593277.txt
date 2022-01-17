@@ -1,0 +1,4 @@
+34772750|PMC8593277
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objectives
+Our study includes data from an international cohort with a wide range of ages including paediatric patients. Assessing race and ethnicity is important for identifying potential health inequities in COVID-19 related outcomes. These plots, not restricted to the top ten effects, are available in the supplement for all demographic, clinical and medication predictors (online supplemental figures 1 and 2), for countries (online supplemental figures 3 and 4) and for US regions (online supplemental figures 5 and 6).Corticosteroids are associated with a higher risk of Hospitalisation+, ICU+ and Death.

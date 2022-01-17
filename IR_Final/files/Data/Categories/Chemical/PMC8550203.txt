@@ -1,0 +1,4 @@
+34720596|PMC8550203
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Abstract
+Since December 2019, many new cases of human coronavirus infection have been reported globally. Th1 and Th2 decreased when the body was infected with MERS-CoV, whereas Th1 increased when the body was infected with SARS-CoV, and a significant decrease in NK cells was also observed (Table 1).SARS-CoV stimulates the body to produce higher level of TNF-alpha, IFN-beta, and IP-10 than MERS-CoV does. The relationship between the replication of different coronaviruses and the apoptosis and cytokine release from host cells remains to be further studied.

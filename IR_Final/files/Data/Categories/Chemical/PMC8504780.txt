@@ -1,0 +1,4 @@
+34635110|PMC8504780
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+SARS-CoV-2-induced coronavirus disease (COVID-19) caused an unfathomable disruption of social and personal lives at the global scale in mere weeks starting at the beginning of 2020. Respondents who disagreed (OR 2.81, 95% CI 1.28-6.17, P = 0.01) and strongly disagreed (OR 7.68, 95% CI 2.59-22.73, P = 0.001) that hospitals had a sufficient supply of PPE were more exhausted in treating COVID-19 patients than those who strongly agreed that they had a sufficient PPE supply. HCWs who were exhausted for several reasons had a higher possibility of being infected by COVID-19 than those who were not exhausted (OR 1.98, 95% CI 1.38-2.86, P = 0.001).Research on the safety measures and practices of HCWs exposed to COVID-19 is still in its infancy.

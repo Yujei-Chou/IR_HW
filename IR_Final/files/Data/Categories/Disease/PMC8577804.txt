@@ -1,0 +1,3 @@
+34776588|PMC8577804
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+With the wide spread of novel coronavirus SARS-CoV-2 pandemic around the word, high quality indoor environment and more efficient mechanical ventilation become the new focus of scholars' attention. A low beta demonstrates that less energy is consumed to realize the thermal comfort for one person under the studied ventilation. Therefore, the optimum PJSs of SA-0.5, OP-0.5, OP-1.2 and CE under heating condition are 1.28 m, 1.38 m, 1.41 m and 1.46 m, while those under cooling condition are all 2.0 m. It means that the energy consumption used to realize the thermal comfort for one person is the least with the mentioned PJSs under the corresponding ventilation methods.

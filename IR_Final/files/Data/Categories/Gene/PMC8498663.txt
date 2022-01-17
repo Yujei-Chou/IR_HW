@@ -1,0 +1,3 @@
+34659617|PMC8498663
+{'Disease', 'Species', 'Gene'}
+Numerous genetic tests for the detection of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) virus, including those based on the ever-popular real-time polymerase chain reaction (RT-qPCR) technique, have been reported. This is understandable considering that important conclusions need to be drawn on diagnostic specificity, a critical parameter that determines whether the RNA in a patient sample truly emanates from the SARS-CoV-2 genome. Even simple volumetric adjustments, as highlighted within this article, have the potential to vastly improve the detection limit of diagnostic tests.

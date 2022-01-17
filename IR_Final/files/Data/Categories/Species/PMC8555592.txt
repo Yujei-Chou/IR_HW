@@ -1,0 +1,4 @@
+34414921|PMC8555592
+{'Chemical', 'Disease', 'Species'}
+Sir,
+Sir,We read with interest the study by Gupta et al which presented the findings of SARS-CoV-2 seroprevalence in a large cohort of healthcare workers (HCWs) from a tertiary healthcare facility in north India and examined the effect of various infection control measures. Further, around 45 per cent of HCWs who developed antibodies against SARS-CoV-2 in the study were asymptomatic. Although Gupta et al have reported findings which do not suggest any added benefit of the use of HCQ as prophylaxis among HCWs, analyzing the relationship between the number of doses of HCQ consumed and seropositivity and the severity of disease among those who developed symptoms while on HCQ prophylaxis may be helpful in further refining the analysis.

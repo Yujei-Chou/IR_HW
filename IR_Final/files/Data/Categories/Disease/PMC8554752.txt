@@ -1,0 +1,3 @@
+34714362|PMC8554752
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+The COVID-19 pandemic caused by SARS-CoV-2 requires new treatments both to alleviate the symptoms and to prevent the spread of this disease. Testing the enzyme activity of the modified HDP-2P (called HDP-2P inact) showed that phospholipolytic activity decreased by about 2200-fold (Figure S1).The cytopathic effects (CPE) of SARS-CoV-2 on Vero E6 cells were used to assay the antiviral activity of five snake venom PLA2s, two of which, HDP-1 and HDP-2, were dimeric, and the antiviral activity of two subunits (HDP-1I and HDP-2P) isolated from HDP-2 was also examined. We next determined whether HDP-2 can block SARS-CoV-2 pseudo-virions entering the cell through binding to ACE2 (Fig.

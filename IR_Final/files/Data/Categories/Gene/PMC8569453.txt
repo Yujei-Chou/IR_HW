@@ -1,0 +1,4 @@
+34759703|PMC8569453
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background:
+Ever since the reporting of the first case of COVID-19 in Wuhan China, understanding regarding the pathophysiology of the disease has evolved rapidly. The only case requiring ventilator (control group) had elevated procalcitonin levels at admission reflecting its predictive value for disease severity. 's study supports these where estrogen levels were shown to be negatively correlated with the severity of COVID-19 infection (adjusted HR 0.304 [95% CI, 0.092-1.001], P = 0.05).We also noted a significant reduction in inflammatory biomarkers - D-dimer, LDH, and CRP in the intervention group over the 5 days.

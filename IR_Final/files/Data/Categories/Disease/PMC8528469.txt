@@ -1,0 +1,3 @@
+34697515|PMC8528469
+{'Chemical', 'Disease', 'Species', 'Gene'}
+We examine the impact of the COVID-19 pandemic on the livelihoods of the poor in a semi-rural setting in Bangladesh. For this paper, it is important to note that the 60 diarist households had all been selected years before the pandemic began. As we have seen in the previous section, expenditures did not fall as much as incomes in the lockdown period, indicating that households could find ways to smoothen expenditures in spite of the sharp unanticipated decline in incomes.

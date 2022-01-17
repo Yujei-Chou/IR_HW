@@ -1,0 +1,4 @@
+34797469|PMC8602985
+{'Disease'}
+Correction to: NeuroMolecular Medicine 10.1007/s12017-021-08651-5
+In this article the Acknowledgement section should read as follows:This research was supported by the Trisomy-21 Research Society (T21RS). This research was supported in part by the Intramural Research Program of the National Institute on Aging. We thank Yael Laure for thorough editing of the manuscript.

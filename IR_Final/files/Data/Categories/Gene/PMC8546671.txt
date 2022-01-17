@@ -1,0 +1,3 @@
+34729302|PMC8546671
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+Various boron-containing drugs have been approved for clinical use over the past two decades, and more are currently in clinical trials. alpha-Aminoboronic acids were considered to have the potential to covalently inhibit hClpP activity, as they are reported to be selective inhibitors of Mycobacterium tuberculosis (Mtb) ClpP. On the basis of the Ugi 4-component reaction (U4CR), Tan et al. used a docking method to design the first reversible covalent inhibitors targeting Lys234 of Mcl-1 by placing a boronic acid carbonyl warhead in noncovalent Mcl-1 inhibitors and selecting those that positioned the warhead carbonyl within ~3 A of Lys234 (Fig.

@@ -1,0 +1,3 @@
+34693064|PMC8527106
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Computational modeling and simulation of viral dynamics would explain the pathogenesis for any virus. On building the SARS-CoV-2 dynamics models, numerical analysis enhances the quality of modeling and simulation. This paper is an extension of the previous work, which has contributed to computational modeling and computer simulation of SARS-CoV-2 viral load kinetics and suggested a qualitative relationship between the asymptomatic carriers' reactivation risk and the COVID-19 severity.

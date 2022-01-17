@@ -1,0 +1,4 @@
+34269475|PMC8447332
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Abstract
+The COVID-19 pandemic (World Health Organization [WHO],), caused by the coronavirus SARS-CoV-2 (Gorbalenya et al.,) Specifically, the cluster results of the BT analysis were used to ensure that the clustering of activities for each of the AHP layers is homogenous, as described in Fig. In this study, pairwise comparison of each of the events found in the Threats and Consequences layer {T1, T2, T3, T4, C1, C2, C3, C4} were done by asking an expert on how more valuable (i.e., degree of preference) an event to the other event (i.e., T1 versus T2) (Sharma & Pratap,; Vidal, Marle, & Bocquet,).

@@ -1,0 +1,3 @@
+34785879|PMC8585730
+{'Chemical', 'Disease', 'Species'}
+The primary analysis was from a third-party payer perspective over a lifetime time horizon and included costs2 for hospitalisation, post-discharge care, post-recovery care and indirect (lost productivity) costs. From a payer perspective, baricitinib + SOC resulted in an incremental total cost of $US17 276, a total quality-adjusted life-year (QALY) gain of 0.6703, and a total life-year (LY) gain of 0.837, compared with SOC alone. "Cost-effectiveness was demonstrated from both the payer and the hospital perspectives.

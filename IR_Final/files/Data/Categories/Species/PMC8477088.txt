@@ -1,0 +1,3 @@
+34487073|PMC8477088
+{'Chemical', 'Disease', 'Species', 'Gene'}
+COVID-19 infection has several cardiovascular implications, and coagulopathy is a common abnormality in these patients, often coupled with elevated plasma fibrinogen and D-dimer levels, contributing to adverse outcomes. We present the case of a 64 years old man with severe COVID-19 pneumonia who developed PCD despite constantly elevated coagulation parameters. In contrast, patients who die from COVID-19 usually show DIC signs with prolonged PT but with only mild thrombocytopenia, normal fibrinogen, and an elevated D-dimer.

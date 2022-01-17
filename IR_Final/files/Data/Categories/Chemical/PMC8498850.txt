@@ -1,0 +1,4 @@
+34618039|PMC8498850
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Key Points
+The coronavirus disease 2019 (COVID-19) pandemic has caused significant morbidity and mortality in the US, both directly and indirectly. Declines in number of patients initiating treatment for kidney failure likely suggest a combination of delays in necessary care, clinically reasonable delays in treatment agreed upon by patients with CKD and their doctors, delays in treatment initiation for patients who may have otherwise started therapy earlier than would be optimal, and potentially higher mortality rates among patients with advanced CKD.Our findings suggest that during the pandemic patients with incident kidney failure initiated treatment with statistically lower eGFR levels than pre-COVID-19. Initiation of kidney replacement therapy with worsened kidney function was particularly evident among Black patients and those living in counties with higher COVID-19 mortality rates.

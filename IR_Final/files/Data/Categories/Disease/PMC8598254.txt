@@ -1,0 +1,3 @@
+34800581|PMC8598254
+{'Disease', 'Species'}
+The impact of the COVID-19 pandemic on nursing home (NH) residents has highlighted the long-standing systemic deficiencies in and need for effective infection prevention and control (IPC) practices. As of October 17th, 2021, there have been a total of 138,587 nursing home resident deaths, with some 16,000 deaths likely having gone unreported in the early stages of the pandemic. An analysis of 13,312 NHs found that facilities with the highest proportions of non-White residents experienced over three times the number of deaths than those facilities with the highest proportion of White residents.

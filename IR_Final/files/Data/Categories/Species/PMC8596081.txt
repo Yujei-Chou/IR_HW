@@ -1,0 +1,4 @@
+34804704|PMC8596081
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Since its initial identification in December 2019, the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has spread worldwide and has been declared a pandemic by the World Health Organization. In addition, we aimed to clarify the relevance of D-dimer serum level as an indicator of a new VTE event in these patients. To account for possible confounding factors for VTE events, the number of patients on remdesivir, dexamethasone, and anticoagulation therapies were evaluated in the with-VTE group and were not statistically different for those observed in the without-VTE group (Table 2).D-dimer serum levels at hospital admission, 48 hours prior to suspected VTE event date, and at suspected VTE event date were analyzed.

@@ -1,0 +1,3 @@
+34648544|PMC8516203
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Since the innovation of our new half-piece elastometric respirator, this type of filtering facepiece respirator (FFR) has been used widely in Thailand. 5 Aug 2021 PONE-D-21-10415Impact of ultraviolet germicidal irradiation on new silicone half-piece elastometric repirator (VJR-NMU) performance,structural integrity and sterility during the COVID-19 pandemicPLOS ONEDear Dr. Trakarnvanich,Thank you for submitting your manuscript to PLOS ONE. We hope that these extensive changes, based on their critiques, make this manuscript suitable for publication in PLoS one.

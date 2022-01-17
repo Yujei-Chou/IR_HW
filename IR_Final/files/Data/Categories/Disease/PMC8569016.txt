@@ -1,0 +1,3 @@
+34737389|PMC8569016
+{'Disease', 'Species'}
+The recent outbreak of the COVID-19 led to death of millions of people worldwide. A summary of the overall death ratios in the months before and after the mask mandate order for the three states is presented in Table 2. In this body of work, we have analyzed the effect of mask covering on the intensity of spread of the COVID-19 virus by considering the death ratio at the county level to be the primary indicator.

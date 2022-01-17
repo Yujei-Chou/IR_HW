@@ -1,0 +1,3 @@
+34737734|PMC8560714
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Rapid recruitment of neutrophils to an inflamed site is one of the hallmarks of an effective host defense mechanism. The overexpression of neutrophil chemoattractants such as CXCL1, CXCL2, CXCL3, CXCL5, IL-8 (CXCL8), and CCL20 in the lungs of COVID-19 patients suggest that these cells can express neutrophil chemokines after SARS-CoV-2 infection. indicated that the recruitment of neutrophils during an LPS-, acid-, and sepsis-induced ALI, is made possible because of the release of CCL5-CXCL4 heterodimer from platelets, and any disruption of this heterodimer decreases the amount of neutrophils recruited to the lungs.

@@ -1,0 +1,3 @@
+34765348|PMC8575334
+{'Chemical', 'Disease', 'Species', 'Gene'}
+With the emergence of diverse post-COVID sequelae, there have been reports of thromboembolic events such as stroke, myocardial infarction, and pulmonary embolism. The findings of acute pulmonary embolism on electrocardiography are commonly sinus tachycardia and S1Q3T3. While severe COVID-19-induced pulmonary embolism has been reported previously, our case report remains the first case report in the world to report mild COVID-19 with chest computed tomography (CT) severity score of 5/25 leading to nearly fatal pulmonary embolism and lung infarction leading to cardiac arrest as a sequela of long COVID, to the best of our knowledge.

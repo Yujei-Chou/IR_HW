@@ -1,0 +1,3 @@
+34621504|PMC8479851
+{'Chemical', 'Disease', 'Species', 'Gene'}
+In October 2020, 62 scientists from nine nations worked together remotely in the Second Baylor College of Medicine & DNAnexus hackathon, focusing on different related topics on Structural Variation, Pan-genomes, and SARS-CoV-2 related research. what about "This software is a framework for benchmarking SV detection algorithms against haplotype-resolved assemblies (Figure 10)."? " Comment 4: For the CORONASV Developers: are the three approaches (SR, LR, assembly) required in all analyses or you can choose?

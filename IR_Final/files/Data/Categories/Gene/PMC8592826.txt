@@ -1,0 +1,4 @@
+34783905|PMC8592826
+{'Disease', 'Species', 'Gene'}
+Background and purpose
+The rapid spread of the novel coronavirus disease 2019 (COVID-19), which first appeared in Wuhan, China, evolved into a global pandemic, disrupting all aspects of life across the world, including Japan. The numbers of lobectomy and resection of mediastinal tumors in 2020 decreased from the previous year (p < 0.001, both) and the rate of decrease in lobectomies was more significant in prefectures with high infection levels (p < 0.001).The operative status for total mastectomy and parathyroidectomy was not significantly different from that in 2019. The number of appendectomies in children decreased, probably due to triage or selection of conservative treatment.

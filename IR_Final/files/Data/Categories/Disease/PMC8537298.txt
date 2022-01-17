@@ -1,0 +1,3 @@
+34677202|PMC8537298
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background: Although severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) may cause an acute multiorgan syndrome (coronavirus disease 2019 (COVID-19)), data are emerging on mid- and long-term sequelae of COVID-19 pneumonia. Conclusions: Data on cardiopulmonary involvement after COVID-19 pneumonia are scarce. On admission (Table 3), most patients (27; 93%) were in sinus rhythm (SR; mean heart rate (HR): 80 +- 15 bpm); AF was documented in 2 patients (7%): this arrhythmia developed during the acute phase of infection (HR: 80 +- 15 bpm on average).In patients in SR, the average PR interval was 167 +- 35 ms and first-degree AV block was recorded in three patients (10%).

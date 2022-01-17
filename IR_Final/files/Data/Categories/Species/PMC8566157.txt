@@ -1,0 +1,4 @@
+34786366|PMC8566157
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+Inflammatory bowel disease (IBD) is a long-standing debilitating disease, which occurs due to complex interactions between genetic, environmental, and inflammatory processes affecting the gut and other extragastrointestinal systems. The use of telemonitoring systems will positively influence patient-IBD care provider communication, curbing misinformation, diseasemonitoring, and improve drug compliance. Conceptualization and original draft preparation: Budumuri Gautam V Kumar.

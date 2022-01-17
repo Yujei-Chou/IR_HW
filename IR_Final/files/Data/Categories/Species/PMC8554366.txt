@@ -1,0 +1,4 @@
+34754379|PMC8554366
+{'Chemical', 'Disease', 'Species', 'Gene'}
+BACKGROUND
+ Core Tip: Previous studies have shown that diabetes mellitus is a common comorbidity of coronavirus disease 2019 (COVID-19), but the effects of diabetes or antidiabetic medication on the mortality of COVID-19 have not been well described. There were numerous differences in laboratory results between the diabetes group and the non-diabetes group with COVID-19 (Table 2). The diabetes group had a higher rate of ARDS (11% vs 5.7%) and hypoproteinemia (15% vs 6.5%).The treatment and primary outcome of the non-comorbidity group and diabetes only group were not different (Table 3), and the results for all-cause mortality were similar in both groups (log-rank P = 0.59) (Figure 2B).

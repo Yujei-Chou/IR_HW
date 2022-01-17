@@ -1,0 +1,3 @@
+34668140|PMC8526356
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The coronavirus disease (COVID-19) is a highly transmitted disease that spreads all over the globe in a short period. investigated the link between environmental and climatic variables and the COVID-19 epidemic in the top ten most afflicted US states. The Delta variant form of coronavirus cases is more contagious that need to be limited by sustainable healthcare policies (Twohig et al.;

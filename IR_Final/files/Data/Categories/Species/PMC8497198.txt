@@ -1,0 +1,4 @@
+34382749|PMC8497198
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Abstract
+Heart failure (HF) is one of the commonest causes for unplanned hospitalization. Cases where ambulatory diuretics were administered to facilitate early discharge were excluded from both arms of the analysis. There was no difference in 30 day HF readmissions between the two groups (14.9% ambulatory vs. 13.5% inpatients, P = 0.8), but 30 day mortality was significantly lower in the ambulatory group (3.5% vs. 21.3% inpatients, P < 0.001) (Table  4 ).In this study, the largest UK report on ambulatory IV diuretics with data spanning almost 3 years, we demonstrate that ambulatory IV diuretic treatment for decompensated HF affords a safe and effective alternative to hospitalization.

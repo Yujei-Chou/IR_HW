@@ -1,0 +1,3 @@
+34556246|PMC8452265
+{'Disease', 'Species', 'Gene'}
+Coronavirus Disease 2019 disproportionately affects Black and Hispanic/Latino populations. Previous literature has noted there is a low rate of dermatology outpatient visits for Asian Americans as well despite Asian Americans representing the fastest growing minority group in the United States. The underrepresentation of minority communities in dermatologic literature, difficulty in identifying cutaneous lesions in these individuals, and increased adverse outcomes in Black and Hispanic/Latino populations demands further investigation into potential biases in recognizing and reporting skin manifestations of COVID-19, including COVID-toes, in patients of color.

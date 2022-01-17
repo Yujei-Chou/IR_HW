@@ -1,0 +1,4 @@
+34788344|PMC8598030
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Globally, a total of 192,284,207 confirmed cases of the Coronavirus Disease 2019 (COVID-19) caused by the new coronavirus (2019-nCoV), and 4,136,518 deaths have occurred to date, according to the report by the World Health Organization (WHO) on July 23, 2021. Some few suggestions and comments:Review the standard english, particularly in methods section. 9 Nov 2021 PONE-D-21-25744R1 School reopening and risks accelerating the COVID-19 pandemic: a systematic review and meta-analysis protocol Dear Dr. Lopes-Junior:I'm pleased to inform you that your manuscript has been deemed suitable for publication in PLOS ONE.

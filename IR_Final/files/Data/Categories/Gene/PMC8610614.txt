@@ -1,0 +1,4 @@
+34810197|PMC8610614
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objectives
+Patients with rheumatoid arthritis (RA) or other inflammatory joint diseases (IJDs) are at increased risk of infections. In this study, we therefore aimed to estimate absolute and relative risks of hospitalisation and death following seasonal influenza in patients with RA, other IJD and with specific DMARDs in Sweden. When put next to our previously published data on risks and relative risks with COVID-19, we noted that whereas the absolute risks of influenza outcomes were around half (hospitalisation) and one-tenth (death) those for COVID-19, the pattern of relative risks for influenza-specific outcomes and for COVID-19-specific outcomes comparing IJD to the general population was qualitatively quite similar.

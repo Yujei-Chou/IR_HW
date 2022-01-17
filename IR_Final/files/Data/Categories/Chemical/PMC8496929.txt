@@ -1,0 +1,4 @@
+34642627|PMC8496929
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The COVID-19 pandemic has affected Malaysia and led to unprecedented economic and public health concerns in the population. This review aimed to evaluate the challenges faced by Malaysian CM practitioners and the strategies to overcome them in the Malaysian context during COVID-19.A literature review was conducted using PubMed, Science Direct, Google Scholar, and the CNKI database and gray literature including guidelines, national protocols, official statements and field updates in 3 languages (English, Chinese and Malay) from inception to August 15, 2021, to evaluate the challenges faced by Malaysian CM practitioners and the corresponding strategies, focusing on the implementation of CM for COVID-19 in Malaysia. For discharged COVID-19 patients, CM herbs were prescribed based on a personal online assessment with tongue image uploaded and phone consultation when necessary.

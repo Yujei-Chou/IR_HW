@@ -1,0 +1,4 @@
+34667350|PMC8462428
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background:
+Coronavirus disease 2019 (COVID-19) is a respiratory tract infection which was first reported in the city of Wuhan, China, in the year 2019. The present study is designed to observe the role of dexamethasone on overall mortality, oxygen support based on either HFNO/noninvasive ventilation (NIV), requirement of invasive mechanical ventilation during hospitalization in critically ill COVID-19 patients who were admitted in the ICU of the tertiary care hospital and receiving standard care or dexamethasone treatment. In this context, the use of corticosteroids to quell the cytokine storm and avoid disease progression has been postulated.

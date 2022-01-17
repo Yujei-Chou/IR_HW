@@ -1,0 +1,4 @@
+34623194|PMC8512278
+{'Disease', 'Species', 'Gene'}
+Background:
+At the end of December 2019, the first cases of coronavirus disease 2019 (COVID-19) were reported from China. In cases with asthma diagnosis in SNAR dying from COVID-19, 24% had J45 recorded in SCDR as an underlying or contributing cause of death, with a substantial difference between the sexes (30% women versus 16% men) (Table 2).Among SNAR patients with COPD, 1.0 % (723 of 72 421) were hospitalized, and 0.5% (357 of 72 421) died of COVID-19. This may be the reason for the high mortality rate (nearly 30%) in hospitalized patients with COPD in our study.

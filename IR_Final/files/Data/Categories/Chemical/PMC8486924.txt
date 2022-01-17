@@ -1,0 +1,3 @@
+34630838|PMC8486924
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Coronavirus disease 2019 (COVID-19) caused by the novel coronavirus, has affected many lives, health systems and economies across the globe. Not withstanding, the negative impact of COVID-19 on public health systems in Africa remains significant. The first phase of vaccinations prioritized frontline health workers and other populace who were at high risk of contracting and showing severe forms of the COVID-19.

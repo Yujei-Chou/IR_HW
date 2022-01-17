@@ -1,0 +1,3 @@
+34652550|PMC8517560
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Sustainable scientific software needs a strong collaboration framework to ensure continuity by passing on the tools, skills and knowledge needed to the next generation. Recent times, perhaps in mitigation of this or in conjunction with the popularity of "pair programming", have seen the springing up of real-time collaborative coding platforms where developers work on the same piece of code. There is evidence that scientists want virtual meetings to stay after the COVID pandemic from the Nature poll and reflected in our own survey from TFOM shown in Fig.

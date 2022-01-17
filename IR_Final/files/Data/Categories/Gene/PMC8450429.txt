@@ -1,0 +1,3 @@
+34556220|PMC8450429
+{'Chemical', 'Disease', 'Species', 'Gene'}
+A novel, compact, cost-effective, and robust label-free all-fiber optofluidic biosensor (LF-AOB) based on Fresnel reflection mechanism was built through integrating single-multi mode fiber coupler and highly sensitive micro-photodetector. Different concentrations of SARS-CoV-2 S-RBD were introduced into the cell, and the Fresnel reflected light intensity was detected using the LF-AOB for 400s reaction. To minimize the influences of incident light fluctuation, we plotted the relationship between the calculated RI and the protein concentration (Fig.

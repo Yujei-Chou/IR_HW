@@ -1,0 +1,3 @@
+34646585|PMC8501974
+{'Chemical', 'Disease', 'Species', 'Gene'}
+We propose a theoretical model to elucidate intermolecular electrostatic interactions between a virus and a substrate. Thus, a mathematical form of the surface charge of S protein is described by the Henderson-Hasselbalch equationwhere e is the elementary charge and the sum takes over all types of AAs with +- corresponding to deprotonated (ASP, GLU, TYR, and CYS) and protonated (ARG, LYS, and HIS) AAs, respectively. This variation originates from the increase in Debye-Huckel parameter value kappa when the salt concentration increases.

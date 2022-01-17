@@ -1,0 +1,3 @@
+34638172|PMC8510869
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The coronavirus disease 2019 (COVID-19) pandemic has led to a flood of research papers and the information has been updated with considerable frequency. To facilitate sharing knowledge from COVID-19 papers written in English for Japanese speakers, we tried to construct a dictionary with an open license by assigning Japanese terms to MeSH unique identifiers (UIDs) annotated to words in the texts of COVID-19 papers. We termed the dictionary including MeSH UIDs in the first group and Japanese terms assigned manually "curated.

@@ -1,0 +1,4 @@
+34659792|PMC8503067
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Mental disorders are the greatest global health burden: each year, one in four individuals will experience at least one diagnosable mental health problem. Full analyses with sociodemographic variables are presented in Supplementary Appendix E. Depressive symptoms at time (t) were positively associated with all COVID-19 factors at time (t) and effects ranged from +0.12 on COVID-19 social relationships to +0.25 on COVID-19 stress, namely, between about two-thirds of one standard deviation and one standard deviation in COVID-19 factors. Financial stress is particularly important because of its links to the related housing problems of refugees in Turkey.

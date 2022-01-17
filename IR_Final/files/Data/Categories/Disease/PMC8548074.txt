@@ -1,0 +1,3 @@
+34723231|PMC8548074
+{'Disease', 'Species'}
+The COVID-19 pandemic has disrupted lives across the world, however for some groups, the disruption has been more keenly experienced - this includes young carers. Demands for informal care have increased due to the COVID-19 pandemic, with likely impacts on mental health. Young carers are one group at particular risk of experiencing increased and ongoing disadvantage due to COVID-19, with important implications for their mental health.

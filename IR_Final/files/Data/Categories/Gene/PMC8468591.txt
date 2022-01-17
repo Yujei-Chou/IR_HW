@@ -1,0 +1,3 @@
+34574527|PMC8468591
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Our goal was to assess agility, explosive power, and speed-endurance capacity by implementing noninvasive procedures and sport-specific tests. In contrast, session "B" was performed in even weeks and included four plyometric jumps to improve reactive strength. We conducted the 60 m CT to assess the agility of the participants (n = 11).

@@ -1,0 +1,4 @@
+34720331|PMC8536567
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Graphical abstract
+SARS-CoV-2, a virus that manifests clinically as a disease called Covid-19, is causing a serious worldwide pandemic. In the post-hoc analysis, which excluded measurements with PaO2 values greater than 100 mmHg, no differences were observed between measured SaO2 and SaO2 values calculated using any of the 3 equations and for any of the 3 study groups (Appendix B Tables A and B, and Figure A of the online supplement).The main finding of this study is that active SARS-CoV-2 infection does not substantially change the PaO2:SaO2 relationship. This also meant that a somewhat higher blood oxygen content was found in the Covid-19 group.

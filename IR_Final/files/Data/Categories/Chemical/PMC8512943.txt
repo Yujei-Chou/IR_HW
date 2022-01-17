@@ -1,0 +1,4 @@
+34703168|PMC8512943
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The 2019 coronavirus disease was first identified in China on December 2019 and later spread to the entire world and declared to be a pandemic by world health organization on March 11, 2020. Having a complaint of shortness of breath at admission was associated with a 29.5% lower rate of achieving target of off oxygen therapy compared to those patients with no such complaint on admission (HR= 0.71, 95% CI=0.52, 0.96, p-value=0.026) (Table 3).The study aimed at assessing the duration of supplemental oxygen requirement and identifying its predictors. In conclusion, the average duration of supplemental oxygen therapy requirement among COVID-19 patients was 6 days.

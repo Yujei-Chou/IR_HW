@@ -1,0 +1,3 @@
+34137325|PMC8552407
+{'Disease', 'Species'}
+People living with chronic pain experience multiple challenges in their daily activities. Social distancing measures put into place to slow the spread of COVID-19 in Quebec appears to have accentuated the isolation of people living with chronic pain. This pandemic has left people in the unknown with no clear guidance of when their separate agenda can resume.

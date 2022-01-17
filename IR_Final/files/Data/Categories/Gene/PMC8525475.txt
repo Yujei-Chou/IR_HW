@@ -1,0 +1,4 @@
+34759653|PMC8525475
+{'Disease', 'Species', 'Gene'}
+Purpose:
+Wuhan city in China was the first city to report coronavirus infection on December 2019. During the full curfew period, operative emergency cases included the following: urolithiasis and obstructive uropathy (42.8%), torsion testis (28.6%), PUV (14.3%), and trauma (14.3%).KSA is the 13th worldwide and 4th Asian most affected country by COVID-19. We conducted this study to assess the actual impact of COVID-19 pandemic on pediatric urology surgical practice in KSA.

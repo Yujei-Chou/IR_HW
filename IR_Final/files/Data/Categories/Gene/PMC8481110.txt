@@ -1,0 +1,4 @@
+34593053|PMC8481110
+{'Disease', 'Species', 'Gene'}
+Background
+According to 2018 statistics, the Physician Density (per 10,000) of the respective countries in South Asia is 12 medical doctors per 10,000 in Pakistan, 6 medical doctors per 10,000 in Bangladesh, 9 medical doctors per 10,000 in India, 11 medical doctors per 10,000 in Sri Lanka, 16 medical doctors per 10,000 in Iran and 17 medical doctors per 10,000 in the Maldives. Values in bold in Table 2 were deemed to be statistically significant (p < 0.05).Our study reported increasing numbers of deaths in physicians from COVID-19 in South Asia. Pakistan also reported an increased number of physicians' deaths who were affiliated with the public sector hospitals.

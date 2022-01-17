@@ -1,0 +1,3 @@
+34720340|PMC8545871
+{'Chemical', 'Disease', 'Species', 'Gene'}
+An unprecedented infodemic has been witnessed to create massive damage to human society. Moreover, the retraction of high-profile COVID-19 papers from the preprint service during the pandemic caused the public to question the authority and increase their potential to believe rumors. Another theme of research took a hybrid perspective to combine the information evaluation as well as beliefs and emotions in characterizing the rumor-sharing behavior.

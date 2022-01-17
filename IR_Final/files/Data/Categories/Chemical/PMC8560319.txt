@@ -1,0 +1,3 @@
+34725982|PMC8560319
+{'Chemical', 'Disease', 'Species', 'Gene'}
+In order to end the coronavirus disease 2019 (COVID-19) pandemic that has lasted for nearly two years, it is most necessary to introduce antiviral drugs specific to COVID-19 along with the establishment of herd immunity by vaccination. For this reason, ribavirin is fundamentally poorly effective to coronavirus. This agent is also currently in the clinical trial process (ClinicalTrials.gov Identifier: NCT04889040).Coronaviruses have two types of viral protease: 3 chymotrypsin-like cysteine protease (3CLpro or Mpro, main protease) and Papain-like serine protease (PLpro).

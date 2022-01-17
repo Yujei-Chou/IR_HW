@@ -1,0 +1,3 @@
+34679082|PMC8535377
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The closure of cognitive psychology labs around the world due to the COVID-19 pandemic has prevented in-person testing. We had three additional goals above testing whether the frequency effect could be found: 1) whether the frequency effect and production latencies were similar to those of an in-person lab-based experiment, 2) whether participants' internet speed affected the reaction times or error rates recorded, and 3) how many participants were necessary to test to establish the word frequency effect. We then inspected the model outputs and calculated how often, as a percentage of the 1000 runs, the t values for the word and phonotactic frequency effects were greater than  2 .

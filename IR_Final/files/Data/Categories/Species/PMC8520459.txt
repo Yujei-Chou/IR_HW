@@ -1,0 +1,4 @@
+34657167|PMC8520459
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Purpose
+Secondary infectious vasculitis is a morbid complication of viral infections and is known to occur in HIV, HSV, CMV, varicella, HCV, HBV, dengue, enterovirus, coxsackievirus, and COVID-19 infections.. It leads to complications like ischemic stroke or intracranial hemorrhages which worsens the prognosis. All five cases of varicella vasculopathy in our study sample had territorial infarction. studied 38 patients of herpes simplex encephalitis and found ischemic stroke in 10 patients, ICH in 27 patients, and cerebral sinovenous thrombosis in 1 patient.

@@ -1,0 +1,4 @@
+34702020|PMC8558689
+{'Disease', 'Species'}
+Objectives:
+The novel coronavirus disease 2019 (COVID-19) pandemic is a global health problem. Of the 99 ophthalmologists who answered the question about whether they had access to specialty masks such as FFP2 or FFP3 in their institutions, 42.42% (n=48) said they could get them immediately upon request and 35.35% (n=35) said they could only obtain them when they would be in contact with diagnosed or suspected COVID-19 patients, while 22.22% (n=22) reported that they could not obtain specialty masks through their institutions and had purchased them by their own means. We noted that patients were questioned before undergoing an eye examination in 51.49% of institutions.

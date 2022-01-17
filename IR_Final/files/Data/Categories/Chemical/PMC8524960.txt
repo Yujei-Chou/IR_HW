@@ -1,0 +1,3 @@
+34623155|PMC8524960
+{'Chemical', 'Disease', 'Species'}
+The use of nonpharmaceutical interventions (NPI) by governments to help curb the spread of the coronavirus (COVID-19) epidemic before effective vaccines became globally available have been important measures. However, air pollution, with the help of machine learning, may become a more useful general predictor of the potential spread of a virus than currently used tools, as the data can be a more informative measure of the actual behaviors of people in reducing their activities (e.g., staying at home). All of these limitations make it challenging to evaluate the true effects of reduced activity and lockdown confinement on viral spread.

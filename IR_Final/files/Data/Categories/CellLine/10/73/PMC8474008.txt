@@ -1,0 +1,4 @@
+34631100|PMC8474008
+{'Chemical', 'Disease', 'Species', 'CellLine'}
+Abstract
+Sarocladium kiliense, formerly known as Acremonium kiliense, is an omnipresent soil saprophytic fungus generally found in the environment such as cereal fields and the soils of grass lands, and sporadically infecting humans and other mammals. To our knowledge, this is the first report of systemic Sarocladium infection from Iran that has disseminated to the skin. We highlight the early diagnosis, accurate fungal identification, precise and adequate treatment of hyalohyphomycosis to avoid serious effects of this infection especially in COVID-19 patients who are taking corticosteroids.

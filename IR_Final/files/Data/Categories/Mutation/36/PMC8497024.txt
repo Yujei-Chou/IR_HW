@@ -1,0 +1,4 @@
+34627471|PMC8497024
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Background
+The COVID-19 pandemic has greatly challenged the global community. Most locations showed rapid reductions in reproduction number over time that capture the effect of policies and behavioural changes that reduce contacts. Validation of our statistical method using synthetic data (appendix p 20) showed that: (1) our results are robust to under-reporting and changes in test coverage; (2) our method can identify the correct sign and shape for the effect of environmental variables; and (3) those estimates are potentially conservative (ie, smaller than the true effects).

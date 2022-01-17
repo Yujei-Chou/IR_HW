@@ -1,0 +1,4 @@
+34727892|PMC8562930
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+In December 2019, COVID-19 confirmed cases first appeared in Wuhan, Hubei Province and quickly spread to many cities in China, has eventually become a public health emergency of international concern. Other results were shown in Table 2.In Table 3, after adjusting for confounding factors, compared with daily ST <= 2 h/day, ST > 4 h/day was positively correlated with depressive symptoms (beta = 0.48, 95%CI 0.37-0.59). The COVID-19 epidemic had caused serious threats to people's physical health and lives.

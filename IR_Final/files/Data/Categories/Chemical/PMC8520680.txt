@@ -1,0 +1,4 @@
+34692440|PMC8520680
+{'Chemical', 'Disease', 'Species'}
+Background
+The coronavirus disease 2019 (COVID-19) has generated more changes in our personal and professional lives than the previous coronavirus epidemics of SARS and MERS. A total of 70% (n = 105) of the respondents assumed an increase in autonomy, which was significantly related to higher OFIS values (P = 0.001).A total of 70% (n = 105) introduced feelings of fear for their own safety. Other studies have related the geographical location of the highest incidence of cases with a more significant psychological impact on healthcare workers.

@@ -1,0 +1,3 @@
+34566232|PMC8448384
+{'Disease', 'Species'}
+This study provides new insights into how local governments (LGs) manage pandemic-related crisis communication with citizens on their social media (SM) profiles. Our analysis suggests that LGs are likely to apply the Together communication strategy, which is the most engaging. We encourage both academics and practitioners toward a more in-depth understanding of SM use in times of crises by LG and its consequences on e-participation.

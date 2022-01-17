@@ -1,0 +1,3 @@
+34671280|PMC8522650
+{'Disease', 'Species', 'Gene'}
+Introduction: The coronavirus (COVID-19) pandemic has resulted in substantial changes to the normalcy of daily life. The DASS-21 is a widely used measure for the assessment of depressive and anxious affect. Cronbach's alpha in the current study was similarly high (alpha = 0.81).The degree of experienced psychological burden related to COVID-19 was assessed using the measure developed by Brailovskaia et al.

@@ -1,0 +1,3 @@
+34696175|PMC8537773
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+In response to the ongoing COVID-19 pandemic, the global effort to develop high efficacy countermeasures to control the infection are being conducted at full swing. The inhibitory effect of P88-CFS was initially assessed in HEK 293 cells, where the cells were first infected with the SARS-COV-2 virus and then treated with P88-CFS at concentrations ranging from 50.0 to 250.0 mg/mL. Based on viral RNA copies determined by qPCR, the viral load in the culture supernatant was reduced compared to the untreated SARS-COV-2-infected control (0 mg/mL P88-CFS), as shown in Figure 1. A significant increase in ROS levels was seen upon infecting cells with SARS-COV-2.

@@ -1,0 +1,4 @@
+34551783|PMC8457031
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Health systems must be able to adapt effectively to changing conditions with limited resources. Authors suggest that a significant proportion of people having one or more chronical illnesses were deprived of essential care during the lockdown. We hypothesize that 1) the ratio of formal vs. informal care changed during the COVID-19 lockdown, with an increase in informal care; 2) the provision of informal care increased more among co-residing caregivers compared to visiting caregivers; 3) the prioritization of formal care services changed in order to support alone living PwD to compensate for decreased family support.

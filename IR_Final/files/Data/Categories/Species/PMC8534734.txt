@@ -1,0 +1,3 @@
+34679506|PMC8534734
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+The coronavirus disease 2019 (COVID-19) pandemic has reached an unprecedented level. Samples were stored at -20  C and then evaluated by enzyme-linked immunosorbent assay (ELISA).The entire sequences of the S1 domain, encoding 725 amino acids, and the N sequence, encoding 420 amino acids, were synthesized, and inserted into the pcDNA3 plasmid. These data were confirmed by the Western blot analysis of transfected cells with pcDNA3.1/S1 using an anti-His antibody.

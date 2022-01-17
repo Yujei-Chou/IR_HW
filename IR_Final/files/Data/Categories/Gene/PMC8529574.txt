@@ -1,0 +1,4 @@
+34674660|PMC8529574
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+In December 2019, a novel coronavirus was recognized in Wuhan, China. As the Table 3 shows, the accession of generated features significantly improves the diagnostic performance. 5 and 6, our proposed GACDN method achieves the best diagnostic performance with the feature extraction and multi-view incomplete based method respectively.

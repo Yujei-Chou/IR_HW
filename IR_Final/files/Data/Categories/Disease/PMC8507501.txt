@@ -1,0 +1,3 @@
+34660206|PMC8507501
+{'Chemical', 'Disease', 'Species'}
+This paper addresses the question of how the Covid-19 pandemic has affected the labour market integration support (LMIS) organised for refugees in Austria and Sweden, and the potential consequences of the changes unfolding. AT_O8_APES).The second major development concerns changes in policies in both countries that had been underway before the pandemic. On the contrary, our material suggests that in some cases resources intended to support refugees were redirected towards helping jobseekers who had recently lost their job due to the pandemic, as highlighted by the APES representative:But, [...] what next year will be like, I don't think the [APES] is aware of that yet.

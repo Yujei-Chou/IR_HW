@@ -1,0 +1,4 @@
+34339547|PMC8447296
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+Favipiravir shows potent in vitro activity against severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) and is reported to be effective for coronavirus disease 2019 (COVID-19). The data sheet states that favipiravir increases repaglinide blood levels, which CYP2C8 also metabolizes. Here, favipiravir increased the INR in a patient taking warfarin, and the underlying mechanism may involve its inhibitory effect on CYP2C8.

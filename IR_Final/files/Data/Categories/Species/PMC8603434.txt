@@ -1,0 +1,3 @@
+33883401|PMC8603434
+{'Disease', 'Species', 'Gene'}
+Supplemental Digital Content is available in the text. Medical school leadership strongly supported the FM clerkship decision to provide remote clinical instruction. Best practices included hands-on preparation from a member of the clerkship team, either before initiating visits via the process list (List 1) or via live support from one a clerkship director during the teleconference/Epic encounter.

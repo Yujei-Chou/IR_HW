@@ -1,0 +1,4 @@
+34596713|PMC8484000
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Objectives
+Acute upper respiratory infections, like acute rhinosinusitis and odontogenic infections, are commonly found in patients of all ages. As in many other countries, multiple guidelines and instructions were implemented in Finland to avoid an outbreak of COVID infections. ENT patients were 51% less likely to be admitted to the ward in 2020 compared to 2019 and 2018 (p = .013) and patients from rural areas were less likely to visit OMFS or ENT emergency departments during the study period in 2020 compared to 2019 and 2018 (26.8% vs. 29.0% and 30.3%, p = .031, V = 0.030).

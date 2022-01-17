@@ -1,0 +1,3 @@
+34697295|PMC8543430
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+The lung is the prophylaxis target against SARS-CoV-2 infection, and neutralizing antibodies are a leading class of biological products against various infectious viral pathogen. To further identify the cells types in the lungs of mice transduced with VEEV-VRP-CB6 for neutralizing antibody expression, the lung sections were analyzed for specific lung epithelium cellular makers and CB6 mAb simultaneously through immunofluorescence staining (Fig. Furthermore, the immunofluorescence assay was performed to analyze the expression of SARS-CoV-2 NP, CB6 mAb, and PDPN (cellular marker of alveolar epithelial type I cells) in the lungs of mice from each group.

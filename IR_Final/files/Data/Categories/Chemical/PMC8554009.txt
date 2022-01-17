@@ -1,0 +1,3 @@
+34729348|PMC8554009
+{'Chemical', 'Disease', 'Species', 'Gene'}
+We present the case of an acute onset ANCA positive vasculitis in an asymptomatic COVID-19 infected teenager, resulting in significant colonic damage. The patient was initially diagnosed with Henoch-Schonlein purpura and presented with worsening symptoms with significant necrosis of her perineum and rectum requiring surgical debridement and diverting colostomy. The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.

@@ -1,0 +1,4 @@
+34478402|PMC8448083
+{'Disease', 'Species', 'Gene'}
+Background
+Since 2020, hundreds of millions of people have been infected with COVID-19 and millions of people have died. When cyberchondria was added to the analysis as a mediator, the direct relationships between perceived severity of the COVID-19 pandemic and depression (beta=0.26, t=5.85, P<.001), anxiety (beta=0.31, t=7.24, P<.001), and stress (beta=0.37, t=8.83, P<.001) were also significant. After lockdown experience (Multimedia Appendix 2) was entered into the model, the product of cyberchondria and lockdown experience had a significant predictive effect on depression (beta=0.10, t=2.59, P=.009), but the product of perceived severity of the COVID-19 pandemic and lockdown experience had no significant predictive effect on depression (beta=0.05, t=1.38, P=.17).

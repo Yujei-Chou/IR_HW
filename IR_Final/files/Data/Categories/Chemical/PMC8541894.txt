@@ -1,0 +1,4 @@
+34678823|PMC8541894
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract:
+In late 2019, the healthcare response to the emerging COVID-19 pandemic has required rapid adjustments to already stressed EDs. The bedside team wore appropriate PPE and assumed COVID-19-positive status until proven otherwise. The patient's lab results included a positive COVID-19 PCR test, an unremarkable respiratory viral panel, CBC with leukocytosis at 14,000 cells/mcL (normal, 4,400 to 11,000 cells/mcL) and elevated neutrophils, and a normal CMP.In conjunction with the patient's presentation and a confirmed positive COVID-19 PCR, the ED providers developed a pathway for MIS-C. Our organization uses this pathway to screen all positive COVID-19 patients who require ICU-level care.

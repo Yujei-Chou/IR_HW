@@ -1,0 +1,4 @@
+34790499|PMC8584126
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Introduction
+Omalizumab (Xolair ) is an anti-IgE monoclonal antibody used as adjunctive therapy in the management of chronic spontaneous urticaria (CSU) and moderate-to-severe allergic asthma . The British Society of Allergy and Clinical Immunology (BSACI) published recommendations relating to home therapy included expediting home self-administration pathways and extra-license usage of home self-administration in patients with a history of anaphylaxis which had a clear trigger unrelated to omalizumab . Zero out of 39 (0%) attended experienced anaphylaxis triggered by omalizumab.

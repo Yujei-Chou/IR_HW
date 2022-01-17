@@ -1,0 +1,3 @@
+34625656|PMC8501040
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The COVID-19 pandemic has highlighted the global need for reliable models of disease spread. Predictions of cumulative deaths achieved an average percentage error <10% or average error <100 for 43/51 states and 2585/3006 counties, and for cumulative confirmed cases 34/51 states and 1647/3006 counties (Supplementary Tables 1 and 2).We compare our framework with alternatives for the US (there are no public prefecture models in Japan to compare to). Our framework allows the capability of modeling prediction interval forecasts, for which we replacing the L2 loss with weighted interval loss (WIS) in Eq. (

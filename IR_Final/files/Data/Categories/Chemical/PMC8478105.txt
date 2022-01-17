@@ -1,0 +1,3 @@
+34191753|PMC8478105
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) has emerged into a worldwide pandemic of epic proportion. Kidney biopsies performed in patients with COVID-19 have revealed diverse glomerular and tubular disorders. Interferon mRNA is not detected in kidney biopsies with collapsing glomerulopathy, consistent with renal pathology resulting from a systemic innate immune response to COVID-19.

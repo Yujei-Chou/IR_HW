@@ -1,0 +1,4 @@
+34584484|PMC8464335
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Purpose of the Article
+The consequences of the COVID-19 pandemic have affected every aspect of social life, including the operation of educational institutions worldwide. This is considered the practical difficulty that has led few studies to examine learners' synchronous interaction activities. The findings of this research inform us of the significant drop-out rate of students in the virtual classroom environment and indicate possible student preferences in terms of asynchronous e-learning.

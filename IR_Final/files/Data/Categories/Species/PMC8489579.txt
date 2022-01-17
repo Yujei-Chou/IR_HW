@@ -1,0 +1,4 @@
+33201002|PMC8489579
+{'Chemical', 'Disease', 'Species'}
+Background:
+The overlapping overdose crisis and coronavirus disease (COVID-19) pandemic have placed an increased strain on an already overwhelmed healthcare system. To reduce COVID-19 exposure, peer recovery coaches transitioned to phone consultations beginning in March. Expanding access to rapid COVID tests across EDs and health services is imperative to improving access to needed resources for PWUD, particularly amid an overdose crisis.

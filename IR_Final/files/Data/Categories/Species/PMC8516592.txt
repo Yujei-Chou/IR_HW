@@ -1,0 +1,3 @@
+34661108|PMC8516592
+{'Disease', 'Species'}
+Outpatient parenteral antimicrobial therapy (OPAT) enables the outpatient treatment of patients requiring intravenous (IV) antibiotics who are clinically stable enough to safely receive this treatment at home. A lack of capacity in community OPAT services was the most frequent factor delaying discharge (n = 10, 48%), followed by a delay in peripherally inserted central catheter (PICC) insertion (n = 8, 38%). Delayed discharge was of particular interest as this study was conducted during the COVID-19 pandemic.

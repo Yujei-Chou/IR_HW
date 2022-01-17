@@ -1,0 +1,4 @@
+34785898|PMC8579870
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+According to World Health Organization data dating from 2019, in conflict zones "one in five people live with some form of mental disorder, ranging from mild depression or anxiety to psychosis." For example, the psychological impact of COVID-19 was 16.2% among college students, and the prevalence of depression, anxiety, and stress was 21.2%, 27.7%, and 32.5%, respectively, in Bench Sheko zone. The result among students in conflicted affected setting during the era of COVID-19 expected to be raised.

@@ -1,0 +1,3 @@
+34812426|PMC8597914
+{'Disease', 'Species', 'Gene'}
+The physician-patient relationship plays a key role in medical practice, with a significant effect on the therapeutic outcome. Thus, the physician should be open to communicate, but also discreet and respectful of the patient's pain, by inspiring optimism in the patient, while also limiting potential overwhelming excitement or joy he or she may experience due to personal, unrelated reasons, because it may be perceived as evidence of indifference or disrespect. During the COVID-19 pandemic, it has been of paramount importance for the physician to inspire trust for the patient and their families toward the unknown virus.

@@ -1,0 +1,3 @@
+34599921|PMC8480143
+{'Disease', 'Species', 'Mutation', 'Gene'}
+Worldwide, cancer screening faced significant disruption in 2020 due to the COVID-19 pandemic. Most eligible respondents said they would 'definitely' participate in cervical (74%) and CRC (84%) screening when next invited (see Table 1 for a full breakdown of responses). For cervical screening, intention to participate was lower among women who had not attended their last screen for reasons unrelated to COVID-19.

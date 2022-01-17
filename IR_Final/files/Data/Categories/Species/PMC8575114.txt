@@ -1,0 +1,4 @@
+33965986|PMC8575114
+{'Chemical', 'Disease', 'Species', 'Gene'}
+CASE HISTORY*
+A 62-year-old man with a past medical history of asthma and opioid use disorder on methadone developed respiratory symptoms in mid-March, which progressed to subacute respiratory failure by early April. Notably, the patient in the case described here experienced depression, suicidality, and trauma-related symptoms requiring intervention and initiation of an antidepressant. Hypoxic-ischemic injury to the brain stem and basal ganglia structures certainly plays a role in many cases and figures prominently in post mortem neuropathological assessments of COVID-19 patients, though some patients manifest abulia or akinetic mutism without having had known hypoxic respiratory failure.

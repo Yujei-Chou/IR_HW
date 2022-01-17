@@ -1,0 +1,4 @@
+34786483|PMC8585633
+{'Chemical', 'Disease', 'Species', 'Gene'}
+To the Editor:
+To the Editor:The development of encephalopathy in the context of SARS-CoV-2 infection, even in the absence of respiratory symptoms, has been associated with a broad spectrum from mild confusion to coma. Normal head CT and CSF with mild pleocytosis (11 /mul) and OCB and herpes PCR negative. 10-20% of patients with herpetic encephalitis suffer a relapse, showing anti-NMDAR antibodies producing inflammation of the central nervous system.

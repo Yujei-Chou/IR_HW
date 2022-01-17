@@ -1,0 +1,4 @@
+34531211|PMC8449840
+{'Disease', 'Species', 'Gene'}
+Background
+This study has prospectively compared the diagnostic accuracy of three different lung ultrasound (LUS) protocols in diagnosing COVID-19 pneumonia in a multicentre setting. The ultrasound was assessed real-time as positive or negative for COVID-19. In our study, the three false negatives in the six-points protocol had the BLUE-profile A with unilateral PLAPS, which is suggestive of lobar pneumonia.

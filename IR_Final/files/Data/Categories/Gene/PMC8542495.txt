@@ -1,0 +1,4 @@
+34689756|PMC8542495
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+After COVID-19 was declared a global epidemic, Norway implemented its strictest social restrictions since World Word II. Our analysis revealed three categories that described the effect of the virus according to students' reflections: i) how social life became restricted and only includes the closest family members and home healthcare staff (declining social circle), ii) how family members take on more responsibility to care for the individual and the pronounced impact of this on the day-to-day lives of the individual's next of kin (expanding responsibility of care), and iii) actions and reactions related to preventing the spread of the virus (dealing with the invisible threat). Through a written log, students revealed their constant efforts to understand the needs of the individual they provided home healthcare to in a period characterized by uncertainty.

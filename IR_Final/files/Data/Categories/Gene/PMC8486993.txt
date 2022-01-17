@@ -1,0 +1,4 @@
+34369382|PMC8486993
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The onset of the COVID-19 pandemic has forced services to be delivered on the web and given impetus to digital health care as a solution to access gaps by expanding and leveraging existing technologies. Although this represents a higher proportion of females than referrals from 2018 to 2020 (female: 5763/10,763, 53.54%; male: 5000/10,763, 46.46%), gender balance was not expected to have any bearing on the results, as cases were selected to be representative of different service lines available to CYP at Healios. Multiple communication tools appeared to maximize engagement and working on the internet facilitated multi-agency communication and delivery of safe care.

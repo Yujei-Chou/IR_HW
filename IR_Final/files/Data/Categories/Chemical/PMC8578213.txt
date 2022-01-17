@@ -1,0 +1,3 @@
+34754069|PMC8578213
+{'Chemical', 'Disease', 'Species', 'Gene'}
+To investigate the potential prognostic value of Serum cystatin C (sCys C) in patients with COVID-19 and determine the association of sCys C with severe COVID-19 illness. A multivariable Cox analysis showed that a higher level of sCys C (adjusted HR 2.78 95% CI 1.25-6.18, p = 0.012) was significantly associated with an increased risk of developing a severe COVID-19 illness. Regarding chest CT findings, patients with severe COVID-19 illness were more likely to be bilaterally affected (p = 0.024).The ROC curves of sCys C value for predicting severe COVID-19 illness was shown in Fig.

@@ -1,0 +1,4 @@
+34229370|PMC8497949
+{'Disease', 'Species', 'Gene'}
+Background
+The pneumonia outbreak that started in Wuhan, China in December 2019 and became a global pandemic was named coronavirus disease 2019 (COVID-19) and was caused by the newly identified severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).) These 50 articles had a median of 46.8 citations (range, 18-312 citations).This is the first bibliometric study to summarize the most relevant evidence on COVID-19 in older adults. Among the top 50 cited publications of COVID-19 in older adults, the most cited articles were reviews.

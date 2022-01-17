@@ -1,0 +1,4 @@
+34673890|PMC8574290
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+Neuropsychological assessment is critical for the detection of cognitive impairment and the evaluation of cognitive functioning. The present recommendations aim to support standardized clinical procedures that will incentivize data generation in our region. TeleNP is not appropriate for all patients (see Population).Ensure that the patient has adequate equipment and software for teleNP assessment.

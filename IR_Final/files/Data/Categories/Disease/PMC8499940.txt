@@ -1,0 +1,4 @@
+34480168|PMC8499940
+{'Disease', 'Species'}
+To the Editor
+We read with interest the report by Geisler et al and commend the authors for their efforts to address the important need to evaluate the clinical performance of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) diagnostic assays in pediatric populations, especially with respect to serology, given the noted differences in immune responses between children and adults. For example, a recent study found that the concordance among 7 anti-SARS-CoV-2 immunoassays and virus-neutralization tests varied widely between a minimum of 0.24 and a maximum of 0.72. In clinical settings, we are interested in the posttest probabilities calculated with the validation sensitivity/specificity and disease prevalence.

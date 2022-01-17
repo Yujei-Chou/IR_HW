@@ -1,0 +1,3 @@
+34552317|PMC8450911
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Ever since the emergence of the ongoing COVID-19 pandemic, the usage of makeshift facemasks is generally advised by policymakers as a possible substitute for commercially available surgical or N95 face masks. A detailed experimental investigation has been conducted to mimic the individual respiratory droplets ejected from an infected person onto the inner side of the mask (see Figs. 6(c)-6(e), the droplet size distribution for 6and 8 m/s differs significantly due to higher stretching of ligaments at higher velocity resulting in smaller droplet sizes compared to 6 m/s, while that the data nearly overlap for 8 and 10 m/s, which is discussed above in this section.

@@ -1,0 +1,4 @@
+33558097|PMC8500986
+{'Chemical', 'Disease', 'Species'}
+Dear Editor:
+Dear Editor:With over 93 million cases of the coronavirus disease of 2019 (COVID-19) worldwide, clinicians continue to search for new treatment options to reduce its morbidity and mortality. These effects reduce intrapulmonary shunting and the risk of atelectasis. Since both ARDS phenotypes involve decreased PaO2:FiO2 ratio as a result of intrapulmonary shunting, it is not surprising that placing patients in a prone position leads to improved oxygenation in both CARDS and non-COVID-ARDS.

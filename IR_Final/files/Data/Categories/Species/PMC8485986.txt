@@ -1,0 +1,4 @@
+34591027|PMC8485986
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+COVID-19 has resulted in a pandemic affecting more than a hundred countries worldwide. The first is to build prediction models for severity and mortality from COVID-19. In the same vein, starting from a full prediction model [containing Ln(age), Ln(SBP), smoking, Ln(Total cholesterol), Ln(HDL)], deleting any one of these established risk factors (except age) resulted in a very small reduction in AUC of <0.02.

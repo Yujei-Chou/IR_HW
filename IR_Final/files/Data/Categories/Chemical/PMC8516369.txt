@@ -1,0 +1,3 @@
+34656186|PMC8516369
+{'Chemical', 'Disease', 'Species', 'Gene'}
+There was widespread coverage in the media of Merck and Ridgeback's interim results of their phase 3 trial of the antiviral molnupiravir. There was widespread coverage in the media of Merck and Ridgeback's interim results of their phase 3 trial of the antiviral molnupiravir. As well as molnupiravir, another drug that might benefit people with prolonged high viral load is remdesivir; after disappointing results in hospitalised patients:potentially due to the drug being administered too late in the disease to make a difference:remdesivir has shown promise for use in the outpatient setting.

@@ -1,0 +1,4 @@
+34595867|PMC8490890
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Dear Editor,
+Dear Editor,While there have been reported cases of cerebral venous sinus thrombosis (CVST) related to the ChAdOx1 nCoV-19 and Ad26.COV2.S vaccines, we are not aware of any previous local report of a case of CVST that is temporally associated with the Pfizer-BioNTech COVID-19 (BNT162b2) vaccine in Singapore. He was asymptomatic before receiving his second dose of the BNT162b2 vaccine on April 10, 2021. 1A).On the following day, the patient was witnessed to have a focal-onset motor seizure involving left head version and left upper limb tonic-clonic jerking lasting for 5 minutes.

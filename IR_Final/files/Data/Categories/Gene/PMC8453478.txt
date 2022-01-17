@@ -1,0 +1,4 @@
+34566200|PMC8453478
+{'Disease', 'Species', 'Gene'}
+Introduction
+Before the COVID-19 pandemic, travellers were predominantly under- or uninsured for their travel. Accordingly, pandemic and known event exclusions, due to their wide application, can shift perceptions of the value of travel insurance and cause a reverse moral hazard problem in the market. Idiosyncratic events such as theft or lost property are attributable to personal traveller circumstances and are diversifiable by the insurer.

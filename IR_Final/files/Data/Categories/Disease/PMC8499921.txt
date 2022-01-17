@@ -1,0 +1,4 @@
+34505138|PMC8499921
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Abstract
+In past 18 months, the rapid spread and destructiveness of the COVID-19 have presented significant challenges on public health and biomedical research. After network-based proximity analysis, the relative average proximity distance between the drug targets and the COVID-19 disease targets distributed in the human interactome, Zdc, was calculated and listed in Table S4, see Supplementary Data available online at http://bib.oxfordjournals.org/. A negative Zdc value of a drug represents that the targets of this drug were close to the COVID-19-related targets. From Figure 1, there were 14 herbal ingredients with flavonoid structures (purple circle on herbal ingredient No.

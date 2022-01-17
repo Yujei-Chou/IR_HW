@@ -1,0 +1,3 @@
+34737856|PMC8561333
+{'Chemical', 'Disease', 'Species'}
+April 2021 saw a significant upsurge in new COVID19 cases in India in what is now referred to as a 'second wave'. These factors highlight the need to set-up a supply chain command center, that, when aided by a cohesive data architecture as described above, can mitigate this problem by allocating supplies commensurate to the regions' needs while also helping to coordinate and dynamically shift resources from 'non peak-demand' regions to ones experiencing peak demands. A supply chain command center that coordinates the sourcing, resource allocation, and logistics operations could help to avoid the above-described problems.

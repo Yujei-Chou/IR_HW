@@ -1,0 +1,4 @@
+34659861|PMC8516530
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+Central venous catheter represents an important tool in the management of critically ill patients. He developed acute kidney injury requiring renal replacement therapy in the form of sustained low-efficiency dialysis (SLED) through a right femoral vein central line due to hemodynamic instability on the 19th of May. The patient developed deep vein thrombosis on the same side of the hemodialysis catheter despite the prophylaxis with low molecular heparin. Our choice was to proceed for thrombin injection to induce thrombosis of the pseudoaneurysm and exclude it from the circulation.

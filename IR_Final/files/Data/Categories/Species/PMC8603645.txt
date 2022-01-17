@@ -1,0 +1,3 @@
+34799703|PMC8603645
+{'Chemical', 'Disease', 'Species'}
+This Genome Watch highlights how the SARS-CoV-2 pandemic laid the groundwork for continued use of real-time genomic epidemiology for public health responses in low-and-middle-income countries. This resulted in early generation of Bangladeshi SARS-CoV-2 genomes that contributed to investigation of the local reproductive number in Bangladesh among other descriptive epidemiological studies and reports. A much larger retrospective analysis of genomes from 33 African countries also showed widespread initial introduction of SARS-CoV-2 primarily from European countries, subsequently shifting into intracontinental spread in mid-2020 (ref.).

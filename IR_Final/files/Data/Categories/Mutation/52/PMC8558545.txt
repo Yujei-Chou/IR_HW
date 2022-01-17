@@ -1,0 +1,4 @@
+34724949|PMC8558545
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+Background
+Patient experience of care is associated with safety, clinical effectiveness, care quality, treatment outcomes, costs and service use, and nursing care is a key determinant of this experience. We summarise the percentage of respondents selecting each barrier in Table 6 (presented as the average percentage of respondents selecting the barrier, and the range of respondent percentages, across the constituent sub-categories of physical, relational and psychosocial care; where the barrier was only an option for one sub-category, we just present the percentage of respondents selecting the barrier for that sub-category). Further research should build on these findings, addressing the following remaining questions: what is the impact of nurses' self-reports of missed fundamental care on missed fundamental care as experienced by patients?;

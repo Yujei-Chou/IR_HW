@@ -1,0 +1,4 @@
+34236729|PMC8447468
+{'Chemical', 'Disease', 'Species'}
+Patient consent
+The patients in this manuscript have given written informed consent to the publication of their case details. The second patient was a 51-year-old woman with a history of dyshidrotic eczema who presented with a pruritic eruption 4 days after her first Pfizer-BioNTech COVID-19 vaccine dose. She was treated with an oral prednisone taper and her symptoms resolved.

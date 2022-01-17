@@ -1,0 +1,4 @@
+34709541|PMC8552429
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+On March 11, 2020, the World Health Organization declared the COVID-19 as a pandemic (Daniel). Based on one way ANOVA test, in the case group after comparison of variables related to before and after study, there was a significant difference in TNF-alpha (p = 0.011), hs-CRP (p = 0.023), MDA (p = 0.011), Interleukin 1 beta (p = 0.002), and TAC (p = 0.020) (Table 5).This study is the first study that evaluated the effect of glutamine on serum antioxidants, TNF-alpha, CRP, MDA, interleukin-beta1, and the level of appetite in COVID-19 patients admitted to the intensive care unit. In addition, the patients' serum MDA had significant changes after five glutamine supplementation.

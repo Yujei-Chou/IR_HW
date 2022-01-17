@@ -1,0 +1,3 @@
+34727295|PMC8561079
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+COVID-19 had dramatic impact worldwide and various vaccines anti-SARS-CoV-2 were rapidly developed (https://covid19.who.int/). In particular, occurrence of Graves' disease (GD) post-vaccination with Tozinameran (Pfizer-BioNTech) was reported in three female subjects and only one male prevalently in young-adult age somewhat reflecting the epidemiological age and sex distribution of the disease. Biochemical and clinical response was good with progressive down-titration of treatment reaching rapidly euthyroidism.

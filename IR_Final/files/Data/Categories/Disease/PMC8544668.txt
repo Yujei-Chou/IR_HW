@@ -1,0 +1,4 @@
+34634987|PMC8544668
+{'Chemical', 'Disease', 'Species', 'Gene'}
+ABSTRACT
+Studies in patients admitted to hospital for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection showed that comorbidities increase the risk of severe clinical outcomes. Thus, the use of antihypertensive drugs and their potential impact on outcome in COVID-19 patients remain a key point. Following this line of evidence, by enhancing ACE2 expression and limiting the effects of unopposed angiotensin II on the heart, lungs, and vasculature, RAAS blockers could theoretically play a protective role in patients with COVID-19 infection.

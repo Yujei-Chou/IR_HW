@@ -1,0 +1,4 @@
+34810271|PMC8610616
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+SARS-CoV-2 was first identified after sequencing relevant clinical samples in a bunch of unknown viral pneumonia cases in December 2019 in Wuhan, Hubei Province, China. Our data suggest that decreased eosinophil counts and increased LDH levels may help clinicians identify severe COVID-19 in patients with chronic airway diseases. We further explored the dynamic changes of eosinophil counts in patients with chronic airway diseases in the course of COVID-19 and found that eosinophil counts gradually increased over time and returned to normal range in both severe and non-severe patients, which could be a possible indicator of treatment effectiveness.

@@ -1,0 +1,3 @@
+34652910|PMC8547162
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Guanine quadruplex (G4) structures in the viral genome have a key role in modulating viruses' biological activity. On the other hand, it has been shown that an overstabilization of G4s may inhibit the translation of viral proteins by the cellular apparatus. Both the docking and the MD simulations agree in previewing the formation of stable complexes between the RNA G4 and the small ligands, the persistence and stability of which can also be appreciated by the extended plateau observed on the RMSD time-series after 400 ns (Figure 4B,D).

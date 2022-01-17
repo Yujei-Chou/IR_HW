@@ -1,0 +1,4 @@
+34706042|PMC8522717
+{'Chemical', 'Disease', 'Species', 'Gene'}
+ABSTRACT
+Since November 2019, the world has suffered the consequences and transformations caused by a new virus, called SARS-CoV-2, and the related disease, the covid-19. All suspected cases of AEFI of the covid-19 vaccine were analyzed, totaling 7,305 cases. O subcomite de seguranca da vacina contra covid-19, do Global Advisory Committee on Vaccine Safety (GACVS), em reuniao de 19 de janeiro de 2021, analisou relatorios de mortes em idosos classificados como frageis vacinados com a vacina Pfizer-BioNTech COVID-19 (vacina ainda nao utilizada no Brasil durante o estudo) e concluiu que "os relatorios atuais nao sugerem qualquer aumento inesperado ou desfavoravel de fatalidades em idosos frageis ou quaisquer caracteristicas incomuns de eventos adversos, apos a administracao de Pfizer-BioNTech COVID-19 vacina".

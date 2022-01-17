@@ -1,0 +1,4 @@
+34555160|PMC8460099
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+The novel coronavirus disease 2019 (COVID-19) pandemic has claimed over 4 million lives worldwide as of July 2021 and continues to pose a serious public health threat. To address this gap, we evaluated patients with SARS-CoV-2 infection alone and compared them with patients coinfected with SARS-CoV-2 and an additional non-influenza respiratory viral infection in terms of clinical presentation and severe outcomes in a New York City hospital system during the initial COVID-19 surge in early 2020.Recent reports suggest coinfection with SARS-CoV-2 and an additional non-influenza virus is possible; however, the effect of this coinfection on clinical outcomes is unclear. demonstrated no difference in clinical outcomes during the 2003 SARS outbreak in Hong Kong among those with and without nosocomially acquired human metapneumovirus.

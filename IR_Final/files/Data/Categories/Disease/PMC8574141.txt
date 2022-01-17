@@ -1,0 +1,4 @@
+34749718|PMC8574141
+{'Disease', 'Species', 'Gene'}
+Background
+Low socioeconomic status (SES) groups have been disproportionately  affected by the COVID-19 pandemic, with both the direct effects of higher morbidity and mortality from the virus, as well as the economic consequences of public health restrictions, including lockdowns. Analysis also included vaccination rate and difference between the first and second vaccine dose, by neighborhood SES and ethnicity. The disparity was greater for younger people than for older over 60s (33% difference for first dose under 60s vs 22% for over 60s; 37% vs 26% for second dose; 75% vs 49% for third dose) (not shown).Despite having a public healthcare system, and making COVID-19 vaccines freely available to the whole population aged 16 and over, results demonstrate considerable socioeconomic and ethnic differences in rates of vaccination in Israel.

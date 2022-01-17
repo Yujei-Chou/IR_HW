@@ -1,0 +1,4 @@
+34551334|PMC8451472
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objective
+Infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which can result in coronavirus disease 2019 (COVID-19), has caused an unprecedented global pandemic. Those 185 cases are described in Table 1 .Of the 185 cases of SARS-CoV-2 nosocomial infection or possible SARS-CoV-2 nosocomial infection, 179 (96.8%) occurred on the general hospital wards (Figure 1 ), translating to an annual incidence density of 1.7 cases per 1.000 patient-days. One of the main steps in defining cases of nosocomial infection with SARS-CoV-2 is ruling out previous infection at hospital admission.

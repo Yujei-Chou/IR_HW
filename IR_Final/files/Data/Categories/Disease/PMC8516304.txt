@@ -1,0 +1,3 @@
+34648602|PMC8516304
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) that causes the disease COVID-19 can lead to serious symptoms, such as severe pneumonia, in the elderly and those with underlying medical conditions. Untreated cells released >1x107 RNA copies/muL into the culture supernatant at day 3, and VHH treatment reduced the progeny production to 1x104 RNA copies/muL (Fig 4A), indicating that K-874A reduced the production of virus progeny. These data suggested that the K-874A-treated progeny have a lower infectivity.

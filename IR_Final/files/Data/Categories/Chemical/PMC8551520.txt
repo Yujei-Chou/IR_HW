@@ -1,0 +1,4 @@
+34746465|PMC8551520
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+During the past decade, there has been the rapid development and adoption of online learning in medical education. Although most of the students had good scores for this course (N = 249, 88.6%), there was no association between the good score and the course attendance (COR = 0.84; 95% CI = 0.40-1.75), time spent in the course (COR = 1.55; 95% CI = 0.61-3.91), or frequency of the course's logins (COR = 1.51; 95% CI = 0.73-3.13).Among the participants, 60% were males and 26.7% had previous experience in online learning. Furthermore, this study paid attention to the LMS infrastructure, which the data from LMIC were still insufficient.

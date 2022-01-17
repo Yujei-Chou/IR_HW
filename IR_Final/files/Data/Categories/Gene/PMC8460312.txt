@@ -1,0 +1,4 @@
+34631203|PMC8460312
+{'Chemical', 'Disease', 'Species', 'Gene'}
+To the Editor 
+ To the Editor The novel coronavirus has to date resulted in more than 200 million cases and more than four million deaths around the world. Other older adults, have managed to recover from SARS-CoV-2 infections multiple times, with Ms Iris Estay from Chile being the oldest one to recover twice, first in October 2020 and then in March 2021 (https://gerontology.wikia.org/wiki/Iris_Estay).The ability of some supercentenarians to recover from SARS-CoV-2 infections raises the question whether old age and its associated immunosenescence is less of a risk factor for the outcome of the infection than certain comorbidities. Several epidemiological data have accumulated that shine light on the risk factors for morbidity and mortality with COVID-19.

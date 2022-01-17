@@ -1,0 +1,1 @@
+variant,delta,infection,number,death,ci,difference,kappa,dose,group,admission,background,respectively,subgroup,since,country,spread,vaccination,prevention,gamma,beta,alpha,compared,coronavirus,outbreak,circulating,vaccine,effectiveness,efficacy,specifically

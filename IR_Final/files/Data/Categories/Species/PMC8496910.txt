@@ -1,0 +1,3 @@
+34403943|PMC8496910
+{'Chemical', 'Disease', 'Species'}
+Face masks are necessary for fighting against the coronavirus disease 2019 around the world. Estimated daily intakes (EDIs) for phthalates in the masks were estimated with the following equations according to previous studies:where C i is the measured phthalate concentration in the mask (ng/g); M is the weight (g) of the mask measured in this study (Table S1); N is the number of masks used per day, in this study the N value was set as 1; A is the absorption rate of phthalate in mask by human body. In this study, the occurrence, exposure and risks of phthalates from face mask were investigated.

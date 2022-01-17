@@ -1,0 +1,3 @@
+34577400|PMC8473455
+{'Chemical', 'Disease', 'Species', 'Gene'}
+During the last two years, the COVID-19 pandemic continues to wreak havoc in many areas of the world, as the infection spreads through person-to-person contact. LoRa makes use of ISM free-use frequency bands, shared with other wireless technologies. Such an applicable smart wireless sensory network with an IoT platform infrastructure, for indoor air quality management purposes, could be promising to minimize airborne infectious disease, such as COVID-19, transmission and increase comfort and productivity.

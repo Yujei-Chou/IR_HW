@@ -1,0 +1,4 @@
+34272137|PMC8595088
+{'Disease', 'Species', 'Gene'}
+Introduction
+The coronavirus disease 2019 (COVID-19) pandemic has highlighted the longstanding crisis of unaffordable housing in the U.S. Pandemic-related economic insecurity, including job loss, has increased the risk of eviction and foreclosure for millions of households. To measure respondents' knowledge of the connection between housing insecurity and COVID-19 transmission, the survey asked: Do you agree or disagree that preventing landlords from evicting tenants is important for slowing COVID-19 transmission? Support for expanding housing vouchers was also higher among those who agreed that there were racial housing inequities (25 percentage point difference) (Figure 1 and Appendix Table 4, available online).Democrats were more likely than Republicans to support each policy (Appendix Table 2, available online).

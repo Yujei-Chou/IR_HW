@@ -1,0 +1,1 @@
+peptide,rbd,dissociation,nm,protein,constant,cell,bound,tightly,sequence,table,synthesized,using,interferometry,showed,computer,coronaviruses,kd,value,comparable,chimeric,highest,affinity,binding,found,entry,significant,used,identify,mimic

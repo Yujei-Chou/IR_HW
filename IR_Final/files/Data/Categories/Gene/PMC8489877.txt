@@ -1,0 +1,3 @@
+34619100|PMC8489877
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Emerging evidence suggests that immunological responses to SARS-CoV-2 mRNA vaccines in solid organ transplant recipients are attenuated, with reported seroconversion rates of less than 60%. Infection-naive patients receiving BNT162b2 were more likely to seroconvert and developed higher anti-S titres compared with patients receiving ChAdOx1; seroconversion occurred in 269 (66%) of 410 patients receiving BNT162b2 (median anti-S 58 BAU/mL, IQR 7 1-722) and 156 (44%) of 358 patients receiving ChAdOx1 (7 1, 7 1-39; figure A ; appendix p 5). Members of the Imperial Renal COVID-19 vaccine study group are listed in the appendix (pp 25-26).

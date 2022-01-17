@@ -1,0 +1,4 @@
+34717713|PMC8556778
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+Patient care in emergencies is challenging even for specialized and trained emergency medical service (EMS) often treating critically ill patients under adverse working conditions. Each group faced a different risk profile regarding SARS-CoV-2 exposition and is described in Table 1. Interestingly, the question about previous COVID-19 was answered positive by 19% in EMS and significantly higher when compared to HS and NPC (Table 2, p = 0.02).Aim of this study was the determination of work-related SARS-CoV-2 infection (seroprevalence or postive PCR) in EMS compared to HS and NPC compared to the overall SARS-CoV-2 incidence within the EMS covered region.

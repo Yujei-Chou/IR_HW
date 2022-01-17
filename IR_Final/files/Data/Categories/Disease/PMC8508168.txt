@@ -1,0 +1,3 @@
+34639361|PMC8508168
+{'Chemical', 'Disease', 'Species'}
+Widespread misinformation about COVID-19 poses a significant threat to citizens long-term health and the combating of the disease. Results show that both peripheral and central cues play important roles in the sharing of fact-checks. By investigating the effects of peripheral cues (i.e., social media capital, social media strategy, media richness, and source credibility) and central cues (i.e., content theme and content importance) on the number of shares of COVID-19 fact-checks posted by Chinese Government social media accounts, this study provides some interesting findings.

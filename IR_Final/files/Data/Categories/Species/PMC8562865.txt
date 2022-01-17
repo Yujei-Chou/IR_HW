@@ -1,0 +1,3 @@
+34746895|PMC8562865
+{'Disease', 'Species'}
+Suffering has been a topic of considerable discussion in the fields of medicine and palliative care, yet few studies have reported causal evidence linking the experience of suffering to health and well-being. Extent of suffering was the only aspect of suffering for which there was little evidence of association with each outcome (ps > .05).Results for analyses involving anxiety, depression, and psychological well-being as candidate antecedents of suffering are reported in Table 3 . In summary, this study utilized prospective data to support causal inference about the implications of suffering for psychological functioning.

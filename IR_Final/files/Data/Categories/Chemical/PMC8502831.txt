@@ -1,0 +1,4 @@
+34483151|PMC8502831
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), spread rapidly around the world. Comparisons of monthly and seasonal (3-month) incidence and clinical characteristics of Kawasaki disease in Yamanashi were conducted between 38 cases diagnosed from March through November 2020 (during the COVID-19 pandemic) and 595 cases diagnosed from January 2015 through February 2020 (before the COVID-19 pandemic).Diagnosis of Kawasaki disease was retrospectively confirmed based on criteria defined in the sixth edition of the Japanese Kawasaki disease diagnostic guidelines. These observations demonstrate that the clinical characteristics and therapeutic responses of the cases diagnosed in the first 9 months of the COVID-19 pandemic were similar to those diagnosed before it.

@@ -1,0 +1,3 @@
+34310426|PMC8549128
+{'Disease', 'Species', 'Gene'}
+The SARS-CoV-2 (COVID-19) pandemic encouraged virtually all healthcare systems to either cancel or delay elective surgical procedures. In order to prevent exposure to the virus and redistribute necessary resources for COVID-19 patients, the Veterans Administration (VA) momentarily halted all elective cases on March 15, 2020. To gain clarity on this issue, the authors compared 30- and 90-day emergency department (ED) use and mortality rate of patients who had elective procedures canceled due to COVID-19 (COVID-19 group, 3326), with similar patients who had the same procedure completed in March-June of 2018 and 2019 (comparison group, 298,445).

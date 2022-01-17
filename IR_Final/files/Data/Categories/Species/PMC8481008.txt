@@ -1,0 +1,4 @@
+34562547|PMC8481008
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The range of possible transmission pathways of SARS-CoV-2 and their relative contribution in various settings is still being investigated. Both of these "air change" methods reduce aerosol in indoor environments such that, in practice, it is possible to combine the two, such that air ventilation (ACHHVAC) and air filtration (ACHe) rates can be added into a total Air Changes per Hour (ACH) parameter for the purpose of infection control associated with aerosol transmission. The low flow rate portable air cleaner with 8.3 ACH (case 3) was still significantly better than the HVAC.

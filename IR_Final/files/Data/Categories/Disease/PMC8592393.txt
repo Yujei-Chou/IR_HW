@@ -1,0 +1,4 @@
+34795541|PMC8592393
+{'Chemical', 'Disease', 'Species'}
+Background
+Coronavirus disease-2019 (COVID-19) is a pandemic disease and a major global health concern one which was first reported from Wuhan, in China in December 2019. According to the findings of this study, 347 (87.6%) and 279 (70.5%) of respondents had a positive attitude towards preventive measures against COVID-19 and a good knowledge of COVID-19 infection, respectively (Table 2). Also, written permission letters to conduct the study were obtained from each public health facility.

@@ -1,0 +1,4 @@
+34637077|PMC8505476
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Dear Editor:
+Dear Editor:The efficacy of corticosteroid use in COVID-19 has been widely debated. Recently, a meta-analysis of seven randomized clinical trials with a total of 6250 patients with moderate to severe COVID-19 indicated that corticosteroids therapy was associated with reductions in mortality and disease progression. The relationship between beta-blockers and adverse outcomes in COVID-19 remains unknown.

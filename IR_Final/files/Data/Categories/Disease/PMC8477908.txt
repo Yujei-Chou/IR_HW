@@ -1,0 +1,4 @@
+34406968|PMC8477908
+{'Chemical', 'Disease', 'Species', 'CellLine'}
+Background
+During the global COVID-19 pandemic, health systems rapidly changed procedures and policies to minimize viral transmission and accommodate increased patient volumes and illness acuity. A few policies addressed how restrictive visitation may impair family-centered care. Seventh, we tested composite policy statements without contextual factors that may lead a community member to recommend or discourage a particular hospital, and we did not require participants to choose between hospitals based on the policy statements, which may have limited variation in their responses.

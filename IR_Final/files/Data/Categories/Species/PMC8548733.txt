@@ -1,0 +1,3 @@
+34720768|PMC8548733
+{'Disease', 'Species', 'Gene'}
+Nurse managers face many daily challenges that require strong resilience and skill. Making sure that the NMs' leaders are in support of the time to complete this is an important first step. It is likely that a lower participation rate at 6 months was influenced by the level of work present for the NMs during the pandemic height.

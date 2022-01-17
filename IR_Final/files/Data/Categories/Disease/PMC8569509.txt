@@ -1,0 +1,3 @@
+34754137|PMC8569509
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+The global crisis caused by the outbreak of a novel coronavirus and the associated disease (COVID-19) has changed working conditions due to social-distancing policies. As a consequence of the COVID-19 pandemic and social-distancing policies, remote working has increased in Europe. Interitem reliability ranged from acceptable to good: neuroticism (alpha = 0.72) and extroversion (alpha = 0.87).Occupational information included the number of working hours per week and the occupational area.

@@ -1,0 +1,3 @@
+34684049|PMC8541042
+{'Chemical', 'Disease', 'Species'}
+This collection of research papers addresses fundamental questions concerning the nature of myalgic encephalomyelitis/ chronic fatigue syndrome (ME/CFS), the problem of disbelief and lack of knowledge and understanding of the condition among many doctors and the origins of this problem, and its impact on patients and their families. Four of the papers in this collection consider aspects of knowledge of ME/CFS among doctors. A systemic review by Wong and Weitzer in this issue considered twenty-one studies, and reported much overlap of symptoms between Long COVID-19 and ME/CFS, including fatigue, reduced daily activity, and post-exertional malaise, and some common features in terms of pathophysiology.

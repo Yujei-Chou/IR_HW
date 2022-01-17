@@ -1,0 +1,3 @@
+34638897|PMC8509048
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+The novel coronavirus severe acute respiratory syndrome (SARS-CoV-2) has progressed rapidly from an outbreak to a global pandemic, with new variants rapidly emerging. It has also been postulated that supplementation of vitamin D alters pathways involved in histone and chromatin modifications in a manner distinct from VDR activity. Vitamin D has been found to attenuate the effects of these interactions between SARS-CoV-2 and the RAAS.

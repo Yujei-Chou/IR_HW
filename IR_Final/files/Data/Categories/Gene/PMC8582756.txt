@@ -1,0 +1,4 @@
+34653014|PMC8582756
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The COVID-19 pandemic is an ongoing threat. Future studies should confirm whether protecting one's partner is the motivation to receive COVID-19 vaccination. Our findings suggested that some unique strategies should be tailored for South Asians to address cultural and religious reasons for COVID-19 vaccination hesitancy.

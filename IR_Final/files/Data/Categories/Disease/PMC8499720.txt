@@ -1,0 +1,4 @@
+34000031|PMC8499720
+{'Disease', 'Species'}
+Dear Editor 
+ Dear Editor We are grateful to Sabah et al. Indeed, the findings must be put into context, meaning that the survey was circulated at relatively early stages of the pandemic; a certain degree of variation was also predictable among the countries of the participants. As an example, routine CT thorax was initially advocated as a screening tool by some societies.

@@ -1,0 +1,4 @@
+34706871|PMC8552177
+{'Disease', 'Species'}
+Background
+Worldwide, a subset of patients account for a disproportionate amount of healthcare costs. A sample of 74 high-risk patient charts were reviewed, evenly split between the emergency department and inpatient data sets. Three opportunity areas (table 3) were identified for hospitals to help improve care for patients related to addressing their social needs: (1) training for staff related to social determinants of health, stigma and trauma; (2) improved documentation of social needs; and (3) programmes that connect patients to navigation and support in the community.

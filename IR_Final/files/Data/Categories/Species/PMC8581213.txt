@@ -1,0 +1,3 @@
+34777119|PMC8581213
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Introduction: The COVID-19 pandemic has led to a significant increase in the proportion of employees for whom teleworking became mandatory. Similarly, meta-analytic estimates have revealed stronger links between job demands and presenteeism (r = 0.24) compared to job demands and absenteeism (r = 0.05) (Miraglia and Johns,).In agreement with the Job Demands-Resources (JD-R) model (Bakker and Demerouti,), job demands vary in nature and include cognitive, physical, emotional, and psychological demands. In their position paper on the "research priorities for the COVID-19 pandemic and beyond," O'Connor et al.

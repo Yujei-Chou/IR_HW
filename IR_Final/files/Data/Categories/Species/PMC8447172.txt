@@ -1,0 +1,4 @@
+34228350|PMC8447172
+{'Disease', 'Species', 'Gene'}
+INTRODUCTION
+Hearing loss is common among adults and associated with increased healthcare utilization and miscommunications that lead to adverse events. Our final 37-question survey focused on changes in hearing loss awareness since the start of the COVID-19 pandemic, communication challenges in the setting of increased mask use, and tools used by providers to improve communication. Respondents overwhelmingly felt hearing difficulty significantly impacted the quality of care provided since the start of the COVID-19 pandemic.

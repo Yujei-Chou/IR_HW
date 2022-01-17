@@ -1,0 +1,4 @@
+34642653|PMC8494498
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Summary
+Energy insecurity is defined as the inability to adequately meet the basic energy needs of a household, such as heating, cooling, and cooking. However, most of the current studies of COVID-19's impact on electricity consumption rely on aggregated market data or surveys. Using the individual-consumer-level high-frequency electricity data and an RDiT approach, we investigate the hypothesis that electricity usage increase in the residential sector because of the COVID-19 measures will increase energy insecurity among low-income and ethnic minority groups.

@@ -1,0 +1,4 @@
+33910665|PMC8503055
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Objectives:
+Since its identification in December 2019, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) commonly referred to as 'COVID-19' has moved swiftly through the world causing a global pandemic. A proportion of respondents (21%, n = 28/133) felt these presentations were more severe in nature compared to before the lockdown. Factors identified included increased isolation (81%, n = 109/134), reduced access to usual (face-to-face) secondary mental health supports (79%, n = 106/134) and reduced access to community mental health support outside of secondary mental health services (69%, n = 92/134).A small proportion [8%, (n = 8/102)] of respondents felt that there had been delays in assessment for detention.

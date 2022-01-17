@@ -1,0 +1,4 @@
+34690453|PMC8523934
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Graphic abstract
+The current coronavirus pandemic, commonly known as COVID-19, is brought about by the Severe Acute Respiratory Syndrome coronavirus 2 (SARS-CoV-2) (Gil et al.) The residues of the active site of Mpro are conserved and make a catalytic Cys145-His41 dyad. MM-PBSA can be used to perceive the contribution of amino acid residues within the active site to the structural stability of ligands and binding free energy throughout the simulation period (Kumar and Pandey).

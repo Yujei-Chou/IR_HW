@@ -1,0 +1,3 @@
+34602883|PMC8461580
+{'Disease', 'Species'}
+Unmet dermatologic needs of the uninsured patient population are important to identify and address, especially as the COVID-19 pandemic has introduced additional barriers of access to care. Latency between the patient initially experiencing a dermatologic concern and seeking care at HAVEN was 3.2 years. Prior data demonstrates that dermatologic care in student-run free clinics within specialized monthly sessions is well-reviewed by patients, with 82.2% of patients from one study considering treatment effective and 84.4% reporting that they were either likely or highly likely to visit a dermatologist again in the future.

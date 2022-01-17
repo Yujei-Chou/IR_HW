@@ -1,0 +1,4 @@
+34695480|PMC8532376
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Until recently in the UK, emphasis has been placed on testing individuals with COVID-like symptoms (fever, cough, anosmia) in order to identify COVID-19 infection and subsequently isolate the individuals and their close contacts. Results obtained in the Royal Berkshire branch of the evaluation confirmed the 100 % specificity of pool testing obtained at DRW. When samples were tested the same day as collection or frozen on the day of collection the sensitivity was 100 % (95 % CI: 92.61-100 %) in 39 samples with Ct <35 and 97.6 % (95 %CI: 87.4-99.9) in all 42 positive pools containing one positive sample (Ct 17-35.65).

@@ -1,0 +1,3 @@
+34568851|PMC8453783
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Key domains for improving ECMO outcomes during COVID-19. Although initial reports showed poor outcomes with ECMO during COVID-19, expert consensus supported its use in selected patients. ECMO criteria were similar to those proposed by the ELSO guidance document and the ECMO to Rescue Lung Injury in Severe ARDS trial, with exclusion of patients older than age 70 years, presence of serious comorbidities, cardiac arrest, refractory multiorgan failure or Simplified Acute Physiology Score-II >90, irreversible neurologic injury, or ongoing ventilation beyond 10 days.

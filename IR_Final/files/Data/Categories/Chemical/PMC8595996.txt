@@ -1,0 +1,3 @@
+34804559|PMC8595996
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+The SARS-CoV-2 virus disproportionately causes serious illness and death in older individuals. We initially assume a drug effectiveness of 90% in reducing the production rate and examine the effect of treatment initiated at different times after infection onset. Despite model limitations, this study has found differences in viral dynamics of SARS-CoV-2 between young and aged animals and has shown that these differences should be considered when considering antiviral treatment.

@@ -1,0 +1,4 @@
+34758865|PMC8579725
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Throughout human history, there have been many pandemics that have been unpredicted and that have had devastating effects on populations. In these studies, the cognitive and emotional effects of fear of COVID-19 on individuals' procrastination behaviors could be examined in depth. The present study was conducted with university students and was carried utilizing a cross-sectional design.

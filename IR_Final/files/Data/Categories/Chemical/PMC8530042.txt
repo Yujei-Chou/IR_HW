@@ -1,0 +1,3 @@
+34759398|PMC8530042
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Mucormycosis is an invasive fungal infection that has been increasing in incidence over the years. A black eschar in the nasal cavity or hard palate region is an early marker of definite mucormycosis, though it may be present in only 50% of cases. COVID 19 has been a very difficult pandemic to manage mainly because of the pneumonia and thrombosis aspects.

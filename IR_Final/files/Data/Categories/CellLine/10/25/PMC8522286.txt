@@ -1,0 +1,4 @@
+33769926|PMC8522286
+{'Chemical', 'Disease', 'Species', 'CellLine'}
+To the Editor:
+To the Editor:Recent studies reporting the clinical sequelae of hospitalized patients recovering from coronavirus disease (COVID-19) have included limited data (especially regarding lung function) for survivors who required invasive mechanical ventilation. Length of hospital stay and mechanical ventilation were associated with FVC SR (r = -0.698 and -0.492, respectively; both P < 0.001) and with DlCO SR (r = -0.398 and -0.344; P = 0.007 and 0.027, respectively).Compared with predischarge imaging, follow-up radiography showed improvement in 90% of cases; however, residual radiographic abnormalities were still evident in 64% of cases. This warrants further investigation, given that 60% of our cohort underwent prone positioning during their hospital admission.

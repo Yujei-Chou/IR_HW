@@ -1,0 +1,3 @@
+34261122|PMC8579887
+{'Chemical', 'Disease', 'Species'}
+Supplemental digital content is available in the text. There was a difference (P < .0001) in how well students' needs for anticipating and recognizing changes in a patient condition and taking action (critical thinking subscale) were met between the TCE, F2FS, and SBS. Students identified a difference on evaluating the effects of medications administered to the patient between TCE and SBS.

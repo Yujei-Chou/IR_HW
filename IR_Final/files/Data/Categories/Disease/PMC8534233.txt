@@ -1,0 +1,4 @@
+34680210|PMC8534233
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Simple Summary
+Liquid biopsy is a simple and minimal invasive procedure alternative to surgical biopsies. As in blood analysis, a centrifugation step is crucial to eliminate any cell debris that can interact with the RNA fraction. Among the three kits we tested, the Qiagen kit provided miRNA with the highest concentration, 48.8 pg/muL, the Ambion kit:the second highest, 29.3 pg/muL, and the Norgen kit:the lowest, 11.7 pg/muL.A brief summary of the methods for isolating exosomes described below is presented in Table 3.Ultracentrifugation is the most commonly employed method for exosome isolation and is used in 81% of all cases.

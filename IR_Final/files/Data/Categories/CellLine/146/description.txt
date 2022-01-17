@@ -1,0 +1,1 @@
+disease,chronic,patient,data,background,predictor,information,obtained,baseline,longitudinal,collection,period,study,might,serve,subject,demographic,dropout,percentage,adequate,partly,mitigated,attempting,recruit,people,high,risk,numerical,investigate,whether

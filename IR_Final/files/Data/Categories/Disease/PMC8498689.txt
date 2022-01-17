@@ -1,0 +1,4 @@
+34642505|PMC8498689
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Introduccion
+La nueva enfermedad causada por el coronavirus 2 del sindrome respiratorio agudo (SARS-CoV-2) de 2019 (COVID-19) esta causando afecciones en todos las regiones del mundo y es una emergencia sanitaria. El personal de salud tambien es vulnerable y esta sufriendo gran impacto en la salud mental; cada vez son mas los estudios que demuestran la alta prevalencia en el personal de salud de sintomas depresivos, ansiedad generalizada, estres y alteraciones del sueno como consecuencia de la pandemia. El miedo a infectarse y la atencion directa de pacientes con COVID-19 causan estres significativo en el personal de enfermeria; el elevado numero de trabajadores de la salud que han perdido la vida por causa de la COVID-19 genera un aumento del miedo a enfermarse.

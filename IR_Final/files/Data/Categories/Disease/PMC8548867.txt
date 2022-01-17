@@ -1,0 +1,4 @@
+34705261|PMC8548867
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Graphic abstract
+Infections by multi-drug resistant (MDR) microorganisms are one of the biggest challenges to healthcare systems and pharmaceutical companies, and are expected to grow considerably over the next few decades. In view of the properties of the other photosensitizers, it is expected that this list of photosensitizers includes positively charged species with MW < 1000 Da. Nevertheless, the strong bactericidal effects at low doses of PS1-2 and PS6 (with the caveat that they were not tested against biofilms of G- bacteria), SAPYR and its derivative (PS16-17), and of methylene blue and its Polymyxin B derivative (PS18 and PS25) suggests that low molecular weight photosensitizers with intrinsic cationic charges or highly basic groups that are protonated at physiological pH, are most promising for PDDI of bacterial biofilms.

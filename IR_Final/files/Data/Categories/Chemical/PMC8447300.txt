@@ -1,0 +1,4 @@
+34396633|PMC8447300
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Aim
+Several guidelines and consensus documents have been created to regulate a safe return-to-play for athletes with a history of COVID-19 infection. According to the FMSI protocol in force in Italy at the time of data collection, such athletes required cardiological and pneumological evaluation before RTP comprehensive of ECG, echocardiogram, pulmonary function test and ergometric test. We also compared cardio-pulmonary function data of patients with an asymptomatic infection course with those who reported symptoms.

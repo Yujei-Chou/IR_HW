@@ -1,0 +1,3 @@
+34765578|PMC8576168
+{'Disease', 'Species'}
+A rising concern is the COVID-19 pandemic effect on adverse childhood experiences (ACEs) due to increased parental stress and social/physical isolation. Individuals with ACEs also have less access to health care. This is shown in Table 1.The Spearman correlation test showed there was a moderate relationship between the estimated number of adults with one or more ACEs and deaths (rho = 0.89) and race/ethnicity-specific COVID-19 case counts by county (NHB: rho = 0.76; NHW: rho = 0.96; Hispanic: rho = 0.89).

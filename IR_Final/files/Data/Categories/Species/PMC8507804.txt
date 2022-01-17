@@ -1,0 +1,3 @@
+34639673|PMC8507804
+{'Disease', 'Species'}
+Background: The current study aimed to assess the anxiety and fear levels and the attitude towards clinical care, such as the use of personal protective equipment and number of patients examined, before and after COVID-19 vaccination among Turkish dental professionals. There were no significant differences between institutions and the confidence interval value (p = 0.763) (Table 5). In the intra-group comparison of specialist dentists and general dentists in the pre- and post-vaccine periods, the decrease in the use of preoperative mouth rinsing after vaccination in both specialist dentists and general dentists showed a statistically significant difference (p = 0.003, p = 0.016, respectively) (Table 4).

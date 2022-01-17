@@ -1,0 +1,3 @@
+34746380|PMC8570634
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The COVID-19 pandemic has impacted the mental health of Philippine citizens. The main goal of Phase Four is on how systems of implementation for equity in the delivery of mental health services is achieved. Finally, the model achieves the vision of equity in mental health care delivery because professional health psychologists have incarnated themselves in the grassroots by creating systems of implementations that train, monitor and supervise local community members for the much needed mental health care necessary to recover from COVID-19 pandemic and beyond.

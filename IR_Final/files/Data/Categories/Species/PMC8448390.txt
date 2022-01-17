@@ -1,0 +1,4 @@
+34535859|PMC8448390
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Introduction
+The COVID-19 pandemic in 2021 has accelerated the demand for oxygen supplies globally. In previous studies, various health effects were reported due to the common air pollutants (WHO). should be followed and need to be updated considering the recent evidence of mucormycosis in the COVID-19 pandemic (Cornely et al.).

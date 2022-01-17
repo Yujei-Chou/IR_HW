@@ -1,0 +1,3 @@
+34602842|PMC8478635
+{'Chemical', 'Disease', 'Species', 'Gene'}
+This study aims to empirically investigate the role of E-commerce (EC) on the trade impacts of COVID-19. Section 2 summarizes our conceptual framework regarding the relationship between COVID-19's effects on trade and EC. 2, the EC index is positively correlated with logged GDP per capita in 2018.This section reports our estimation results for Eq. (

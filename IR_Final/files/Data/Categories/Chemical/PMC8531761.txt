@@ -1,0 +1,4 @@
+34745452|PMC8531761
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Graphical abstract
+About 1013 human cells coexist with 1014 bacterial, fungal, and protozoan cells, i.e., thousands of microbial species. Finally, InnateDB classifies innate responses against trypanosomes as relying on IL-2 and IL-12 as well as osteopontin and atypical NF-kB mediated processes (Supplementary file 4).Despite targeting common proteins, host defense details vary for each disease. The interaction between all the four central proteins and ZE protein VP24 has been validated by tandem affinity purification experiments.

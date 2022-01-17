@@ -1,0 +1,4 @@
+34487943|PMC8559669
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Graphical abstract
+The ongoing coronavirus disease (COVID-19) pandemic has led to an increase in the usage of nonwoven single-use face masks (SFMs), with monthly estimated use of 129 billion face masks globally. The composite membranes were capable of impeding the penetration of 300-500 nm particles with a high removal efficiency of 99.999% and low pressure drop of 92 Pa. Zuo et al. When spinning units ratio was 3/3, the composite membrane had the highest Qf value of 0.097 Pa-1, with high filtration efficiency of 99.996%, and maintaining low air resistance of 104 Pa. It is noteworthy that with a further increase in the TN-PLA content, despite the improved filtration efficiency, the significant increase in pressure drop brought about the decreased Qf value from 0.097 Pa-1 to 0.082 Pa-1, which is mainly because of the dense stacking of TN-PLA.

@@ -1,0 +1,4 @@
+34736445|PMC8567122
+{'Chemical', 'Disease', 'Species'}
+Background
+Since the end of 2019, COVID-19, of an unknown origin, has spread rapidly in most countries and regions around the world. Based on the theoretical framework, this chapter analyses the application framework of SARS epidemic emergency management, which lacked the support of big data technology. Due to its interoperability and shareability, big data technology in the COVID-19 epidemic emergency management can foster a national and provincial epidemic surveillance system, which help build an integrated coordination mechanism connecting the central and local governments and all government departments to improve administrative preparedness for epidemic emergency management.

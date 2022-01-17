@@ -1,0 +1,4 @@
+34732193|PMC8564789
+{'Chemical', 'Disease', 'Species'}
+Background
+It is universally accepted that the first confirmed COVID-19 case was recognized in Wuhan, China. The 21-item BAI was used to assess participants' experiences of symptoms related to anxiety within the past month. The mean score of depression was 58.5 (SD = 4.30), anxiety 58.1 (SD = 3.62), self-compassion 99.5 (SD = 20.7), and death anxiety 14.3 (SD = 1.1).Both depression and anxiety were significantly and positively related to death anxiety and negatively related to self-compassion.

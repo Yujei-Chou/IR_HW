@@ -1,0 +1,4 @@
+34568807|PMC8450209
+{'Disease', 'Species'}
+Background
+The B.1.617.2 (Delta) variant is thought to be responsible for the deadly second wave of SARS-CoV-2 infection in India. However, according to news reports, as on 21st July, India reported nearly 45,432 cases of mucormycosis in COVID-19 patients till July 15, bringing global attention to the disease. Over 45,000 cases of mucormycosis reported in country - India News, 2021)

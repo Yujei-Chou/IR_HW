@@ -1,0 +1,4 @@
+34659459|PMC8512880
+{'Disease', 'Species', 'Gene'}
+Background:
+The UK five-year National Action Plan and 20-year vision on antimicrobial resistance (AMR) highlights the importance of promoting infection prevention (IP) to children and young people. The verbal method was requested by youth group leaders for children of younger age and less capability. Leaders reported positive views of the AGYB, believed the topics were important for children to understand and valued that the programme aligned with existing themes of their youth organisations.

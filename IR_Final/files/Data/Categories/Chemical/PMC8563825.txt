@@ -1,0 +1,4 @@
+34732164|PMC8563825
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The coronavirus disease 2019 (COVID-19) is a disease caused by a new type of coronavirus, which was named as Severe Acute Respiratory Syndrome Coronavirus type 2 (SARS-CoV-2) by Coronaviridae Study Group (CSG) of the International Committee on Taxonomy of Viruses. Compared with other results in the literatures, the prevalence of job burnout among BSL staffs is higher in Xinjiang. The difference may be related to the low proportion of men in BSL staffs in this survey (23.80%).With regard to age and working years, we found that there were significant differences in the detection rate of burnout among different age groups and working years (P < 0.001) and with the increase of age and working years, the detection rate of burnout showed an increasing trend.

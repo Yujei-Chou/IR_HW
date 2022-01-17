@@ -1,0 +1,4 @@
+34369860|PMC8513629
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Introduction
+The current severe acute respiratory syndrome-associated coronavirus-2 (SARS-CoV-2) pandemic has challenged healthcare systems worldwide in an unprecedented manner. The saliva specimens were analysed in a similar manner, except that the dilution with PK solution was 1 : 4 in the first part of the study, which was modified to 1 : 2 in the later stages of the study. Asymptomatic patients showed no significant difference between the sensitivity of ONPS (15/17; 88.2 %; 95 % CI: 72.9-100) and saliva (12/17; 70.6 %; 95 % CI: 48.9-92.2; P=0.20).The results in the cohort of patients with an unknown COVID status yielded results similar to those of the overall cohort.

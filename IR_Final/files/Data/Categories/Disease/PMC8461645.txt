@@ -1,0 +1,4 @@
+34325024|PMC8461645
+{'Disease', 'Species', 'Gene'}
+Introduction
+In December 2019, a case of pneumonia occurred in Wuhan, China. A section of the survey was designated to assess residents' anxiety level during the pandemic and a grading of expected contributing factors. Regarding operating room (OR) exposure before the COVID-19 pandemic, 51 residents (53.3%) were performing 2-3 cases per week, and 34 (35.8%) were assisting in 4-5 cases per week.

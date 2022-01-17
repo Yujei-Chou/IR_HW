@@ -1,0 +1,3 @@
+34603804|PMC8486545
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Hantavirus Cardiopulmonary Syndrome (HCPS) can occur after infection with Hantavirus which can occur by inhaling aerosolized rodent urine, feces, and saliva contaminated with the virus. Extracorporeal membrane oxygenation (ECMO) has been suggested to improve outcomes in severe HCPS with refractory shock. His ethanol level was 96.7 mg/dL, while liver function tests showed aspartate transaminase 132 U/L, alanine transaminase 33 U/L, and alkaline phosphatase 219 U/L. Testing for SARS-CoV-2, Human Immunodeficiency Virus (HIV), influenza, and methicillin-resistant Staphylococcus aureus (MRSA) nasal screen was negative.

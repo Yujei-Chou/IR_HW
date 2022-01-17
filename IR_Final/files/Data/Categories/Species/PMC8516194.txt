@@ -1,0 +1,3 @@
+34648525|PMC8516194
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The ongoing COVID-19 pandemic is causing significant morbidity and mortality across the US. This study highlights several variables that were associated with county-level laCFR during the first wave of COVID-19 in the US. We have rephrased the last paragraph of the introduction (lines 74, 76-78) to highlight that our study objective was to use a lag-adjusted case fatality rate (laCFR) to determine which population-level variables were most associated with differences in laCFR across U.S. counties.

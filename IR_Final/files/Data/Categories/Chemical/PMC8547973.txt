@@ -1,0 +1,2 @@
+34715379|PMC8547973
+{'Chemical', 'Disease', 'Species'}

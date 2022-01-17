@@ -1,0 +1,3 @@
+34595136|PMC8476999
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+The outbreak of COVID-19 has proven to be an unprecedented disaster for the whole world. According to the literature emergence of interstitial pneumonia in COVID-19 patients is an additive effect of respiratory complications and GI tract symptoms. Subsequently, many other studies and case reports have confirmed the invasion of SARS-CoV-2 through the hACE-2 receptors on nasal and oral cavities leading to impaired functioning of sensory neurons, exhibiting neuromuscular symptoms, confirming the involvement of all three nervous systems (CNS, ANS, and PNS) in COVID-19 mediated mortalities.

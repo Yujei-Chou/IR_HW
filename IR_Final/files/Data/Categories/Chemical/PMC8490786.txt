@@ -1,0 +1,3 @@
+34609094|PMC8490786
+{'Chemical', 'Disease', 'Species'}
+Applying work restrictions for asymptomatic healthcare personnel (HCP) with potential exposure to coronavirus disease 2019 (COVID-19) is recommended to prevent transmission from potentially contagious HCP to patients and other HCP. In the previous studies, frontline HCP with appropriate personal protective equipment did not appear to be at higher risk of COVID-19, and there was no transmission of SARS-CoV-2 from patients in hundreds of close contacts including aerosol-generating procedures, which is consistent with our findings. Increasing vaccination coverage among HCP might diminish the adverse impact of COVID-19 exposure events in a healthcare setting.

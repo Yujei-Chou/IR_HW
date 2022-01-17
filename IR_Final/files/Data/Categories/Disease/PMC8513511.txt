@@ -1,0 +1,4 @@
+34717222|PMC8513511
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Objective
+The coronavirus disease 2019 (COVID-19) is a severe acute respiratory syndrome (SARS) caused by the SARS-CoV-2 coronavirus. In the remaining patients who did not require intubation (n = 7), three patients had myopathic EMG changes (irritable in 1), one patient each had GBS (AMAN variant), bilateral common peroneal mononeuropathies, bilateral ulnar mononeuropathies along with bilateral carpal tunnel syndrome (CTS), and an active on chronic intraspinal canal lesion affecting L2 and L5-S1 myotomes. Lack of muscle biopsy and a small number of patients were the major limitations of our study.

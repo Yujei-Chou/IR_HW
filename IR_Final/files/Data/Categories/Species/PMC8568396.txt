@@ -1,0 +1,4 @@
+34746665|PMC8568396
+{'Disease', 'Species', 'Gene'}
+Abstract
+Severe acute respiratory syndrome coronavirus 2 and the public health measures (PHM) used to control the spread of the coronavirus disease 2019 (COVID-19) pandemic have unprecedented impacts on lives and health care systems worldwide. During the lockdown stage (March 17-May 25, 2020), there was a 14% decrease in orthopaedic trauma volumes, indicating that staying at home decreased the burden of orthopaedic trauma. The 14% decrease in trauma volumes observed in this study provides information regarding effects of PHM in a Northern climate for a relatively young population.

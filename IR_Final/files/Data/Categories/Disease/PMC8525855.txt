@@ -1,0 +1,4 @@
+34668122|PMC8525855
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Occasional viral encephalitis in children and young adults include a large and heterogeneous group of inflammatory brain diseases, characterized by different symptoms and variable onset. Although the clinical picture of the acute phase of Covid-19 is, in itself, very complex and affects many organs, recent studies have identified a new consequence of SARS-CoV-2 infection with medium- and long-term effects, involving the nervous system, called Post-COVID-19 Neurological Syndrome. Lumbar puncture was performed and the cerebrospinal fluid (CSF) was clear and colorless.

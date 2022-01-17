@@ -1,0 +1,3 @@
+34775559|PMC8590527
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Coronavirus disease 2019 (COVID-19) continues as a global pandemic. found that lung cancer is the most common cancer among patients infected with COVID-19 (Liang et al.), Moreover, patients with COVID-19 with LUAD, who express higher levels of CCL2, progress more rapidly and have a worse prognosis (Geraghty et al.).The transcription factors FOS and JUN to regulate gene expression through dimeric oncogenic complexes (Rorke et al.;

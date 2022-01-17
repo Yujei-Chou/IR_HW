@@ -1,0 +1,3 @@
+34608231|PMC8490434
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Kidney function is affected in COVID-19, while kidney itself modulates the immune response. S-spike protein, IgG, and IgM were measured using commercially available kits (RayBiotech, Peachtree Corners, GA). The most striking finding was the observation of massive raise of numerous activation biomarkers in urine seen in patients with preexisting chronic kidney failure (Fig.

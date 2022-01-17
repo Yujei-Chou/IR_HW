@@ -1,0 +1,4 @@
+34559576|PMC8477588
+{'Chemical', 'Disease', 'Species', 'Gene'}
+ABSTRACT
+Historically, vaccines have been known to be associated with ocular phenomena. Based on the OR from different studies, it is highly unlikely that Bell's palsy is associated with COVID-19 vaccination and if at all, the pathophysiological process for facial nerve palsy post COVID-19 vaccination needs to be hypothesized and proven. Four articles described corneal graft rejection soon after receiving a COVID-19 vaccination.

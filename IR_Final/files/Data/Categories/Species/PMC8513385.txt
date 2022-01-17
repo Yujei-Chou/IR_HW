@@ -1,0 +1,3 @@
+34646006|PMC8513385
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The twenty-first century has witnessed a wave of severe infectious disease outbreaks, not least the COVID-19 pandemic, which has had a devastating impact on lives and livelihoods around the globe. Patterns of change are likely occurring in other bat populations globally but remain understudied : a clear cause for concern given the crucial role bat populations play as a reservoir host for several high-fatality pathogens. Tackling emergence and disease spread in animal systems will require rethinking both food animal production and global trade of animals.

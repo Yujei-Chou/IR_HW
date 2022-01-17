@@ -1,0 +1,4 @@
+34730819|PMC8567110
+{'Disease', 'Species', 'Gene'}
+Key Points
+COVID-19 is a leading cause of death in the United States. The 58-item survey was developed in collaboration with SHEP and Ipsos Public Affairs, who manages the VIP. Of veterans who were not yet vaccinated but who reported that they definitely will, 44 (58%) agreed that "It will contribute to ending the COVID-19 pandemic," and 44 (58%) agreed that "It is the best way to prevent others from getting COVID-19" as the 2 topmost motivating reasons for getting the COVID-19 vaccination.

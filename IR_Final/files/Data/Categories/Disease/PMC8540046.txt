@@ -1,0 +1,3 @@
+34683949|PMC8540046
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+ProTide technology is a powerful tool for the design of nucleoside/nucleotide analog prodrugs. The reactions were terminated by adding a two-fold volume of acetonitrile (ACN) containing the internal standard RDV (5 microM). The activity ratios of CatA to CES1 on hydrolyzing TAF and SBV were 472:1 and 79:1 for TAF and SBV, respectively, suggesting that, relative to SBV, TAF is more susceptible to CatA.The hydrolysis of TAF and SBV in HlungS9 and HLS9 were determined (Figure 5).

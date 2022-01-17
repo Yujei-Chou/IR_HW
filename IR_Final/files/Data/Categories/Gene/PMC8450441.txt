@@ -1,0 +1,3 @@
+34552898|PMC8450441
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background: Most studies on parental reactions to a preterm birth and to hospitalization of the newborn in Neonatal Intensive Care Units (NICUs) have involved mothers. This is particularly important in the NICUs where the need to resort to specialized medical equipment can make parental involvement very difficult. We believe that some of the emotional difficulties emerged during this period are related or reinforced by the impossibility for parents to stay together and support each other during the NICU stay, thus reinforcing the importance of the co-regulation in NICU between parents, among parents and newborn and among the parents of newborn and staff.

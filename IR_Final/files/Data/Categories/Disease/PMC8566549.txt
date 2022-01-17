@@ -1,0 +1,3 @@
+34746083|PMC8566549
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background: The corona pandemic has forced higher education (HE) institutes to transition to online learning, with subsequent implications for student wellbeing. During the second step, tests were run to determine each sociodemographic variable's relation to the independent variables academic stress, resilience, and HE support. The model effects for students who perceive high levels of academic stress, displayed a total predictive effect of.424 between perceived academic stress and depression (see Tables 3, 4, Figure 2C).

@@ -1,0 +1,3 @@
+34733180|PMC8558384
+{'Disease', 'Species', 'Gene'}
+Background: This study seeks to ascertain how the COVID-19 stay-at-home period has affected the quality of life (QOL) of children with neurodevelopmental disorders (NDDs) who had experienced sleep schedules alteration and clarify what psychological status predicted low QOL in children with and without altered sleep patterns. To our knowledge, this was the first study to reveal the relationship between changed sleep patterns in children with NDDs and their QOL during the COVID-19 stay-at-home period, based on the results of self-assessment by children. As in previous studies, the prediction of low QOL was associated with increased depressive symptoms, regardless of sleep problems.

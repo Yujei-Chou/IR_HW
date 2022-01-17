@@ -1,0 +1,4 @@
+34155186|PMC8452251
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Purpose of review
+Coronavirus disease-19 (COVID-19) has become a global pandemic since its origination in Wuhan, China in late 2019, with now more than 125 million cumulative cases and more than 2.7 million deaths worldwide. Moreover, the study found no significant differences in clinical features of GBS, disease severity or outcomes between patients with or without COVID-19 except for a higher rate of mechanical ventilation in patients with definite COVID-19, which was ascribed to pulmonary effects of COVID-19 rather than neuromuscular weakness from GBS .Molecular mimicry, which plays a critical role in the pathogenesis of GBS following C. jejuni infection, has been speculated for GBS arising after COVID-19 infection. A few retrospective studies examined the impact of immunosuppressive therapies for MG on the risk of COVID-19 infection and outcomes.

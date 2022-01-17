@@ -1,0 +1,4 @@
+34668106|PMC8526050
+{'Disease', 'Species', 'Gene'}
+Background
+The Royal Victoria Eye and Ear Hospital (RVEEH) is a specialised hospital for ophthalmic and ENT conditions. The large number of cases worldwide has prompted the HSE to introduce measures to curtail non-essential visits to hospitals. Sixty-three of these were self-referrals, 15% were referred via their GP, 1% by opticians and 3% by other hospitals (Graph 2, 3).There were 1120 episodes (i.e., calls to the triage number/referrals from Health Link, opticians or other hospitals).

@@ -1,0 +1,4 @@
+34675714|PMC8504704
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Countries are facing increasingly complex public health (PH) emergencies involving epidemics of infectious disease, natural disasters and human-made disasters. The number of days for completion of pathogen identification starting from the first identified case were 118 days for SARS (Figure 1, point 3 and 4) and 31 days for COVID-19 (Figure 2, point 3 and 4).On 12 April 2003, the National Health Commission of the PRC publicized the prevention guidance for SARS on its IW. Hence, flow of a huge population contributed the difficulty in controlling SARS-CoV-2 spread.

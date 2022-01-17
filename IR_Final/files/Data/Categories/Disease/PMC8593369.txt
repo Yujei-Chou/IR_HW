@@ -1,0 +1,3 @@
+34486515|PMC8593369
+{'Disease', 'Species', 'Gene'}
+To the Editor:The coronavirus disease 2019 (COVID-19) pandemic has been major sanitary crisis of recent times. To our knowledge, this is the first study to report a case series of sequelae of COVID-19 in maxillofacial surgeons presenting postacute COVID-19 syndrome followed for 12 months. Interestingly, Augustin et al (2021)   demonstrated that long-term symptoms of postacute COVID-19 syndrome are not exclusive to more severely ill patients or those with a long period of hospitalization, despite the expectation of longer convalescence for hospitalized patients.

@@ -1,0 +1,4 @@
+34580733|PMC8500103
+{'Disease', 'Species'}
+Abstract
+The year 2020 was started with the announcement of an unprecedented COVID-19 pandemic caused by SARS-CoV-2 virus originating from Wuhan, China and spreading worldwide. All the findings were statistically significant (P-value < 0.001), as is stated in Table 2.On the other hand, each of the mobility indices were highly correlated with one another as the Pearson's correlation coefficient values ranged from 0.84 to 0.99 except for the residential index, as shown in Fig. Generally, all mobility indices declined after the implementation of mobility limiting measures except the residential index which increased.

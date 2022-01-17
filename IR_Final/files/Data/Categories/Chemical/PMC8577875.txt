@@ -1,0 +1,4 @@
+34778601|PMC8577875
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Purpose
+COVID-19 (coronavirus disease of 2019) is caused by a novel coronavirus, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) that was first documented in Wuhan, China. 2 A and B) that corresponded to the lesions noted on funduscopic examination and IVFA. In a different case with AMN and PAMM lesions related to COVID-19, the small amount of subfoveal fluid resolved on its own within 15 days, lending support to observation for AMN including when associated with COVID-19.

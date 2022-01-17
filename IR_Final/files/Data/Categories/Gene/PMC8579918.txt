@@ -1,0 +1,4 @@
+34756062|PMC8579918
+{'Disease', 'Species', 'Gene'}
+LETTER
+The 2-dose BNT162b2 vaccine (Pfizer-BioNTech; reported efficacy 94.8%) regimen against severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) was authorized in December 2020. Overall, 369 health care workers were enrolled; 22 previously had COVID-19:confirmed by reverse transcriptase PCR (RT-PCR) during the past 3 months:while 347 did not have COVID-19 previously. A booster dose of BNT16b2 could have immunogenicity, but the timing and recipient prioritization remain controversial.

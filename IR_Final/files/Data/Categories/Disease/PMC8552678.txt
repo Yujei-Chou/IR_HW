@@ -1,0 +1,4 @@
+34346750|PMC8552678
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+ABSTRACT
+Severe acute respiratory syndrome coronavirus 2, SARS-CoV-2, is a single-stranded RNA virus which can be passed between humans and is the cause of the coronavirus pandemic, which began in 2019. The peak of antibody response to RBD antigen reached ~3,000 U/ml. Interestingly, vaccination of a person several months after mild confirmed COVID-19 recovery resulted in a dramatic induction of anti-RBD, -S1, and -S2, but not anti-N, antibodies up to 40,000 U/ml, which is almost 1,000-fold higher than in healthy vaccinated volunteers (Fig.

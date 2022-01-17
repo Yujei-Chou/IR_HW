@@ -1,0 +1,3 @@
+34690477|PMC8527308
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+COVID-19-related burden has a significant impact on mental health and has led to an increase of depression, anxiety, and stress symptoms. The basic relationships between physical activity and the four outcomes were significant (see Table 2, total effect, c: p < .001). The finding, that the direct effects between physical activity and PMH, and symptoms of depression and anxiety, respectively, remained significant after adding sense of control to the model points out to the numerous other mechanisms that can influence the relationship between physical activity and mental health (for review see e.g., Mikkelsen et al.,).

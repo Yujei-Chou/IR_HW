@@ -1,0 +1,4 @@
+34758871|PMC8579722
+{'Chemical', 'Disease', 'Species'}
+Background
+Firework displays remain an integral part of the American cultural experience, punctuating national and local holiday celebrations, sporting events, fairs, and festivals. Despite public education, improved firework safety, and down trending annual rates of firework injuries, the distribution of injuries by age and sex has remained largely unchanged since the 1980's (Billock et al.). Traditional firework displays produced for large communities were mostly cancelled during 2020 due to social distancing recommendations and federal mandates (Courtemanche et al.;

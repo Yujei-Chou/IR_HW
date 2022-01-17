@@ -1,0 +1,4 @@
+34570326|PMC8475877
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+In December 2019, an emerging disease (COVID-19), caused by a newly identified human coronavirus (SARS-CoV-2), was first recognized in Wuhan, China, and spread worldwide. Significant differences were observed in patients at KDIGO-AKI stages 1 (p < 0.001), 2 (p < 0.001), and 3 (p < 0.001) when they were compared with those patients with non AKI. Third, we analyzed blocking activity for 10 ng/mL of IFNs according with previous reports, but blood IFN-alpha concentrations of mild/moderate COVID-19 patients typically range from 1 to 100 pg/mL, and they are even lower in severe and critical ones, so auto-Abs neutralizing concentrations of type I IFNs below 10 ng/mL may underlie life-threatening COVID-19 pneumonia in more than 9.5% of cases, as suggested by a recent study [Bastard in press].

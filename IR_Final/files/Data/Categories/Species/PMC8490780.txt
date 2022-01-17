@@ -1,0 +1,3 @@
+34621212|PMC8490780
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background: Mental health burden has been massively reported during the COVID-19 pandemic period. However, psychophysiological stress issues are often reported for HCW even in the absence of disease outbreaks (Liu et al.,; A subgroup analysis by population for anxiety and depression showed similar prevalence for HCW (anxiety: 27.5%, depression: 27.05%) and the GP (anxiety: 28.33%, depression: 26.7%).A previous review of meta-analyses found slightly lower estimates for anxiety (24.94%) and depression (24.83%) in HCW during the COVID-19 pandemic (Sahebi et al.,)

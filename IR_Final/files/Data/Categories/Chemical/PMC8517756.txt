@@ -1,0 +1,3 @@
+34667599|PMC8517756
+{'Chemical', 'Disease', 'Species', 'Gene'}
+It is hypothesized that several comorbidities increase the severity of COVID-19 symptoms. ACE2 therefore plays an important role in balancing the two RAAS arms, the pro-inflammatory and hypertensive arm mediated by ACE, AngII and Angiotensin Type 1 Receptor (AT1R), and the cardioprotective, anti-inflammatory arm mediated by MAS1 oncogene (MasR) and AT2R. Disruption of this balance is a crucial player in the pathophysiology of CVD and COVID-19. There is cumulative proof that ACE2 downregulation may contribute to an increase in the thrombotic risk in patients with COVID-19.

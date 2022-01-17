@@ -1,0 +1,4 @@
+34659611|PMC8498664
+{'Disease', 'Species', 'Gene'}
+Image in medicine
+A 23-year-old female known case of renal agenesis met with a road traffic accident, patient was unconscious and had an injury on lateral aspect of her ankle. Considering the good healing rate, platelet rich plasma (PRP) seemed to be a better option than surgery. Post 8th session the size of wound was significantly reduced and appearance of new normal skin structure was seen (F) and the wound recovered completely.

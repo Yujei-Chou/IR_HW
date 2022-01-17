@@ -1,0 +1,3 @@
+34685643|PMC8534608
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Extracellular vesicles (EVs) have been identified as novel mediators of intercellular communication. These EVs were found to have role in exhaustion of CD8+ T cells which aided the tumor cells in evading immune response. Similarly, dendritic cell and B cell-derived exosomes have been shown to play a role in stimulating the allergic immune response via stimulation of T cell proliferation and induction of cytokine production of allergen-specific T cells (IL-4, IL-5, and IL-13 and lower levels of IFN-gamma and TNF-alpha).ALI and ARDS remain as life-threatening diseases in critically ill patients.

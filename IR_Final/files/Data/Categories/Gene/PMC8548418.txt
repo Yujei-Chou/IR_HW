@@ -1,0 +1,3 @@
+34721190|PMC8548418
+{'Disease', 'Species', 'Gene'}
+Efficient data collection in developmental studies is facing challenges due to the decreased birth rates in many regions, reproducibility problems in psychology research, and the COVID-19 pandemic. In this paper, we propose the Baby's Online Live Database (BOLD), an umbrella database system suitable for participant recruitment and management. In this type of study, when a participant accesses a website for research, they are automatically given instructions.

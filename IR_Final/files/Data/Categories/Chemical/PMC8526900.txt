@@ -1,0 +1,3 @@
+34691001|PMC8526900
+{'Chemical', 'Disease', 'Species', 'CellLine'}
+The year 2020 was shaped by the COVID-19 pandemic which killed more people than any other infectious disease in this particular year. Following their unsuccessful attempts to develop a protective vaccine by chemical treatment and encouraged by a certain degree of protection (although with severe adverse events) by immunization with minute doses of live M. tuberculosis in cattle, Calmette and Guerin decided to develop a live vaccine against human TB by attenuating M. bovis through culture under virulence-reducing conditions. Toward the end of the twentieth century, initiatives to develop vaccines that can replace, or improve on, BCG increased.

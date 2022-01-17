@@ -1,0 +1,4 @@
+34560850|PMC8460849
+{'Disease', 'Species', 'Gene'}
+Background
+As a public health disaster, the coronavirus disease 2019 (COVID-19) swept across the globe. Higher levels of family cohesion were significantly associated with a lower risk of the overall unintentional injury among the study children (P = 0.020). In additional, although there were no statistically significant differences between boys and girls in the overall unintentional injury rate during the COVID-19 pandemic, a significant difference was observed for the injury due to falls, and the rate due to falls in boys was nearly 2.5 times higher than that in girls, which may be attributed to the biological, social and cultural differences (for example, boys may be more involved in vigorous physical activities than girls).This study explored risk factors of unintentional childhood injury during the COVID-19 pandemic.

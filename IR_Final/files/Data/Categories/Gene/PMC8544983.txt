@@ -1,0 +1,3 @@
+34388087|PMC8544983
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Patients with severe acute respiratory syndrome coronavirus 2 infection may have bacterial co-infections, including pneumonia and bacteremia. We describe B. hinzii pneumonia and bacteremia in a severe acute respiratory syndrome coronavirus 2 patient. The cause of death in this case was likely multifactorial and included respiratory infection with SARS-COV-2 and the hemodynamic compromise that ensued.

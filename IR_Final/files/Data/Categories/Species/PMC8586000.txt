@@ -1,0 +1,4 @@
+34778163|PMC8586000
+{'Disease', 'Species'}
+Introduction
+As we write, in early spring 2021, millions of people have been infected with COVID-19 and the majority of the population worldwide is still under some form of restricted movement. These universal preventive actions to fight the spread of COVID-19 thus depend for a great part on behavioral change. This paper is not about how methodologies and operational methods may be aligned to the complexity of systems thinking, but about one of the most crucial aspects with important implications for academia, health professionals, and policies: being the necessity to transcend conventional boundaries and act in a participatory way with the communities at stake.

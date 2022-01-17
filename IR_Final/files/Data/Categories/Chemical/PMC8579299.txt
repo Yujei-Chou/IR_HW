@@ -1,0 +1,3 @@
+34790054|PMC8579299
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+As the world is racing to develop perpetual immunity to the SARS-CoV-2 virus. This inquiry may lead us to the previously unknown domain of perpetual immunity against SARS-CoV-2. Based on these studies and the previously established role of AID in B cell tolerance and antibody maturation, we have shown in Figures 1 & 2, a possible mechanism for the humoral immune response against SARS-CoV-2 infection.

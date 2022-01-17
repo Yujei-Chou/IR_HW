@@ -1,0 +1,4 @@
+34469184|PMC8525552
+{'Disease', 'Species'}
+ABSTRACT
+The efficacy of rapid antigen testing for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has been shown to be an important aspect of managing the pandemic, given the inclusion of such testing in existing algorithms for COVID-19 infection control in health care settings and new guidelines that suggest it as a possible alternative to health care worker vaccination. The potential costs of false-positive results, coupled with prior data that also raise concerns about false-negative results particularly in asymptomatic patients, suggest that mass asymptomatic rapid antigen testing should not be used to ensure safety of patients and health care workers. In any situation where rapid antigen testing has a potential role, Kanji et al.

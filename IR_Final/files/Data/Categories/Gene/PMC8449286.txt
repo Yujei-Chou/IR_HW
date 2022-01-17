@@ -1,0 +1,4 @@
+34536067|PMC8449286
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+The pandemic spread of SARS-CoV-2, which is transmitted through infected droplets emitted by breath, produces COVID-19 which has a wide range of clinical manifestations ranging from asymptomatic and respiratory failure requiring support in an intensive care unit to multiple organ dysfunction syndromes (Cascella et al. The ORT-VOC test is based on the changes in metabolites exhaled during sensory stimulation compared to the unstimulated basal recording (Mazzatenta, Pokorski, & Di Giulio,; Mazzatenta, Pokorski, Montinaro, et al.,; Taste is preserved confirming that the impairment is limited to the olfactory pathway, in agreement with previous studies (Mazzatenta et al.

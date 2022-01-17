@@ -1,0 +1,3 @@
+34698006|PMC8576127
+{'Disease', 'Species'}
+School lockdowns have been widely used to control the COVID-19 pandemic. However, among 7-12-year-olds, the overall trend in incidence was not parallel, and the AWCP was proportionally smaller in the areas with both restaurant and lower secondary school closures than in areas with only restaurant closures (Table 1). Our study supports earlier findings that school closures had no added effect in controlling the COVID-19 pandemic in Finland.

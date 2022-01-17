@@ -1,0 +1,4 @@
+33596163|PMC8513647
+{'Chemical', 'Disease', 'Species'}
+From the Authors:
+From the Authors:We appreciate the comments of Torres-Castro and colleagues and welcome the opportunity to provide further details on respiratory follow up and ill-health in our post-coronavirus disease (COVID-19) cohort. Our study was a pragmatic approach to the follow up of COVID-19 survivors, in line with current published recommendations. There is no difference in initial illness severity between those who underwent 6MWT and those who did not (t = 1.44, P = 0.15).The generation of normal reference ranges for 6MWT is difficult.

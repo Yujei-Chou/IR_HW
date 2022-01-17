@@ -1,0 +1,4 @@
+34267107|PMC8562921
+{'Chemical', 'Disease', 'Species'}
+Objective:
+Discuss previous findings on associations between employment loss and psychological distress. Recent data have indicated that the prevalence of depressive symptoms during the COVID-19 pandemic has increased more than threefold compared to the time before, with the most remarkable effects seen in vulnerable populations such as low-income groups. The analyses conducted are based on timely data representing real-time employment changes and psychological distress during the pandemic.

@@ -1,0 +1,4 @@
+34678504|PMC8526115
+{'Chemical', 'Disease', 'Species', 'Gene'}
+BACKGROUND
+Rapid tests to identify infectious agents can be highly useful since, in principle, they allow decisions to be made at the site of care (Point-of-Care, POC) for treatment selection, or for the separation of cohorts to avoid cross-infection. These situations in which the pre-test probabilities of SARS-CoV-2 infection are very different, lead to different demands (Watson et al., The manufacturer reports a sensitivity of 93.3% (95% CI of 83-98%), and a specificity of 99.4% (95% CI, 95-99.3%) with a detection limit of 1.5 x 101.8 median Tissue Culture Infectious Dose (TCID50)/mL (Abbot 2020).Healthcare personnel at the ER or the triage area, following the manufacturer's instructions, carried out the tests.

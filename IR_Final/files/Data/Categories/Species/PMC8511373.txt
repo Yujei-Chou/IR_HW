@@ -1,0 +1,4 @@
+34405592|PMC8511373
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+With the progression of the novel coronavirus disease 2019 (COVID-19) pandemic, there has been a growing awareness about the long-term impacts of COVID-19 infection, including cardiac, neurological, metabolic, and respiratory long-term sequelae. After 3 and 6 months from acute COVID-19 infection, the most common persistent symptoms were fatigue, concentration difficulties, and amnesia (Supplementary Fig. Long-term sequelae of anosmia and ageusia were associated with age >=50 years (Table 2).To the best of our knowledge, this is one of the largest long-term studies on COVID-19-related sequelae in patients who recovered from COVID-19 in Korea.

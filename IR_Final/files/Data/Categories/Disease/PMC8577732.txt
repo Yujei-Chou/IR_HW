@@ -1,0 +1,3 @@
+34752462|PMC8577732
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Human mobility is crucial to understand the transmission pattern of COVID-19 on spatially embedded geographic networks. Beyond, our numerical results unveil that network characteristics determine the critical thresholds and the bridge locations. In the abstract, I don't understand "The mobility network becomes vulnerable and prone to reach its criticality"Reviewer #2: The authors analyze the large-scale human mobility networks covering the first 6 months during the pandemic of COVID-19.

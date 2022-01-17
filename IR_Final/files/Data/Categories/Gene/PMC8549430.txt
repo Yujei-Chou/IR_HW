@@ -1,0 +1,4 @@
+34705210|PMC8549430
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Graphical abstract
+Monitoring studies of environmental pollution have always been necessary in order to evaluate the impact of air contaminants on human health and the environment. Various studies that evaluate the effects of COVID-19 lockdown on air contamination have already been performed in different parts of the world (Delhi (Srivastava et al.): When comparing amounts of NO2 among 2018 and 2019, in three stations (i.e., Gracia, Vall d'Hebron and Fabra Observatory), the amount of NO2 decreased; in Granollers' station, there were no differences (i.e., 0% of change) among these 2 years; and in four stations (Manlleu, Begur, Bellver de Cerdanya and Juneda), there was an increment in NO2 levels.

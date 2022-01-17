@@ -1,0 +1,3 @@
+34684047|PMC8540274
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The adverse effects of the COVID-19 vaccine have been discovered as the rapid application of the vaccines continues. The adverse events also raise discussions regarding heterologous vaccination, which has been performed in multiple countries. Since the pandemic of COVID-19 developed, COVID-19-related transverse myelitis has been reported and the incidence is about 0.5 case/per million people, which could account for 1.2% of all COVID-19-related neurological complications.

@@ -1,0 +1,3 @@
+34634204|PMC8525701
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+The COVID-19 pandemic, and future pandemics, require diagnostic tools to track disease spread and guide the isolation of (a)symptomatic individuals. Incorporation of alpha,N-acetyl neuraminic acid onto a polymer-stabilized glyconanoparticle platform enabled detection of (purified) spike protein in an LFD (5 mug mL-1) and also detection of a pseudotyped lentivirus presenting the SARS-COV-2 spike protein at 1.5 x 104 transduction units mL-1 in a dipstick test. Some false positives also occurred with larger volumes, therefore 2 muL was chosen as the optimal application volume for experiments from here on.

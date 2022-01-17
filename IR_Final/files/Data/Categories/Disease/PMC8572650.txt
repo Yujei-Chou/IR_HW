@@ -1,0 +1,3 @@
+34743758|PMC8572650
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Rhombencephalitis is an orphan disease of multiple causes that may manifest with facial palsy, limb ataxia and reduced consciousness. This is the first report about an autoimmune rhombencephalitis after Comirnaty vaccination whereas e.g. Guillian-Barre syndrome, which is pathophysiological related, was described quite often after that vaccine. In addition to that, smell and taste disorders are common with COVID-19.

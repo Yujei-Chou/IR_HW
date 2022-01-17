@@ -1,0 +1,4 @@
+33530126|PMC8545498
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Zusammenfassung
+ Das erste Halbjahr 2020 war weltweit gepragt durch das Neuartige Coronavirus (SARS-CoV-2) und die dadurch verursachte Pandemie. Vom ersten nachgewiesenen COVID-19 Fall bis zur Umsetzung des im Osterreichischen Nationalrat beschlossenen sogenannten 1. Operationen, die idealerweise innerhalb von maximal 12 Stunden durchgefuhrt werden sollten, z. B. Protheseninfekte, Handphlegmonen oder die Versorgung von Weichteilverletzungen ohne Notwendigkeit zur Revaskularisierung, wurden als akut gewertet.

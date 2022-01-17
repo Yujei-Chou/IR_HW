@@ -1,0 +1,4 @@
+34767614|PMC8589156
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Coronavirus disease 2019 (COVID-19), an emerging disease caused by a coronavirus, has imposed a substantial health burden worldwide. 3 Aug 2021 PONE-D-21-21070Atypical lymphocytes in the peripheral blood of COVID-19 patients: a prognostic factor for the clinical course of COVID-19.PLOS ONEDear Dr. Sugihara,Thank you for submitting your manuscript to PLOS ONE. Line 147 - 148: The sentence "There were 9 patients with 1% atypical lymphocytes" was repeated, please delete one.

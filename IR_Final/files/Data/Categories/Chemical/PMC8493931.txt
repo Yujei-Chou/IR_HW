@@ -1,0 +1,3 @@
+34630005|PMC8493931
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objectives: To quantify the Black/Hispanic disparity in COVID-19 mortality in the United States (US). In the earliest stage of the COVID-19 pandemic (data collected as of April 2020), a nationwide county-level analysis found that US counties with higher proportions (>=13%) of Black residents had a 1.18-fold higher rate of COVID-19 death (95% CI: 1.00-1.40), adjusting for county-level characteristics such as age, poverty, comorbidities, and epidemic duration. Counties with population sizes ranging from <10,000 to >=3 million reported COVID-19 deaths (Supplementary Table S1); 571 counties did not report any COVID-19 deaths.

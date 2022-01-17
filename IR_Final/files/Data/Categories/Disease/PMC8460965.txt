@@ -1,0 +1,3 @@
+34568549|PMC8460965
+{'Chemical', 'Disease', 'Species'}
+To study the prevalence of severe social anxiety (SSA) among a group of adolescents during the coronavirus disease of 2019 (COVID-19) pandemic. One hundred seventy-eight participants responded to the first 3 questions related to knowledge about COVID-19. On the other hand, Zhou et al, reported a 37.4% prevalence of generalized anxiety disorder among Chinese adolescents during COVID-19 lockdown by using the Generalized Anxiety Disorder scale as a screening tool.

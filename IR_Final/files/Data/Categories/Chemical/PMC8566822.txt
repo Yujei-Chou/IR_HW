@@ -1,0 +1,3 @@
+33142370|PMC8566822
+{'Chemical', 'Disease', 'Species', 'Gene'}
+In late 2019, an outbreak of pneumonia caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) initiated in Wuhan, Hubei province, China. As mentioned before, a high frequency of gastrointestinalrelated symptoms has been observed in COVID-19 patients. Recent data demonstrated that enterocytes are rapidly infected by SARS and SARS-CoV-2 due to the presence of ACE2 and TMPRSS2 on the apical surface of these cells, suggesting a novel physiological site for viral replication and the consequent development of gastrointestinal manifestations, spreading of the virus from the gut to the lung, and transmission of the virus.

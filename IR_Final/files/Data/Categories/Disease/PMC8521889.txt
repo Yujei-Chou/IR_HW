@@ -1,0 +1,3 @@
+34713175|PMC8521889
+{'Disease', 'Species', 'CellLine', 'Gene'}
+The spread of the current Sars-Cov-2 pandemics leads to the development of mutations that are constantly monitored because they could affect the efficacy of vaccines. In a recent paper, we identified a set of haplotypes that bind weakly and strongly to SARS-CoV-2 peptides and assessed their prevalence in specific human subpopulations. Our results allow studying the variations in potential T-cell epitopes due to the variants of concern.

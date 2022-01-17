@@ -1,0 +1,1 @@
+performance,fake,rec,news,acc,pre,proposed,registered,describes,highest,worst,lstm,obtained,cv,testing,validation,dl,using,table,model,introduced,detecting,system,section,source,unreliable,reliable,information,inaccurate,accurate

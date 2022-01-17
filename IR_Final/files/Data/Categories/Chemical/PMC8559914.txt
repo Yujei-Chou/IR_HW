@@ -1,0 +1,4 @@
+34724980|PMC8559914
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Healthcare systems worldwide have called for the increased involvement of lay people, which has led public and patients to become more active in their own health and health care decisions. Pairs of reviewers will extract data and classify the outcomes independently and in duplicate. We will categorize the outcomes according to their importance to patients adopting a previously established hierarchy, which was adjusted to include, but not limited to, relevant outcomes in COVID-19, as follows:Outcomes within the category a) and b) will be considered critically important to patients, and outcomes within the category c) will be regarded as important.

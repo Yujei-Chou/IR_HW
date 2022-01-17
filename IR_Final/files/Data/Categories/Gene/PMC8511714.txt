@@ -1,0 +1,3 @@
+34660516|PMC8511714
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Despite the massive distribution of different vaccines globally, the current pandemic has revealed the crucial need for an efficient treatment against COVID-19. Some meta-analyses did not evaluate or treat substantial heterogeneity (I2 > 75%); others did not include additional analysis for publication bias; none checked for evidence of p-hacking in the primary studies nor used recent methods (i.e., p-curve or p-uniform) to estimate the average population-size effect. As discussed above, one potential bias in meta-analyses is "selection bias," which may lead to inaccurate estimation of effect sizes.

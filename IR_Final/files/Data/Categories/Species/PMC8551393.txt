@@ -1,0 +1,3 @@
+34722697|PMC8551393
+{'Disease', 'Species', 'Gene'}
+COVID-19 has had significant effects on the field of veterinary medicine. Eleven students (46%) remarked that veterinarians are key members of the global public health team and were hopeful that increasing collaborations with veterinarians could positively influence public health and safety, including social determinants of health (Table 1). Thematic analysis of the responses identified many topics that may benefit from further exploration so that veterinarians can prepare for a rapidly changing professional landscape.

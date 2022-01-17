@@ -1,0 +1,4 @@
+34604700|PMC8485269
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Introduction:
+The novel coronavirus disease 2019 (COVID-19) pandemic, caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) continues to spread across the world. Of the 40 identified CpGs showing asthma and sex interaction effects, statistical significance remained at 31 CpGs (~80%) with the same direction of associations as in the model without these covariates (Supplemental Table 5(A)). Our findings have a potential to help explain the disproportionality of COVID-19 between males and females.

@@ -1,0 +1,4 @@
+34787261|PMC8582953
+{'Disease', 'Species', 'Gene'}
+Abstract
+As of the beginning of 2021, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has been responsible for more than 3.5 million deaths and 165 million cases worldwide. Considering the importance of increasing the number of tests to detect SARS-CoV-2 in the population, a suitable alternative is to perform RT-PCR, which uses the pool testing strategy developed by Dorfman  . This study included studies whose outcome variables were determined by the diagnoses reached using the pooling test.

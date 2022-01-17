@@ -1,0 +1,3 @@
+34565928|PMC8450713
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Coronavirus disease (COVID-19), which was first recorded in China in December 2019, quickly spread to other countries and in a short period of time, the local outbreak escalated into a pandemic. To confirm our hypothesis of the possible protective role of genotype II carriers in SARS-CoV-2 infection affecting thus the course of COVID-19 disease, we analyzed the correlation between morbidity and mortality per one million population and the frequency of genotype II of the ACE1 gene. This study also revealed a higher susceptibility to SARS infection-CoV-2 of the population of these countries compared to the population of Asia (Naoki Y. et al.,

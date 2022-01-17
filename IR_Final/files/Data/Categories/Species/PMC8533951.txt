@@ -1,0 +1,3 @@
+34685492|PMC8533951
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+The ability of the ribonucleic acid (RNA) to self-replicate, combined with a unique cocktail of chemical properties, suggested the existence of an RNA world at the origin of life. Over the years, the use of ASO-based drugs able to convert the out-of-frame mutation to in-frame deletions to produce a shorter, but functional, dystrophin protein has been steadily increasing. The use of the human FSTL-1 (Follistatin-related protein 1) modRNA, chemically modified at the level of N-glycosylation sites, was shown to increase the proliferation of neonatal and adult MI cardiomyocytes, without triggering cardiac hypertrophy.

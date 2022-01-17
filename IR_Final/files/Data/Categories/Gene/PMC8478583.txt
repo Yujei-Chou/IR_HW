@@ -1,0 +1,3 @@
+34580083|PMC8478583
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The SARS-CoV-2 COVID-19 pandemic has had an immediate and profound impact on how healthcare systems organise and deliver services and specifically, there is a disproportionate negative impact on Black, Asian and Minority Ethnic groups and other risk factors. This rapid response to a quickly changing clinical landscape during a pandemic has resulted in the process becoming embedded in the learning and sharing strategy within the LMS. The success of the huddles was seen during the second and third waves of the pandemic when maternity services experienced higher acuity and a reduction in staff due to COVID-19 infection and overall lower staff morale.

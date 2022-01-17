@@ -1,0 +1,4 @@
+34652503|PMC8517946
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The clinical manifestations of patients with new coronary pneumonia vary greatly from asymptomatic infection to severe pneumonia that may cause respiratory failure and death. study, male accounted for 95% (18 of 19).We identified 280 hospitalized patients with ischemic stroke associated with COVID-19. When compared with historical stroke controls, patients with COVID-19-related stroke were more likely to have a cryptogenic stroke subtype in Yaghi et al.

@@ -1,0 +1,4 @@
+34588825|PMC8473018
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Purpose
+In light of the Coronavirus Disease 2019 (COVID-19) pandemic, efforts to maintain essential healthcare services are been pursued globally. OHCA demographic variables, response times, CPR providers, initial rhythm, use of AED/Defibrillator, airway interventions, vascular access, use of epinephrine, ROSC data, and dispatch codes were extracted from a central electronic platform of the Saudi Red Crescent Authority (SRCA) by two trained healthcare providers and filled into a separate excel sheet. Collectively, this affected the efficiency and response times to OHCA during the COVID-19 era.

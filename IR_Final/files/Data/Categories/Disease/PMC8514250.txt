@@ -1,0 +1,3 @@
+34655644|PMC8514250
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Following the outbreak of the novel coronavirus in early 2020, to effectively prevent the spread of the disease, major cities across China suspended work and production. This study mainly focuses on analysing the impact of COVID-19 on air pollution. recorded an increase of 11% from pre-COVID to active COVID and a decrease of 20% from active COVID to post-COVID.The correlations among the AQI and other air pollutants in Jiangsu during the three periods are presented in Fig.

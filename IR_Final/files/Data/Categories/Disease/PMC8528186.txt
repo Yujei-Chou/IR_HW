@@ -1,0 +1,3 @@
+34697602|PMC8528186
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The COVID-19 pandemic has deeply impacted all aspects of social, professional, and financial life, with concerns and responses being readily published in online social media worldwide. The topic on 'world health emergency declaration' shows repeated consecutive peaks of a decreasing height for the duration of the study (Fig. The majority of the topics showed a temporal evolution with local maxima (in most cases a single peak) of a duration spanning (in most cases) 1 week, underlining the short-lived character of discussions in Twitter, which reinforces the previous findings on the rather swift temporal evolution of discussions on Twitter.

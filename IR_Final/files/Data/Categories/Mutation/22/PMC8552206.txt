@@ -1,0 +1,3 @@
+34725645|PMC8552206
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+The coronavirus (COVID-19) pandemic is a global health crisis and biggest challenge facing the world. The aim of this study is to explore of association between environment conditions including ambient pollutants PM2.5 and weather variables, population, and COVID-19 incidence/mortality in some regions in the Middle East like Iraq (Baghdad) and Kuwait country and made a comparison for the level of PM2.5 and COVID-19 cases during the total and partial curfew. It's noted that population density has a strong association with total infection cases and mortality from the beginning of the Corona pandemic until the end of a year 2020 which illustrated in Table 2.

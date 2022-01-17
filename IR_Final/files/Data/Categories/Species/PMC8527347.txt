@@ -1,0 +1,4 @@
+34712832|PMC8527347
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Aim of the study
+Coronaviruses that cause human infection were first discovered in the mid-1960s. A total of 118 patients with COVID-19 infection who fulfilled the study's inclusion criteria were included in our study. We noted that elevation of transaminases (ALT, AST) (a marker of hepatocyte inflammation) was more common than increased bilirubin level (a marker of cholangiocyte damage).

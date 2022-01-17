@@ -1,0 +1,4 @@
+34567838|PMC8462930
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+ABSTRACT
+In February 2020 it became clear to epidemiologists that the new SARS-CoV-2 had traveled around the globe, and subsequently on 11 March 2020 the WHO classified COVID-19 as a pandemic (WHO,). Line 1 of Table 2 shows that three tests (test #5, #9, #10) confirm very likely (+LR > 10) the investigated conditions, two additional tests (test #1 and #6) confirm likely (+LR > 3) the investigated condition, and five tests (tests #2, #3, #4, #7, and #8) can neither confirm nor reject the investigated condition because their LRs do not exceed the likelihood indifference zone (LRs between 0.3 and 3). At the individual level, there are recommendations for physicians and genetic counselors on communicating uncertainties to their patients (Medendorp et al.,;

@@ -1,0 +1,3 @@
+34634404|PMC8498926
+{'Chemical', 'Disease', 'Species'}
+Public places favor the transmission of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) due to dense population, large personal mobility, and higher contact opportunities. Specific personnel should also be arranged to remind people to wear masks before entering public places and wash hands after going back home. The employees in congregated public places without adequate ventilation are suggested to be equipped with masks, gloves, and goggles in premise of sufficient supply of personal protective equipment (PEE).According to functions and services provided, public places could be classified as living service places, outdoor places, and confined places.

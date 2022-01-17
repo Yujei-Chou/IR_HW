@@ -1,0 +1,3 @@
+34682749|PMC8541474
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background: There is controversial evidence of the associations of asthma and chronic obstructive pulmonary disease (COPD) with the risk and outcomes of Coronavirus Disease 2019 (COVID-19). In contrast with past and current smokers, the subgroup analyses with non-smokers showed that severe COPD was a significant risk factor for severe COVID-19 (OR = 2.46, 95% CI = 1.06-5.70, p = 0.037) (Table S2).In the mortality analyses, 132 patients (3.4% of the total COVID-19 patients) died. Most of the comparative studies used a test-negative design to assess the risk of asthmatic patients acquiring COVID-19.

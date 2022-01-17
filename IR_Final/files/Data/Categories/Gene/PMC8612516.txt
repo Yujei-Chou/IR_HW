@@ -1,0 +1,4 @@
+34818346|PMC8612516
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Since the declaration of the global COVID-19 pandemic in March 2020 by the World Health Organization and since measures of social isolation have been in place in many countries, including Canada, dreams have been a hot topic of conversation. A separate ANOVA revealed that sleep duration decreased significantly as stress levels increased, and the frequency of all three dream recall variables increased as stress increased (Table 2).Weekly dream recall: Tukey post-hoc comparisons revealed significant differences between low and severe stress groups (mean difference = .762; p = .003), and medium and severe stress groups (mean difference = .579; p = .038). Please upload your review as an attachment if it exceeds 20,000 characters)Reviewer #1: This is a very well structured and written manuscript on a theme that has already drawn a considerable research attention.

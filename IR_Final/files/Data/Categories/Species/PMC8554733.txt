@@ -1,0 +1,4 @@
+34714493|PMC8554733
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objective
+Coronavirus disease 2019 (COVID-19) was first identified in patients complaining of acute respiratory symptoms in Wuhan, China, in December 2019. A retrospective multi-centre cohort study of approximately 3000 patients reported that myocardial injury was often mild and common among patients hospitalised with COVID-19 and was associated with a low-level elevation in troponin concentration. Our results demonstrated that cardiac involvement was prevalent in patients with home-based recovery from COVID-19.

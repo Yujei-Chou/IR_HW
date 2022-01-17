@@ -1,0 +1,4 @@
+34515247|PMC8450833
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+At the end of December 2019, an anomalous cluster of pneumonia was identified in China. have recently found that pathological LUS findings are associated with the need for noninvasive mechanic ventilation and clinical deterioration in terms of risk of loss of aeration in anterior lung segments, for a total LUS score >18, that was the optimal cutoff point compared to a lower LUS score ranging between 0 and 18. who found that a cutoff of 20 significantly predicted adverse events such as endotracheal intubation and adverse outcomes.

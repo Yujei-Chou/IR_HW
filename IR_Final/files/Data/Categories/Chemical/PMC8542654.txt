@@ -1,0 +1,4 @@
+34694554|PMC8542654
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Graphical abstract
+To slow the dissemination of coronavirus disease 2019 (COVID-19), numerous countries worldwide have adopted restriction measures that severely limited personal mobility, leading to reductions in overall economic activity (Chinazzi et al.). It is interesting to note that even in a medium-sized city, with approximately 200 thousand inhabitants, the behavior presented by ozone is characteristic of a NOx-controlled regime (Tavella et al.), This situation meant that the studies performed in these countries during this period were in winter, a season recognized for presenting the highest levels of NOx (Gaubert et al.),

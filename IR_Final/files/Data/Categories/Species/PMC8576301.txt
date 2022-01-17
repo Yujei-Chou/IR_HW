@@ -1,0 +1,4 @@
+34751370|PMC8576301
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+The first confirmed SARS-CoV-2 infection in Europe was reported in France on the 24 January 2020. With respect to hospital occupancy the TPR is a better predictor for the analysis including only the period after the introduction of ECDC's weekly monitoring maps, while despite both indicators having similar peak values for pseudo-R2 in the full analysis, the TPR is considered a preferable indicator in practical terms as it provides an additional week of forewarning, correlating best with a lag of 2 weeks as opposed to a lag of 1 week for the IR. Such an approach is supported by an analysis of data from 16 European countries which showed a strong correlation between the number of fatalities from COVID-19 (both total and per million inhabitants) and the days elapsed between the first reported case and the institution of lockdown measures (R2 of 0.722 and 0.590, respectively).

@@ -1,0 +1,4 @@
+34616188|PMC8487855
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Purpose
+COVID-19 is an infectious disease caused by the novel coronavirus SARS-CoV-2. Ribavirin on the other hand has been shown to have direct antiviral activity in vitro against the SARS virus and any strain variants that may emerge. Although with limited data having no statistically significant findings, clinical superiority of 7.4% could be observed in the severe category of COVID-19 by HCQ+ribavirin antiviral combination therapy and the standard therapy is more effective in the non-severe category by 6.6%.

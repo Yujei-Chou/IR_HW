@@ -1,0 +1,3 @@
+34683344|PMC8537776
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+The devastating nosocomial resistance is an on-going global concern. One of the major two issues identified was the current variation in surveillance definitions of hospital-associated infections. Significant resistances and increasing intermediate resistances were seen in the case of the antibiotics of choice, including carbapenems: meropenem (MRP, 17.4%), piperacillin/ tazobactam (TZP, 10.9%), cefoxitin (FOX, 20%), ertapenem (ETP, 30.4%), amikacin (AK, 34.8%), and cefepime (FEP, 56.5%).All the rest of the Gram-negative bacterial isolates (71 isolates) was included in this category due to low, non-significant rates of reporting.

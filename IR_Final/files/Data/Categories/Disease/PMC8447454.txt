@@ -1,0 +1,4 @@
+34159648|PMC8447454
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+Since the outbreak of the pandemic caused by the novel severe acute respiratory syndrome coronavirus type 2 (SARS-CoV-2), Italy was one of the earliest and most affected countries. Among them, four patients were hospitalized for COVID-19 pneumonia documented by radiological exams (X-ray and chest computed tomography-scan). Conversely, the outcome of COVID-19 was comparable in terms of both hospitalization rate (57% vs 50%, P = 0.71) and CFR (29% vs 18%, P = 0.56).The data about COVID-19-related referred symptoms were compared with a second cohort of 565 IBD patients treated with non-biologic conventional therapies (Table 4).

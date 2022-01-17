@@ -1,0 +1,4 @@
+34703640|PMC8521129
+{'Disease', 'Species', 'Gene'}
+Objective
+Coronavirus disease 2019 (COVID-19) is a respiratory illness caused by infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), first identified in December 2019 in Hubei Province, China. For epidemiological weeks 4-9 (weeks ending on Saturdays), we collected daily reported data on newly reported cases and total contacts traced and placed under medical observation. For example, Anhui Province reported 60 cases and 1023 contacts traced during epidemiological week 4 (17.1 contacts traced per case) and 1 case and 915 reported contacts traced during epidemiological week 9 (915 contacts traced per case).With other NPIs used in China, contact tracing and quarantining of a large number of potentially infected contacts probably contributed to reducing SARS-CoV-2 transmission.

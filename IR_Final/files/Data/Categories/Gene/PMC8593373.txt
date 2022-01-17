@@ -1,0 +1,4 @@
+34649630|PMC8593373
+{'Disease', 'Species', 'Gene'}
+Objective:
+The coronavirus disease (COVID-19) outbreak posed severe challenges to the health care systems of the countries worldwide. Table 1 shows descriptive data on weekly COVID-19 ICU admissions and the number of deaths from the beginning of the outbreak to April 21. Conversely, in line with Italian data, Lombardia data showed that the daily increase in the ICU admissions resulted in a significant increase in the daily variation of the number of deaths, especially after 7 and 14 days.

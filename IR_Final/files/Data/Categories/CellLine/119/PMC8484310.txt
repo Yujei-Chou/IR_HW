@@ -1,0 +1,3 @@
+34604272|PMC8484310
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Nowadays, despite enormous scientific advances, viral diseases remain the leading cause of morbidity worldwide, and their potential to spread is escalating, eventually turning into pandemics. Similarly, a recent work on vitamin B12 (cobalamin) suggested that an intake of methylcobalamin possesses the ability to lower the risk of COVID-19-associated organ failure. Further, a few studies on milk proteins and peptides have demonstrated synergy with drugs such as acyclovir, ribavirin, and zidovudine, against HSV, human HCV, and HIV 1, respectively, by reducing drug dosage, preventing the development of drug-resistant viruses, and selective targeting.

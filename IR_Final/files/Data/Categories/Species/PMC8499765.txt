@@ -1,0 +1,3 @@
+34426824|PMC8499765
+{'Disease', 'Species'}
+Real-time polymerase chain reaction (RT-PCR) is used to rule out SARS-CoV-2 prior to surgery, however few studies have evaluated patients with negative testing after surgery. The COVIDSurg Collaborative study reported a 30-day postoperative COVID-19 incidence of 0.5 per cent. A. Dias, South Infirmary Victoria University Hospital, Cork.

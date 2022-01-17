@@ -1,0 +1,4 @@
+34728285|PMC8556686
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Increasing evidence suggests healthcare workers (HCWs) working in emergency situations are frequently exposed to potentially traumatic events, which are risk factors for Posttraumatic stress disorder (PTSD), anxiety disorders, and depression. The WSAS score was higher in EDs than in ICUs and in other Medical/Surgical Units (16.56+-10.43 vs 9.77+-9.52, p<.001; 16.56+-10.43 vs 12.22+-10.38, p<.001, respectively), beside in Medical/Surgical Units than in ICUs (12.22+-10.38 vs 9.77+-9.52, p<.001). Further, we conducted a linear regression model (r2=.505, r2 corrected=.493) with the age, gender, regional level of exposure to the outbreaks, work setting, professional role and IES-R, GAD-7, PHQ-9 total scores as independent variables and the WSAS scores as the dependent variable, to examine the strongest predictors of work and social functioning impairment.

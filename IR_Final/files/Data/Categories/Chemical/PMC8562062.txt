@@ -1,0 +1,4 @@
+34754507|PMC8562062
+{'Chemical', 'Disease', 'Species'}
+Abstract
+Since the outbreak of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in late 2019, more than 130 million people have been diagnosed and 2.8 million individuals have died as of this writing. As shown in (Figure 1c), the 3D-printed swabs appear similar to pre-sterilized swabs and remain physically intact and flexible ( 90  bend).Next, we quantified the mechanical properties of the 3D-printed swabs via tensile and flexural testing before and after sterilization, and compared the properties to the commercial COPAN 2 swabs (product details in Section 4). The 3D-printed swab shaft was further characterized by tensile tests before and after sterilization.

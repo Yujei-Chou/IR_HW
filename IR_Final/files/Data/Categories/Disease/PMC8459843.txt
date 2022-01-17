@@ -1,0 +1,4 @@
+34667791|PMC8459843
+{'Disease', 'Species', 'Gene'}
+BACKGROUND:
+The coronavirus disease 2019 (COVID-19) pandemic has significantly impacted educational systems the world over. For face validity, the relevance, clarity, and simplicity of each item were evaluated, and values >0.79 were accepted. The first domain covered the quality and content of virtual education for cardiology residents, the second domain enquired about hours/days in the week allocated to virtual education and also the facilities required for e-learning, the third domain investigated the practicality of learning for respondents, and the fourth domain determined residents' eagerness to do research activity.

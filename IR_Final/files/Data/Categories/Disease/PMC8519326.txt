@@ -1,0 +1,3 @@
+34655035|PMC8519326
+{'Chemical', 'Disease', 'Species'}
+The COVID pandemic was an acute test of public health capacities worldwide. This approach is characterized by the ambition to balance, on the one hand, the number of coronavirus infections, hospitalizations, and deaths and, on the other hand, the economic and social disruptions caused by strict infection control measures such as lockdowns (Oliu-Barton et al.,). And more generally, it caused the discipline to renege on most of its principles.

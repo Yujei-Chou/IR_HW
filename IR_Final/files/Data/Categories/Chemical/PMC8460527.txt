@@ -1,0 +1,4 @@
+34551944|PMC8460527
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objective
+This study established a novel emergency nursing training protocol for improving the response capacity of emergency reserve nurses confronting an infectious disease epidemic or even pandemic. The scores of knowledge and skills regarding disaster in the intervention group were significantly higher than those in the control group (p<0.001, table 2), while the scores of postdisaster management showed no statistical significance between two groups (p>0.05, table 2).There was no significant difference observed in the scores of theoretical and skill assessments or the capacity of emergency care between the two groups before intervention (p>0.05, table 3). Different from the conventional training, this virtual reality simulation training provided a simulated scene of the isolation ward.

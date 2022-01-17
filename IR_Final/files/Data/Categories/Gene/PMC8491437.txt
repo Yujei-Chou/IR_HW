@@ -1,0 +1,3 @@
+34632242|PMC8491437
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+COVID-19 pandemic caused by the severe acute respiratory syndrome coronavirus type 2 (SARS-CoV-2) has become the world's largest public health emergency of the past few decades. The G-quadruplex-based biosensor can be used as a potential tool to detect SARS-CoV-2. reported a multiplex solid-phase chemiluminescence method for simultaneous detection of IgG binding to four SARS-CoV-2 antigens (including SARS-CoV-2 trimer spike, RBD, spike N-terminal domain, and nucleocapsid antigen), quantitative antibody-induced inhibition of ACE2 binding, and evaluation of the function of antispike antibody.

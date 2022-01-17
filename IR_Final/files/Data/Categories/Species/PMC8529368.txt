@@ -1,0 +1,4 @@
+34674636|PMC8529368
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Experts, policy makers and researchers worldwide are scrambling to keep up with the influx of potentially relevant COVID-19 studies. When evaluating on the data set aside for testing we would end up with a vector of values between 0.0 and 1.0. We wanted to investigate if it was possible to use machine learning, specifically deep learning-based neural network models, to replicate a coding and classification scheme applied by expert coders over a perid of several weeks to COVID-19-related publications.

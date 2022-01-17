@@ -1,0 +1,3 @@
+34707636|PMC8543005
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Host genetic variants can determine their susceptibility to COVID-19 infection and severity as noted in a recent Genome-wide Association Study (GWAS). We utilized the top 100 most significantly associated single-nucleotide polymorphisms (SNPs) from a GWAS by Pairo-Castineira et al. Based on the PRS for each district, the susceptible population, i.e., the number of individuals in a population at risk for developing severe illness when infected with SARS-CoV-2 was also evaluated (Supplementary Table S1).To determine the relationship between these PRSs and COVID-19 mortality, generalized linear regression analysis was performed.

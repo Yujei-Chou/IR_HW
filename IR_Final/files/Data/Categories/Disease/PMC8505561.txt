@@ -1,0 +1,3 @@
+34635661|PMC8505561
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Fuelled by epidemiological studies of SARS-CoV-2, contact tracing by mobile phones has been put to use in many countries. To investigate whether Smittestopp captured movement patterns in the society, we examined the number of contacts and risky contacts over time (see Fig. We have  xcx = 1, and in a situation with 100% app uptake in the population, E would be the total efficacy of the system in detecting contacts.

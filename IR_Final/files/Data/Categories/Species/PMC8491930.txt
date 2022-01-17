@@ -1,0 +1,4 @@
+34688528|PMC8491930
+{'Chemical', 'Disease', 'Species'}
+Purpose
+Children under the age of 15 constitute 6.4% of all SARS-CoV-2 cases recorded in Turkey. According to the descriptive characteristics of the students participating in the study, the mean scores of mask-wearing behavior and hand hygiene behavior were compared. In terms of the characteristics of students included in the study regarding handwashing behavior, it was determined that 79% of the students always washed their hands before and after eating, 96.5% always washed their hands after the toilet, and 72.8% always washed their hands after waking up in the morning (Table 3).

@@ -1,0 +1,3 @@
+34676123|PMC8526266
+{'Disease', 'Species', 'Gene'}
+Vaccinations are the most important intervention for controlling the ongoing coronavirus disease (COVID-19) pandemic, caused by the SARS-CoV-2 virus. This is the first case report in which BNT162b2 vaccination during pregnancy yielded a persistent immune response in an infant at 6 months of age. Based on these findings, extensive research is required to determine whether pregnant women require booster vaccinations, as significantly high titers of anti-SARS-CoV-2 S antibodies can be passed to their infants, which could protect them against COVID-19 and its complications at birth and early infancy.

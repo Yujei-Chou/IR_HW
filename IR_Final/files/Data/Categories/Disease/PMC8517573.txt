@@ -1,0 +1,3 @@
+34610380|PMC8517573
+{'Disease', 'Species'}
+Dear Dr Dermatoethicist: The resurgence of highly transmissible strains of COVID-19, increased numbers of breakthrough infections, and the unwillingness of certain patients to be vaccinated have concerned me about potential transmission to myself, my staff, and my patients. Is it ethical to refuse dermatologic care based on vaccination status? Although concerns about becoming infected while providing care to the unvaccinated are understandable, the obligation of dermatologists to treat patients with medical needs regardless of vaccination status is inherent in this honorable profession.

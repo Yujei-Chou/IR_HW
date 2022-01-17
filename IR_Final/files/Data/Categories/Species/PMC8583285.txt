@@ -1,0 +1,3 @@
+34770081|PMC8583285
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The ongoing outbreak of the coronavirus disease 2019 (COVID-19) pandemic has drastically affected medical societies. Similarly, high anxiety levels were detected in Turkish ophthalmologists in a cross-sectional study conducted by Kavadarli et al.. Similarly, most of the responders from Cairo hospitals had a higher level of anxiety related to the pandemic after grading their psychological concerns. The positive perception and usefulness in enhancing the theoretical knowledge and practical skills from webinars was also confirmed in another survey study among Indian ophthalmology residents conducted by Mishra et al.

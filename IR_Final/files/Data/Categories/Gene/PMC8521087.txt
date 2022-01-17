@@ -1,0 +1,3 @@
+34671353|PMC8521087
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a major public health issue. In the immune infiltration phenotype 2, most of the infiltrated cells corresponded to PMN and monocytes as well as plasma cells supporting a strong cellular and immune response ( Figure 4A , *p <= 0.00021 compared to lung carcinoma tissues, #p <= 0.0002 compared to the enhanced coagulation phenotype 1, n=4 different individuals with 15-20 serial sections). Our data identified three types of lung damage and associated inflammation that underscore the variable nature of COVID-19.

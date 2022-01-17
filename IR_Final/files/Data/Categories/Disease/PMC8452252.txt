@@ -1,0 +1,4 @@
+34402477|PMC8452252
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Purpose of review
+Coronavirus disease 19 (COVID-19) has presented numerous challenges to healthcare systems worldwide. Five operating room air exchanges should eliminate the aerosolized matter, although complete elimination cannot be guaranteed. Adequate training and experience is a logical prerequisite for the successful use of reliable and efficient surgical regional anesthesia in COVID-19 patients.

@@ -1,0 +1,4 @@
+34760661|PMC8547677
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background:
+Health-care workers (HCWs) are endowed with clinical responsibilities of performing various aerosol-generating procedures such as endotracheal intubation (ETI), insertion of a supraglottic airway device, cardiopulmonary resuscitation, and bronchoscopy. However, while using the COVID-19 barrier box in suspected/proven COVID-19 patients, it must be ensured that the intubation time (IT) does not increase and first-pass success rate is not compromised. The ease of intubation was comparable between the groups (P = 0.41).

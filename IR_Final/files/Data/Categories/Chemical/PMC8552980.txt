@@ -1,0 +1,4 @@
+34711231|PMC8552980
+{'Chemical', 'Disease'}
+Background
+The World Health Organization (WHO) declared the COVID-19 pandemic on March 11, 2020; more than 110,000 cases and more than 4000 deaths had been reported in more than 110 countries. The pandemic brought about uncertainty and difficulties to make accurate forecasts" (Int 3)."The stock of PPE-like products in the warehouse has tripled when compared to one year before COVID-19 and now. In this respect, all but one respondent stated that Spain should reach strategic autonomy in terms of medical devices, including PPE-like devices.

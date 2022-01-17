@@ -1,0 +1,4 @@
+34803412|PMC8594886
+{'Chemical', 'Disease', 'Species'}
+Introduction
+Globally, herbal medicines use has been reported as a common practice both in the prevention and treatment of diseases. Of those that had used herbal medicines in the past 12 months, 35 (85.4%) had used before a diagnosis of COVID-19, and 15 (36.6%) continued to use even while on treatment for COVID-19 (Figure 1). Table 2 summarizes the use of herbal medicine by the participants.

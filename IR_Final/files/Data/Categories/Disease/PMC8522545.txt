@@ -1,0 +1,4 @@
+34663279|PMC8522545
+{'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+Since the outbreak of Coronavirus Disease 2019 (COVID-19) in late 2019, it rapidly evolved and became a pandemic. It was projected that complete border closure would result in meaningful reduction of cumulative cases (4079 cases at R0 of 2.2), mortality (57 deaths at 1.4% in-patient mortality) and a delay in isolation facility overload in Hong Kong. Furthermore, aggressive and efficient public health measures to reduce local R0 is necessary.

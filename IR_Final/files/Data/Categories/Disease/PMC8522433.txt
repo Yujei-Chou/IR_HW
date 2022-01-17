@@ -1,0 +1,3 @@
+34688565|PMC8522433
+{'Chemical', 'Disease', 'Species'}
+In 2019, the World Health Organization listed vaccine hesitancy, defined as the reluctance or refusal to vaccinate against preventable infectious diseases, as one of the top ten threats to global health. To address hesitancy, we must focus our attention on building vaccine confidence, trust in the vaccine itself, in providers who administer vaccines, and in the process that leads to vaccine licensure and the recommended vaccination schedule. Building confidence requires a collective effort from all health care providers who engage with patients and communities.

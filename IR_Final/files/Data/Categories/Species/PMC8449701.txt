@@ -1,0 +1,3 @@
+34537937|PMC8449701
+{'Chemical', 'Disease', 'Species'}
+We examine the oil-stock nexus in 24 countries amidst the COVID-19 pandemic and test for threshold effects on oil prices using Hansen panel dynamic threshold model and recent extensions of Kremer et al. The finding shows that stock returns decline as cases of COVID-19 increase. Therefore, we can infer that the threshold effects of cases on stock returns is statistically significant and we can interpret it to be that for a unit increase in the number of cases, stock returns deteriorate by almost 57% during the turbulent period of the crisis, while for a unit increase in the number of cases, stock returns deteriorate as low as 0.44% during the calm period of the crisis.

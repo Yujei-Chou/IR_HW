@@ -1,0 +1,4 @@
+34817840|PMC8611245
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Introduction
+Severe acute respiratory syndrome caused by the novel coronavirus SARS-CoV2 has been responsible for an unprecedented world pandemic starting in Wuhan, China, in January 2020. No significant association with CW/ICU admission and the time until CCP therapy, chronic illness and IL-6 level was observed. Considering the relative paucity of information on inflammatory cytokine levels in CCP-treated COVID-19-patients, in a subgroup of our cohort, we included baseline and follow-up measurements of critical cytokine levels such as IL-6, IL-8, TNF-alpha and IL-1-beta.

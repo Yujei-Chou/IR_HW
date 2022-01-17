@@ -1,0 +1,3 @@
+34664008|PMC8514419
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Testing is a crucial control mechanism in the beginning phase of an epidemic when the vaccines are not yet available. 5) and , where  is from March 10 to May 12.Based on the above data imputations, we obtain the number of tests performed per day , which corresponds to the control input , and the number of positive tests obtained per day , which corresponds to the model output  in (7), for the complete time interval January 24 to July 01, 2020.The input  to the model corresponds to the number of tests performed per day . Then, we predict the number of active ICU cases  and the cumulative number of deaths when the COST is applied instead of actual number of tests, as illustrated in Fig.

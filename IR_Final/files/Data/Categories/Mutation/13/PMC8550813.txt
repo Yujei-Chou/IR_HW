@@ -1,0 +1,4 @@
+34706766|PMC8550813
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+Background
+Over a year into the SARS-CoV-2 pandemic, whole-genome sequencing combined with phylogenetic analysis has emerged as an essential tool to track the local and global spread and evolution of the virus. We found that mutation D614G in the Spike protein (genome position A23403G) was present in all ten of the most successful introduction events into Quebec (Additional file 1: Figure S9) and generally dominated our sampled sequences (Fig. This negative correlation was also observed using alternative ASR methods (Additional file 1: Figure S10).

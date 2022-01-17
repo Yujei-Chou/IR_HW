@@ -1,0 +1,3 @@
+34720423|PMC8545769
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Among the many repercussions of the COVID-19 emergency to be assessed, those on critical infrastructures and the associated businesses and professions are certainly important ones. As a complement, we queried the participants on their expected back-to-normal recovery time, via Q19 ("19. In a non-negligible number of cases, the range of initiatives expanded considerably, including for instance the appointment of emergency/pandemic coordinators (e.g. task force) (39.83%), the support to the well-being of personnel (e.g. leave policies, health insurances) (38.14%), health checks/immunity passports (27.97%) and workforce training initiatives (27.12%).

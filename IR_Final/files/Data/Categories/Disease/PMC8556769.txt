@@ -1,0 +1,4 @@
+34717597|PMC8556769
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Existing frameworks comprehensively track adaptation characteristics yet lack end-to-end tracking of the adaptation process and inclusion of frontline implementers. Adaptations were made to ensure safety and appropriateness for the population on the receiving end of PPE Portraits. Like most interventions, unique alterations and innovations to PPE Portraits occurred at each new setting, reportedly enhancing implementation, staff uptake, and long-term sustainability.

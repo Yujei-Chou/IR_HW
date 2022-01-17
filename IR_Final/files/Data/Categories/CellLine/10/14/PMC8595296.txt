@@ -1,0 +1,4 @@
+34785588|PMC8595296
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+Since the beginning of the COVID-19 pandemic, the National Health Service (NHS) has recommended putting measures in place to reduce face-to-face contact with patients where possible to reduce the risk of transmission. During June-August 2020, apixaban had increased to 40.3%, with edoxaban dropping to 33.4% (table 3).The initiation of repeat prescriptions for DOACs to new patients increased ~1.5-fold during March and April 2020 and subsequently dropped slightly below normal levels (figure 2). We observed increased switching of anticoagulants from warfarin to DOACs at the outset of the COVID-19 pandemic in England.

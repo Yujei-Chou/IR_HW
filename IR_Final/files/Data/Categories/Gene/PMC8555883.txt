@@ -1,0 +1,3 @@
+34475334|PMC8555883
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Supplemental Digital Content is available in the text. The other four patients (14%) died after a median duration of 80 days (range, 22-190 days) from time of COVID-19 diagnosis: two were found unresponsive at home, one from respiratory failure, and one as a result of multisystem organ failure. Three (50%) patients received their LVAD during their index hospitalization for COVID-19 infection.

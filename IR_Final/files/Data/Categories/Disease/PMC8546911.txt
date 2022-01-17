@@ -1,0 +1,3 @@
+34720328|PMC8546911
+{'Chemical', 'Disease', 'Species'}
+We estimate effects of the COVID-19 pandemic on self-reported school enrollment using a sample of 16-to-18-year-old youth from the January 2010 to the December 2020 Current Population Survey (CPS). Using the unrestricted sample, we also find that the likelihood of having a high school diploma was elevated during the pandemic, and that employment was almost 10 percentage points lower in April 2020 relative to the same month in prior years, with a steady return to a slightly lower-than-usual employment level by the fall of 2020 (results available upon request). In columns 6-7, the findings highlight differences in the effects of the pandemic on school enrollment by household education levels.

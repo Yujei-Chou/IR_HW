@@ -1,0 +1,4 @@
+34551956|PMC8460523
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objectives
+This is the first study to employ a detailed and comprehensive qualitative approach to compare the impact of the COVID-19 pandemic on factors influencing the professional socialisation of junior doctors entering clinical practice across two international locations. The results are discussed in the context of Cruess' conceptual framework of junior doctors' professional socialisation. Among Brazilian interviewees, these challenges were worsened by the reorganisation of hospital services in response to COVID-19, leading to a reduction in time available with, and clinical supervision from, senior colleagues (C6).

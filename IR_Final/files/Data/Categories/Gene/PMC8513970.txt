@@ -1,0 +1,4 @@
+34728982|PMC8513970
+{'Chemical', 'Disease', 'Species', 'Gene'}
+To the Editor,
+To the Editor,Coronaviruses are community-acquired, zoonotic viruses that transmitted from animal to human. SARS-CoV, another betacoronavirus, has also been shown to cause neuronal ischemia and edema in the cortex and hypothalamus as a result of direct viral infiltration. Neural cell death is usually a result of epilepsy, however it can also be a triggering factor for seizures.

@@ -1,0 +1,4 @@
+34546368|PMC8456386
+{'Disease', 'Species', 'Gene'}
+Key Points
+COVID-19 is caused by SARS-CoV-2. Moreover, a UK study regarding endoscopic activity and cancer detection during the COVID-19 pandemic revealed a decrease of 12% (vs pre-COVID-19 levels) in endoscopic activity and a decrease of 58% in weekly cancer diagnoses, with specific reductions of 19% for pancreatobiliary cancers, 37% for esophageal cancers, 52% for gastric cancers, and 72% for colorectal cancers. This may explain the lack of a significant change overall or according to stage among patients with biliary tract cancer.

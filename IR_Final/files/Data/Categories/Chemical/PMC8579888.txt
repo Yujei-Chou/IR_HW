@@ -1,0 +1,4 @@
+33958544|PMC8579888
+{'Chemical', 'Disease', 'Species', 'Gene'}
+ABSTRACT
+SARS-CoV-2 infects the host cells via the transmembrane angiotensin-converting enzyme 2 (ACE2) receptor, expressed in various cells and tissues, including vascular endothelial cells. We found no differences in room temperature or in forearm skin temperature on investigated arm between patients and controls on study day 1 to 3, respectively (data not shown).Delta values in ACh-mediated (endothelial-dependent) vasodilation was significantly reduced in the patients (survivors and non-survivors combined) on study day 1 and 2 (7 [3-23] and 22 [9-29] PU, respectively), compared to controls (38 [30-47] PU, P < 0.05 for both), equivalent to a reduction of vasodilatory capacity by 81% and 43% in COVID patients on study day 1 and 2, respectively. Compared to controls, the patients had an increased basal skin perfusion during the acute disease phase (study day 1).

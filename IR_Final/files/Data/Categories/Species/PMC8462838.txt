@@ -1,0 +1,4 @@
+34567444|PMC8462838
+{'Chemical', 'Disease', 'Species', 'Gene'}
+ABSTRACT
+The first case of the coronavirus disease-19 (COVID-19) pandemic was documented in the city of Wuhan, Hubei province, China in December 2019, following which an additional 24.7 million cases inclusive of 830,000 deaths have been reported globally by the World Health Organization (WHO) till August 2020. This study excluded those patients who were managed in isolation wards and discharged without experiencing any severe course of the disease. A couple of studies documented the severity markers after using tocilizumab on severely affected patients showed peak CRP levels of 74.3 mg/L declining to 38.6 mg/L after 3 days of therapy, with no significant difference among survivors and non-survivors.

@@ -1,0 +1,4 @@
+34746039|PMC8557260
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Purposes
+The widespread of novel virus disease that described as Coronaviruses (COVID-19) found alarming and harmed to persons with diabetes. found tall prevalence of emotional distress and depression among persons with diabetes during the COVID-19. Table 3 presented results of study hypothesis that states spiritual intelligence and mindfulness have no significant moderating role on indirect relationship between depression and mental well-being occur through emotional dysregulation among persons with diabetes during covid-19 pandemic.

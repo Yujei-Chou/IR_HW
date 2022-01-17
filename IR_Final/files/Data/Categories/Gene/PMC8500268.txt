@@ -1,0 +1,4 @@
+34625912|PMC8500268
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Purpose
+Coronavirus disease 2019 (COVID-19) resulting from infection with severe acute respiratory syndrome coronavirus type 2 (SARS-CoV-2), first described in Wuhan, China, in late 2019, has become a global pandemic. summarize that there is currently insufficient evidence to support the widespread use of empiric ABT in hospitalized COVID-19 patients. The missingness analysis of patients in the CO-phase showed significant differences between patients with and without missing data of ABT and PCT with respect to progression into the CR-phase (p < 0.001) but not for age, gender, ABT, CCI strata, BMI, and baseline qSOFA (p > 0.05, see Table 6 in the Appendix).In the UC-phase PCT  subgroup, 38.1% (399/1045) of patients received ABT, and 61.9% (646/1045) did not.

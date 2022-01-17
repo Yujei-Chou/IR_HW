@@ -1,0 +1,4 @@
+34583055|PMC8464081
+{'Chemical', 'Disease', 'Species', 'Gene'}
+OBJECTIVE
+Hypertensive disorders of pregnancy (HDP) affect up to 5-10% of pregnancies and represent a leading cause of maternal and neonatal morbidity and mortality worldwide. Multivariable analyses were conducted using logistic regression models to adjust for statistically significant potential confounders. This is in contrast to the results from a recent review of the literature including 790,954 pregnant women showed that the risk of PEC was significantly higher among 15,524 pregnant women with SARS-CoV-2 infection as compared to those without (7.0% vs 4.8%; OR 1.62, 95% CI 1.45-1.82; 26 studies), as was the risk of PEC with severe features (6.9% vs. 4.9%; OR 1.76, 95% CI 1.18-2.63; 7 studies, 11,019 women).

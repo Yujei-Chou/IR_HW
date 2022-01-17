@@ -1,0 +1,3 @@
+34690497|PMC8519738
+{'Disease', 'Species'}
+Testing strategies and early implementation of multiple restriction measures appear to cost effective in preventing the spread of COVID-19 infections, according to findings of a systematic review published in Value in Health. Eight studies used a healthcare payer perspective and five used a societal perspective, and reported time horizons ranged from 43 days to a lifetime. The optimal combination of strategies was dependent on the reproduction number of the COVID-19 infection; with a rising reproduction number, the most cost-efficient strategies were extensive testing and early implementation of a multiple restriction measures.

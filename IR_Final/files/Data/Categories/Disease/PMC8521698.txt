@@ -1,0 +1,4 @@
+34214009|PMC8521698
+{'Chemical', 'Disease', 'Species', 'Gene'}
+To the Editor:
+To the Editor:A great debate has started as to whether acute respiratory failure (ARF) induced by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection (coronavirus disease [COVID-19]) should be classified as a classic form of acute respiratory distress syndrome (ARDS) or a subtype of lung injury with different pathophysiological characteristics and mechanisms of progression. ANOVA was used to test as an interaction for whether the change in physiological variables 2 hours after NIV was different between groups. However, the inspiratory effort of patients with COVID-19 was lower than in non-COVID-19 patients, thus suggesting a mismatch between lung mechanics and hypoxia, at variance with the typical form of ARDS.

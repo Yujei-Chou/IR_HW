@@ -1,0 +1,3 @@
+34721195|PMC8548456
+{'Disease', 'Species', 'Gene'}
+As a result of the COVID-19 pandemic, online methodologies for developmental research have become an essential norm. The live experimenter would pause the video playback until the child had pointed and would repeat the instructions if needed. Although this proportion was not significantly different from children's performance in Experiment 1 (p=0.213, two-tailed binomial), it was also not significantly different from chance (p=0.126, two-tailed binomial).Post hoc analysis was conducted to see whether this non-replication might be due to age-related differences in online performance.

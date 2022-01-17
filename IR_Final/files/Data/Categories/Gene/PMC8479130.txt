@@ -1,0 +1,3 @@
+34584143|PMC8479130
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Global health organizations recommend the use of cloth face coverings to slow the spread of COVID-19. For example, Mask 2 has a relatively low metal loading (0.236 +- 0.003 mgAg/mask + 1.29 +- 0.04 mgCu/mask), yet the silver appears to leach almost entirely after just one wash/rinse cycle, and extensively in both water and Saliva A. (No silver was detected in the 10th wash cycle solution as the silver was completely removed by the first wash cycle.) Fusayama artificial saliva solution (denoted saliva F; pH = 5) and Anfor saliva solution (denoted saliva A; pH = 6.7) were used as a simulated leaching fluid for as-received masks.

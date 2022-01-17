@@ -1,0 +1,4 @@
+34670719|PMC8498649
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Dear Editor,
+Dear Editor,Infection by the novel coronavirus (SARS-CoV-2) initially detected in 2019 in Wuhan, China, is the causative agent of the coronavirus disease 2019 (COVID-19), currently responsible of a global pandemic with significant repercussions in Spain. We present the case of a preterm neonate born to a mother positive for COVID-19 that came to the emergency department after going into labour at 29 + 6 weeks of gestation. There was no evidence of seroconversion at 4 weeks post birth (Table 1).During delivery, the mother wore a FFP2 mask.

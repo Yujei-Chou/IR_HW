@@ -1,0 +1,3 @@
+34682656|PMC8535291
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The effectiveness of public health measures in containing an infectious disease largely depends on how the general public is taking the prevention practices in daily lives. It seeks to address the following research questions: (1) How did individual prevention behaviors and risk perceptions change over time during the first wave of COVID-19? ( Consistent with other studies (e.g., References), being in the older age group significantly increased the odds of "always" practicing some prevention practices compared to their younger counterparts.

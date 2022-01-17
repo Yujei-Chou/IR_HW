@@ -1,0 +1,3 @@
+34660166|PMC8502237
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Since the outbreak of the COVID-19 pandemic, computer vision researchers have been working on automatic identification of this disease using radiological images. This is of vital importance, since as will be shown below, when not only the lung region is used, the models tend to focus on regions where its association with disease in question is unclear. One approach to test the generalizability of these models is to base evaluation on an external, ood data set.

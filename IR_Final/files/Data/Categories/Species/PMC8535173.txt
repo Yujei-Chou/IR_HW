@@ -1,0 +1,4 @@
+34679120|PMC8535173
+{'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+There has been extensive discussion about the contribution of the pharmaceutical industry to resolving the coronavirus pandemic, with some critics arguing that industry has profited from the support of government. At this point in the pandemic (i.e., 428 months since the PHEIC), the proportion of industry-affiliated articles was higher for the three other diseases (Ebola: 4.0%; H1N1: 2.8%; Zika: 2.2%).The proportional decline for COVID-19 occurred because industry-affiliated publications reached a peak 30-day rate of 296 publications on 26 August 2020 before declining to 77 publications on 14 January 2021. Third, our investigation broadly focused upon the entire biomedical enterprise using a single, yet important repository of scientific publications.

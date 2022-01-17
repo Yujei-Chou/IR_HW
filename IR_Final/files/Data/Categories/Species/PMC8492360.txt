@@ -1,0 +1,4 @@
+34624543|PMC8492360
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Introduction and Objectives
+In a number of studies, varying degrees of liver damage have been noted in more than half of the patients who diagnosed COVID-19. All published literature which analyzed liver biochemical parameters in COVID-19 patients was examined through databases and shown in Table 1 . noted that the incidence of liver damage ranged from 58% to 78% in patients with severe COVID-19, and the higher serum levels of AST (weighted mean difference, 8.84 U/L), ALT (weighted mean difference, 7.35 U/L) and total bilirubin (weighted mean difference, 2.30 mmol/L) were associated with severe outcome from COVID-19 infection.

@@ -1,0 +1,4 @@
+34547037|PMC8454954
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The COVID-19 pandemic has had damaging effects on the mental health of young people, who are more likely than others to face symptoms of depression and anxiety during this time. Participants reported experiencing a multitude of mental health difficulties and challenges they related to the COVID-19 pandemic (See Table 2). Luna, 23-years-old)Participants described numerous barriers accessing counselling and/or support groups since the start of the pandemic, resulting in ~62% (n = 38) of youth being unable to access counselling and/or support groups.

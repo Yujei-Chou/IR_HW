@@ -1,0 +1,3 @@
+34588946|PMC8475762
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objectives: The aim of this review is to summarize the most relevant scientific discoveries regarding SARS- CoV-2 virus infection, with the special emphasis put on its pathophysiology and way of treatment. It may results in a sustained cytokine storm and inflammation which are manifested in the clinical course among the patients. For example, in several studies, an increased D-dimer concentration (>1.0-2.0 mug/ml) :a blood clot degradation product:was an independent predictor of death due to the SARS-CoV-2 infection.

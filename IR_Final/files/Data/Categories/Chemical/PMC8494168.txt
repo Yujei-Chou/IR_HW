@@ -1,0 +1,3 @@
+34642555|PMC8494168
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The coronavirus disease 2019 is a highly contagious viral infection caused by SARS-CoV-2 virus, member of coronaviridae family. They also reported that suPAR level was positively correlated with severity of SARS-CoV-2. In patients of SARS-CoV-2 infection, biomarkers such as P-SEP, sTREM-1, and suPAR biomarkers can be analysed promptly and easily in plasma or serum sample.

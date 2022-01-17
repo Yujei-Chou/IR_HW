@@ -1,0 +1,3 @@
+34707198|PMC8551264
+{'Disease', 'Species'}
+Reverse transcriptase polymerase chain reaction (RT-PCR) is a key tool to diagnose Covid-19. For patients experiencing such symptoms, performing a RT-PCR has a low marginal value to adjust Covid-19 diagnosis. In the absence of ageusia/anosmia, the association of fever and cough (19% of patients) is not specific to Covid-19 infection: RT-PCR is useful in this case (65% of the group is RT-PCR+).Cardiopulmonary symptoms, i.e. breathlessness with chest oppression or pain, are predictive of negative RT-PCR results (28% of the group is RT-PCR+, 8% of tested patients).

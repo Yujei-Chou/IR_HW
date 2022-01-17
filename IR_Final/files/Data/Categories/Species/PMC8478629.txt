@@ -1,0 +1,4 @@
+34585321|PMC8478629
+{'Disease', 'Species', 'Gene'}
+Objective
+The outbreak of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic caused substantial changes to conventional medical services. On the other hand, the mean number of monitoring in-person visits per patient during pandemic was approximately 2.7 per year which was no different from previous years 2.9, reflecting the need for re-assurance of vulnerable persons under uncertain conditions. ( Caregivers contribute substantially to the procedure of virtual examination and in general to the effectiveness of teleneurology models.

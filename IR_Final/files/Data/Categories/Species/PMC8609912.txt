@@ -1,0 +1,3 @@
+34766775|PMC8609912
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Visualization of the interfacial electrostatic complementarity (VIINEC) is a recently developed method for analyzing protein-protein interactions using electrostatic potential (ESP) calculated via the ab initio fragment molecular orbital method. This result indicates that such a bias is caused by the structural arrangement of amino acid residues near the interface. According to our results, the attractive electrostatic interaction between RBD and ACE2 is expected to increase by E484K mutation; i.e., the repulsive interaction due to E484 turns into an attractive interaction because of the positive charge of lysine.

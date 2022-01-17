@@ -1,0 +1,3 @@
+34722842|PMC8542349
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The COVID-19 pandemic has drawn attention to food insecurity in developed countries. Social responsibility of manufacturers is recognized as part of the response, and strategies for mitigation of high-demand essential non-food items during a pandemic situation have been proposed. In summary, the best mitigation strategy due to the amount of processed food likely consumed is to improve its nutritional value.

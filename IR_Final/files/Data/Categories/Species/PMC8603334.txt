@@ -1,0 +1,3 @@
+34815973|PMC8603334
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The coronavirus disease 2019 (COVID-19) pandemic has generated many challenges for physicians, including multiple post-covid long-term effects that are still being studied. Due to the trismus a laryngoscopic examination was not feasible and the patient was planned for emergency tracheostomy and incision and drainage of the submental abscess. Laryngeal complications in COVID-19 patients can affect voice, airway and swallowing.

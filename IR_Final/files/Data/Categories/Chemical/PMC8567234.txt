@@ -1,0 +1,4 @@
+34467632|PMC8567234
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+Abstract
+Deadly outbreaks of viruses are of significant human health concern. To our surprise, almost all of the established classical host restriction factors were significantly (P-value < 0.05, > 1.5 folds) upregulated in RNA sequencing analysis of stable IRGM knockdown HT-29 epithelial cells (Fig 2B) and bone marrow-derived macrophages (BMDMs) from Irgm1 -/- knockout mice (Fig 2C).To confirm the results of RNA sequencing, we performed qRT-PCR for key antiviral restriction factors using RNA from mouse BMDMs and human cell lines. We found increased internalization of transferrin in IRGM knockdown cells (Fig EV2H) suggesting that IRGM depletion enhances endocytosis per se.

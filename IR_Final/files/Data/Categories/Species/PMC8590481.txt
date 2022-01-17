@@ -1,0 +1,3 @@
+34780978|PMC8590481
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Objective: We sought to map the landscape of trials investigating hydroxychloroquine (HCQ) for SARS-CoV-2 in order to draw conclusions about how clinical trials have been conducted in the pandemic environment and offer potential regulatory recommendations. Our central questions were: How many RCTs of HCQ have been launched, and how many were ongoing as of November 2020? Determining when to suspend a trial in relation to emerging evidence is methodologically and ethically complex, but it would likely be generally accepted that a suitable standard would include stability of a systematic review and/or multiple RCTs arriving at similar conclusions.

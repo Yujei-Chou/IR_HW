@@ -1,0 +1,3 @@
+34720232|PMC8536898
+{'Disease', 'Gene'}
+Die fuhrenden Wirtschaftsforschungsinstitute senken ihre BIP-Wachstumsprognose fur 2021 von 3,7 % auf 2,4 %. Dafur ist insbesondere die schwachelnde Industrieproduktion verantwortlich, die unter Lieferengpassen leidet. Die Verbraucherpreise haben sich 2021 stark erhoht.

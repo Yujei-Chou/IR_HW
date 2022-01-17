@@ -1,0 +1,4 @@
+34260323|PMC8523189
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objectives:
+The world has faced a great challenge in public health with the Coronavirus Disease-19 (COVID-19) pandemic. Only the articles which described abdominal imaging findings in confirmed COVID-19 cases were included in the review. In our review, among studies reporting positive abdominal imaging findings in patients with COVID-19, majority reported imaging abnormalities of the GI tract, of which bowel wall thickening was the most frequent.

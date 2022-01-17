@@ -1,0 +1,4 @@
+34664118|PMC8522855
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Over the past three decades, the use of point-of-care ultrasound (POCUS) has been increasingly integrated into routine clinical practice, including critical care and hospital medicine. The marking sites were determined based on best practice recommendations and guidance from our infection control department. There was a significant improvement in the thoroughness of cleaning following intervention (pre 0.62, SE 0.05; post 0.89, SE 0.07; p < 0.0001), representing a 44% relative improvement.

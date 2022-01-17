@@ -1,0 +1,3 @@
+34778182|PMC8581231
+{'Disease', 'Species', 'Gene'}
+The COVID-19 pandemic presents an unprecedented situation in which physical distancing and "stay at home" orders have increased the pressures for social isolation. Those who reported being "Tech-savvy" also had a significantly greater proportion (37.2%) of those who reported feelings of isolation "Hardly ever," compared to 30.3% of those who reported themselves as "Not Tech-savvy" (p < 0.05).Findings for the unadjusted regression models are reported in Table 2. Research by Knowles and Hanson demonstrates that some older adults do not find using technology rewarding in an of itself and consciously avoid "getting caught up in" digital life.

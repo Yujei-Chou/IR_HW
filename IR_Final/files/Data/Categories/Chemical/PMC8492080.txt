@@ -1,0 +1,4 @@
+33399400|PMC8492080
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objectives
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is responsible for the ongoing COVID-19 pandemic which originated in Wuhan, China in December 2019. No significant differences were observed between included and excluded patients, except for median age at diagnosis (higher in included patients, 32 vs. 25 years, P = 0.03) and duration of a GFD (lower in included patients, 92 vs. 117.5 months, P = 0.04).Fifty-three patients (16%) developed symptoms compatible with COVID-19 and 13 of them were tested for SARS-CoV-2 infection by either nasal swab or serology. Incidence and prevalence of COVID-19 in coeliac patients are comparable with the general population in the Lombardy region, Northern Italy.

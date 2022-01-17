@@ -1,0 +1,4 @@
+33853694|PMC8485008
+{'Disease', 'Species', 'Gene'}
+Objective:
+The risk of transmission of SARS and subsequent coronavirus disease 2019 (COVID-19) appears to vary based on multiple factors: susceptibility of the individual, type and duration of exposure, and use of infection preventative measures. We used the Wilcoxon rank-sum test to evaluate the difference in number of symptoms of COVID-19 between HCWs with and without a high-risk exposure outside the healthcare system. Using our conservative estimate of community seroprevalence during period 2, HCWs did not have a higher risk of seropositivity (13.7% vs 12.3%; 1-sided P value = .053).During period 1, 979 HCWs reported patient contact and 36 developed COVID-19.

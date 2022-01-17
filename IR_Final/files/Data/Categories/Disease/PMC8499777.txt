@@ -1,0 +1,4 @@
+34423825|PMC8499777
+{'Chemical', 'Disease', 'Species', 'Mutation'}
+ABSTRACT
+In a 2020 Military Medicine commentary, we hypothesized that two corporate behaviors and an economic dynamic were responsible for flawed execution of healthcare delivery in the Military Health System (MHS). The CTM has not yet completely resumed pre-COVID productivity across the board, but the market has plans for each underperforming service line. Military specialty consultation is the antidote to the existence of widespread local knowledge gaps that otherwise lead to ED leakage.

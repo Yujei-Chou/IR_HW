@@ -1,0 +1,3 @@
+33356977|PMC8513648
+{'Chemical', 'Disease', 'Species'}
+Rationale: Prone positioning is an appealing therapeutic strategy for nonintubated hypoxic patients with coronavirus disease (COVID-19), but its effectiveness remains to be established in randomized controlled trials. Our pilot study included suspected COVID-19 diagnosis in the eligibility criteria, resulting in the inclusion of patients who ultimately tested negative for SARS-CoV-2. Our results indicate that assessing fidelity to prone positioning is a major challenge in a pragmatic study design using data captured for clinical use.

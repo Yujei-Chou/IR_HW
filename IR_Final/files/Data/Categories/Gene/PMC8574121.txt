@@ -1,0 +1,3 @@
+34763122|PMC8574121
+{'Disease', 'Species', 'Gene'}
+The objective of this study was to describe implementation of this remote COVID-19 symptom monitoring program. When comparing early (first peak, April - May 2020) and late (second peak, November - December 2020) phases of the pandemic, patient engagement and median number of responses did not differ (p=0.31 and p=0.88, respectively).Implementation of an automated text messaging system for remote symptom monitoring of COVID-19 in the obstetric population was easily adopted with high patient engagement. Remote Monitoring of Patients with Covid-19: Design, implementation, and outcomes of the first 3,000 patients in COVID Watch.

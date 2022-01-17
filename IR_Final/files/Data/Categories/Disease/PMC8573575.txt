@@ -1,0 +1,4 @@
+34748144|PMC8573575
+{'Chemical', 'Disease', 'Species'}
+Background
+In 2019, a new Coronavirus disease (COVID-19), caused by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) or (2019-nCoV), firstly emerged in China and spread quickly around the world. The aim of this study is to evaluate and compare pulmonary functions and respiratory muscle strength of female volleyball players who had been diagnosed with and without COVID-19. PEF values of players with COVID-19 were minimally below the predicted values.

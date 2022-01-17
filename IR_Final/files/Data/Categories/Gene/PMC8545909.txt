@@ -1,0 +1,3 @@
+33744395|PMC8545909
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Because the spread of pandemics depends heavily on human choices and behaviors, dealing with COVID-19 requires insights from cognitive science which integrates psychology, neuroscience, computer modeling, philosophy, anthropology, and linguistics. The hypothesis that wearing masks causes a reduction of spread of COVID-19 gets its explanatory coherence from 4 directions: what it explains, what explains it, analogy with SARS and other infectious diseases, and competition with the claim that masks do not prevent COVID-19. Here is how it could be used by an interviewer to deal with people reluctant to get vaccinated for COVID -19.1.

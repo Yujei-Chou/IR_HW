@@ -1,0 +1,4 @@
+34543223|PMC8534487
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The World Health Organization (WHO) confirmed that HIV infection is a significant independent risk factor for both severe COVID-19 presentation at hospital admission and in-hospital mortality. This study defined willingness to receive COVID-19 vaccination as the responses "likely" or "very likely". Regarding characteristics related to HIV infection, 17.2% (n=443) of the 2570 participants received their diagnosis within 1 year, 97.3% (n=2501) were receiving ART, 67.9% (n=1746) reported undetectable viral load, and 46.0% (n=1181) reported their CD4+ T cell count level to be above 500/microL. Less than 5% of the participants self-reported having severe AIDS-related symptoms (Tables 1 and 2).Over half of the participants were willing to receive free COVID-19 vaccinations in the future (1470/2570, 57.2%).

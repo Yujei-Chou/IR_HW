@@ -1,0 +1,3 @@
+34812423|PMC8600493
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The task of hope speech detection has gained traction in the natural language processing field owing to the need for an increase in positive reinforcement online during the COVID-19 pandemic. For all of the above-mentioned approaches, we have tokenized the text based on the frequency of occurrence in the given dataset. The results obtained on the validation set are tabulated in Table 7.Apart from the traditional and deep learning approaches, we also implemented transformer based models.

@@ -1,0 +1,4 @@
+34704083|PMC8529946
+{'Disease', 'Species', 'Gene'}
+Background
+We reviewed literature from the WHO Global COVID-19 database, which crawls articles from multiple databases, focusing on the epidemiology of COVID-19 in Malaysia between 1 January 2020 and 31 March 2021. The call for the global scientific community to systematically characterise the epidemiology of COVID-19 was made a year ago. Easing of restrictions in March 2021 led again to transmissibility increasing in May 2021.The effect of NPI on transmissibility has been observed in multiple different settings within this pandemic.

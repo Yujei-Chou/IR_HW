@@ -1,0 +1,4 @@
+34695749|PMC8511686
+{'Chemical', 'Disease', 'Species', 'Gene'}
+To the Editor,
+To the Editor,Since the emergence of the novel COVID-19 virus in November 2019, there has been significant concern for occupational risk to anesthesiologists involved in airway management in the peri-operative period. Furthermore, there was a greater increase in the odds of successful intubation on first attempt in cases using video laryngoscopy (OR 2.91 [1.99-4.25]) than in cases not using video laryngoscopy (OR 1.31 [0.73-2.35]) (p-value for interaction = 0.025). Indeed, our data shows that trainees had increased odds of first-attempt intubation after our airway management guidelines were adopted (OR 1.72 [1.2, 2.47]), but this was not the case for attending only intubations (OR 0.82 [0.41, 1.66]).

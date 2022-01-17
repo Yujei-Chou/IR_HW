@@ -1,0 +1,4 @@
+34469523|PMC8499829
+{'Chemical', 'Disease', 'Species', 'Gene'}
+ABSTRACT
+The ANC supported the DoD, U.S. Army, and Army Medicine as it executed a multifaceted response to the COVID-19 pandemic (Fig. UAMTF rapidly erected alternate care facilities and provided direct civilian hospital support for U.S. communities with the greatest need of additional resources and nursing care. Upon activation for the COVID-19 pandemic, testing of those plans for operability identified gaps that were addressed.

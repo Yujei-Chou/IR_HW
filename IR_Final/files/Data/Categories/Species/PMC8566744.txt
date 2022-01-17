@@ -1,0 +1,3 @@
+34744808|PMC8566744
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The coronavirus disease 2019 (COVID-19) pandemic has disrupted our everyday life. We furthermore discuss the maladaptive response to a "new normal" lifestyle triggered by the COVID-19 pandemic. In an exploratory analysis with a cut-off PHQ-9/-8 >= 5 (mild or greater depression), there was no significant change in the prevalence after the pandemic (Supplementary Figure 2B).Six studies were included in the meta-analysis for the change in the prevalence of clinically significant level of anxiety before vs. during the pandemic, defined as GAD-7 >= 10 or GAD-2 >= 3.

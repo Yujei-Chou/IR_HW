@@ -1,0 +1,3 @@
+34568249|PMC8460863
+{'Chemical', 'Disease', 'Species'}
+The current COVID-19 pandemic demonstrates the need for urgent and on-demand solutions to provide diagnostics, treatment and preventative measures for infectious disease outbreaks. While cooperative research can take place in many forms among public and private partnerships within a country, as well as in collaborations among different countries, we focus on those international programs aimed at biological threat reduction and enhancing biosecurity engagement. Cooperative engagement research designed to understand One Health systems has shown a high return on investment and has reduced the threat of global infectious disease spread.

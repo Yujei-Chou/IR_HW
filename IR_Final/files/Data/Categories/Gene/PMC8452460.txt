@@ -1,0 +1,3 @@
+34566273|PMC8452460
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Facing the COVID-19 pandemic, governments have implemented a wide range of policies to contain the spread of the virus. We created and released a new dataset of COVID-19-related tweets, which can be helpful for other researchers. From the results, we can see that using only lockdown-related tweets enables us to build a better model in spite of the small dataset.

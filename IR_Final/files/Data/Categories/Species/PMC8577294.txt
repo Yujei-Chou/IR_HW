@@ -1,0 +1,4 @@
+34734914|PMC8577294
+{'Disease', 'Species', 'Gene'}
+Purpose of review
+In late 2019, severe acute respiratory syndrome coronavirus 2 (SARS-CoV2) emerged as pathogen causing a global pandemic of unforeseen proportion. Biomarker analyses of cerebrospinal fluid consistently demonstrates abnormal CSF to plasma albumin ratio in a portion of patients with acute SARS-CoV2 infection suggesting breakdown of the BBB during acute infection, particularly in patients experiencing severe SARS-CoV2 infection. Long-term neurodevelopmental outcomes of infants who were exposed to SARS-CoV-2 in utero remains an area for future targeted studies.

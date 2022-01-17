@@ -1,0 +1,4 @@
+34544892|PMC8457996
+{'Disease', 'Species', 'Gene'}
+Objectives
+Prior studies have found that health workers serving during pandemics experienced severe mental health problems due to heavy workloads and hazardous working conditions, but few have focused on the mental health of health workers conducting epidemiological investigations for pandemic control. FHWs reported poor work environments, both in health centres and in the field, exacerbating physical and emotional depletion (table 4). Their emotional burdens are rooted in the aggressive contact tracing protocol that requires FHWs to extensively collect personal information notwithstanding patients' high noncompliance.

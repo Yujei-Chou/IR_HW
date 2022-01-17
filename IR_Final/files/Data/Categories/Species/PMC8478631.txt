@@ -1,0 +1,3 @@
+34586608|PMC8478631
+{'Disease', 'Species', 'Gene'}
+Coronavirus disease 2019 (COVID-19) remains a global epidemic. The indications for vaccination are expanding to ensure protection of children with serious co-morbidities. Vaccinating professionals should become and stay familiar with COVID-19 vaccine contraindications, as these will change with emerging evidence and experience.

@@ -1,0 +1,3 @@
+34566798|PMC8459014
+{'Chemical', 'Disease', 'Species', 'Gene'}
+In many countries, the COVID-19 pandemic has led to strong restrictions and changed the everyday lives of older people. Also those who were not following any physical isolation/quarantine measures felt more often that their everyday life is significant (p = 0.035) and that they belong to a group or community important for them (p = 0.035) as compared to those who were following some self-chosen isolation/quarantine measures (Figure 2; Supplementary Table 1). The third theme present in the interviews was connected to meaningful places and seasonal changes that were described as supportive factors in everyday life.

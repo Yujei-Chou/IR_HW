@@ -1,0 +1,3 @@
+34630200|PMC8492976
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The Fear of COVID-19 Scale (FCV-19S) is a new one-dimensional scale used to measure fear of an individual about the COVID-19. The Fear of COVID-19 Scale (FCV-19S) was developed in an Iranian context to measure this fear and is a unidimensional scale composed of seven high-quality items to effectively measure the fear of an individual about COVID-19 (Ahorsu et al.,). These results indicate that the FCV-19S-C has good convergent and discriminant validity.

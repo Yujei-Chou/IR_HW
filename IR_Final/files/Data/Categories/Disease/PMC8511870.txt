@@ -1,0 +1,4 @@
+34653525|PMC8511870
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The severe-acute-respiratory-syndrome coronavirus 2 (SARS-CoV-2) and coronavirus disease 2019 (COVID-19) have caused unprecedented death and disruption. Median time to clinical recovery was 7.5 days (range 2-15) in LD-RT responders and 7 days (range 3-38) in controls but maximum recovery time was reduced (15 vs 38 days), shown as upper curve separation (p = 0.29, Fig. A recent randomized trial of 11 intubated patients with advanced COVID-19 evaluated LD-RT and observed no clinical benefit.

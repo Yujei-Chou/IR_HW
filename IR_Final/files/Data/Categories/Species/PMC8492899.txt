@@ -1,0 +1,3 @@
+34626733|PMC8492899
+{'Chemical', 'Disease', 'Species', 'Gene'}
+To the Editor: The dermatology community remains concerned about the risk of COVID-19 in individuals with atopic dermatitis (AD). Subjects with no record of AD diagnosis prior to January 1, 2020, were randomly placed in the control group in a 10:1 size ratio compared with the AD group. Additionally, AD subjects on dupilumab showed significantly lower associated risk of contracting COVID-19 infection compared with AD subjects exposed to prednisone, cyclosporine, and/or azathioprine (Table II).The limitations include the inability to account for treatment duration and establish a strong causal relationship.

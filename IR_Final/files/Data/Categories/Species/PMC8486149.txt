@@ -1,0 +1,3 @@
+34597334|PMC8486149
+{'Chemical', 'Disease', 'Species', 'Gene'}
+This confirmatory research investigates the influence of risk framing of COVID-19 on support for restrictive government policy based on two web survey experiments in Russia. Overall, these results prove that the high-risk framing has a stronger effect compared to the low-risk framing on willingness to sacrifice rights (beta = 0.152, p < 0.05), the support for restrictive measures (beta = 3.489, p < 0.01), and the support for criminal liability for the quarantine violation (beta = 0.269, p < 0.01).In contrast, we did not find any evidence of H2. Again, I think the study makes a nice contribution to understand health behaviors in the current pandemic.

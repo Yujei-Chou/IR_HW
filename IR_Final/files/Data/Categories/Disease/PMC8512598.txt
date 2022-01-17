@@ -1,0 +1,4 @@
+34645837|PMC8512598
+{'Disease', 'Gene'}
+Correction to: Scientific Reports 10.1038/s41598-021-84192-y, published online 17 March 2021
+Correction to: Scientific Reports 10.1038/s41598-021-84192-y, published online 17 March 2021The original version of this Article contained errors in the text, where the RT-qPCR tests were incorrectly referred to as LAMP tests. "now reads:"The rapid saliva-based tests with an average turnaround time of 6-12 h (e.g., the testing mechanism of the UIUC SHIELD program) are ideally suited for this task. "now reads:"Our final study seeks to understand the impact of the sensitivity of tests on the infection mitigation strategy.

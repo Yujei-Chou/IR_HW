@@ -1,0 +1,3 @@
+34770095|PMC8582846
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The coronavirus disease 2019 (COVID-19) pandemic has posed a significant challenge to the modern healthcare system and led to increased burnout among healthcare workers (HCWs). Homogenous purposive samplings were used to survey the 130 healthcare professionals who belonged to the OUH on 1 November 2020. While there were no significant increases in the prevalence of burnout in those who were engaged in COVID-19 patients care than those who did not, interestingly, the prevalence of burnout was considerably higher during the nationwide surges of COVID-19 cases (period 1 and 3) than the post-surge period when less COVID-19 patients were hospitalized (period 2).

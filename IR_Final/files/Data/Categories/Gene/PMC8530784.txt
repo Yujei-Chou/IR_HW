@@ -1,0 +1,4 @@
+34717211|PMC8530784
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Purpose
+Since the beginning of the SARS-CoV-2 pandemic, the rapid recognition and isolation of infected patients have proven to be crucial factors in limiting the spread of the virus and containing the pandemic. The patients' demographic and clinical characteristics recorded upon ED access are reported in Table 1 .The antigen test for SARS-CoV-2 was positive in 9.3% (361/3899) of all patients. An initial systematic review of the performance of the antigen test was conducted in an attempt to provide precise indications that can be applied in clinical practice.

@@ -1,0 +1,4 @@
+34761124|PMC8567748
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+In December 2019, a worldwide pandemic respiratory syndrome started in Wuhan, China, which caused a multi-organ infection named severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Two independent inspectors carried out the data extraction and any disagreement during the process was solved by the third member. Besides, in another study conducted by Cravedi et al, hypertension was mentioned as the most common comorbidity affecting 95% of COVID-19 patients with kidney transplantation.

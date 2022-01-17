@@ -1,0 +1,4 @@
+34703243|PMC8524181
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+It has been a year and a half since the globe suffers the horrific coronavirus disease (COVID-19) pandemic. Bearing in mind that pregnant women may be asymptomatic spreaders of COVID-19, it necessitates a woman-centered, multi-disciplinary, esteemed expertise care that consist of obstetric, fetal, neonatal, and mental health care. Psychosocial support, collaboration, and networking are as much important as infection control during the pandemic and disaster management.

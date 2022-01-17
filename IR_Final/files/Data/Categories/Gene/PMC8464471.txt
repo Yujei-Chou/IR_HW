@@ -1,0 +1,4 @@
+34616801|PMC8464471
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+BACKGROUND
+Core Tip: This study indicated that the duration course of moderate and severe coronavirus disease 2019 (COVID-19) patients is reduced by 6.183 d when arbidol is administered. The mean duration of the disease course was 25.73 +- 7.45 d. The patients in the arbidol group had a shorter course of disease than the patients in the non-antiviral treatment group (23.42 +- 6.92 vs 29.60 +- 6.49, P < 0.001). with a 10-d course of treatment is recommended for COVID-19 patients, particularly those with elevated ferritin and LDH.

@@ -1,0 +1,3 @@
+34729031|PMC8542438
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Coronavirus disease 2019 (COVID-19), caused by the highly contagious severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has become the worst pandemic disease of the current millennium. This device detected SARS-CoV-2 VLPs with spike protein concentrations as low as 5 g ml-1.Besides AuNPs, other nanoparticles have been designed to detect SARS-CoV-2 proteins. Several challenges remain to be addressed for the translation of cell membrane-coated nanoparticles against SARS-CoV-2.

@@ -1,0 +1,3 @@
+34734196|PMC8553652
+{'Chemical', 'Disease', 'Species'}
+When the first cases of the Delta coronavirus variant were identified in the United Kingdom (UK) in mid-April, the country was preparing to open up from lockdown restrictions. Countries with quick access to COVID-19 vaccines, like those in Europe and North America, are hoping that the vaccination programmes would prevent the spread of the Delta variant. The disparity between high-income and low- and middle-income countries when it comes to vaccine access and availability cannot be overlooked any longer.

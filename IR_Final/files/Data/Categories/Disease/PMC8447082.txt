@@ -1,0 +1,4 @@
+34548710|PMC8447082
+{'Disease', 'Species'}
+Abstract
+On March 9, 2020, the Italian government imposed the first national lockdown in response to the pandemic of coronavirus disease 2019 (COVID-19) in the country. Nevertheless, 42% still found online teaching less effective than traditional modalities (Figure 1).Among academics who had already delivered online exams at the time of the survey (73%), 20 (22%) choose an oral, 26 (29%) a written, and 37 (41%) a mixed (oral and written) modality. Several teachers experienced slow web connections or network problems, which led sometimes to a temporary suspension of synchronous lessons.

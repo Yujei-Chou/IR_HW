@@ -1,0 +1,4 @@
+34763690|PMC8582237
+{'Chemical', 'Disease', 'Species', 'CellLine'}
+Background
+The COVID-19 pandemic in many countries has been characterized by waves of infection. We retrieved the seroprevalence data for each Italian region and province determined through a national survey made available by ISTAT and the National Ministry of Health with reference to the period May 25, 2020 through July 15, 2020.We examined the relation between first and second wave province-specific crude mortality rates from COVID-19 by modeling the mean mortality rate using a restricted cubic spline regression, a model that fits a curvilinear pattern to the data as previously reported. In addition, recent assessment of fatality rates between first and second waves in Italy showed that they were comparable.

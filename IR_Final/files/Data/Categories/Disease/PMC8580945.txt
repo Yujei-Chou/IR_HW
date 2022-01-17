@@ -1,0 +1,3 @@
+34778159|PMC8580945
+{'Disease', 'Species', 'CellLine'}
+Background: In middle-income countries such as Vietnam, where healthcare resources are already constrained, protecting healthcare workers (HCWs) is essential for ensuring the sustainability of COVID-19 response in Vietnam. A similar study in Italy found overall adequate knowledge of the COVID-19 control measures among the HCWs. Practices with the highest rates of engagement were seeking information about the COVID-19, complying with the Ministry of Health preventive recommendation, and avoiding crowded places (average scores 4.4, 4.5, and 4.4, respectively).The construct validity of self-protection from the COVID-19 is displayed in Table 3.

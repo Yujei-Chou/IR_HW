@@ -1,0 +1,4 @@
+34652690|PMC8517561
+{'Chemical', 'Disease', 'Species', 'Mutation'}
+Dear Editor,
+Dear Editor,We would like to share ideas on "Glucose control in home-isolated adults with type 1 diabetes affected by COVID-19 using continuous glucose monitoring." In general, COVID-19 can affect glucose metabolism and it might result in elevation of blood glucose and hemoglobin A1C. If there is no good diabetic care during COVID-19 illness, the DM patient under home isolation might have poor glucose control. Whether the telemedicine care includes specific session on diabetic care is an interesting question.

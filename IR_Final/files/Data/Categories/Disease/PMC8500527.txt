@@ -1,0 +1,3 @@
+34661183|PMC8500527
+{'Chemical', 'Disease', 'Species', 'Gene'}
+COVID-19 represents a collection of disease endotypes stemming from infection with SARS-CoV-2 and thus requires precision medicine approaches to target specific viral variants and stages of illness. The case series details five immunocompromised patients with prolonged, severe COVID-19. HLA-DR expression may be useful as a biomarker to define an endotype that benefits from IFNgamma, as IFNgamma restored monocyte activation and improved ventilator-associated pneumonia in otherwise immunocompetent COVID-19 patients with decreased monocyte HLA-DR.

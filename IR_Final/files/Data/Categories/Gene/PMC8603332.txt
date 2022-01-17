@@ -1,0 +1,4 @@
+34801766|PMC8603332
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Airborne particulate matter (PM) is considered to be one of the most frequent and important components of air pollution. Multiple linear regression analyses were performed to test whether the exposure to PM2.5 or PM10 was associated with either COVID-19 incidence proportions across provinces or COVID-19-specific death rates. No clear link has been found between population density, which characterizes every province, and the annual average of PM2.5 and PM10 values - Kuyavian-Pomeranian and Warmian-Masurian provinces recorded the highest annual average numbers of cases and deaths related to COVID-19 while their annual PM2.5 and PM10 levels could be placed on the lower side of the pollution scale [Table 1].In the next step, the annual changes of PM2.5 and PM10 were presented across the analyzed months in Fig.

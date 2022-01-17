@@ -1,0 +1,4 @@
+34715972|PMC8546313
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Key points
+The prevalence of professional burnout in anesthesiology is between 15% and 65% and has reached a critical number of at-risk physicians whose own well-being is critical during a global pandemic. They did find slight differences in how men and women display the triad of burnout. In well-conducted surveys from anesthesiology residents and first-year graduates, Sun and colleagues found that perceived institutional support, work-life balance, strength of social support, workload, and student debt impact physician anesthesiologists' well-being.

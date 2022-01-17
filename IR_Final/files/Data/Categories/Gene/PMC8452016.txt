@@ -1,0 +1,3 @@
+34543294|PMC8452016
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The current COVID-19 public health crisis, caused by SARS-CoV-2 (severe acute respiratory syndrome coronavirus 2), has produced a devastating toll both in terms of human life loss and economic disruption. In our algorithm, we apply our rapid identification of patients (belonging either to class 1 or class 2) at any of four clearly-defined clinical stages of the treatment process, ranging from stage 1 at which a patient first becomes ill and seeks medical attention, to stage 4 at which not only is the patient hospitalized but requires specialized attention. In this work, we have presented an effective machine-learning algorithm for the identification of high-risk patients, presenting COVID-19 symptoms.

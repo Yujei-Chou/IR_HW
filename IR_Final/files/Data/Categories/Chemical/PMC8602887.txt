@@ -1,0 +1,3 @@
+34805253|PMC8602887
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Viral infections may cause serious human diseases. Furthermore, a polysaccharide extracted from the mycelium and fruiting body of Lentides edodes was able to inhibit poliovirus type 1 (PV-1) and bovine herpes virus type 1 (BoHV-1) with IC50 values of 0.19 and 0.1 mg mL-1, respectively. The virucidal activity of microbial polysaccharides is caused by theses interactions.

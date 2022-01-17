@@ -1,0 +1,3 @@
+34797845|PMC8604353
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Social mobility and physical restrictions imposed to contain the spread of the COVID-19 pandemic have posed a severe challenge to operate under conventional nine to five work practices in a physical office setting. As such, these findings mainly describe that gender has a positive impact on work-life balance while working virtually. This has been corrected in the revised manuscript (Page 4 - line 31-34 and Page 5 - line 14-17).Comments of Reviewers:Objective of study:This section also provides rationale/justification of study which should be provided separately, prior to objectiveComments of Authors: Comment is well noted and this has been corrected in the revised manuscript.

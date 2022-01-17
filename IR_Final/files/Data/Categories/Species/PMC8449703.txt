@@ -1,0 +1,3 @@
+34566353|PMC8449703
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Since the first patient was detected in India in late February 2020, the SARS-CoV-II virus is playing havoc on India. In this situation, an estimation of the dynamics of SARS-CoV-II is necessary to combat the pandemic. The  of Madhya Pradesh is 2.054, as shown in Table (2a).Our SVEIRD calculation shows the peak of the second wave will be reached between April and September, as shown in Fig.

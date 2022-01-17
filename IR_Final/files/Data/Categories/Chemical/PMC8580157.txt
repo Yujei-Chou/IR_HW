@@ -1,0 +1,3 @@
+34777594|PMC8580157
+{'Chemical', 'Disease', 'Species'}
+Introduction  Preventing droplet dispersal is an important issue for decreasing the coronavirus 2019 (COVID-19) transmission rate; numerous personal protective equipment (PPE) devices have been recently developed for this. The present study was conducted to evaluate this novel "endoscopy salon" device for reducing the transmission of respiratory disease. Furthermore, the temperature within the hood during the cleaning process with the plastic bag attached to reduce organism dispersal averaged 79.8 +- 3.1  C.  For assessment of the cleaning technique, the control cultures before cleaning demonstrated positive for Herpes Simplex Virus, Escherichia coli, Candida albicans, and Aspergillus spp .

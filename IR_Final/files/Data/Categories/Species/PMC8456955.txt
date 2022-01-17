@@ -1,0 +1,3 @@
+34448292|PMC8456955
+{'Disease', 'Species', 'Gene'}
+School closures during the first COVID-19 lockdown in 2020 severely disrupted adolescents' lives. We performed nine LMMs, in which our dependent variables had an average correlation of .38, resulting in an adjusted significance level of alpha = .013.First, we examined whether adolescents' social interactions (i.e., parental support, parental conflict, friend support, and friend conflict), mood (i.e., positive mood and negative mood), and academic motivation differed between online and physical school days. Third, to examine whether subscales academic trait motivation were associated with daily academic motivation on online and physical school days, we performed a final LMM.

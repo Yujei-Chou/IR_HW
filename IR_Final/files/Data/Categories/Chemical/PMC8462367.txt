@@ -1,0 +1,4 @@
+34537808|PMC8462367
+{'Chemical', 'Disease', 'Species'}
+Retraction of: Scientific Reports 10.1038/s41598-021-85227-0, published online 31 March 2021
+Retraction of: Scientific Reports 10.1038/s41598-021-85227-0, published online 31 March 2021The Editors have retracted this Article. The Editors therefore no longer have confidence in the results and conclusions presented. Mohamed A. TagelDin did not respond to the correspondence from the Editors about the retraction.

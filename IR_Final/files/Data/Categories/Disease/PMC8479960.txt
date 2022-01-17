@@ -1,0 +1,3 @@
+34595399|PMC8479960
+{'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+Family clusters have contributed significantly to the onward spread of SARS-CoV-2. Studies from early 2020 have estimated rates of SARS-CoV-2 co-infection with rhinovirus/enterovirus at 6.9 %: as such, ongoing surveillance through the (northern hemisphere) winter season will be important to establish both the burden of these co-infections, and the impact they may have on SARS-CoV-2 attack rates. Notable variants observed in Irish SARS-CoV-2 sequenced genomes between 25 June and 15 November 2020, are represented in Fig.

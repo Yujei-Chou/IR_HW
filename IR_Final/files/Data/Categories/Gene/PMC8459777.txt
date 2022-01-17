@@ -1,0 +1,3 @@
+34616891|PMC8459777
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The COVID-19 pandemic is changing daily routines for many citizens with a high impact on the economy in some sectors. The applications of sentiments analysis has been widely applied for dealing with COVID-19 pandemic. Although these works support that automatic sentiment analysis can bring real-time useful information in COVID-19 changing scenarios like in our work, these works did not provide a methodology for exploring and selecting service/products to sell based on this information, as our current work does.

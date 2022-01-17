@@ -1,0 +1,4 @@
+34728980|PMC8513954
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Sir,
+Sir,Since Dec 2019, the entire world is experiencing pandemic of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). 3) AIS can be an uncommon presenting manifestation of COIVD-19 and in >75% it occurred during the course of illness average 10 days after COVID symptoms. ( 6) About a third patients developed strokes in spite of being on aspirin and/or heparin. (

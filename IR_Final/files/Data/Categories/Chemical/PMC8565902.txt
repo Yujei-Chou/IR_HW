@@ -1,0 +1,3 @@
+34731009|PMC8565902
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The regional impact of COVID-19 on atmospheric carbon dioxide is observable from space. Over much of the Northern Hemisphere, home to most of the world's largest economies and more than 95% of global total emissions, 16-day running means of XCO2 from the GEOS/OCO-2 analysis show consistent negative anomalies compared to a pandemic-free scenario (see Materials and Methods) beginning in February 2020 and continuing through May (Fig. They also coincide with a 0.15 ppm SD of the analysis error uncertainty for the GEOS/OCO-2 fields calculated from an a posteriori diagnostic.

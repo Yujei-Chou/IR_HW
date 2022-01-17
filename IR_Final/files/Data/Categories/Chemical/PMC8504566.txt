@@ -1,0 +1,4 @@
+34635053|PMC8504566
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is highly transmissible and pathogenic and has caused a pandemic coronavirus disease 2019 (COVID-19), which threatens human health and public safety. However, it's found that fecal F. n and F. p did not influence the results of fecal SARS-CoV-2 RNA testing (P > 0.05) (Table 3).A classifier to distinguish COVID-19 patients from the healthy controls based on the pharyngeal F. n was constructed and achieved an AUC of 0.843 (95% CI = 0.688 ~ 0.940, P < 0.001) (Fig. We reported that the pharyngeal F. n was significantly increased in COVID-19 patients.

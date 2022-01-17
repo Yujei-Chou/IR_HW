@@ -1,0 +1,4 @@
+33323694|PMC8489586
+{'Chemical', 'Disease', 'Species', 'Gene'}
+To the Editor: 
+ To the Editor: The SARS-CoV-2 novel coronavirus (COVID-19) pandemic has precipitated unprecedented changes in the delivery of care for opioid use disorder (OUD), as recently discussed by Davis and Samuels. Of the remaining 73 providers successfully contacted, 23 responded (response rate = 31.5%). Time/scheduling constraints and inadequate staffing/support were the most commonly reported barriers to M-OUD, whereas professional satisfaction/gratification and leadership support were the most commonly reported facilitators.

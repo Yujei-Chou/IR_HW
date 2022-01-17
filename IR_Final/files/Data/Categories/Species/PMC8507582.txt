@@ -1,0 +1,4 @@
+34653654|PMC8507582
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+ INTRODUCTION Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has been actively circulating and causing disease for over a year (Jalkanen et al., A study assessing SARS-CoV-2 antibody responses in individuals with past infection also reported that significantly lower neutralizing antibody titers were found in patients without a history of SARS-CoV-2 infection (Anichini et al., https://doi.org/10.1002/rmv.2265.Hariyanto TI, Intan D, Hananto JE, Putri C, Kurniawan A. Pre-admission glucagon-like peptide-1 receptor agonist (GLP-1RA) and mortality from coronavirus disease 2019 (Covid-19): A systematic review, meta-analysis, and meta-regression.

@@ -1,0 +1,3 @@
+34670129|PMC8520504
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The Covid-19 pandemic resulted in repeated, prolonged restrictions in daily life. The team was briefed to provide information about help hotlines if participants reported increased psychiatric symptoms due to Covid-19. Summaries of the entire models can be found in the SupplementTo investigate if patients with unchanged, worsened or improved symptoms differed in the identified variables for Covid-19 distress (i.e., trait anxiety, Covid-19 impact, conscientiousness, sex, and social support), we examined these scores in the three patient groups.

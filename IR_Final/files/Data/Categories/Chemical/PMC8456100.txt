@@ -1,0 +1,3 @@
+34566886|PMC8456100
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) presents in some cases with hemostatic and thrombotic complications. Herein we report a case with probable coagulation disturbances after a SARS-Cov-2 infection, which provoked adrenal mass bleeding and consequently catecholamine liberation; as a result, a catecholaminergic crisis was observed in this patient with incidental pheochromocytoma. Based on the current short experience and the chronological association, SARS-CoV-2 may be considered accountable for the hemorrhage in this patient.

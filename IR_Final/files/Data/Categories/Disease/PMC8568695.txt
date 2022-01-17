@@ -1,0 +1,4 @@
+34754220|PMC8568695
+{'Disease', 'Species', 'Gene'}
+Purpose
+It has been more than a year since COVID-19 became a global pandemic. Given the above clinical scenario and in order to determine the approximate percentage of patients presenting for outpatient medical services who are COVID-19 positive, which would be useful information in clinical practice, we decided to evaluate COVID-19 in first-time outpatients. COVID-19 is currently a widespread infection, and many cases are missed despite performance of the necessary diagnostic tests.

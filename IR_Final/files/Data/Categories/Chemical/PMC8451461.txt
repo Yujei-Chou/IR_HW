@@ -1,0 +1,4 @@
+34517779|PMC8451461
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+ABSTRACT
+The emergence of COVID-19 upon the infection of SARS-CoV-2 has been posing a mounting threat to the world since 2019. The hepatic injury also strongly supported that the SH101 hamsters infected with SARS-CoV-2 closely mimicked COVID-19 in humans. In agreement with previous studies, our experiments using hACE2 transgenic mice and Syrian hamsters confirmed their certain degree of sensitivity to SARS-CoV-2 (Figures 5 and 6, Figure S2 and S3) but failed to observe representative symptoms of COVID-19 such as fever induction, shaking chills, and the right-over-left predominated pneumonia.

@@ -1,0 +1,3 @@
+34678482|PMC8507586
+{'Disease', 'Species', 'Gene'}
+As long as critical levels of vaccination have not been reached to ensure heard immunity, and new SARS-CoV-2 strains are developing, the only realistic way to reduce the infection speed in a population is to track the infected individuals before they pass on the virus. For each simulation step (equal to 10 minutes - line 1) and every city in the simulated territory (line 2), the algorithm updates the health status of each infected individual as indicated by EpiGraph's Epidemic Model (line 5). In this work we evaluate when test campaigns proposed in Strategy 9 that occur at different time of the infection spread.

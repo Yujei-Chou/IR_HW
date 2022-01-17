@@ -1,0 +1,3 @@
+34691074|PMC8527883
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Understanding SARS-CoV-2 immune pathology is critical for the development of effective vaccines and treatments. Of note, the RM and AGM modules comprising consensus module 3 correlated directly with SARS-CoV-2 genomic RNA in the nasopharyngeal cavity and numbers of monocytes in blood ( Figures 2C, D  ), indicating that WGCNA was useful for a priori identification of coordinated gene networks that correlated with immune and virological measurements. AGMs displayed an additional 29 genes that were uniquely up-regulated in response to SARS-CoV-2 ( Figure 3B  and  Supplementary Table 2 ).

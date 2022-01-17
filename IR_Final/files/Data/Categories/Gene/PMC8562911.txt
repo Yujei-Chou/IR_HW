@@ -1,0 +1,4 @@
+34325437|PMC8562911
+{'Disease', 'Species', 'CellLine', 'Gene'}
+Objective:
+Discuss previous findings on the impact of working at home (WAH) on health, family-work-life conflict, and other outcomes. However, for those with children under the age of 12, an increase in domestic and caring responsibilities was the biggest disadvantage (67%). Interestingly, in the unadjusted model women with children showed significantly higher levels of family-work conflict compared with men with children (beta: 0.45 95% CI: 0.04, 0.86), but this was alleviated by the inclusion of workspace location and satisfaction with the division of household tasks in the adjusted model.

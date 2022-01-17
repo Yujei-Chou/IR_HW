@@ -1,0 +1,4 @@
+34630633|PMC8491972
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Graphical abstract
+Coronavirus disease 2019 (COVID-19) is an ongoing pandemic caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). To evaluate the effect on the ACE2 and TMPRSS2 gene expression, quantitative real-time PCR (qRT-PCR) analysis was performed using Taqman Gene Expression Master Mix (Hs00174179_m1 and Hs01122322_m1, respectively; Thermofisher).Inflammatory cytokines expression (IL-6, IL-15, IL-1beta, VEGFbeta, TNF-alpha, MCP-1, CXCL1) was evaluated using a SYBR green Master Mix (Applied Biosystems, Grand Island, NY, USA). No effects have been observed on TMPRSS2 expression, suggesting that the preventive action of FM-CBAL74 not involved the modulation of TMPRSS2 (Fig.

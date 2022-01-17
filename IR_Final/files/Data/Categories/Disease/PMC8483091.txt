@@ -1,0 +1,3 @@
+34660399|PMC8483091
+{'Chemical', 'Disease', 'Species', 'Gene'}
+An epidemic that occurs worldwide, involving many countries and affecting a large population is called as a pandemic. This is due to enhanced globalization, air travel, increasing population and entering into animal habitats; thereby increased close association with them. This can be attributed to extremely high transmissibility of the virus, human to human transmission at a very early stage of the pandemic, more prominent community spread, and transmission from asymptomatic cases, which has led to an extremely huge surge of infection.

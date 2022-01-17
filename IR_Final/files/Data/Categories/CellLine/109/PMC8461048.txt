@@ -1,0 +1,3 @@
+34219476|PMC8461048
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+As severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has surged across the globe, great effort has been expended to understand mechanisms of transmission and spread. Repeated assays on this sample (n = 3) continued to suggest the presence of approximately 1000 copies of viral RNA at this location. Despite the presence of CPE in wells inoculated with SARS-CoV-2 (positive biological control), no CPE formation was observed in wells inoculated with either the two positive fomite samples after 8 days in culture or media alone (negative biological control) (Table 4).SARS-CoV-2 infected secretions expelled by patients while coughing, sneezing, or talking are known to transmit disease.

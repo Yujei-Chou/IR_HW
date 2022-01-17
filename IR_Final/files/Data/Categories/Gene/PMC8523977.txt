@@ -1,0 +1,4 @@
+34369342|PMC8523977
+{'Disease', 'Species', 'Gene'}
+Objective:
+Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2), also known as Coronavirus Disease (COVID-19), originally appeared in Wuhan, China in December 2019. A specific study has applied the HMB to better understand how individual perceptions impact engaging in positive public health practices during the pandemic. The interaction between stress and perceived susceptibility was significantly related to social distancing compliance; there may be stronger associations between perceived susceptibility and social distancing compliance among individuals reporting high stress (b = -0.18, P < 0.05).The COVID-19 pandemic has posed numerous challenges and has highlighted the need to advance research related to effective mitigation strategies including social distancing.

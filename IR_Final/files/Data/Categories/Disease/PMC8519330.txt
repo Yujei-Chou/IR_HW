@@ -1,0 +1,3 @@
+34654995|PMC8519330
+{'Disease', 'Species', 'Gene'}
+School connectedness is consistently associated with adolescent mental health and well-being. One study, which interviewed three teachers in New South Wales, Australia, identified challenges to school connectedness during remote learning due to COVID-19, including students struggling with access to technology, shifts in routine, and social isolation (Page et al.,). These percentages were similar to the distribution across grades for the larger sample of students who completed the module (36.6% middle school, 63.4% high school).

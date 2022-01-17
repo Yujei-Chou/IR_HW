@@ -1,0 +1,3 @@
+34707577|PMC8542975
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+COVID-19 is mainly associated with respiratory distress syndrome, but a subset of patients often present gastrointestinal (GI) symptoms. Hence, our analyses revealed that patients with COVID-19 displayed obvious differences in their gut microbial composition. Moreover, the boxplot of probability also validated a significant diagnostic potential of gut microbial markers for COVID-19 (Figure 5F).We further performed Spearman correlation analysis between the gut microbiota and clinical indexes of COVID-19 and found eight clinical indexes that are closely related to eight species of COVID-19 patients' gut microbiome (Figure 6A).

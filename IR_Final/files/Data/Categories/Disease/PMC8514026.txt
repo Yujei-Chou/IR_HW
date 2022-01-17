@@ -1,0 +1,3 @@
+34593591|PMC8514026
+{'Disease', 'Species', 'Gene'}
+We created a sustainable, bidirectional partnership using telecommunication technology to enhance emergency medicine education collaboration. In 2018, a collaboration between BMC and WCM EM departments began with a bidirectional exchange of personnel for both clinical electives and research. Through bidirectional exchange opportunities, WCM and BMC have jointly developed department protocols to streamline patient care for common chief complaints.

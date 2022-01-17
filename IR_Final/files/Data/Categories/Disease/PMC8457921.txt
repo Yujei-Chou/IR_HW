@@ -1,0 +1,3 @@
+34580550|PMC8457921
+{'Disease', 'Species', 'Gene'}
+Computed tomography has gained an important role in the early diagnosis of COVID-19 pneumonia. Fifteen CT features, which were useful to diagnose COVID-19 cases, were extracted by an expert pulmonologist with 6 years (Argentinian), and expert radiologist with 5 years (Dutch), 6 years (Turkish), 5 years (Iranian), 5 years (Italian) of experience in thoracic imaging: In this study, the COVIDiag model was used to evaluate its validity to differentiate COVID-19 from non-COVID-19 cases. However, the system's performance based on an international foreign database (Ecuador) decreased to AUC of 0.905.

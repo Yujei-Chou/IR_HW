@@ -1,0 +1,4 @@
+34785818|PMC8579716
+{'Disease', 'Species', 'Gene'}
+Case Report
+The journal Nature  recently published an article featuring an image (Fig. These features are indicative of a growing atypical melanocytic lesion (dysplastic nevus or incipient melanoma).Zalaudek et al. We believe that the morphologic similarities between the viral spike proteins and these structures are clearly depicted in Figure 1, Figure 2.

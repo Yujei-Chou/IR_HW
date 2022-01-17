@@ -1,0 +1,4 @@
+34663099|PMC8524342
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+ABSTRACT
+SARS-CoV-2 is a respiratory virus that has caused more than 225 million cases and 4.6 million deaths as of September 2021 (https://covid19.who.int/). For samples with detectable infectious virus, the RNA levels were approximately 200-fold higher than PFU levels on 1 and 2 dpi. Once we established the window of time postinoculation when infectious virus was detected in aerosol particles (1 to 2 dpi), we inoculated 8 additional hamsters in order to test whether small particles contain infectious SARS-CoV-2.

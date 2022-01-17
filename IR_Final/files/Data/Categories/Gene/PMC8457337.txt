@@ -1,0 +1,4 @@
+34494964|PMC8457337
+{'Disease', 'Species', 'Gene'}
+Background
+As the current COVID-19 pandemic continues to evolve, its impact becomes apparent. In addition, Multimedia Appendix 6 shows the proportion, flow, and direction of the change of fatigue stratified for the type of diagnosis (ie, hospitalized and nonhospitalized test-diagnosed patients, physician-diagnosed patients, and patients without a formal diagnosis/test).Patients with confirmed COVID-19 reported median physical and mental fatigue scores of 19 points (IQR 16-20) and 15 points (IQR 10-17) at T1. Therefore, no definite conclusions on the burden of mental fatigue in online long COVID peer support groups can be drawn based on the current study.

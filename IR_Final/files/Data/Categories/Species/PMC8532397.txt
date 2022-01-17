@@ -1,0 +1,4 @@
+34686214|PMC8532397
+{'Disease', 'Species'}
+Correction to: Trop Med Health (2020) 48:51 https://doi.org/10.1186/s41182-020-00241-8
+Following the publication of the original article, some content was missing in both the second paragraph of the section Study design and participants and the section Ethics approval and consent to participate. The updated sentence is given below and the changes have been highlighted in bold typeface. This was a retrospective analysis of anonymized routinely collected data, implemented under an existing acute respiratory tract/COVID-19 study, approved by the SLH research ethics and review unit (Ref: SLH-RERU-2020-022-I) and the School of Tropical Medicine and Global Health, Nagasaki University Ethical Committee (NU_TMGH_2020_119_1).The original article has been corrected.

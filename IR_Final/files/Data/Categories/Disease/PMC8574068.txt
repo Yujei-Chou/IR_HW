@@ -1,0 +1,4 @@
+34777716|PMC8574068
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Graphical abstract
+The knowledge of the factors that lead to a poor prognosis after SARS-CoV-2 exposure is of utmost importance in recent days. Lipidomics analyses also revealed significant associations with DPP9, TYK2, and CCR2 both in the jejunum (Figure 3 a,c,e, Figure S2e-j) and colon (Figure 3 b,d,f, Figure S3c-e). Another remarkable finding was the positive association of the DPP9, TYK2 and CCR2 expression with metabolic products of male gonadal steroids such as andro steroid monosulfate, dehydroisoandrosterone sulfate (DHEA-S), and epiandrosterone sulfate (Figure S3c-e), but negative with metabolites resulting from the catabolism of female gonadal steroids, including pregnenolone sulfate, pregnanediol derivatives, and pregn steroid monosulfate (Figure 3 d,f, Figure S3d-e).In the present study, we found that the expression of ACE2 in peripheral leukocytes was increased in female compared to men.

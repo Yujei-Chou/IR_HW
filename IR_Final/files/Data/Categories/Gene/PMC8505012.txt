@@ -1,0 +1,3 @@
+34658609|PMC8505012
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The COVID-19 pandemic is likely to affect people who have had previous experiences of psychosis - either positively or negatively. The COVID-19 pandemic is likely to pose significant additional psychosocial stressors to individuals with severe mental health difficulties (Brooks et al.,; This is consistent with suggestions in recent theoretical papers, outlining how COVID-19 related factors (e.g., social distancing, loneliness, fear of contamination, overload of information) can lead to exacerbated distress, delusions, and hallucinations in individuals with severe mental disorders (Hamada & Fan,; Zhand & Joober,).

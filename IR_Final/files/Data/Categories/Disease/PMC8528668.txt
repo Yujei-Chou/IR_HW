@@ -1,0 +1,3 @@
+34697561|PMC8528668
+{'Disease'}
+Many organizations have adapted flexible working arrangements during COVID19 pandemic because of restrictions on the number of employees required on site at any time. Unfortunately, current employee scheduling methods are more suited for compressed working arrangements. In this research, we propose a machine learning approach that takes advantage of mining user-defined constraints or soft constraints and transform employee scheduling into a classification problem.

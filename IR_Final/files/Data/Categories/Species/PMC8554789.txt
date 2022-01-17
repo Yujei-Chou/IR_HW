@@ -1,0 +1,4 @@
+34756831|PMC8554789
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objective
+Poor sleep quality and short sleep duration are major public health concerns. A significant interaction was observed for between-person physical symptoms and COVID-19 threat, such that higher average physical symptoms was associated with shorter average sleep duration only among individuals with low (simple slope: Est = -0.10, SE = 0.02, p < .001) to moderate (simple slope: Est = -0.07, SE = 0.02, p < .001) COVID-19 threat, but not among people with higher COVID-19 threat (simple slope: Est = -0.03, SE = 0.02, p = .08). Thus, although better overall sleep:as well as night-to-night improvements:were beneficial for daily physical symptoms and stress exposure (possibly via situation selection or appraisals) among individuals with lower COVID-19 threat, sleep did not confer as much protective effects for participants with more severe threat appraisals during the pandemic.

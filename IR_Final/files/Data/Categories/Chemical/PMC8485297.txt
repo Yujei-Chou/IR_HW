@@ -1,0 +1,4 @@
+34581218|PMC8485297
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objective
+Severe acute respiratory syndrome (SARS) coronavirus 2 was first identified in Wuhan, China in December 2019. The mortality rate was 6.406-fold higher in patients with a CAR of >=23 than in those with a CAR of <23 (P < 0.001, Tables 3-4, Figure 2).The accuracy of the lymphocyte count for predicting mortality was significantly lower than that of CRP levels, neutrophil counts, CAR, and NLR (all P < 0.05, Figure 3). In hypertensive patients as a specific group, CAR >=20.75 was significantly related to in-hospital death.

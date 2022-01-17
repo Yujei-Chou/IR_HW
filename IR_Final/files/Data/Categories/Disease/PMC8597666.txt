@@ -1,0 +1,3 @@
+34784756|PMC8597666
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Aim: In our study, we investigated the efficiency of the prognostic nutritional index (PNI) score and the CRP, age, platelet count, albumin level (CAPA) score predicting mortality and intensive care unit (ICU) admission in COVID-19 disease. In predicting ICU admission, AUC was 0.77 (p < 0.001) with 85.5% specificity and 68.5% sensitivity for CAPA >=1, and 58% specificity and 80% sensitivity for CAPA >=2 (Figure 1).PNI, which we evaluated in the course of COVID-19, was first identified as a predictor of postoperative complications after gastrointestinal surgery and was brought into clinical use. This study evaluating the effectiveness of the CAPA score in COVID-19 disease is the first in the literature.

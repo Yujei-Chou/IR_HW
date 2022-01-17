@@ -1,0 +1,4 @@
+34587759|PMC8545247
+{'Chemical', 'Disease', 'Species', 'Gene'}
+See accompanying article on page  
+ See accompanying article on page  At a population level, dyslipidemia is both highly prevalent and undertreated, representing an important modifiable cardiometabolic risk factor from a public health perspective. Provided these assumptions, the MR framework permits the estimation of the lifelong effects of a risk factor on an outcome of interest. Using a 2-sample MR design, the authors estimated the effect of these traits on (1) risk of COVID-19 infection (UK Biobank [UKB], Host Genetics Initiative [HGI]) and (2) severe COVID-19 (HGI), based on separate GWAS of these traits.

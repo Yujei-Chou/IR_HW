@@ -1,0 +1,3 @@
+34616794|PMC8464461
+{'Disease', 'Species'}
+Radiation therapy (RT) is considered one of the cornerstone modalities of treatment for different cancer types. The response during the COVID-19 pandemic varied between developing countries according to the infection rate and RT technological capabilities. In life-threatening situations such as those involving bleeding and spinal cord compression, in which RT needs to be delivered urgently, the use of a hypofractionated regimen is preferable to achieve a more rapid response; the use of these regimens also adheres to the protocols in place during the COVID-19 pandemic.

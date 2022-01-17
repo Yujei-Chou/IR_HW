@@ -1,0 +1,4 @@
+34669085|PMC8527298
+{'Disease', 'Species'}
+Correction to :  Neurological Sciences (2021) 
+ Correction to :  Neurological Sciences (2021)  https://doi.org/10.1007/s10072-021-05616-1 The above article was published online with missing statement. An article note: "Haili Wang, Juan Lu and Xia Zhao contributed equally to this work" has been added.

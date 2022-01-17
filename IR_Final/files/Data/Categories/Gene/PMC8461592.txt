@@ -1,0 +1,4 @@
+34559248|PMC8461592
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Klinisches Problem
+Tiefe Beinvenenthrombosen, venose Thromboembolien und Lungenarterienembolien treten bei mit COVID-19 (,,corona virus disease 2019") hospitalisierten Patienten gehauft auf, insbesondere bei schwerem Verlauf. Bei schwer kranken COVID-19-Patienten war das progressive Lungenversagen deutlich haufiger mit dem pathologischen Nachweis thrombotischen Materials vergesellschaftet als bei der Autopsie von Patienten mit Influenza A. Auch venose thrombotische Ereignisse (tiefe Venenthrombosen, Lungenarterienembolien [LAE]) werden bei Influenza wesentlich seltener beobachtet als bei COVID-19. Wie in vielen klinischen Fachern ist COVID-19 auch radiologisch ein sich in mannigfaltigen Formen manifestierendes Krankheitsbild.

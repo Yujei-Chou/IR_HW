@@ -1,0 +1,4 @@
+34667334|PMC8518200
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Graphical abstract
+The coronavirus disease (COVID-19) outbreak across the world encouraged most researchers to exert effort to develop treatment strategies to overcome the fast progression of this respiratory disease. Results reveal accurate and specific determination of the intact drug in presence of up to 90% of the degradation products, Table S1. Kinetics of acid, alkali hydrolysis and oxidative degradation were studied for 12 h. Linear relationship was obtained by plotting the log % of FAV remaining concentration versus time, Fig.

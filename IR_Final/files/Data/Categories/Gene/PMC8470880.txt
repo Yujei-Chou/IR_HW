@@ -1,0 +1,3 @@
+34578888|PMC8470880
+{'Chemical', 'Disease', 'Species', 'Gene'}
+We aimed to study the possible association of stress hyperglycemia in COVID-19 critically ill patients with prognosis, artificial nutrition, circulating osteocalcin, and other serum markers of inflammation and compare them with non-COVID-19 patients. In conclusion, hyperglycemia in critically ill COVID-19 patients was associated with longer ICU stays. As expected, those patients with longer ICU stays needed more days on artificial nutrition for both PN (r = 0.741, p < 0.001) and EN (r = 0.829, p < 0.001).Circulating osteocalcin was lower in patients with COVID-19 (Table 1).

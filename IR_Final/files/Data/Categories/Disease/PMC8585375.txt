@@ -1,0 +1,3 @@
+34772117|PMC8585375
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The motivation for research on 3D printing of protective face shields was the urgent societal demand for healthcare in the fight against the spread of COVID19 pandemic. In the case of plastics containing biomass particles (PHA BioWOOD Rosa), the particles can be seen even at low magnifications, their distribution is even, and they have several sizes. PLA Prusament has significant factor A:layer thickness and interactions BD and CE.

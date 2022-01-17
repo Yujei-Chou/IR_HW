@@ -1,0 +1,4 @@
+34703600|PMC8521316
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Abstract
+Autoimmune hemolytic anemia (AIHA) is a rare immune-mediated complication of COVID-19, leading to adverse clinical outcomes. However, AIHA occurring with mild COVID-19 is an extremely unusual association and might be missed if not highly considered. After that, he tested positive for COVID-19; and there was no infiltrate on the chest X-ray (Figure 1A).

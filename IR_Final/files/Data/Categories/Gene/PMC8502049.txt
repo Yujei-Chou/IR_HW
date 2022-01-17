@@ -1,0 +1,4 @@
+34675723|PMC8502049
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objective
+Globally, to date (10 September 2021), there have been 223,022,538 confirmed cases of COVID-19, including 4,602,882 deaths, reported to the World Health Organization (WHO). Correlational analysis showed that there were significant correlations between perceived stress and sleep quality (r = 0.52, P < 0.001), anxiety and depression and sleep quality (r = 0.57, P < 0.001), and perceived stress and anxiety and depression (r = -0.64, P < 0.001). First, this study assessed sleep quality and perceived stress and anxiety and depression symptoms among health care workers during the COVID-19 crisis and explored associated factors and their interactions, which could provide clues to help precise interventions of sleep quality and other mental health problems for health care workers.

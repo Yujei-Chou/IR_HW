@@ -1,0 +1,3 @@
+34780583|PMC8573561
+{'Disease', 'Species'}
+Correction to: Humanities and Social Sciences Communications 10.1057/s41599-021-00922-7, published online 19 October 2021. Correction to: Humanities and Social Sciences Communications 10.1057/s41599-021-00922-7, published online 19 October 2021.This paper wrongly included two files among the supplementary information that were incorrectly uploaded. These files, named 'Marked-up Manuscript' and 'Field of Study Networks' have now been removed.

@@ -1,0 +1,3 @@
+34566790|PMC8456024
+{'Disease', 'Species', 'Gene'}
+COVID-19 not only poses a huge threat to public health, but also affects people's mental health. This paper established a sentiment classification model to make sentiment annotation (positive and negative) about the 105,536 epidemic comments in 86 days on the official Weibo of People's Daily, the test results showed that the accuracy of the model reached 88%, and the AUC value was greater than 0.9. In addition, the research results of prove that public sentiment is related to rumors spread on the Internet.

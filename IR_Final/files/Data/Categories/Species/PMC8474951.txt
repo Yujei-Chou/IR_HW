@@ -1,0 +1,3 @@
+34565476|PMC8474951
+{'Chemical', 'Disease', 'Species', 'Mutation'}
+We describe the lessons learned during a SARS-CoV-2 variant-of-concern Alpha outbreak investigation at a normal care unit in a university hospital in Amsterdam in December 2020. One nurse tested positive with a phylogenetically distinct variant, after a documented infection 83 days prior. Four out of seven household contacts (57%) and three out of six close contacts (50%) tested positive for SARS-CoV-2, resulting in an secondary attack rate of 54% (95% CI 29.1-76.8).An outbreak management team was formed on December 29, 2020 when the Alpha variant was detected using sequencing.

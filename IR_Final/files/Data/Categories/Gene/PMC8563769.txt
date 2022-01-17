@@ -1,0 +1,3 @@
+34728719|PMC8563769
+{'Chemical', 'Disease', 'Species', 'Gene'}
+A high neutrophil to lymphocyte ratio (NLR) is considered an unfavorable prognostic factor in various diseases, including COVID-19. Many studies have recognized increased NLR as an independent prognostic factor for COVID-19 patients, especially in those older than 50. A significantly greater proportion of patients required mechanical ventilation in the COVID-19 group compared to the influenza and RSV groups (9.6%, 6.6% and 8.1% respectively; P < 0.03).For purposes of analysis, a poor outcome was defined as the presence of any of the two above:mentioned endpoints.

@@ -1,0 +1,4 @@
+34635091|PMC8503703
+{'Disease', 'Species', 'Gene'}
+Background
+Waiting times are serious challenges for international healthcare systems. The aim was to analyze potential differences in waiting times based on patients' insurance status. The insurance status also plays an important role in this model, showing that PHI patients have a 35.27% reduction in waiting time (4.60 days) compared with SHI patients (p = <.001, b = -.435 SE = .063).

@@ -1,0 +1,3 @@
+34760806|PMC8531736
+{'Chemical', 'Disease', 'Species'}
+Triage becomes necessary when resources and time are not sufficient to provide the best possible services to all patients. Accordingly, rapid identification and isolation of infectious patients as well as the complexity of triage and evaluation of patients with developing clinical symptoms and the potential of infectious diseases that may prolong for weeks and months are among the problems that hospitals face. In the waiting rooms, toilets and handwashing places for patients with symptoms of infectious diseases should be considered.

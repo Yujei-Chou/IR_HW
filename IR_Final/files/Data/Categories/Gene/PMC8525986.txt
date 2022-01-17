@@ -1,0 +1,4 @@
+34678195|PMC8525986
+{'Disease', 'Species', 'Gene'}
+Summary
+ Evidence before this study We searched published and preprint literature with the following combination of keywords: "incidence", "risk factors", "SARS-CoV-2", "COVID-19", "cohort", "Amazon", and "Brazil". The assay had a sensitivity of 89 07% (95% CI 84 79-92 30) for patients at least 7 days after onset and 94 28% (89 44-97 07) for patients at least 14 days after onset of COVID-19 symptoms. Between the first and second visits, 2 9% of the sample had a positive RT-PCR test and 5 4% developed symptoms and were diagnosed with COVID-19 by the local government or private laboratories (figure 2C; appendix p 4).We then analysed the effects of sociodemographic, health-related, behavioural, case clustering, and COVID-19 testing variables on seroconversion (appendix pp 5-9).

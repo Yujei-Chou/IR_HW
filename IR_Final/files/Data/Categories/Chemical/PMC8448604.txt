@@ -1,0 +1,4 @@
+34603503|PMC8448604
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Introduction
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is a novel coronavirus subtype from the Sarbecovirus virus family, causing the currently expanding coronavirus disease 2019 (COVID-19) pandemic. The distribution of ACE gene polymorphisms and their impact on the outcomes of 112 COVID-19 patients are studied in this present research. In a polymorphism study conducted in Asian countries, there was a significant correlation between D allele and mortality (r = 0.602; p = 0.002), but there was no significant correlation between recovery rate and alleles (r = -0.200; p = 0.350) consistent with our findings.

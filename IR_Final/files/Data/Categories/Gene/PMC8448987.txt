@@ -1,0 +1,4 @@
+34004229|PMC8448987
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Purpose
+The coronavirus disease of 2019 (COVID-19) pandemic has brought disruptions to all aspects of health care, including cancer diagnostic services. Despite this, the estimated numbers of missed cancer cases were 602 (10.0%), 244 (3.0%), and 477 (19.7%) for colorectal, lung, and prostate regions, respectively (Table 2).In Hong Kong, a differential impact was observed in 2020 depending on body region, with colorectal and prostate more affected compared with breast and lung regions in terms of actual malignant pathologic diagnosis. Breast-related investigations, such as mammogram, ultrasound and U.S.-guided biopsies can be performed relatively noninvasively, and services were scaled up more quickly after an initial reduction, as observed in June and July 2020 (Fig.

@@ -1,0 +1,3 @@
+34657930|PMC8532519
+{'Chemical', 'Disease', 'Species'}
+The development and use of digital health technology have increased during the global COVID-19 pandemic. This Editorial aims to discuss how the COVID-19 pandemic has driven global initiatives to support the use and regulation of digital health technology and the requirements for digital health evidence frameworks and new approaches to regulatory approvals. The COVID-19 pandemic has given new impetus to digital technology in healthcare.

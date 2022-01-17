@@ -1,0 +1,4 @@
+34647855|PMC8544674
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+Abstract
+The coronavirus disease, which was called Covid-19 by the WHO on February 11, 2020, began in Wuhan, China, in December 2019 and has highly spread in epidemic manners (Lillie et al.,). The other MPros-binding sites against MLN-4670 showed one stable conformational stage at all period-scales 5-200 ns. SASA analysis for 6vwl-Complexes (Blue), spike 6vwl-Complexes (Red), 1P8J-Complexes (gray) and 1R42-Complexe (yellow).SARS-Cov-2 was believed to be a pandemic virus, and it thought that blocking viral spike protein and/or ACE-2 receptors could help in improving a drug or vaccines against Covid-19, that is why the present work focused on small molecules which had the abilities to work against SARS-Cov-2 through disrupting the spike-ACE-2 interaction.

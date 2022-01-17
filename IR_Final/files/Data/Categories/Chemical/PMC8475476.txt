@@ -1,0 +1,3 @@
+34602810|PMC8475476
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Sinus venous thrombosis (SVT) is an increasingly recognised complication of not only SARS-CoV-2 infections, but also of SARS-CoV-2 vaccinations. A limitation of the study is that only computed tomography (CT) scans of the brain were provided. The statement of the conclusions "upon monitoring the neutrophil/lymphocyte ratio, it became apparent that D-dimer, fibrinogen, and C-reactive protein (CRP) are bad prognosis indicators, why the use of heparin or low molecular weight heparin (LMWH) decreases the D-dimer and not by any means increase the symptoms" is inconclusive.

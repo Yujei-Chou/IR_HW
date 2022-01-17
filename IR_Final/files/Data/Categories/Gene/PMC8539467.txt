@@ -1,0 +1,3 @@
+34683867|PMC8539467
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Drug delivery devices used for aerosol therapy during mechanical ventilation to ease the symptoms of respiratory diseases provide beneficial treatment but can also pose challenges. Figure 4 presents the mass of drug delivered to the end of the ETT using standard adult settings during invasive mechanical ventilation with active humidification. For LTV ventilation, the opposite was observed, with the pMDI/F&P wye delivering a larger dose (75.38 +- 8.14 microg) in comparison to the pMDI/MiniSpacer (68.92 +- 3.67 microg).

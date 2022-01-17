@@ -1,0 +1,3 @@
+34566532|PMC8450759
+{'Chemical', 'Disease', 'Species'}
+This study examines the impact of the change in the Barro Misery Index (BMI) and the novel coronavirus (COVID-19) cases and deaths on the stock markets' returns and volatility. examine the impact of COVID-19 on stock market volatility across 11 developed countries and China and find that the volatility has increased substantially from February to March 2020. We analyze the differing impacts of BMI components' changes on stock returns and volatility for the emerging versus developed markets.

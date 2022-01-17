@@ -1,0 +1,4 @@
+34731173|PMC8565782
+{'Chemical', 'Disease', 'Species', 'CellLine'}
+Objective
+The daily number of U.S. COVID-19 cases, which we present in Fig 1, shows that there have been three distinct waves. The results of the explanatory model further illustrate the relationship between the region of the country and the outbreak patterns. While some research and commentary suggest that negative outcomes are higher in these underserved areas (see, e.g.,, and), our results show that counties deemed rural or underserved by the Consumer Financial Bureau experienced a later outbreak pattern, classifying in the late summer outbreak (C1) or the late fall outbreak (C3) with higher probability than in the early spring outbreak pattern (C2).

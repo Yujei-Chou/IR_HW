@@ -1,0 +1,4 @@
+34759500|PMC8575226
+{'Disease', 'Species', 'Gene'}
+Context:
+The first case and the first death were reported in West Bengal (India) on March 17, 2020 and March 23, 2020, respectively. Several assumptions have been made on the basis of observational data:Markets are the main source of spread of infection. Routine viral load testing and selective isolation of superspreaders, with the same rate of testing as on June 23, 2020 have shown increase in the number of superspreaders and this maybe because of large percentage of low viral load subjects, who have not been isolated.

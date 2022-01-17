@@ -1,0 +1,4 @@
+34804412|PMC8604520
+{'Chemical', 'Disease', 'Species', 'Gene'}
+ABSTRACT
+Pulmonary embolism is frequently associated with deep vein thrombosis (DVT) and less so in isolation. COVID-19 infection is associated with an increased risk of venous and arterial thrombosis. His platelet count was normal - 216 (150-450 x 109/L).Electrocardiogram (ECG) was significant for sinus tachycardia and mild lateral ST depression (Figure S1).CT angiogram chest showed multiple filling defects in the segmental and subsegmental branches of both lobes in keeping with extensive pulmonary embolism (Figure S2).Echocardiogram was significant for right heart strain, raised pulmonary pressure PASP40-45 mmHg, and mild tricuspid regurgitation.

@@ -1,0 +1,4 @@
+34613542|PMC8493361
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Purpose of Review
+ The novel coronavirus (SARS-CoV-2) and its corresponding disease (COVID-19) have had tremendous impacts on mental health across the globe. There was no statistically significant association between social media use and anxiety (r = 0.078; p > 0.5), loneliness (r = -0.116; p > 0.5), or the COVID-19 stressor (impact of events on student life; r = 0.112; p > 0.5).Given the mixed results, the relationship between social media use and college student mental health during the COVID-19 pandemic appears to be complicated and may be explained by moderating factors such as COVID-19 stress . Investigators in China  surveyed college students on social media use, mindfulness, rumination, and measures of psychological distress during COVID-19.

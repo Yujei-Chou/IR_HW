@@ -1,0 +1,4 @@
+34568488|PMC8463212
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+As of May 1, 2021, 152,038,419 people have been infected by the SARS-CoV-2 virus, the cause of Coronavirus Disease 2019 (COVID-19). Assessment for bias by Egger's (p = 0.953) and Begg's (p = 0.551) tests showed no significant small-study effects, and visual inspection of the funnel plot suggested no publication bias (Figure 3(b)). This notion is in line with the observed mortality benefit in patients receiving statins during hospitalization.

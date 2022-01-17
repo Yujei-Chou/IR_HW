@@ -1,0 +1,4 @@
+34642630|PMC8498977
+{'Disease', 'Species', 'Gene'}
+Dear Editor,
+Dear Editor,We read with pleasure the study entitled: "Vocal Disorders in Patients with COVID 19 in Egypt" published online in the May 28, 2021 of the Indian Journal of Otolaryngology and Head & Neck Surgery. Furthermore, if we add the number of the patients with phonesthenia (n = 20, 18.86%) to the patients with dysphonia, therefore, nearly all patients (104/106) were complained from voice abnormalities. Post-COVID-19 dysphonia was reported in previous studies with much lower prevalence than Azzam et al.

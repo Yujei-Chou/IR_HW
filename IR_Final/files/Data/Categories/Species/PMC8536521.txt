@@ -1,0 +1,3 @@
+34720309|PMC8536521
+{'Disease', 'Species'}
+Coronavirus Diseases (COVID-19) is a new disease that will be declared a global pandemic in 2020. Visual changes in CT scan due to COVID-19 is subjective and evaluated by radiologists for diagnosis purpose. Coronavirus Disease (COVID-19) is an infectious disease, and this outbreak has changed

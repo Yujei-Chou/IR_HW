@@ -1,0 +1,3 @@
+34660631|PMC8514624
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objective: Coronavirus disease 2019 (COVID-19) is a disease with a high rate of progression to critical illness. Our aim was, then, to identify a COVID-19 specific score to predict mortality with improved positive predictive value and comparable very high negative predictive value, thus reducing the number of COVID-19 patients requiring medium-high intensity of care and concentrating patients at risk of mortality in adequately skilled and equipped divisions. The CASA index employs only clinical and blood parameters that are commonly available at the time of hospital admission to predict mortality.

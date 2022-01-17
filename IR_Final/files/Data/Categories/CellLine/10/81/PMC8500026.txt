@@ -1,0 +1,4 @@
+34545400|PMC8500026
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Abstract
+Since its initial outbreak on 31 December 2019, coronavirus disease 2019 (COVID-19) has become a rampant pandemic with a total of 142 539 302 confirmed cases and 3 116 444 deaths as of 27 April 2021. The calculated C-statistic for the FAPIC score was 0.786 (95% CI 0.757-0.814) and 0.807 (95% CI 0.787-0.827) in the K-step cross-validation and bootstrapping procedures, respectively (Figure 2).Before externally validating the predictive performance of the FAPIC score in the Ad26.COV2.S dataset, we compared the clinical profiles of TTS after ChAdOx1 nCoV-19 and Ad26.COV2.S vaccines, which is shown in Supplementary material online, Table S9. In the literature, the positive rate for functional platelet activation tests is reported to be far lower for patients with Ad26.COV.2.S-associated TTS.

@@ -1,0 +1,4 @@
+34607866|PMC8490999
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objectives
+Geospatial statistical methods can provide daily predictions of disease epidemiology at small spatial scales as a complement to large-scale designed studies that report infrequently. The analyses presented in this article were conducted as part of a project to develop software for real-time disease surveillance. This difference is also reflected in the cumulative incidence: by day 50 at the end of the first lockdown period the top 2.5% of cells had experienced five times as many cases per 10 000 population (>35) as the bottom 2.5% (<7).Figure 2 also shows the 7-day IRR, for which both the mean and median posterior mean remained greater than 1 until day 15 of the lockdown.

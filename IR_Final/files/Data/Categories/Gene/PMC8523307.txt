@@ -1,0 +1,4 @@
+34688988|PMC8523307
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Introduction
+Since early December 2019, the Coronavirus Disease 19 (COVID-19), the disease caused by the virus Sars-Cov-2, has devastated communities on a global scale, infected over 200 million people, and caused over 4.3 million deaths worldwide. The National MS Society has made the same recommendation (see Table 1 ).Of note, patients taking anti-CD20 therapies remained capable of generating antigen specific CD-4 T cell responses. As expected, Fingolimod was associated with concerningly low rates of protective antibody levels in response to COVID-19 vaccination.

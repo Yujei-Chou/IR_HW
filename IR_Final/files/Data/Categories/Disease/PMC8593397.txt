@@ -1,0 +1,4 @@
+34783932|PMC8593397
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Dear Editor-in-Chief,
+Dear Editor-in-Chief,Coronavirus disease 2019 (COVID-19) has caused a pandemic, and detailed information of adverse effects for its vaccines is to be timely needed. There were no remarkable abnormalities in brain parenchyma. CVST after SARS-CoV-2 vaccines are divided into a CVST in the setting of the vaccine-induced immune thrombotic thrombocytopenia syndrome (VITT), mainly related to adenovirus vector-based vaccines, and a CVST without VITT characteristics, related also to mRNA-based vaccines.

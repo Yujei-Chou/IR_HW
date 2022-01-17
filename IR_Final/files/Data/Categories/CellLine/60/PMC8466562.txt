@@ -1,0 +1,3 @@
+34576002|PMC8466562
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+Recently, inhibitors of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) main protease (Mpro) have been proposed as potential therapeutic agents for COVID-19. We also identified residues that do not disrupt the structure of the catalytic dyad, even after substitution. In addition, the structure of the ligand docked with the B chain also changed in D187A. These results indicate that the structure of entire active site, including both catalytic dyad and ligand, changed in D187A. If the structure of the entire active site is changed, SARS-CoV-2 Mpro may lose its function, in which case SARS-CoV-2 would not be able to proliferate.

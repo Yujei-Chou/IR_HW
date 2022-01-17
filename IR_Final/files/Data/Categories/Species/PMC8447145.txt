@@ -1,0 +1,4 @@
+34337812|PMC8447145
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Abstract
+There are only a limited number of studies on the psychological well-being of the nurses fighting against COVID-19.Nurses are afraid of coronavirus, and their work-life balance is negatively affected. The disease uncertainty, symptom severity and fear of death in patients further complicate the situation (Bonanad et al.,; The COVID-19 phobia subscale of the work-life balance scale was found to negatively affect psychological well-being (Table 3).The t test results regarding the beta coefficients of the variables included in the model at the third step and the significance of these coefficients indicated that the neglecting life (beta = -.42), coronaphobia (beta = -.21) and work-life harmony (beta = .13) variables significantly predicted psychological well-being.

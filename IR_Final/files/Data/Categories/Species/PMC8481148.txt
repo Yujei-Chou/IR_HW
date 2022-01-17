@@ -1,0 +1,4 @@
+34646710|PMC8481148
+{'Disease', 'Species'}
+Background
+Coronavirus disease 2019 (COVID-19) is a contagious disease that is caused by severe acute respiratory coronavirus 2 (SARS-CoV-2). Therefore, this study aimed to explore the view of parents in Saudi Arabia on the acceptability of COVID-19 vaccine for their children as the vaccine becomes approved for those less than 18 years of age. The reason for this positive perception towards COVID-19 vaccine was stated by the parents as we interviewed them.

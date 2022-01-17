@@ -1,0 +1,3 @@
+34650651|PMC8490166
+{'Chemical', 'Disease', 'Species'}
+The world confronts today a disease which was unknown as recently as early 2019. Cultural factors loomed large both in the eradication of smallpox and progress, to date, in the control of COVID-19. Vaccine nationalism is a major obstacle to a rational international approach.

@@ -1,0 +1,4 @@
+34588418|PMC8479016
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Dear editor,
+Dear editor,To date, a number of clinically approved drugs have been evaluated for potential to treat coronavirus disease 2019 (COVID-19), such as lopinavir/ritonavir, hydroxychloroquine, cobicistat, and darunavir. Furthermore, to investigate the inhibitory efficacies of these drugs on the enzymatic activity of Mpro, we determined the changes in relative fluorescence units (RFUs) when SARS-CoV-2 Mpro acted on the Forster resonance energy transfer substrate Dabcyl-KTSAVLQ/SGFRKME-Edans under the influence of drugs or not. Based on our results, several clinically approved drugs screened in this study could be considered candidate drugs, because they exhibit a definite affinity and inhibitory efficacy on the enzymatic activity of SARS-CoV-2 Mpro (Fig.

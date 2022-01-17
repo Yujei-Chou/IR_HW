@@ -1,0 +1,4 @@
+34760415|PMC8571943
+{'Chemical', 'Disease', 'Species'}
+Introduction
+As of September 2021, a year and a half have passed since the beginning of the novel coronavirus disease 2019 (COVID-19) pandemic. The CAC clinic accepts patients referred for persistent symptoms even one month (28 days) after the onset of COVID-19, and the clinic collaborates with other departments such as the psychiatry, dermatology, and otolaryngology departments. This is contradictory to the results of a study showing that patients with severe pneumonia are more likely to have chronic symptoms.

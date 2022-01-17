@@ -1,0 +1,4 @@
+34686947|PMC8536481
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+The ground-breaking development in biomedical research has shown an increase in the availability of biomedical data. That model has been widespread in reducing the laborious experimental procedures and identifying the putative molecular drug targets linked with disease mechanisms. stated and developed a Support Vector Machine (SVM) method to analyse the genomic variety and systematic data set to distinguish the protein based on homologs or likelihood for drug binding in breast cancer cases, pancreatic cancer, and ovarian cancers.

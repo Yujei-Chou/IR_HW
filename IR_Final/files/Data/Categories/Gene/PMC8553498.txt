@@ -1,0 +1,4 @@
+34728908|PMC8553498
+{'Chemical', 'Disease', 'Gene'}
+Hintergrund
+Knapp zwei Drittel der Pflegepersonen in Osterreich litten wahrend der COVID 19 Pandemie im Jahr 2020 unter massigem bis hohem Stress. Nahezu 45 Prozent der befragten Pflegepersonen denken an einen Berufsaustritt und 85 Prozent gaben eine massige bis starke Belastung durch die Pandemie an. Des Weiteren, wurden Fachhochschulen und Gesundheits- und Krankenpflege Schulen aller Bundeslander, als auch die zustandigen Sprecherinnen und Sprecher der jeweiligen Fachhochschulen gezielt per E-Mail kontaktiert.

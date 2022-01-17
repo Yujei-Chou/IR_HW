@@ -1,0 +1,4 @@
+34585248|PMC8500087
+{'Disease', 'Species'}
+Abstract
+Specialty public health registrars in the UK have diverse professional backgrounds including clinical practice, health data analytics and public health management. "Most of my work now focuses on one health condition (COVID-19), whereas I would normally work on a portfolio of projects"Registrars expected to be given more flexibility and supervised freedom to continue to apply their skills and continue their professional development as part of the response, instead they described a rapid shift towards becoming core members of operational public health response teams with allocated tasks and rota contributions. The COVID-19 pandemic response presented a significant opportunity for training and development but with notable variation in experience and views.

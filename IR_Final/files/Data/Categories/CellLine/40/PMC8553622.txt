@@ -1,0 +1,3 @@
+34675436|PMC8553622
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+Coronavirus disease 2019 (COVID-19) can damage cerebral small vessels and cause neurological symptoms. In hamsters infected with SARS-CoV-2, the length of string vessels increased on day 4 after infection (Fig. One day after lipofection, we treated the cells with IL-1beta (0.25 microg ml-1; PeproTech) and measured luciferase activity using the Dual Luciferase Reporter Assay (Promega) after 6 h. Immunocytochemistry of p65 or the TUNEL reaction was performed after stimulating cells for 30 min with IL-1beta (0.25 microg ml-1) or for 4.5 h with TNF (100 ng ml-1), 2-3 d after transfection.

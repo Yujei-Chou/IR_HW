@@ -1,0 +1,3 @@
+34734043|PMC8546804
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Personalized medicine is the tailor-made clinical treatment to the individual characteristics of each patient. This review discusses the practices currently used in the management of COVID-19 and how they relate to personalized medicine. The methods of personalized medicine for COVID-19, including the pathogenesis of COVID-19 and the development and application of detection kits, have played a key role in countries' response to the outbreaks.

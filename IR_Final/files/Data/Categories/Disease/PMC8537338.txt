@@ -1,0 +1,3 @@
+34684369|PMC8537338
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Vitamin D and zinc are important components of nutritional immunity. So far, data on the association between vitamin D and zinc status and the progression of symptoms during the clinical course among COVID-19 outpatients are limited. In addition, patients who tested positive for COVID-19 by reverse transcription-polymerase chain reaction (RT-PCR) were followed up from day 1 to day 28 after the onset of symptoms to evaluate the effect of vitamin D and zinc status at the second to seventh days of disease on the symptom progression during the clinical course of COVID-19.

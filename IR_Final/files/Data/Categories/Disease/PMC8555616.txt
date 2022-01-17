@@ -1,0 +1,4 @@
+34528522|PMC8555616
+{'Disease', 'Species', 'Mutation', 'Gene'}
+Sir,
+Sir,The global spread of SARS-CoV-2 mutant strain B.1.617.2 (Delta variant) was considered responsible for the massive second wave of COVID-19 in India and the third wave in the United Kingdom. The Delta variant of concern (VOC) (lineage B.1.617.2) was present in 45.1 per cent of samples in group A and rose to 77.6 per cent in group B. However, Alpha VOC (lineage B.1.1.7) was found in 11.8 per cent in group A and 2.6 per cent in group B. The other less commonly found lineages were B.1, B.1.1, B.1.393, B.1.617.1 and B.1.596 (Table II).There were 31 partially vaccinated (PV) and 127 fully vaccinated (FV, 80.3%) HCWs. The WHO has renamed these variants to simplify their names and to remove the stigma attached with these.

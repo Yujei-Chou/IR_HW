@@ -1,0 +1,3 @@
+34696506|PMC8538122
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+Infections with viral pathogens are widespread and can cause a variety of different diseases. After the stimulation with viral glycoproteins without a second signal such as nigericin or ATP, no increase in IL-1ss levels could be detected (Supplementary Figure S1c).To investigate the upregulation of an immune response, we first quantified phospho-NFkB (P-NFkB) in total cell lysates. c) Representative gating strategy showing flow cytometry analysis for THP-1 cell death staining with Annexin V and PI. (

@@ -1,0 +1,3 @@
+34497354|PMC8478645
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+Genomics, combined with population mobility data, used to map importation and spatial spread of SARS-CoV-2 in high-income countries has enabled the implementation of local control measures. Our data suggest that lineage B.1.1.25 was imported into Bangladesh at least twice before the cessation of international air travel on 21 March (Fig. In 2021, we sequenced an additional 85 SARS-CoV-2-positive samples that were obtained between 11 November 2020 and 15 April 2021.Patient samples that were positive for SARS-CoV-2 on the basis of RT-PCR analysis were selected for sequencing.

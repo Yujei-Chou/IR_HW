@@ -1,0 +1,4 @@
+34745595|PMC8563083
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Introduction
+In December 2019, a severe pneumonia-like illness emerged in the city of Wuhan, China which inevitably led to the Coronavirus disease-19 (COVID-19) pandemic. recognized that a rise in sulfatide levels due to intake of fenofibrate can also help in the reduction of SARS-CoV-2 infection. Fenofibrate has been known to suppress airway inflammation as well, meaning the drug can also provide relief to patients suffering from severe respiratory symptoms as a result of SARS-CoV-2 infection as shown in Fig.

@@ -1,0 +1,4 @@
+34615501|PMC8493044
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The devastating effects of the novel coronavirus disease 2019 (COVID-19) on personal health and well-being are well established. However, those who were retained for this study reported lower depression (p = .048, eta2 = .003), higher conscientiousness (p = .002, eta2 = .007), and lower openness (p = .002, eta2 = .007).To identity the personality prototypes, participants' TIPI subscale scores at Time 1 were converted to z-scores and analyzed using a k-means cluster analysis with a 2-group cluster specification. The standardized and unstandardized path coefficients for the indirect effects in the model are contained in Table 4.

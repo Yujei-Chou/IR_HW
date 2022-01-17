@@ -1,0 +1,3 @@
+34712108|PMC8516005
+{'Disease', 'Species', 'Gene'}
+Digital health technologies hold significant promise to advance both functional and normative health and social care integration. The COVID-19 pandemic has created a window of opportunity to rapidly advance the adoption of digital solutions which can improve activities that support integration at clinical, professional, organizational and system levels. The remainder of this perspective outlines opportunities and cautions for the road ahead; pulling from the emergent growing literature regarding digital health use since the advent of COVID-19 to discuss how new trends may advance or hinder the functional and normative mechanisms that underpin integrated care.

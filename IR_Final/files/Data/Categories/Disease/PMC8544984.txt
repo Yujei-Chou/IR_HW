@@ -1,0 +1,3 @@
+34388086|PMC8544984
+{'Disease', 'Species'}
+More than a year into the coronavirus-19 pandemic, intensified infection control measures have controlled most viral respiratory infections in Tokyo, Japan. In particular, the percentage of children 0-11 months of age with RSV has fallen significantly, from 32%-37% in 2018-2020 to 17% in 2021.The government of Japan has taken active measures to control the spread of COVID-19, including restricting children's group activities. In summary, we report a substantial outbreak of RSV infection in Tokyo starting in spring 2021.

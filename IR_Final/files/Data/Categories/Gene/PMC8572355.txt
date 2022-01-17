@@ -1,0 +1,4 @@
+34732515|PMC8572355
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Introduction
+In 1948, the WHO was created under the aegis of the United Nations (UN) as the agency to address global health concerns. The COVID-19 pandemic has demonstrated the need to break the silo of focusing on payment for health services. In 2008, the Commission on the Social Determinants of Health of the WHO stated, 'The Alma Ata Declaration promoted PHC as its central means towards good and fair global health:not simply health services at the primary care level (though that was important), but rather a health system model that acted also on the underlying social, economic and political causes of poor health'.

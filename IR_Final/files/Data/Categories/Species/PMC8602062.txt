@@ -1,0 +1,3 @@
+34805084|PMC8602062
+{'Disease', 'Species', 'CellLine', 'Gene'}
+Introduction: With the approval of COVID-19 vaccinations for children and adolescents in China, parental vaccine hesitancy will emerge as a new challenge with regard to the administration of these vaccines. Therefore, in this report an online survey on parental hesitancy from Shandong and Zhejiang provinces was conducted. Accordingly, focusing on risk factors contributing to parental vaccine hesitancy will no doubt be critical when promoting use of these vaccinations for children and adolescents.

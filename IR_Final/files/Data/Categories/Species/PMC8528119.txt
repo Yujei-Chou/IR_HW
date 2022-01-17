@@ -1,0 +1,4 @@
+34668722|PMC8528119
+{'Chemical', 'Disease', 'Species', 'Gene'}
+ABSTRACT
+High demand for diagnostic testing during the coronavirus disease 2019 (COVID-19) pandemic led to the development of various technologies for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) detection. With direct testing onto Panbio cassettes, false-positive results were seen in 93.3% of NP swabs in UTM, 86.7% of oropharyngeal and bilateral nares (OP/N) swabs in PBS, 90.0% of bronchoalveolar lavage (BAL) specimens, and 90.0% of the saline gargles (Table 1). Thermal shift assays in 100 mM tricine solutions were used to compare structural differences of the anti-SARS-CoV-2 IgG at pH values consistent (i.e., pH of 5 to 7) or inconsistent (i.e., pH of 8 to 10) with artifact formation (Fig.

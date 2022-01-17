@@ -1,0 +1,3 @@
+34563089|PMC8544224
+{'Disease', 'Species', 'Gene'}
+The COVID-19 pandemic caused the start of the academic year 2020/2021 to be conditioned by health and safety regulations. The obtained scores did not correlate with the variable age or with the years of association with the center (p > 0.05).The item "Have you taught or been taught telematically via video call due to being in confinement?" In light of the obtained results, it can be affirmed that satisfaction with the implementation of the bubble groups and pairs was moderate-high.

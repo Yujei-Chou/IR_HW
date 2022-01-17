@@ -1,0 +1,4 @@
+34535885|PMC8448663
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Coronavirus disease (COVID-19) can cause lung damage and insufficient respiratory capacity, both of which require non-invasive or invasive mechanical ventilation. The factors affecting pneumothorax-related mortality were a CCI of 4 and above, elevated IL-6 level and elevated NLR. In patients with COVID-19 disease who receive invasive or non-invasive mechanic ventilation, high PEEP levels should be avoided, and inflammatory marker levels and the SII should be closely monitored.

@@ -1,0 +1,4 @@
+34664024|PMC8516141
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+Coronavirus disease 2019 (COVID-19), an acute respiratory disease caused by severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2), has rapidly spread globally since the outbreak first reported in Wuhan in December 2019. In the first 3 months of 2020, no articles related to acupuncture treatment of COVID-19 were published. Thibaud E d'Oultremont assessed whether preventive natural bioenergetics (NB) could reduce the severity of the main symptoms (fever, cough, and shortness of breath) in patients with COVID-19.

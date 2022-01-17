@@ -1,0 +1,3 @@
+34759634|PMC8527057
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+The authors of this toolkit focus on children under the age of 18 comprising approximately 41% of the total population in India. The WHO's 5 moments of hand hygiene provides a summary of hand hygiene in healthcare settings. A quick reference guide is in the appendix of this toolkit that provides the clinician with suggestions on identifying, evaluating, and managing children with suspected or proven MIS-C [Appendix V].Children with COVID-19 disease may need inter and interfacility transport.

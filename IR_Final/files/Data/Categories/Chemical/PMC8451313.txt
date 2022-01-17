@@ -1,0 +1,3 @@
+34535492|PMC8451313
+{'Chemical', 'Disease', 'Species', 'Gene'}
+A 47-year-old woman presented with a headache to the acute medical unit, 10 days after receiving AstraZeneca vaccination for COVID-19. The patient had a negative pregnancy urine test, and was not on any regular medications, in particular to contraceptive medications. HIT antibodies came back as positive with percentage activation=31.57% (cut-off for positive reactions >8%).We describe a rare case of an immune-mediated severe thrombocytopenia and thrombosis involving the splanchnic and pulmonary vessels after the AstraZeneca vaccine (ChAdOx1 nCoV-19).This case highlights the importance of recognition and management of rare complications in patients receiving the new COVID-19 vaccinations.

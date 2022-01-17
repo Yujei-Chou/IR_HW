@@ -1,0 +1,3 @@
+34758899|PMC8572367
+{'Disease', 'Species'}
+Data emerging from the coronavirus disease 2019 (COVID-19) pandemic demonstrate that racialized communities and those with pre-existing socioeconomic marginalization have faced disproportionate rates of infection, severe disease, and mortality. When scrutinized, obstetric and gynaecologic outcomes have long been worse among marginalized people in Canada, before the COVID-19 pandemic. This proposal has gained some attention, but stronger commitments are needed to redress intersectional and exacerbated marginalization from the pandemic as we move towards recovery.

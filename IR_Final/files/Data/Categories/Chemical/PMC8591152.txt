@@ -1,0 +1,4 @@
+34780052|PMC8591152
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Introduction
+In November 2019, the novel coronavirus disease 2019 (COVID-19) outbreak started in the Hubei Province in China. Finally, previous COVID-19 infection was associated with lower ADDQoL and DTSQs scores, and higher K10 score (respective p values 0.027, 0.001, 0.001).The comparison between the results of the current study and those of Atallah et al. In a study from Saudi Arabia, the average psychological assessment score K10 of T2DM patients during the COVID-19 pandemic was 9.8.

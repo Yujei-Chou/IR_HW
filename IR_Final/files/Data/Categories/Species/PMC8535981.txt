@@ -1,0 +1,3 @@
+34682925|PMC8535981
+{'Chemical', 'Disease', 'Species'}
+COVID-19 has become a severe infectious disease and has caused high morbidity and mortality worldwide. In this model, we compared the simulated results in the following setups: the basic reproduction number (R0) = 1.0-5.5, fully vaccinated rate (M) at 103, 104, or 105 persons/day, and the vaccine effectiveness (v) at 51% or 89%. The results indicated that the minimal rates to yield fully vaccinated persons per day increased with P0 and R0.

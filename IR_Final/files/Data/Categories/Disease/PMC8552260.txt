@@ -1,0 +1,4 @@
+34761046|PMC8552260
+{'Chemical', 'Disease', 'Species', 'Gene'}
+CONTEXT:
+COVID-19 pandemic has disrupted medical education worldwide. Furthermore, no statistical differences in individual barrier, institutional barriers, and technological barrier were observed between two genders [Tables 2 and 3].Arias J J et al. In our study we observed, that majority of the students were strongly disagreeing with online teaching is better way of learning.

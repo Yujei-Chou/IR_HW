@@ -1,0 +1,3 @@
+34815626|PMC8601707
+{'Chemical', 'Disease', 'Species', 'Gene'}
+This study empirically measures Beijing's international air connectivity through descriptive statistics and various connectivity indexes. The government and Beijing airports can also refer to the analyses results to tailor effective favorable policies in support of these promising routes when expanding the international air connectivity. In addition, this index considers the negative impact of flying distance and additional transfers on air connectivity.

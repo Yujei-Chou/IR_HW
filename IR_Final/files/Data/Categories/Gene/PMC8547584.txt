@@ -1,0 +1,3 @@
+34483295|PMC8547584
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Supplemental Digital Content is Available in the Text. This multicenter study helps address the current need for clinical information on SARS-CoV-2 in patients with HIV. With a few exceptions [eg, patients with both SARS-CoV-2 and HIV infections, compared with patients with SARS-CoV-2 but without HIV infection, less often had exposure to SARS-CoV-2 from nursing homes (1.5% versus 8%) but were more likely to report abdominal pain (44.8% versus 35.1%) or chest pain (53.2% versus 42.4%)], self-reported risk factors and presenting symptoms were similar across the strata.

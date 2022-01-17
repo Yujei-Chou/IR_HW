@@ -1,0 +1,3 @@
+34696300|PMC8539339
+{'Chemical', 'Disease', 'Species'}
+Within a few months, the scientific world achieved a great success, developing effective and safe vaccines against COVID-19. It should be noted that there was an inverse relationship between the vaccination likelihood and the parent's age with the number of children they have. Interestingly, as many as 92.8% of parents who are not afraid of anything want to get their children vaccinated as soon as possible with a probability of vaccination of 9.4 +- 1.99, proving the thesis that fear and uncertainty about the used preparation is the overriding factor limiting willingness to use it.

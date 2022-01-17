@@ -1,0 +1,4 @@
+34715808|PMC8554744
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The COVID-19 viral infection outbreak, following the first report from Wuhan, China, in December 2019, has been headlined for global attention. Almost three-fold higher mortality among the COVID-19 patients living in family accommodation (3.9%) was observed when compared with the patients living in single shared accommodation (1.5%, p < 0.05) (Table 1).Diabetes Mellitus was the most predominant comorbidity observed among adult COVID-19 patients, more than one-quarter of the patients presented with Diabetes Mellitus (792/3072, 26.8%) (Fig. Older COVID-19 patients between 51 and 65 years had a significantly lower odds for survival (Crude OR 14.1 95% CI (3.4 - 58.4), p < 0.001) and (Adjusted OR 12.3, 95% CI (2.9-52.4), p < 0.001).

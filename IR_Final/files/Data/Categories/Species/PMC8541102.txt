@@ -1,0 +1,3 @@
+34696275|PMC8541102
+{'Chemical', 'Disease', 'Species', 'Gene'}
+COVID-19 vaccine hesitancy (VH) has caused concerns due to the possible fluctuations that may occur directly impacting the control of the pandemic. The outcome variable was VH, assessed by the question: "Will you get the COVID-19 vaccine when it is available to you?", The analysis of indirect paths did not resulted in marked differences, nor any divergence compared to the general model (Table 2).In the general model, the greatest total effects on Vaccine hesitancy (VH) were observed for high Vaccine conspiracy beliefs (VB) (beta = 0.795; p-value<0.001) and high COVID-19 misinformation (MIS) levels (beta = 0.523; p-value<0.001), both strong and significant.

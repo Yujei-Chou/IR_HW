@@ -1,0 +1,4 @@
+34556156|PMC8460182
+{'Disease', 'Species', 'Gene'}
+Objective
+The World Health Organization considers the right to health as a fundamental right for all. This study aimed to determine the macro model of the health insurance economic resilience in the critical situation of Covid 19. This study was financially supported by Mashhad University of Medical Sciences (Fund Number: 21280).The present research data will be available upon logical request.

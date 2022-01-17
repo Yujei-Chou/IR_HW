@@ -1,0 +1,3 @@
+34614032|PMC8494313
+{'Chemical', 'Disease', 'Species'}
+Is Google Trends (GT) useful to survey populations? To determine whether incidence of coronavirus in a state plays a role, or the extent of its role, on people's searches for 'will I die from coronavirus', we collected data on COVID-19 infections and deaths for each of the 50 US states. This is in line with other novel research and the fact that the US government's response to the pandemic became highly politicized in 2020.

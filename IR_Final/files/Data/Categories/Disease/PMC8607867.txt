@@ -1,0 +1,3 @@
+34795039|PMC8607867
+{'Chemical', 'Disease', 'Species', 'Gene'}
+For millions of people, taking immunosuppressive medication to control or prevent disease is a daily reality [1]. The subsequent hypothesis that suppressing this immunopathologic response could improve the course of disease has been substantiated by high-quality randomised, controlled trials showing survival benefits for critically ill COVID-19 patients receiving dexamethasone or tocilizumab, an IL-6 receptor blocking antibody. The effect of cumulative glucocorticoid exposure is consistent with fundamental principles that overall immunosuppression portends poor outcomes for infections.

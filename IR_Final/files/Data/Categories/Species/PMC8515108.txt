@@ -1,0 +1,4 @@
+34620697|PMC8515108
+{'Disease', 'Species'}
+Risk factors for SARS-CoV-2 infection and course of COVID-19 disease in patients with IBD in the Veterans Affair Healthcare System. doi: 10.1136/gutjnl-2021-324356
+Khan N, Mahmud, N, Trivedi C, et al. Risk factors for SARS-CoV-2 infection and course of COVID-19 disease in patients with IBD in the Veterans Affair Healthcare System.

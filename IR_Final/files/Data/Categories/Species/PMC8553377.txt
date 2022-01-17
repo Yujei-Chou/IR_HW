@@ -1,0 +1,3 @@
+34729467|PMC8553377
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Vaccination against SARS-CoV-2 is beneficial but may be rarely accompanied by side effects. Here we report intra-cerebral bleeding shortly after application of the first dosage of an mRNA-based SARS-CoV-2 vaccine. Second, it was causally related to the vaccination and due immune thrombocytopenia, which is a well-known complication of SARS-CoV-2 vaccinations (vaccine-induce thrombotic thrombocytopenia (VITT)) [5,9monagle] and can be associated with intra-cerebral bleeding (ICB) due to the low counts of dysfunctional thrombocytes [10,11witting, fi].

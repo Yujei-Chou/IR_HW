@@ -1,0 +1,4 @@
+34758042|PMC8580228
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+Since its emergence in 2019, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the virus responsible for COVID-19, has spread rapidly, causing severe morbidity, mortality, and disruption to daily life. By contrast, the no-variability binomial model estimate would be substantially lower for each extreme: 7% (3%- 14%) chance of transmitting to no one and 0.03% (0.005%- 0.2%) chance of transmitting to everyone (Table 3).We calculated an example of a dynamic transmission model that would produce the same mean and variance of a person's transmission probability to a household member that is produced by our MLE beta distribution. These and other published studies have generally estimated the secondary attack rate by a simple calculation of the fraction of tests that were positive among household contacts of known cases.

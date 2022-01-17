@@ -1,0 +1,4 @@
+34617570|PMC8500132
+{'Disease', 'Species', 'Gene'}
+ABSTRACT
+Medical and biomedical science education have a very pressing problem: aside from the ever broader and deeper knowledge base to be mastered by todays' undergraduate, the problems which these students will face as graduates are increasingly difficult, surrounded by a mounting body of literature of uncertain quality. Scoping reviews are particularly apt for undergraduates, as quick to perform, and introducing key skills such as defining a research question, literature searching and making inclusion/exclusion criteria decisions (Tricco et al.). The students surveyed 234 full text articles from Medline and Cochrane in March 2020 and summarized the most frequently mentioned signs and symptoms of epiglottitis (Fig.

@@ -1,0 +1,4 @@
+34775023|PMC8585553
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objective
+The World Health Organization declared Coronavirus disease (COVID-19) a pandemic on the 11th March 2020. In keeping with the temporary reduction of our screening programme, only 61 surveillance scans were performed during P2 (including aortic, bypass-graft and deep-venous stent) compared to 442 during P1, an absolute reduction of 86%.There was an absolute reduction of 44% across all areas of emergency admissions from 141 patients during P1 to 79 during P2 [47(+-5) vs 26(+-6) admissions per month, P=0.0015, Table I]. This may mean that the impact of COVID-19 on vascular services in our hospital was disproportionately high compared with other institutions.

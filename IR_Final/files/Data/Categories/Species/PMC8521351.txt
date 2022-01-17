@@ -1,0 +1,4 @@
+34011221|PMC8521351
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Aims:
+COVID-19 is a coronavirus rapidly transmitting infectious disease. This rapid review summarises healthcare policies developed during the initial response to the pandemic in Ireland. Commencing on 13 March 2020, the primary objective of this programme was the public health management of confirmed cases and their contacts.

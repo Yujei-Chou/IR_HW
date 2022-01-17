@@ -1,0 +1,4 @@
+34713309|PMC8553108
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Hintergrund
+Die COVID-19-Pandemie hat die vertragsarztliche Versorgung im Jahr 2020 stark verandert. Die COVID-19-Pandemie und die damit einhergehenden Kontaktbeschrankungen haben die Inanspruchnahme der vertragsarztlichen Versorgung stark verandert. Die Betrachtung der gesamten kinderarztlichen Versorgung zeigt, dass die Anzahl kurativer Falle entgegen der Entwicklung bei den praventiven Fallen insbesondere im zweiten Quartal 2020 deutlich zuruckgegangen ist.

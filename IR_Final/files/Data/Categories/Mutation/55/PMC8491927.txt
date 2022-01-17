@@ -1,0 +1,3 @@
+34632133|PMC8491927
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+COVID-19 pandemic has posed serious risk of contagion to humans. In addition to mean HNR /e/, following parameters were found significant for male subjects: when compared with non-infected (control) subjects, mean energy intensity for vowel /o/, formant F1 for vowel /o/ and formant F3 for vowel /u/ were found to be significant for male subjects under infection. Results obtained in this study as shown in Table-1, 2, and 3 for male subjects indicate that mean HNR for vowel /e/; mean energy intensity for vowel /o/; formant F1 for vowel/o/; formant F1 for vowel /u/; and F3 for vowel /u/increase under infection.

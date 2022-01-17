@@ -1,0 +1,3 @@
+34790223|PMC8592083
+{'Disease', 'Species', 'CellLine', 'Gene'}
+Clinical outcome assessments of function or strength, assessed by physical therapists, are commonly used as primary endpoints in clinical trials, natural history studies and within clinics for individuals with neuromuscular disorders. Any outdoor surfaces were deemed unsuitable due to the same safety concerns and difficulty in standardization. Prior to the pandemic, PT/CEs who assess patients for research trials were required to undertake extensive training in COAs to ensure highly reliable and valid data acquisition.

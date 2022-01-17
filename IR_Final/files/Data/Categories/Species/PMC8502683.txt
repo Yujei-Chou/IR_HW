@@ -1,0 +1,4 @@
+34700274|PMC8502683
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Coronavirus disease 2019 (COVID-19) outbreak started from Wuhan, China, in late 2019, presenting with unusual pneumonia of unknown etiology suspiciously related to a seafood market. Previously existing diseases were effective in prevalence of neurological symptoms among COVID-19 patients as we found that headache, dizziness, hyposmia/anosmia, hypogeusia, auditory disturbances, sleeping problems, memory loss and paresthesis in hands and feet were significantly higher among patients with underlying disorders in compare to others (p values=0.001, 0.007, 0.014, 0.011, 0.005, 0.035, 0.001 and 0.011 respectively).Underlying neurological diseases were found to be effective in prevalence of neurological symptoms among COVID-19 cases. In this retrospective observational study, neurological manifestations were shown to be pretty common among COVID-19 patients.

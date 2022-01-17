@@ -1,0 +1,4 @@
+34758991|PMC8587534
+{'Disease', 'Species', 'Gene'}
+Objectives
+The effect of the pandemic on code status discussion and documentation is largely unknown. First, we described how many patients in both cohorts had a code status documented on admission. In the COVID-19 cohort, there was a higher frequency of any treatment limitation than in the before COVID-19 cohort (40% (36/90) vs 25% (283/1153) of patients with documented code status, respectively).Figure 1 shows the types of limitations in patients with any limitation in both cohorts.

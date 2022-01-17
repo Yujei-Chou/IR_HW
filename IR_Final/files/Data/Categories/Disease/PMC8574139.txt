@@ -1,0 +1,4 @@
+34749629|PMC8574139
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The rapid spread of coronavirus disease 2019 (COVID-19) since the beginning of 2020 has often exceeded the capability of doctors and hospitals in many regions of the world. According to the above literature on COVID-19 screening, most researchers have used a single model to classify chest CT images. According to comparing the ImageNet validation accuracy with the network accuracy, speed, and size, the pre-trained CNNs used to classify chest CT images were VGG-19, Resnet-101, DenseNet-201, Inception-v3, and Inception-ResNet-v2.The VGG-19, Resnet-101, and DenseNet-201 CNNs have 19 layers, 101 layers, and 201 layers, respectively, and have been trained on more than 1 million images from the ImageNet database.

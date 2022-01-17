@@ -1,0 +1,4 @@
+34627082|PMC8493415
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+SARS-CoV-2 is an emerging virus that causes the current COVID-19 pandemic. The Fig 3a shows the gating strategy used to identify SARS-CoV-2-reactive naive and memory CD8 T cells. Representative results of the tetramer staining with the ins 10-18 tetramer and the P3 tetramers with or without LSP3 stimulation are shown in the supplementary material (Fig S7).As expected, all donors exhibited basal frequencies of tetramer-binding CD8 T cells (Fig 4b, NP).

@@ -1,0 +1,4 @@
+34566202|PMC8453610
+{'Chemical', 'Disease', 'Species'}
+Introduction
+The COVID-19 virus is highly transmittable, wreaking havoc on the world's economy with the travel and tourism industry one of the most ravaged sectors. Destinations can refer to the interest sub-index to assess their visibility to potential travelers even as the pandemic endures. Additionally, constrained by the COVID-19 testing capacity and the hotel sample size reporting the performance data, the overall index can be less applicable in developing countries compared to developed ones.

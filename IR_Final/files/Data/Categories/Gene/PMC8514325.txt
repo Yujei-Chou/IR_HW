@@ -1,0 +1,3 @@
+34664033|PMC8514325
+{'Chemical', 'Disease', 'Species', 'Gene'}
+There is some debate whether COVID-19 infection and vaccination will hamper Ramadan among the Muslim population worldwide. The educational status was also significant with attitude towards COVID-19 infection and vaccination during Ramadan fasting. The study from Universitas Ahmad Dahlan, Yogyakarta, Indonesia, found that their participants who graduated from higher education were associated with 1.98-fold higher odds of having good knowledge about COVID-19 than people who hold senior high school education.

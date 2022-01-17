@@ -1,0 +1,3 @@
+34667486|PMC8516346
+{'Disease', 'Species'}
+We present the computed tomography, ultrasonographic findings of a case of contralateral supraclavicular lymphadenopathy that occurred after AstraZeneca COVID-19 vaccination. Several recent articles have reported on ipsilateral lymphadenopathy after COVID-19 vaccination. Ultrasonographic findings in cases of supraclavicular and axillary lymphadenopathy after the COVID-19 vaccination vary, but most show oval, enlarged lymph nodes, asymmetric cortical thickening with or without loss of normal fatty hilum, central and peripheral vascular signals, and elastography patterns similar to the surrounding tissue.

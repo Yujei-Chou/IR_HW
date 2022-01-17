@@ -1,0 +1,4 @@
+34411993|PMC8463075
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objectives
+Workplaces have been identified as settings for the spread of COVID-19,   with outbreaks and clusters being reported in a variety of occupational settings in the UK and Europe. Real-world data have shown spikes in infection rates in the nine days after vaccination in both Israel and the UK, with some suggesting that this may reflect more risky behaviours after vaccination. Several of the predictors of workplace attendance could reflect targets for interventions aimed at reducing COVID-19 transmission.

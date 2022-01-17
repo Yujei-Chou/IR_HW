@@ -1,0 +1,4 @@
+34800562|PMC8599173
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background and purpose
+The Coronavirus disease 2019 (COVID-19) causes a wide spectrum of symptoms and clinical manifestations, ranging from asymptomatic to critical illness and death. The results of blood sample analysis were retrospectively scrutinized to identify both the highest recorded values and the values closest in time to MRI. None of the other markers were significant, with rho values ranging from 0.095 to 0.320 and p values ranging from 0.700 to 0.091.As regards the dichotomization between MRI-positive and -negative patients, the MRI-positive patients had significantly higher values of GFAp and t-tau and significantly lower GCS scores.

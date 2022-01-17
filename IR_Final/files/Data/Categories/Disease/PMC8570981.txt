@@ -1,0 +1,3 @@
+34778721|PMC8570981
+{'Disease'}
+Antecedentes: El objetivo de este consenso es esclarecer el papel de los iDPP-4 en el manejo de los pacientes con diabetes durante la pandemia por COVID-19.

@@ -1,0 +1,3 @@
+34770049|PMC8583509
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background: Outside activities have decreased due to the spread of the COVID-19 since 2019; therefore, the need for education using information and communication technology (ICT) for older adults with mild cognitive impairment (MCI) has increased. The above measurement variables are presented as areas that can be improved by cognitive interventions using ICT. Additionally, when comparing the ACG (cognitive intervention without ICT) group and the cognitive intervention group using ICT, there was no significant difference in effect size.

@@ -1,0 +1,3 @@
+34424156|PMC8513640
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Viruses may exploit the cardiovascular system to facilitate transmission or within-host dissemination, and the symptoms of many viral diseases stem at least in part from a loss of vascular integrity. In addition, HCMV infects placental pericytes in vitro and in vivo, resulting in pericyte loss and vascular abnormalities in vivo and the induction of proinflammatory cytokines (IL-6; monocyte chemotactic protein 1, MCP-1) and angiogenic cytokines in vitro, which may contribute to viral dissemination, placental inflammation, and dysregulation of placental angiogenesis. ZIKV has also been found to infect human retinal pericytes and endothelial cells of the inner blood-retinal barrier in vitro.

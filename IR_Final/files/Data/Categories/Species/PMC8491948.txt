@@ -1,0 +1,3 @@
+34492010|PMC8491948
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Outbreak investigations use data from interviews, healthcare providers, laboratories and surveillance systems. Large-scale datasets should be made available via a public repository as described in the PLOS Computational Biology data availability policy, and numerical data that underlies graphs or summary statistics should be provided in spreadsheet form as supporting information. Reviewer #1: NoReviewer #2: Yes: Taj Azarian********** Have the authors made all data and (if applicable) computational code underlying the findings in their manuscript fully available?

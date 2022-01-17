@@ -1,0 +1,3 @@
+34732351|PMC8557389
+{'Chemical', 'Disease', 'Species'}
+Well-nigh two years into the SARS-CoV-2 pandemic, the successful abrogation of this global scourge appears increasingly uncertain. It is against this backdrop that the growing import of potent antiviral therapeutics has become glaringly apparent. Backed by a compelling body of pre-clinical data, AZD7442 is projected to afford long-term (6-12 months) protection against COVID-19 in a manner distinct from that rendered by a vaccine.

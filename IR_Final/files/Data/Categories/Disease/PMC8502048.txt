@@ -1,0 +1,4 @@
+34675699|PMC8502048
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Introduction
+Rheumatoid arthritis (RA) is a chronic, systemic autoimmune connective tissue disease that leads to disability and premature death. All the respondents answered questions concerning satisfaction with teleconsultations (Figure 1). Similarly to studies on patients with cardiac problems, our study found moderate levels of loneliness in the patients surveyed, which had a significant negative impact on the perceived quality of life and negatively influenced satisfaction with the medical services received.

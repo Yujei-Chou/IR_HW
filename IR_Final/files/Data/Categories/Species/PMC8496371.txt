@@ -1,0 +1,3 @@
+34642672|PMC8496371
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The COVID-19 pandemic has induced large-scale behavioral changes, presenting a unique opportunity to study how air pollution is affected by societal shifts. The aims of our study are best represented as a two-stage approach: first, we estimate the lockdown-attributable daily changes in PM concentrations at 455 monitoring sites using a causal inference approach that can adjust for both observed and unobserved time-varying contributors to PM. Descriptions of each variable and data sources are provided in Appendix Table A.2.Mobility change was measured relative to a February 2020 baseline and defined by quantifying the number of Bing tiles Facebook users are seen in during a day.

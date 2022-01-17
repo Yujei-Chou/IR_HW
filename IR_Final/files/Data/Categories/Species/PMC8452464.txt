@@ -1,0 +1,3 @@
+34534567|PMC8452464
+{'Disease', 'Species'}
+Health disparities result from distinct but intertwined exposures and social determinants. Given the limitations of developing and implementing enforceable standards, health care professionals can play a key role in supporting the occupational health and safety of individual, at-risk patients and help identify sentinel cases of work-related illness. The COVID-19 pandemic has underscored the fact that workers in the United States and across the globe continue to face preventable occupational hazards.

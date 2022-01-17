@@ -1,0 +1,4 @@
+34380133|PMC8450844
+{'Disease', 'Species', 'Gene'}
+Background
+The Coronavirus 2019 (COVID-19) is responsible for a high burden in long-term care facilities (LTCFs) with a high incidence among residents and staff and high mortality among residents. Refusal of vaccination by residents or their representatives was recorded in 12% of cases, which is a fairly low value compared to the high level of hesitancy recorded in France for other vaccines and also to the high hesitancy for the future COVID-19 vaccines expressed by a representative sample of the French population in April 2020. A comprehensive information package for residents, their proxies, and staff was carried out in each surveyed facility.

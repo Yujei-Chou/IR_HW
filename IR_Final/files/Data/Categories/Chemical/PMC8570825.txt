@@ -1,0 +1,4 @@
+34748955|PMC8570825
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Objectives
+COVID-19, caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has led to a pandemic resulting in nearly 4 million deaths globally to date and has resulted in chronic sequelae ('long COVID' or 'post-COVID syndrome') in 10-90% of those infected. Fifty-three percent (16 patients) tested positive for SARS-CoV-2 via single-test nasopharyngeal swab PCR, 43% (13 patients) were presumed positive due to symptom presentation and cohabitation with a confirmed positive case, and 3% (1 patient) was presumed positive due to symptom presentation alone. Cardiology work-up was unremarkable aside from recommending statin therapy for mildly elevated LDL.

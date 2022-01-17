@@ -1,0 +1,3 @@
+34703072|PMC8531201
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Repository of suggested names for post-COVID-19 condition. Many post-COVID-19 patients, individually or jointly in associations such as SOSCOVID, Persistent COVID-19 Collective Madrid, and others, report that their primary care doctors (and pulmonologists) initially ruled out and ignored their symptoms, thus aggravating their suffering. The post-COVID-19 condition is a new challenge, caused by a new virus.

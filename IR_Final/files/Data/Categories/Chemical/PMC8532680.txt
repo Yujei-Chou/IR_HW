@@ -1,0 +1,3 @@
+34680727|PMC8532680
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Hospital-acquired infections (HAIs) are a global public health concern. The trend analysis of antimicrobial resistance shows that the increased presence of Acinetobacter spp. ( Comparisons between causative agents of HAIs and their resistance rates were made in COVID-19 patients, who comprised the majority of patients during the second year of our study (1 April 2020-31 March 2021), and patients without a COVID-19 diagnosis, the majority being admitted during the pre-pandemic year (1 April 2019-31 March 2020).

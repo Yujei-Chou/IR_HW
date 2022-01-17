@@ -1,0 +1,4 @@
+34519659|PMC8489563
+{'Chemical', 'Disease', 'Species'}
+Background
+COVID-19 has affected millions of people across the globe. Intercoder reliability comparison queries were assessed to ensure accuracy using the processes and scripts demonstrated by Kummervold et al, with an accuracy F-score of 0.76. The majority of negative emojis used on social media within discussions regarding domestic violence (Figure 2) involved symbols of anger, sadness, annoyance, and disbelief; reports of increased callouts to emergency services (siren emojis); a call for peace; and heartbreak at the rise in instances in family and gender-based violence (older and younger female emojis).

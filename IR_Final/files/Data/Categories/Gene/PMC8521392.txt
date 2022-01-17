@@ -1,0 +1,4 @@
+34690642|PMC8521392
+{'Disease', 'Species', 'Gene'}
+Objectives
+Telemedicine has emerged as a blessing in disguise during the ongoing COVID-19 pandemic. Similar to the reviews analysing telemedicine implementation in orthopaedics, the reviews on therapeutic aspects focused on the advantages and shortcomings of offering patient management through telemedicine in orthopaedics. The virtual screening clinics can help differentiate patients requiring telemedicine-based care and those requiring in-person assessment.

@@ -1,0 +1,3 @@
+34715740|PMC8558586
+{'Chemical', 'Disease', 'Species', 'Gene'}
+A 60-year-old woman presented to the emergency department with worsening shortness of breath and non-productive cough for 1 week, which was preceding a recent COVID-19 infection. Magnetic resonance (MR) angiography (Supplemental Videos 2 and 3) of the chest showed discrete coarctation of the aorta just distal to the origin of the left subclavian artery, in addition to bicuspid aortic valve with severe stenosis and right adrenal mass. The COVID-19 infection has been shown to cause life threatening illnesses in patients with cardiovascular risk factors.

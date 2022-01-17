@@ -1,0 +1,3 @@
+34671542|PMC8522848
+{'Chemical', 'Disease', 'Species', 'Gene'}
+We herein report a case of a 44-year old male patient with coronavirus disease 2019 (COVID-19) who presented with acute mesenteric ischemia. It is known to cause thrombotic complications such as cerebrovascular accidents, myocardial infarction, arterial occlusion of the lower limb, splanchnic vein thrombosis, portomesenteric vein thrombosis, and mesenteric ischemia .We present a case report describing acute mesenteric ischemia as a complication of COVID-19 infection. Ultrasound of the abdomen showed prominent small bowel with an increased caliber and absent peristalsis with to and fro movements of contents.

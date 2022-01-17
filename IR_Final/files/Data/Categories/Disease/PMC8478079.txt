@@ -1,0 +1,3 @@
+34603944|PMC8478079
+{'Chemical', 'Disease', 'Species', 'Gene'}
+This study was conducted to predict the number of COVID-19 cases, deaths and recoveries using reported data by the Algerian Ministry of health from February 25, 2020 to January 10, 2021. In the study of Yue et al, 2020, the logistic and the Gompertz models were applied to evaluate possible peaks of the COVID-19 pandemic in the different states of the USA. For the Gompertz model the number of recovered cases will be 11,8736 persons (April 15, 2025) (Fig.

@@ -1,0 +1,4 @@
+34805437|PMC8600169
+{'Disease', 'Species', 'CellLine', 'Gene'}
+Abstract
+Institutions of higher education (IHE) have been associated with high incidence of coronavirus disease 2019 (COVID-19) in the United States. We detected >200 independent transmission introductions into the student population, including 2 large lineages that persisted for several weeks. Clusters A and B, defined by Pango lineages B.1.1.304 and B.1.593, waned by mid-November, when new COVID-19 cases increased in Washtenaw County (Figure 3), which suggested that these large, student-dominated lineages did not significantly contribute to the rise in community cases.

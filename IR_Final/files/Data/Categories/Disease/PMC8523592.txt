@@ -1,0 +1,3 @@
+34692975|PMC8523592
+{'Disease', 'Species', 'Gene'}
+We study the effect of the temporary closure of Danish schools as a result of the COVID-19 pandemic in spring 2020 on students' reported levels of well-being and test whether the effect varies among students of different socioeconomic status. If the treatment group and control group were not on parallel trends, any change in well-being during the lockdown can potentially be attributed to these pre-trend differences, leading to biased estimates of the effect of the lockdown on student well-being. In Table 2, we examine the timing of survey participation in previous years for the lockdown and control groups.

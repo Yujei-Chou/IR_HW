@@ -1,0 +1,3 @@
+34594145|PMC8477697
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Asthma is a chronic inflammatory disease of the respiratory tract that has become a public health problem in various countries. Literature stated that COVID-19 infection in children with asthma has a higher risk of developing pneumonia and acute respiratory disease. This disorganized and hyperactive innate response can block the protective adaptive immune response as described by Richardson in COVID-19 patients and was seen in a mouse model with SARS-CoV infection in which an initial (absent/low) IFN signal would be of benefit in preventing infiltration of monocytes/macrophages in the lungs, vascular leakage, cytokine storm, and abnormal T-cell response.

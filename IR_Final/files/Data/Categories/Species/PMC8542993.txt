@@ -1,0 +1,3 @@
+33852915|PMC8542993
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Public health measures necessary to counteract the coronavirus disease 2019 (COVID-19) pandemic have resulted in dramatic changes in the physical and social environments within which children grow and develop. Of all the facets of children's lives affected by COVID-19, the physical environment, and particularly exposures to environmental contaminants, have received minimal attention thus far. Unemployment and low income are the major predictors of food insecurity in the U.S. An estimated 14% of families with children were already experiencing some level of food insecurity (either uncertain or limited access to food to ensure a healthy and active lifestyle) before the pandemic.

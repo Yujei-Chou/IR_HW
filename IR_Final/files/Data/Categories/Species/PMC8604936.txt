@@ -1,0 +1,3 @@
+34799659|PMC8604936
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+The rapid emergence and expansion of novel SARS-CoV-2 variants threatens our ability to achieve herd immunity for COVID-19. Unless stated, the parameter values for the simulations are those given in Table 1.Over the course of a typical-length COVID-19 infection (23 days), our simulations show that viral variants with point mutations that increase the replication probability by 20-50% (selection coefficients of 0.2-0.5) expand significantly more than variants with neutral or weakly deleterious fitness effects (Fig. This increase in variant frequency that occurs within hosts due to selection corresponds to an increase in the probability the beneficial two-mutation variant will be transmitted (Fig.

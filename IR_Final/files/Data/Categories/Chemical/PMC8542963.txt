@@ -1,0 +1,4 @@
+34350701|PMC8542963
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Abstract
+Infections by respiratory syncytial virus (RSV) and human rhinovirus (HRV) commonly cause influenza-like illness (ILI) in infants and young children. Finally, mixed infection of HRV and RSV was identified in 5% (29/574) of the samples, of which HRV-C and RSV-A co-infection (7/29) comprised the majority of dual infection (Table S1). The largest HRV-A was type A1, which comprised 11 nonconsecutive samples identified in August 2020 (Figure 3).

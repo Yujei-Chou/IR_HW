@@ -1,0 +1,3 @@
+34792612|PMC8600106
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Sind Kinder und Jugendliche relevante Vektoren fur die Ubertragung von SARS-CoV-2? Zudem werden bei padiatrischen COVID-19-Infektionen weniger Falle mit Husten oder der Entwicklung einer COVID-19-assoziierten Pneumonie berichtet, wodurch aufgrund des fehlenden Hustens auch weniger Aerosole produziert werden durften. Im Rahmen dieser Studie wurden die Kontakte der Infizierten in den 14 Tagen vor deren Infektion untersucht.

@@ -1,0 +1,3 @@
+34690479|PMC8527312
+{'Disease', 'Species', 'Gene'}
+Distance education was imposed due to the sudden suspension of schools as a result of the COVID-19 pandemic. Four teaching modules were implemented during the project: shape in art, express my feelings with color, virtual museum tour and Byzantine art. Finally, use of technology-based tools was found to be highly positively correlated with both the complexity of the artifacts (r(54) = 0.673, p < 0.001) and the objects variety (r(54) = 0.653, p < 0.001).Analysis of the results revealed that the students who participated in the digital classroom environment, during the COVID-19 pandemic, were able to successfully respond to distance education needs and make proper use of the technology-based tools.

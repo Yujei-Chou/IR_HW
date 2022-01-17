@@ -1,0 +1,3 @@
+34803970|PMC8600229
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+We developed an ultrafast one-step RT-qPCR assay for SARS-CoV-2 detection, which can be completed in only 30 min on benchtop Bio-Rad CFX96. There were 104 RNA copies of synthetic SARS-CoV-2 used and tested with the same protocol as benchtop Bio-Rad CFX96 qPCR instrument. Ultrafast one-step qRT-PCR testing showed that SARS-CoV-2 positive samples exhibited N1, N2, and RNase P gene, and the cycle threshold (Ct) values of N1, N2, and RP are very close to those obtained with FDA approved diagnostics kit "Xpert  Xpress SARS-CoV-2" (Figure 3 and Table 3).

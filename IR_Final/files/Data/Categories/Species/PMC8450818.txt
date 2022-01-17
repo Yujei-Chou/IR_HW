@@ -1,0 +1,4 @@
+34407530|PMC8450818
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Introduction
+The COVID-19 caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) became a worldwide pandemic. Several clinical and in vitro data have demonstrated that additional treatment with an extracorporeal cytokine absorber results in effective removal of toxic cytokine levels and may help patients with septic multi-organ failure. Indications for treatment based on the initial cytokines in critically ill COVID-19 also need to be discussed.

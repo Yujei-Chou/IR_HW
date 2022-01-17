@@ -1,0 +1,4 @@
+34718706|PMC8574490
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Abstract
+In December 2019, the novel coronavirus SARS-CoV-2 emerged in Wuhan, China, and has led to a global pandemic, with the COVID-19 disease affecting >61 million individuals worldwide and accounting for nearly 300,000 deaths in the United States to date. The positivity cutoff values for the serum IgG, IgM, and IgA antibodies to the combined S1 RBD and N proteins were 6.13 U/mL, 146.97 U/mL, and 68.32 U/mL, respectively. Plasma has also been used successfully to measure antibody responses in patients with COVID-19.Our data indicate that the IgM and IgA responses to both the S1 RBD and N proteins have a significant and moderately strong correlation (r2 = .5264 and .5185; P <.05), whereas a weak correlation was seen in the IgG response to both the S1 RBD and N proteins (r2 = 0.3045, P <.05).

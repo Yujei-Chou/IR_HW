@@ -1,0 +1,3 @@
+34708160|PMC8529901
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+The Pandemic covid-19 spread globally has been given impact in the tourism industry, especially in the tourism destination. It can be concluded that NPI had the main role in avoiding the spread of illness where the study showed that there are significantly impacted among perception of covid-19, NPI and Intention to visit, this is related with, who said that pandemic H1N1 2009 significantly impacted in intention to international visit toward non-pharmaceutical intervention. This study focused on tourists' behavior and intention to visit a destination in Indonesia post pandemic covid-19.

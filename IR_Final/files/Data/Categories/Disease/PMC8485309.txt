@@ -1,0 +1,3 @@
+34596821|PMC8485309
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The COVID-19 outbreak has not only posed a threat to physical health but has also changed our daily lives. Specifically, parents reported that their child was getting sufficient rest while staying at home (43.4%) and was spending more time with family (32.3%).Parents reported that the average number of hours per day on weekdays that children stayed at home increased significantly during the pandemic (before: M = 14.51 h, SD = 5.19; after: M = 20.42, SD = 5.22). Consistent with previous findings, parents in the present study reported that their stress level had increased significantly during the COVID-19 pandemic.

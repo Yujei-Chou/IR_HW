@@ -1,0 +1,3 @@
+34233155|PMC8566018
+{'Chemical', 'Disease', 'Species'}
+COVID-19 pandemic is the biggest challenge facing humanity after the 1918 Flu pandemic. Although this method is critical, the bibliometric analysis about COVID-19 pandemic on the achievement of the SDGs is still lacking. Suggestions for sustainable social development (for SDG1,SDG2,SDG3,SDG4,SDG5,SDG11,SDG16,SDG17) In consideration of the above findings, this paper believes that efforts can be made from the following aspects to achieving sustainable development goals in the post-epidemic period.

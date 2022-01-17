@@ -1,0 +1,3 @@
+34696485|PMC8538446
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has led to the coronavirus disease 2019 (COVID-19) pandemic, severely affecting public health and the global economy. Because spike proteins are critical for mediating viral entry into host cells and are the focus of most vaccine strategies, we further investigated the role of spike proteins in DNA damage repair and its associated V(D)J recombination. We further tested whether the spike protein reduced NHEJ-mediated V(D)J recombination.

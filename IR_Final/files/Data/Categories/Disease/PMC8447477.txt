@@ -1,0 +1,4 @@
+34350686|PMC8447477
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Abstract
+COVID-19 has placed global health systems, and the nurses who work in them, under significant strain. GPN08-RN)it was more family who are concerned about me working as a nurse than I actually was. ( Evidence-based protocols for PPE use in specific settings need to be clearly and consistently communicated to provide confidence that risks are appropriately being minimized and promote responsible PPE use (Verbeek et al.

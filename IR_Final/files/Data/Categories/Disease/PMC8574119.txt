@@ -1,0 +1,4 @@
+34776709|PMC8574119
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The Editor,
+The Editor,The authors received no financial support to produce this manuscript. It is not possible to establish causality as even through all patients tested negative for COVID-19 on RT PCR test at the time of the PVT diagnosis, 4 of them had prior COVID-19 illness, some of the others who were subsequently vaccinated may have had undiagnosed subclinical COVID-19 infection in the past. The incidence of thrombotic disease in patients with COVID-19 is as high as 31% and affects overall outcomes.

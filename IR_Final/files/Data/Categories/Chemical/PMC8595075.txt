@@ -1,0 +1,3 @@
+34803247|PMC8595075
+{'Chemical', 'Disease', 'Species', 'Gene'}
+With the COVID-19 pandemic still wreaking havoc worldwide, new variants being discovered every month in some parts of the globe due to the mutating nature of the virus. It was found that Euphane showed highest negative binding energy against all the four crucial targets of SARS-CoV-2. Other targets including prefusion SARS-CoV-2 spike protein (PDB id: 6VSB), SARS-CoV-2 spike glycoprotein (PDB id: 6VXX) and SARS-CoV-2 chimeric receptor-binding domain (PDB id: 6VW1) were also taken into consideration for a comparative study (Table 1).A total of 26 bioactive compounds from Boswellia serrata were selected.

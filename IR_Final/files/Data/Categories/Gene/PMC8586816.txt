@@ -1,0 +1,3 @@
+34785847|PMC8586816
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The sudden outbreak of COVID-19 has severely affected the global hospitality industry. This study contributes to the understanding of practical implications by recommending that the hospitality industry gain on the major trends that may follow the permanent changes that COVID-19 is expected to bring. Since technology can aid in hygiene and cleanliness especially during COVID and post-COVID, this study further examines the role of contactless technologies in ensuring hygiene, cleanliness, and safety in the customer journey through Hospitality 5.0.

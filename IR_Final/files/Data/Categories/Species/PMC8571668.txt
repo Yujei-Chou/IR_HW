@@ -1,0 +1,4 @@
+34742278|PMC8571668
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The COVID-19 pandemic has severely affected the countries of Latin America (LA) due to social and economic inequalities across their populations, and their deficient health system. Regarding the adoption of key topics for ethics review and oversight, 6 countries have adapted the informed consent process to the context of the pandemic to ensure that potential participants or their legal representatives can make a voluntary decision and to avoid contagion by SARS-CoV-2. General provisions to share research data and results with health authorities and participants were considered in 4 countries.

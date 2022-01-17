@@ -1,0 +1,4 @@
+34463433|PMC8510753
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+COVID-19 has been known as a respiratory illness caused by severe acute respiratory syndrome, which has been threatening the health of the public around the world (Legido-Quigley et al.; Because of this, there is a recognized need for managing their malnutrition that attributed to the alterations of smell and taste and lack of appetite (Lechien et al., ). It is worth mentioning that only patients who adopt the avoidance coping strategy have a lower appetite.

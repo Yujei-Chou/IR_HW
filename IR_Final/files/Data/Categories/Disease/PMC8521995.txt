@@ -1,0 +1,3 @@
+34713150|PMC8521995
+{'Chemical', 'Disease', 'Species', 'Gene'}
+COVID-19 has changed our lives and limited our ability to have adequate physical activity (PA). Post-hoc testing using Tukey's correction revealed that not changing exercise resulted in a significantly lower point of squat rhythm, compared to increased (p = 0.016) and decreased (p < 0.01) exercise. Considering that some evaluation indices such as the hip position would be much easier for exercisers' self-monitoring, side-view estimation is necessary.

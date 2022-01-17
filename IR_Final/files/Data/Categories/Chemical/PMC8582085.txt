@@ -1,0 +1,4 @@
+34786548|PMC8582085
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Introduction:
+The 2019 novel coronavirus (Covid-19) pandemic has claimed nearly 5 million lives since it began in November of 2019. The mortality of hospitalized Covid-19 patients with intracranial hemorrhage in this subgroup was 29% to 42%.Four studies included only patients on extracorporeal membrane oxygenation (ECMO) for Covid-19. Five studies reported on eight Covid-19 patients, who developed simultaneous MCH (Table 4 ).

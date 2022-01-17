@@ -1,0 +1,4 @@
+34259552|PMC8552797
+{'Chemical', 'Disease', 'Species', 'Gene'}
+ABSTRACT
+Throughout the COVID-19 pandemic, the spread of infection has significantly outpaced laboratory testing to identify severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Overall, saliva and nasal samples demonstrated complete clinical agreement with nasopharyngeal samples in patients with low P(Covid) scores (<0.5) who were tested when initial symptoms developed, suggesting that saliva and nasal samples perform well in the population screening setting. The unintended use of different molecular tests for the clinical NP test was an analytical confounder discussed above as platform bias.

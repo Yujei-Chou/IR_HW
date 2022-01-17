@@ -1,0 +1,4 @@
+34518467|PMC8450827
+{'Chemical', 'Disease', 'Species'}
+Dear Editor,
+Dear Editor,We read with interest Riella et al. We present data from our kidney transplant service regarding the effect of shielding upon COVID-19 incidence and the antibody response following the first dose of COVID-19 vaccination in our KTR.In our population of 698 KTR in the north west of England, we have had 76 (10.9% of all KTR) symptomatic cases of COVID-19 diagnosed with nasopharyngeal RT-PCR over a period of 13 months from March 2020, with a COVID-19-related mortality rate of 22%. Although these are only preliminary data, and we can expect further seroconversion following the second dose of vaccine assuming our 12 week vaccination schedule is consistent with Boyarsky et al.

@@ -1,0 +1,3 @@
+34589316|PMC8459390
+{'Chemical', 'Disease', 'Species'}
+Background: Coronavirus disease 2019 (COVID-19) has till now affected about 110 million people globally. RAT antigen extractionAll patients were asked to clear nasal secretions before the collection of samples. The agreement between the tests was found to be moderate with a kappa value of 0.57 (p value: 0.000).The overall sensitivity and specificity of the antigen test came out to be 53.6% (95% CI: 39.7%-67.0%) and 97.3% (95% CI: 94.6%-98.9%), respectively.

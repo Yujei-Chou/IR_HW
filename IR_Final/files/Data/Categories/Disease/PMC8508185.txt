@@ -1,0 +1,3 @@
+34639822|PMC8508185
+{'Disease', 'Species', 'Gene'}
+While COVID-19 has triggered a vast amount of research on the effect of the pandemic on employee outcomes, little information is known about how the family-to-work interface affects long-term work outcomes during the pandemic. Conversely, employees who are not emotionally exhausted have greater resources that they can then invest in work activities, and maintain high levels of job performance and OCB.Taken together, we postulate a mediating relationship, in which pre-COVID-19 family support is negatively associated with mid-COVID-19 job performance and OCB through emotional exhaustion. We further advanced COVID-19 research by examining the source of social support from the home rather than the work domain.

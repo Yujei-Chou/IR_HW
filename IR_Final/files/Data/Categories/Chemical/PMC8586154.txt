@@ -1,0 +1,3 @@
+34764438|PMC8586154
+{'Chemical', 'Disease', 'CellLine', 'Mutation'}
+Non-contact infrared thermometers (NCITs) are being widely used during the COVID-19 pandemic as a temperature-measurement tool for screening and isolating patients in healthcare settings, travelers at ports of entry, and the general public. The sensitivity of the NCIT models for detecting subject's temperature above 38  C ranged from 0 to 0.69. The same Welch Allyn oral thermometer (SureTemp Plus 690, Welch Allyn, San Diego, CA) with a measurement accuracy of +- 0.1  C in monitor mode was used to measure the oral temperature (i.e., sublingual pocket temperature) of each subject.

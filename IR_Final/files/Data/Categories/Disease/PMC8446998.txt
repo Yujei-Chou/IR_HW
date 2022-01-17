@@ -1,0 +1,4 @@
+34268819|PMC8446998
+{'Chemical', 'Disease', 'Species'}
+Dear Editor,
+Dear Editor,SARS-CoV-2 infections commonly start in the upper respiratory tract, often with mild symptoms. High saliva viral loads in carriers with mild or no symptoms, combined with speaking and singing at the vast majority of superspreading events, strongly implicate speech droplets as a driver in SARS-CoV-2 transmission. Our second argument relates to the fact that speech aerosol must increase with the amount of vocalized speech.

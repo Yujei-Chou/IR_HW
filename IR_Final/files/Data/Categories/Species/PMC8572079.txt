@@ -1,0 +1,4 @@
+34742272|PMC8572079
+{'Chemical', 'Disease', 'Species', 'CellLine'}
+Background
+The Coronavirus 'COVID-19' has provoked anxiety in society. The attempt to identify employees who work hospitality customer service in the MENA region yielded results in excess of 203,000. Three key hypotheses were forwarded, building a model of COVID-19 effects on job insecurity and psychosocial reactions that we tested alongside the moderating effect of locus of control.

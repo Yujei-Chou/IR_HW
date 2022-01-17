@@ -1,0 +1,4 @@
+34670540|PMC8528555
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The ongoing coronavirus disease 2019 (COVID-19) pandemic is heavily affecting all aspects of our lives. Our study aimed at monitoring PD in the Italian population during the ongoing COVID-19 pandemic by considering search engine data, namely Google Trends. This trend was the same for the whole period considered and for all the search terms (see, for example, https://trends.google.it/trends/explore?date=2020-01-25%202020-10-17&geo=IT&q=depressione).Finally, we also retrieved official data about daily new cases of COVID-19 (i.e., "nuovi_positivi") from the Italian Prime Minister's Office GitHub webpage.

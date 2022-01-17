@@ -1,0 +1,4 @@
+34133038|PMC8447360
+{'Chemical', 'Disease', 'Species', 'Gene'}
+To the Editor:
+To the Editor:Alarmingly, in SARS-CoV-2-infected patients, a growing number of cases of mucormycosis are being reported. In these patients, the concentration of serum LDL-cholesterol (LDL-C) is two-fold since birth due to defective LDL receptor-mediated hepatic removal of LDL particles from the circulation. As discussed above, hepatic regulation of GRP78 could slightly retard LDL receptor synthesis and the ensuing cell surface expression in hepatocytes.

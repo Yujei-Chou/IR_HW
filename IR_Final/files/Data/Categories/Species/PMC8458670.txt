@@ -1,0 +1,3 @@
+34192965|PMC8458670
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The COVID-19 pandemic has clearly brought the healthcare systems worldwide to a breaking point, along with devastating socioeconomic consequences. 1d).An in-house library of 161 SAM competitive MTase inhibitors and SAM analogs was screened against nsp14 at 50 microM, and 19 compounds were identified that inhibited nsp14 MTase activity more than 75% (Fig. This possibility was further tested by performing MOA studies with DS0464, which revealed that DS0464 competes against both SAM and RNA and can act as a bifunctional inhibitor (Fig.

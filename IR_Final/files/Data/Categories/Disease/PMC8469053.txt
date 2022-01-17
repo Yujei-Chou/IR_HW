@@ -1,0 +1,3 @@
+34574820|PMC8469053
+{'Chemical', 'Disease', 'Species', 'Gene'}
+To reduce the spread of COVID-19, the Italian government imposed a rigid lockdown and, for a whole year, continued to declare stringent rules to curb the community spread. Considering that the males' symptomatology rating was non-normally distributed, as measured by the Shapiro-Wilk test (p values ranged from <0.001 to 0.02), a series of non-parametric Kruskal-Wallis analyses were conducted to investigate differences between four male groups (BeforeCOVID vs. Quarantine vs. SecondPhase vs. ThirdPhase). A series of Kruskal-Wallis analyses were conducted to investigate differences between four male groups: BeforeCOVID vs. Quarantine vs. SecondPhase vs. ThirdPhase.

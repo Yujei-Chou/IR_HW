@@ -1,0 +1,4 @@
+34515120|PMC8450846
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The unprecedented arrival of the coronavirus disease 2019 (COVID-19) pandemic led to the imposition of lockdowns in many countries globally. But, this feasibility study on virtual interviews in older Malaysians conducted at an accelerated pace over a 2-month period yielded successfully completed interviews for the AGELESS longitudinal study of aging, with adequate data for classification into cognitive frailty categories. Selection bias was unavoidable as those familiar with videoconferencing and modern telecommunications were more likely to be included.

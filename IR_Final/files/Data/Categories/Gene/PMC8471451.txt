@@ -1,0 +1,3 @@
+34577585|PMC8471451
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+The 2019 coronavirus disease (COVID-19) caused by SARS-CoV-2 virus infection has posed a serious danger to global health and the economy. Initially, the maximum nontoxic concentration (CC0) values of honokiol derivatives 6a-p were determined against the host cell of HEK-293T-ACE2h by MTT (Table 1). The introduction of this functional group to honokiol resulted in an IC50 value of 29.23 microM against entry of SARS-CoV-2 spike pseudotyped virus into host cells, a potent binding affinity (KD value of 8.41 microM) with ACE2 protein, and a low binding energy (-59.849 kcal/mol) with ACE2 protein when compared with that of the parental honokiol.

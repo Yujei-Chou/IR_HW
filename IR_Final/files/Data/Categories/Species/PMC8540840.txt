@@ -1,0 +1,3 @@
+34696497|PMC8540840
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Respiratory viruses are known to be the most frequent causative mediators of lung infections in humans, bearing significant impact on the host cell signaling machinery due to their host-dependency for efficient replication. Despite the role of HPIV in severe infections of children, elderly and immunocompromised, only few studies addressing its metabolic effects on the host cell are published. Consistently, the inhibition of the cellular sterol regulatory element binding protein (SREBP), an important host factor for biosynthesis, intracellular movement and homeostasis of lipids, strongly decreased MERS-CoV and SARS-CoV propagation in various cell lines and MERS-CoV propagation, even in vivo.

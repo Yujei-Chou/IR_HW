@@ -1,0 +1,3 @@
+34608598|PMC8489549
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+SARS-CoV-2 infections elicit a humoral immune response capable of neutralising the virus. All 16 samples that initially tested negative for NAbs against WT virus were also unable to neutralise MUC-484 (Fig. MUC-484 was isolated from an immunocompromised patient with a prolonged SARS-CoV-2 infection and was first described by Khatamzas et al.. As shown, it holds three nonsynonymous mutations in the S protein.

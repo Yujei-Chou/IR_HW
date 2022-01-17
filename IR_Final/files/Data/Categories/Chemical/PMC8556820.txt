@@ -1,0 +1,4 @@
+34717588|PMC8556820
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+In December 2019, a novel virus causing coronavirus disease 2019 (COVID-19) in humans emerged in Wuhan City, Hubei Province, China and rapidly spread globally leading to a pandemic. We evaluated the spatiotemporal distribution of COVID-19 in Vietnam starting from 23 January 2020, the date that the first cases of COVID-19 were identified in Vietnam, until 31 July 2020. These results warrant additional spatiotemporal analysis during the period after fatal cases of COVID-19 occurred in Vietnam.

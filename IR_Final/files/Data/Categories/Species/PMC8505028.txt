@@ -1,0 +1,3 @@
+34648928|PMC8505028
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The NSP6 protein of SARS-CoV-2 is a transmembrane protein, with some regions lying outside the membrane. Recently, atomistic-level studies using microseconds long MD simulations provide insight into important residues responsible for the high-affinity interaction among spike protein with ACE receptors of SARS-CoV-2 using by creating a residue-residue contact map using simulation trajectories. In physiological pH buffer conditions, the peptide showed strong negative ellipticity at 198 nm, characteristic of random coil conformations (Fig.

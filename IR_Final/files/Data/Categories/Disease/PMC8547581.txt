@@ -1,0 +1,4 @@
+34710072|PMC8547581
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background:
+Early data on the effects of the COVID-19 pandemic on people living with HIV in the United States indicated interruption of services and potential negative health outcomes. Demographics, visit information, rideshare usage, and laboratory outcomes were compared between patients who scheduled telemedicine at least once during the study period (classified as "telemedicine") versus those who never scheduled telemedicine (classified as "no-telemedicine"). Most importantly, during the pandemic, most of the children and youth living with HIV (telemedicine and no-telemedicine patients) in our study maintained HIV RNA <200 copies/mL. In contrast to adult studies that have shown that a transition to telemedicine resulted in either improved or worsened virologic suppression rates, our study showed similar rates of HIV RNA <200 copies/mL in telemedicine and no-telemedicine patients.

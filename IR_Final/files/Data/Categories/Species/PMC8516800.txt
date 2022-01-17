@@ -1,0 +1,4 @@
+34688151|PMC8516800
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The novel coronavirus 2019 (COVID-19) has firstly emerged in China in December 2019. Based on the possible therapeutic effects of interferons as well as the administration of IFN-beta in several cases in COVID-19 inpatients receiving two different IFN-beta types, i.e. IFN-beta 1-a and IFN-beta 1-b, the challenge among our hospital physicians is about which type of interferon beta is better in the current study, we then decided to compare the effects of these two types of IFN-betas on patients with moderate to severe types of nCoV-2019 in a retrospective study. The present study evaluated the treatment outcomes of IFN-beta 1-a and IFN-beta 1-b for the COVID-19 patients.

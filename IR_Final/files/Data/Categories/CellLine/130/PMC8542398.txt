@@ -1,0 +1,3 @@
+34699968|PMC8542398
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background: Allergic and nonallergic adverse reactions have been reported with global coronavirus disease 2019 (COVID-19) vaccination. Testing protocols were adapted from Banerji et al.9,16 For patients with negative or inconclusive skin testing to PEG3350, and concern for a risk of reaction to the mRNA vaccine, an in-office oral graded challenge to PEG3350 was offered. The majority of our patients with anaphylaxis to the first COVID-19 vaccine received second dose at the high-risk clinic.

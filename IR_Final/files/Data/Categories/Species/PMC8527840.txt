@@ -1,0 +1,3 @@
+34687893|PMC8527840
+{'Disease', 'Species', 'Gene'}
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) vaccines were developed, tested, and approved in record time. One study conducted among 134 patients receiving immune checkpoint inhibitors (ICI) reported a 81% BNT162b2 vaccine uptake rate with similar rates of acute adverse reactions as reported among healthy individuals, except for higher frequency of myalgias among patients with cancer. Patients on CT reported muscle/bone/joint/nerve (D1: 15.2% v. 0%; p<0.001) and cough/chest or breathing symptoms (D2: 10.7% v. 1.2%; p=0.02).Our study shows post-vaccination adverse events varied by tumor type and treatment.

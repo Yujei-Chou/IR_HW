@@ -1,0 +1,3 @@
+34646638|PMC8481294
+{'Chemical', 'Disease', 'Species'}
+Impairment of the chemical senses - smell, taste, and chemesthesis - has been pinpointed as one of the main clinical presentations of coronavirus disease 2019 (COVID-19). He was admitted for workup of his symptoms, tested for SARS-CoV-2, and placed under contact and droplet precautions in accordance with the hospital protocol; 20 mg omeprazole PO q.d. Although the reported figures were similar for the incidence of olfactory and gustatory dysfunction in these two studies, it should be taken into account that loss of retronasal olfaction can be mistakenly reported as loss of taste.

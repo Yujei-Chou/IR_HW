@@ -1,0 +1,3 @@
+34588541|PMC8481283
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Coronavirus disease 2019 (COVID-19) is an infectious disease caused by SARS-CoV-2 primarily affecting the respiratory system which can damage vessels walls virtually in any body district. Details on single alterations prevalence and comparisons between baseline and follow-up are reported in Table 3.The semi-automatic analysis revealed that MAD significantly decreased in COVID-19 patients from 97.5 +- 10.9 microm at baseline to 92.2 +- 11.4 microm at 6 months follow-up (p < 0.0001). An example of a comparison between fundus photos collected at baseline and 6 months later showing reduction in retinal veins diameter in a COVID-19 patient is reported in Fig.

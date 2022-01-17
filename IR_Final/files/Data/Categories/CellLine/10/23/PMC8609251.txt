@@ -1,0 +1,4 @@
+34812944|PMC8609251
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+Coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) leads to an acute immune response transforming into immune memory protecting from infection in previously infected or vaccinated persons. Additionally, neutralizing antibodies against the variants B.1.1.7 (alpha) and B.1.351 (beta) were tested at T4.In three of five study participants who received COVID-19 vaccines coincidentally (and therefore constitutes a post hoc secondary endpoint) shortly before the last follow-up, samples were drawn immediately before vaccination and in 2 participants T3 was the last follow-up before vaccination. All NAb titres increased at least 16-fold (i.e. 2 titration steps) with minimum titres post-vaccination of 1:256.

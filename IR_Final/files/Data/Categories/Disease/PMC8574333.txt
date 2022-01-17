@@ -1,0 +1,4 @@
+34718593|PMC8574333
+{'Disease', 'Species'}
+Abstract
+After more than a year, we continue to see the effects of the coronavirus disease 2019 pandemic on society. We are now seeing this approach mature into standardized national training programmes, which include simulation as a fundamental component. It is well appreciated that simulation does not replace real-life learning at the operating table and that surgical performance includes a plethora of skills outside of technical efficiency.

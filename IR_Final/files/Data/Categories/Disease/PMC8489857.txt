@@ -1,0 +1,4 @@
+34129809|PMC8489857
+{'Disease', 'Species'}
+To the Editor:
+To the Editor:We read with interest the article entitled "Persistent Post-COVID-19 Interstitial Lung Disease: An Observational Study of Corticosteroid Treatment". Autopsy reports have reported findings of acute fibrinoid organizing pneumonia supporting the benefit of corticosteroid therapy. Nonetheless, because the histopathological study is not the rule in COVID-19, the true frequency of organizing pneumonia and its course in this context are unknown; we cannot tell when these findings are part of a slow recovery that requires treatment or a watch-and-wait approach, as it certainly happened with the three patients in the study that did not receive corticosteroids.

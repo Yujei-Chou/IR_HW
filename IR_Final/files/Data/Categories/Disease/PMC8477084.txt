@@ -1,0 +1,4 @@
+34487099|PMC8477084
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objective:
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), originating from Wuhan, is spreading around the world and the outbreak continues to escalate since December 2019. As far as we know, only three cases of ADEM associated to COVID-19 infection have been described: 1) A 40-year old woman with diffuse hyperintensities in the subcortical and deep white matter; 2) a 51-year-old woman who developed a coma and impaired unilateral oculocephalic response weeks after a SARS-CoV-2 infection with radiological evidence of ADEM; and 3) the autopsy of a 71-year-old patient diagnosed with COVID-19 showed scattered clusters of macrophages, axonal injury, and a perivascular ADEM-like appearance in the subcortical white matter. On the other hand, a man without any history of epilepsy developing multiple episodes of seizures after infection with SARS-CoV-2 was also reported.

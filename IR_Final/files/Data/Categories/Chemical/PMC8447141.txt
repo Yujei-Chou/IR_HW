@@ -1,0 +1,4 @@
+34180590|PMC8447141
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+Coronavirus disease of 2019 (COVID-19) caused by severe acute respiratory syndrome virus type 2 (SARS-CoV-2) is an emerging disease that has caused outbreaks in human population worldwide. Fifty positive and suspected serum samples from dogs (n = 44) and cats (n = 6) showed % inhibition lower than 20% (0.08-19.37%, average 7.82%), indicating a lack of neutralizing antibodies against the SARS-CoV-2 virus based on the RBD.Thailand has faced at least three waves of COVID-19 outbreaks. In this study, our results showed that domestic dogs (1.66%) and cats (0.36%) in Bangkok and vicinity tested positive for anti-N-IgG antibodies against SARS-CoV-2.

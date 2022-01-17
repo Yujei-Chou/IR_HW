@@ -1,0 +1,3 @@
+34668382|PMC8547277
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Aim: In the present study, the relationship between D-dimer/fibrinogen ratio (DFR) and in-hospital outcomes was evaluated in patients with COVID-19 and a diagnosis of heart failure (HF). The investigators also concluded that D-dimer at admission, as an isolated measure, did not appear to be a reliable prognostic test for outcomes among patients with COVID-19 . In the present study of patients with HF, (which is an important group in terms of COVID-19 mortality), high DFR at admission was more specific than D-dimer and fibrinogen in predicting clinical outcomes, such as requiring mechanical ventilation, cardiogenic shock, in-hospital death, and length of hospital and ICU stay.

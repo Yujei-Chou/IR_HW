@@ -1,0 +1,3 @@
+34595635|PMC8483792
+{'Chemical', 'Disease'}
+Schlaganfalle sind bei Patienten mit COVID-19 haufig und haben uber alle Altersgruppen hinweg verheerende Folgen. Ausgewertet wurden zehn Studien und eine nicht publizierte Arbeit aus Kanada zu Schlaganfallen und COVID-19. Die Rate war in allen Altersgruppen erhoht.

@@ -1,0 +1,3 @@
+34582884|PMC8464024
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Physical distancing and economic impacts of the COVID-19 pandemic may influence dietary behaviors. The first and second author began analysis by assessing changes in social connection across adult life stages and by food security status. Changes in intake were prevalent among food insecure (52%; n = 68) and emerging adults (63%; n = 43).To disentangle the quantitative results, we focused on changes in diet quality and frequency of snacking by life stage and food security status.

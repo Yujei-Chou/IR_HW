@@ -1,0 +1,3 @@
+34760123|PMC8551778
+{'Disease', 'Species'}
+Dear Editor, COVID-19 is the present global publica health problem. Here, the author discusses about an important preventive measure for COVID-19, state quarantine. If there is no good management, the outbreak of disease in quarantine place is possible.

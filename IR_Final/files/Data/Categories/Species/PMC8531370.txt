@@ -1,0 +1,3 @@
+34675292|PMC8531370
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+A causal relationship between plasma ceramide concentration and respiratory distress symptoms in COVID-19 patients is inferred. Further analysis led to the demonstration of concentration dependency for severe COVID-19 respiratory symptoms in a subclass of ceramides. Figure 4c shows that when only comparing the metabolic differences in the plasma of the Covid-19 infected with mild to the severe symptoms, the observed changes in lipid profiles become limited to Cer (average more than 1.5-2 fold increase this study) and its derivatives HexCer, Hex2Cer.

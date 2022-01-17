@@ -1,0 +1,3 @@
+34629762|PMC8489973
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The control of the risks associated with major hazard events is critical to the safe and continuous operation of the process industry. The execution of a given task which directly impacts the safety/reliability of the facility, unit or equipment; e.g. ITPM (Fig. An important aspect of conducting a HAZOP is the need for the team performing the analysis to visit the units under consideration with the P&ID in hand.

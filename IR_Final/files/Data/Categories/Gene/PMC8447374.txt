@@ -1,0 +1,3 @@
+34268789|PMC8447374
+{'Disease', 'Species', 'Gene'}
+The distribution of ABO blood type in COVID-19 patients was studied in a number of countries among various ethnic groups. Increased percentage of the A and decreased percentage of the O blood type were observed in COVID-19-infected individuals. During the period between 1 August 2020 and 1 February 2021, we analysed 193 donors of COVID-19 convalescent plasma donors (CPD) in Chelyabinsk Region, located in the South Ural Mountains of Russia and inhabited mostly by Russians (83.8%), Tatars (5.4%) and Bashkirs (4.8%).Diagnosis according to anamnesis data was confirmed by SARS-CoV-2 RNA test through PCR from the nasopharyngeal swabs and the disease severity in patients were analysed retrospectively.

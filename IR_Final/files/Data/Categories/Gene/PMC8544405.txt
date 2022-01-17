@@ -1,0 +1,3 @@
+34698153|PMC8544405
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+It is not exactly clear yet which type of immune response prevails to accomplish viral clearance in coronavirus disease 2019 (COVID-19). However, additional evaluation of nucleocapsid (NC) protein- and spike (S) antigen-directed antibody responses as well as T cell responses against various SARS-CoV-2 antigens suggested a different model to explain the delayed cure, which may help to understand the value of CCP in immunocompromised patients. Persistent clinical improvement and eventually viral clearance occurred after three admissions and three administrations of CCP.

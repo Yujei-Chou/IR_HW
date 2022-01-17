@@ -1,0 +1,3 @@
+34555502|PMC8452134
+{'Disease', 'Species', 'Mutation', 'Gene'}
+National health plans prioritized cancer patients on active treatment for SARS-CoV-2 vaccination because of high morbidity and mortality rates associated with COVID-19. Patients who had discontinued such treatment by at least 28 days represented the control cohort (CC). The median IgG titer [CC 2256 AU/ml (95%CI, 1471-3491) vs. ExC 1530 AU/ml (95%CI, 1099-2072), P=0.29], median log IgG titer (P=0.47), and percentage of seroconverted patients (CC 89% vs ExC 91.2%, P=0.56) did not differ at timepoint-3.

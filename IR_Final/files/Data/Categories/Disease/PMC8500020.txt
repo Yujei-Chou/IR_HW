@@ -1,0 +1,3 @@
+34551111|PMC8500020
+{'Disease', 'Species'}
+Much has already been written about the coronavirus pandemic and its impact on different population groups within the UK and elsewhere. A previous ICNARC report published in May 2020 also found a higher proportion of Black and Asian patients with COVID-19 in the critically ill group that needed advanced respiratory support. These factors are associated with decreased life expectancy and generally worse health outcomes Within the NHS, there is well-documented evidence of lack of ethnic diversity at NHS leadership level compared to the rest of the workforce and local population.

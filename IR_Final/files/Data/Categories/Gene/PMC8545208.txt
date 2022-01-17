@@ -1,0 +1,3 @@
+34786319|PMC8545208
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Recently, COVID-19 has infected a lot of people around the world. This is different from existing works that have mostly focused on adopting IoT technology in patients' health monitoring. in a study entitled "Role of IoT to avoid spreading of COVID-19 pandemic" pointed out that IoT applications in healthcare are helpful to improve access to patient information using cloud computing (CC).

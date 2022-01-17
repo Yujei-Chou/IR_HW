@@ -1,0 +1,3 @@
+34696066|PMC8540424
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The COVID-19 pandemic has affected almost every country causing devastating economic and social disruption and stretching healthcare systems to the limit. Similarly, the authors make use of 14 clinical features to predict the COVID-19 severity in. Keeping these findings in view, it can be stated that the selected 19 features can produce good classification accuracy considering the fact that a large feature vector is not available for COVID-19 data.

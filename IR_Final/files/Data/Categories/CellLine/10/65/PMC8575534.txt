@@ -1,0 +1,4 @@
+34763059|PMC8575534
+{'Disease', 'Species', 'CellLine', 'Gene'}
+Objectives
+The presence of SARS-CoV-2 RNA in stool was reported early in the COVID-19 pandemic and several studies have since confirmed rectal shedding of SARS-CoV-2 RNA. Here, we report a systematic analysis and comparison of SARS-CoV-2 RNA concentrations and virus infectivity in sample pairs obtained from the rectum and the oropharynx of COVID-19 patients to assess whether rectally shed SARS-CoV-2 has propagated during GI passage and preserved its infectious potential. While systematic culturing showed that 37% of the pharyngeal swabs contained culturable virus, no virus could be cultured from any of the rectal swabs neither in plaque assays nor in highly sensitive whole-flask Vero E6 cells or Caco-2 cells cultures (Supplementary Figure S1-2).

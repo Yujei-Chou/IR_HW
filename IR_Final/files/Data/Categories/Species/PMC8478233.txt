@@ -1,0 +1,4 @@
+34582483|PMC8478233
+{'Disease', 'Species', 'Gene'}
+Objectives
+The first wave of the COVID-19 epidemic started in March 2020 in Sweden, with the Stockholm region particularly impacted. To assess how frequent pre-symptomatic disease was in comparison to the cumulative exposure to SARS-CoV-2 infections among HCWs in primary care, at homes and in palliative care in Stockholm during the March-June 2020 SARS-CoV-2 outbreak, we recruited most of the healthcare personnel for SARS-CoV-2 antibody screening and SARS-CoV-2 RT-PCR testing and compared the results to a large cohort of hospital HCWs that was tested in exactly the same manner. Seropositivity was comparable to observational studies from hospitals in the same region and near in time.

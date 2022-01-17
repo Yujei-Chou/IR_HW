@@ -1,0 +1,4 @@
+34556058|PMC8460193
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The quantitative real-time polymerase chain reaction (qRT-PCR) was used generally to detect severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) with samples of the nasopharynx, pharynx, bronchoalveolar lavage fluid, feces, and blood. Meanwhile, the serum IgM of SARS-CoV-2 was turned negative. In our report, the patient had recurrent COVID-19 while his serum-IgG was positive, indicating that a low antibody level may not provide sufficient protection against SARS-CoV-2 re-infection.

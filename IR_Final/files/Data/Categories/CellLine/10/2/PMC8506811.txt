@@ -1,0 +1,4 @@
+34613880|PMC8506811
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+ABSTRACT
+The current pandemic called COVID-19 caused by the SARS-CoV-2 virus is responsible for over 200 million cases and 4 million deaths. This step is fundamental to the construction of a synthetic antigen that can be used in nucleic acid approaches against COVID-19 because it corresponds to the selection of peptides from virus proteins that could bind to MHC (major histocompatibility complex) molecules capable of inducing T (CD8+ and CD4+) and B cells activation. This construction step of the candidate vaccine structure against SARS-CoV-2 was possible to be observed in the study of Enayatkhani et al.

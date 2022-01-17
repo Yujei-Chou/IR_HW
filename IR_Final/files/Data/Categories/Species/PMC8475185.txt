@@ -1,0 +1,3 @@
+34602647|PMC8475185
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Do internal migration networks benefit or harm their home communities in case of a communicable disease? This will allow us to estimate the effect of exposure to outbreak areas keeping general propensity to emigrate constant. This implies that a variation in exposure of 50 percent would be associated with 81 (March), 46 (April), 20 (May) and 147 (total) additional total deaths per province.38 Table A.6, Panel A, shows that coefficients are precisely estimated no matter the distance cutoff that one chooses for the Conley s.e.39 Estimates for Covid deaths (Table A.7) and Covid cases (Table A.8) confirm this general pattern.40 Figure A.9 shows that the results are not driven by outliers.

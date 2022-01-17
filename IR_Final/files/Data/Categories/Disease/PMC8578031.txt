@@ -1,0 +1,3 @@
+34778740|PMC8578031
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The COVID-19 pandemic forced temporary closure of epilepsy monitoring units across the globe due to potential hospital-based contagion. One seizure in conjunction with an abnormal epileptiform EEG provides more than 60% likelihood that recurrence is anticipated. In patients undergoing a repeat EEG compared to those undergoing an AEEG after an initial non-diagnostic standard EEG, Doshi found a greater yield of IEDs increasing from 1.9% to 17.5% during AEEG monitoring in 105 patients.

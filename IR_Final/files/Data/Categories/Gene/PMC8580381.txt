@@ -1,0 +1,4 @@
+34766166|PMC8580381
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background:
+COVID-19 can cause significant respiratory symptoms with pulmonary compromise due to severe inflammation, often requiring ventilatory support. In the groups without Mch challenge the ProLung -budesonide (P<0.001) and the Daily budesonide (P<0.001) treatment groups significantly decreased the Eosinophil Peroxidase (EPO) activity in the bronchioalveolar lavage fluid (BAL), when compared to the Sensitized, Untreated group (Figure 2). Specimens were processed for two-week study, after one dose of ProLung -budesonide was administered via inhalation.

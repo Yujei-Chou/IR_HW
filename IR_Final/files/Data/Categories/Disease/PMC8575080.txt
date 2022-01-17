@@ -1,0 +1,4 @@
+34620797|PMC8575080
+{'Disease', 'Species', 'Gene'}
+Background:
+Coronavirus disease 2019 (COVID-19), an infection caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) virus, rapidly developed into a global pandemic in 2020. Preadmission SARS-CoV-2 screening was performed prior to elective cesarean sections and induction of labor since June 2020 and all nonelective admissions to hospital from the 28th of December 2020.A majority of patients [n = 79 (60.8%)] reported at least 1 symptom of COVID-19 whereas 43 (33.1%) reported no symptoms and in 8 (6.2%) cases the symptom status was not documented. There were no differences in the neonatal clinical outcomes based on maternal infection before or after the outbreak of VOC B.1.1.7.

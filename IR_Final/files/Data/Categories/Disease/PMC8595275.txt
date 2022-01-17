@@ -1,0 +1,4 @@
+34789170|PMC8595275
+{'Disease', 'Species', 'Gene'}
+Background
+The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has become a global health issue since its description in December 2019 in China. For all statistical tests, we accepted two-sided level of significance was set at p<= 0.05.Out of 335 eligible hemodialysis patients, 303 were included in the study and had serologic testing for SARS-CoV-2 (Fig. The existence of the previous contact with a COVID-19 case and population density were the strongest factors associated with a positive serology among hemodialysis patients.

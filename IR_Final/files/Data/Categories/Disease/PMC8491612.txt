@@ -1,0 +1,3 @@
+34621235|PMC8491612
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Nusinersen is the first oligonucleotide-based drug that is approved for the treatment of spinal muscular atrophy. Only in three cases was the reduction in the functional score >-2: patient 13, who did not improve his score compared with the previous evaluation (-7 points on the HFMSE scale, see above), one patient with a single and fatigued parent as a sole caregiver (patient 8, -4 points on the CHOP scale), and one patient with a difficult social situation and parents who experienced depression due to the loss of their jobs (patient 30, -4 points on the CHOP scale). For the other families, the assistance measures routinely carried out were satisfactory even in this emergency period.

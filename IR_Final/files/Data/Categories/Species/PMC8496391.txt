@@ -1,0 +1,4 @@
+34615684|PMC8496391
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Introduction
+This trial aims to determine whether videolaryngoscopy is superior to direct laryngoscopy in anaesthetised patients with a high risk of pulmonary aspiration and undergoing rapid sequence induction. The provider selects the method for visualisation of the glottis, either direct or indirect, using the McG monitor. If DL fails after second attempt, the clinician calls for a consultant and changes to a preferred technique (eg, McG, Supraglottic Airway (SGA) and flexible or rigid endoscope) and records the direct and/or screen view of the McG. If McGrath fails after two attempts, the clinician is advised to proceed with a preferred rescue technique (eg, VL with a hyperangulated blade, SGA and flexible or rigid endoscope).

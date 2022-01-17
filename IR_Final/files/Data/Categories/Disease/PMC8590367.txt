@@ -1,0 +1,4 @@
+34774045|PMC8590367
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Norwegian health authorities suspended the use of the Oxford-AstraZeneca (Vaxevria, hereafter referred to as AstraZeneca) vaccine on March 11th, 2021, after sudden reports of severe and sometimes fatal thromboembolic events following vaccination were announced earlier the same day. A1).HCWs vaccinated with AstraZeneca from February 11th to March 11th, 2021 (treatment group)A comparison group of propensity-score matched HCW, where we matched each HCW in our treatment group to two (nearest-neighbor) HCWs who had not received the AstraZeneca vaccine, based on their estimated probability of being vaccinated with AstraZeneca via a logistic regression model (see Appendix A for details).We identified HCW following Molvik et al. In line with previous studies, we have demonstrated an increase in health care use immediately following negatively framed communication of side effects (Table 2).

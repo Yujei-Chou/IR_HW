@@ -1,0 +1,3 @@
+34146425|PMC8447417
+{'Disease', 'Species', 'Gene'}
+The study protocol was approved by the institutional review board of Hospital del Mar number 2020/9420.Dear Editor,With the arrival of COVID-19, STI units decreased their activity or even closed and individuals avoided healthcare facilities. A significant plunge in LGV notifications from March 2020 can be seen (Fig. 1g).This study shows a marked decrease either in the newly reported STIs or in the number of PEP treatments in Barcelona from March to September 2020.

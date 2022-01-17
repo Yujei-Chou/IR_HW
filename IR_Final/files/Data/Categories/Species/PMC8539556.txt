@@ -1,0 +1,3 @@
+34699776|PMC8539556
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+The COVID-19 pandemic has demanded a range of biotechnological products for detection of SARS-CoV-2 variants and evaluation of human seroconversion after infection or vaccination. For recovery of infectious baculoviruses, one microgram of vAc-N-6xHis DNA was transfected into lepidopteran (Spodoptera frugiperda) Sf9 cells (106) grown in a six-well plate using FuGENE  HD Transfection Reagent (Promega, Madison, Wisconsin, U.S.A.) and following the manufacturer's protocol. Proteins were visualized by Coomassie brilliant Blue R-250 staining.

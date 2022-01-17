@@ -1,0 +1,4 @@
+34562122|PMC8475474
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Purpose
+The rapid spread of coronavirus disease 2019 (COVID-19) throughout the world has had dramatic effects on healthcare systems. Notably, a higher proportion of ISUP grade 3 and 4 and a lower proportion of ISUP grade 2 was observed in 2020 compared to 2019 (p = 0.001).After confirmation of PCa, RP was performed in 207 (54%) and 186 (47%) patients in 2019 and 2020, respectively (Table 1, Fig. The need of Institutional Ethics Committee approval was waived due to retrospective nature of the study, using only aggregate data.

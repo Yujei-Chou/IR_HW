@@ -1,0 +1,4 @@
+34746731|PMC8551647
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+Pemphigus constitutes a group of rare autoimmune blistering diseases, characterized histopathologically by intraepithelial blisters and acantholysis, and immunologically by circulating autoantibodies against the surface of epidermal cells. All patients had received systemic corticosteroids (each patient with different prednisone/day dose based on his/her weight) and one or more immunosuppressants, such as azathioprine, mycophenolate mofetil, IVIg and plasmapheresis, without control of the disease, leading to multiple side effects due to the prolonged steroid intake. Another review by Amber and Hertl showed no significant difference in patients achieving complete remission between patients treated with the lymphoma protocol and those treated with the RA protocol.

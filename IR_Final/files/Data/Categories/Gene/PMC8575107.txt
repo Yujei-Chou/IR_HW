@@ -1,0 +1,4 @@
+34734904|PMC8575107
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background:
+Coronavirus disease 2019 (COVID-19) is associated with a myriad of thromboembolic events, one of which is acute ischemic stroke (AIS). The evidence presented in this review may help clinicians anticipate some of the pitfalls in the management of COVID-19 patients with LVO stroke. In contrast to the majority of studies supporting worse outcomes in COVID-19 patients who underwent MT for LVO, a prospective study from 28 thrombectomy-capable stroke centers in North America, South America, and Europe showed that COVID-19 patients who underwent MT for LVO had similar in-hospital mortality rate, duration of hospitalization, discharge modified Rankin Scale scores and rate of functional independence (modified Rankin Scale 0 to 2) at discharge as non-COVID-19 patients.

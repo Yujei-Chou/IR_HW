@@ -1,0 +1,3 @@
+34682492|PMC8535610
+{'Disease', 'Species', 'Gene'}
+In Sub-Saharan Africa, communicable and other tropical infectious diseases remain major challenges apart from the continuing HIV/AIDS epidemic. In this Perspective piece, we provide a brief review of integrated communicable/noncommunicable disease prevention and care models and argue that South Africa's IDEAL Clinics may offer insights for other countries seeking to extend their HIV infrastructure to address growing NCD and emerging health challenges. The time has come to broaden the PEPFAR-developed care capacity to embrace the universal health challenges of modern Africa.

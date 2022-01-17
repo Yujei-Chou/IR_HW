@@ -1,0 +1,4 @@
+34748557|PMC8575179
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+Background
+SARS-CoV-2 has currently affected 221 countries and is the leading cause of mortality in USA, some Latin American countries and in certain regions in Europe. The RT-qPCR positive 'non-close contacts' were classified as cases and were directed them to hospitals. SARS-CoV-2 specific total antibodies were detected in 59/89 (67.8%%) individuals who were identified as having COVID-19, based on a positive RT-qPCR result, 5/452 (1.1%) of individuals identified as close contacts, also had detectable total antibodies, despite being RT-qPCR negative (Table 2).

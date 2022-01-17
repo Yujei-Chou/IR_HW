@@ -1,0 +1,4 @@
+34602841|PMC8463106
+{'Disease', 'Species'}
+Background
+The world has yet again become witness of a major health crisis due to eruption of an infectious viral disease that has now reached to pandemic proportions. Majority of the respondents (91%) assessed their health status as either very good or excellent and more than three fourth (78.74%) had no pre-existing conditions of medical history (Table 1 ).The results have demonstrated high level of perceived susceptibility (mean +- SD, range: 13.66+-2.83, 4-20) about novel coronavirus pandemic in the respondents (Table 2 ). Subsequently, they would adopt the preventive measures due to high level of perceived benefits which indicates that these behaviors were effective and can be applicable to Saudi population.

@@ -1,0 +1,3 @@
+34776545|PMC8576172
+{'Disease'}
+Objetivo: Evaluar la frecuencia de ansiedad, depresion y estres, asi como sus factores asociados y los cambios de habitos, en estudiantes de Medicina humana de la Universidad Nacional San Cristobal de Huamanga (UNSCH), ubicada en Ayacucho (Peru), en el contexto de la pandemia por COVID-19.

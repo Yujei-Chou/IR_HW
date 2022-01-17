@@ -1,0 +1,4 @@
+33093040|PMC8515109
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+In response to COVID-19, European countries have taken different approaches to changing abortion regulations and practices ranging from imposing restrictions to alleviating certain requirements. Other country-specific measures to reduce facility-based interactions involved support for non-use of ultrasound for gestational dating (gestation based on last menstrual period when certain) in early pregnancy in England, Wales, Scotland and France, and extending abortion privileges to community-based gynaecologists in Norway. Nonetheless, a few countries deployed innovative strategies during the outbreak, promoting telemedicine and self-management solutions.

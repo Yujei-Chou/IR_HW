@@ -1,0 +1,3 @@
+34741678|PMC8571968
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The SARS-CoV-2 virus has spread to all corners of the world. After reviewing the evaluation of 348 papers, 28 papers included in the meta-analysis, which was performed using STATA. Despite the high heterogeneity between papers on FVIII levels in COVID-19, subgroup difference analysis was significant (p-value: 0.00) (All COVID-19 patients: Mean = 238.93 95% CI: 205.66-272.2; I2 = 96.35%; ICU patients: Mean = 342.47, 95% CI: 279.57-405.37; I2 = 92.01%) (Fig.

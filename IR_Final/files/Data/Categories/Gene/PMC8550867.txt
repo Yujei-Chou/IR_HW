@@ -1,0 +1,4 @@
+34725630|PMC8550867
+{'Disease', 'Species', 'Gene'}
+Purpose of Review
+Viruses can be separated into two distinct groups: those that cause persisting/chronic infection and those that only cause acute infection and are subsequently cleared by the host innate and adaptive immune responses. That immune response can provide protection against exposure to the same virus to prevent clinically significant reinfection; however, this may not be the case in some patients. At this time, there are no genotyping tests needed due to lack of variation in SARS-CoV-2 that is encountered with other viruses including HIV and HCV and it does not appear that antivirals select for resistant mutants either at this time.

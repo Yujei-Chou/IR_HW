@@ -1,0 +1,3 @@
+34733458|PMC8560260
+{'Disease', 'Species', 'Gene'}
+During the COVID-19 pandemic, this study sought to determine the impact of AI-supported infographic templates (static versus animated) on academic achievement, visual thinking skills, and willingness to learn among a sample of university students. Thus, the study in saw infographics as effective knowledge visualization and sharing tools, while the authors of emphasized the significant effect of infographics on promoting information recall as well as the ability to process, memorize, and recall information. In a related vein, the author of identified the following seven principles to be considered when designing and producing any educational infographic.

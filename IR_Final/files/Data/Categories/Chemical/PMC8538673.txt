@@ -1,0 +1,3 @@
+34696368|PMC8538673
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background: The prevalence and prognostic implications of metabolic syndrome (MetS) in patients infected by the SARS-CoV-2 remain unclear. Specifically, inclusion criteria were: (i) studies enrolling subjects with a confirmed diagnosis of COVID-19; (ii) studies providing data on the prevalence of MetS among patients enrolled and (iii) adjusted odds ratios (aORs) estimating the short-term mortality risk among COVID-19 patients with MetS. Conversely, case reports, review articles, abstracts, editorials/letters and case series with less than 10 participants were excluded. The presence of potential publication bias was verified by visual inspection of the funnel plot.

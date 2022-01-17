@@ -1,0 +1,4 @@
+34427297|PMC8499800
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+Over the last 18 months, much has been learned about the effects of COVID-19 on pregnancy and perinatal outcomes. Pregnant people were eligible for an earlier Phase III trial evaluating remdesivir for Ebola virus infection; six pregnant patients were enrolled in the remdesivir arm (3.4% of the participants who were randomized to remdesivir) and there were no significant maternal, fetal or newborn adverse events reported in this subgroup. The role of remdesivir in preventing vertical or postnatal SARS-CoV-2 transmission is also unclear.

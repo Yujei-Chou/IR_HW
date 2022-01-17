@@ -1,0 +1,4 @@
+34673359|PMC8492383
+{'Disease', 'Species', 'Gene'}
+Background and aims
+Viruses of the Coronaviridae family frequently cause zoonotic and human infections. The clinical outcome of patients with and without underlying comorbidities was extracted from the full-texts. This highlights that individuals with diabetes mellitus also constitute an "at-risk" population, having more than two-fold higher risk of development of poor clinical outcomes from COVID-19.Cardiovascular disease (excluding hypertension and cerebrovascular disease) as a comorbidity had a pooled prevalence of 11% [95% CI: 7-15%] in this meta-analysis and was identified as the strongest risk factor for COVID-19 severity and death from the same, with a 3.44-times greater risk of development of poor clinical outcomes [OR = 3.44; 95% CI: 1.96-2.77].

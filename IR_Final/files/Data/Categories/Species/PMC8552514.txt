@@ -1,0 +1,4 @@
+34106569|PMC8552514
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+ABSTRACT
+On 11 March 2020, the World Health Organization declared the ongoing pandemic caused by SARS-CoV-2, which causes COVID-19, a global emergency. Pairwise examination revealed the observed strain heterogeneity was primarily driven by CAPA isolate D, which was significantly more virulent than all other CAPA isolates, reference strains Af293 and CEA17, and clinical strain Afs35 (Benjamini-Hochberg adjusted P value < 0.05 when comparing CAPA isolate D to another isolate; log-rank test; File S3). The trimmed alignment was then used to infer the evolutionary history of tef1 sequences using IQ-TREE2.

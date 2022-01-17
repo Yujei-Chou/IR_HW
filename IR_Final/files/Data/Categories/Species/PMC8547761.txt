@@ -1,0 +1,3 @@
+34716001|PMC8547761
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has become the largest pandemic for more than a year, leading to more than 200 million infections and contributing to massive losses of human lives and economic productivities worldwide. In this issue of the Journal of Thoracic Oncology, by performing bioinformatics analysis of several public domain data sets, Stewart et al. With these findings, it is suggested that EMT plays a vital role in the pathophysiology changes of COVID-19, including the SARS-CoV-2 infection and pulmonary fibrosis.

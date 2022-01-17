@@ -1,0 +1,4 @@
+34810216|PMC8609491
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objective
+COVID-19-infected patients have presented with extrapulmonary manifestations, with the liver being an organ of interest. Our study aims to analyze the association between ALF and mortality in patients infected with COVID-19 and acute hepatitis. 54.9% of patients with CAD expired, as opposed to only 31.2% of patients without CAD (p<0.0001) (table 1).The logistic model predicting death and controlling for age, CAD, intubation, HTN, DM and AKI, shows COVID-19 patients with ALF had nearly fourfold higher odds of death in comparison to those who did not have ALF (95% CI 1.48 to 9.96, p=0.0063) (table 2).

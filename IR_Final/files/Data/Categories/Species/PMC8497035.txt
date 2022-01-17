@@ -1,0 +1,4 @@
+34642657|PMC8497035
+{'Disease', 'Species'}
+To the Editor:
+To the Editor:In response to the need for social distancing and safety concerns during the COVID-19 pandemic, many outpatient clinics across the country shifted from primarily conducting in-person clinic assessments to telemedicine visits. We assessed access to video telemedicine using modified questions from Pew Research Center's "Mobile Technology and Home Broadband 2019" report. Additionally, compared to patients who completed general nephrology visits, transplant patients were younger (mean age, 52 years [SD +- 12] vs 57 years [SD +- 16], P < 0.01, Table S1) and less often spoke English (90 % vs 97 %, P < 0.01, Table S1).The majority of patients reported accessing video telemedicine with either a smartphone, iPad/tablet, or computer (98 %, Table S2).

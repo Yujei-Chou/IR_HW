@@ -1,0 +1,3 @@
+34790680|PMC8591053
+{'Disease', 'Species', 'Gene'}
+Background: Persistent coronavirus disease 2019 (COVID-19) symptoms are increasingly well-reported in cohort studies and case series. This is an inherent problem with a single follow-up point, which several of the cohort studies in this review utilised. This supports our rationale to scope the literate rather than to meta-analyse the field, as we feel reporting prevalence as a percentage of 19 individuals is not epidemiologically valid [e.g., Woo et al. ].

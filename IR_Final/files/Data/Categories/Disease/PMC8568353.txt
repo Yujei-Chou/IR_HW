@@ -1,0 +1,4 @@
+34746651|PMC8568353
+{'Disease', 'Species'}
+Abstract
+In December 2019, a new type of pneumonia was recognized in Wuhan (China), and was identified by the WHO as a novel strain of coronavirus (2019-nCoV). It was a computer-based digital online survey of the orthopaedic residents in India. As 53% of orthopaedic residents are doing both orthopaedic routine and COVID duties and 17% of the residents are doing exclusive COVID duties, it is essential to give proper guidance about the work and the personal protection, to prevent the residents from getting infected by COVID 19 and to give proper quarantine and rest to improve the efficiency of the residents.

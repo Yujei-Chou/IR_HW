@@ -1,0 +1,3 @@
+34769811|PMC8583470
+{'Disease', 'Species', 'Gene'}
+In early 2020, the COVID-19 pandemic revealed a faceless, non-adversarial threat that endangered Israelis and Palestinians with the same ferocity. To this end, and despite the protracted conflict, Israelis, Palestinians and their neighbors need to build a sustainable regional coordination program and/or channel of dialogue independent of, and resilient to, fluctuations in political conditions. The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.

@@ -1,0 +1,3 @@
+34692619|PMC8526533
+{'Disease', 'Species', 'CellLine', 'Gene'}
+On March 11, 2020, the World Health Organization (WHO) has officially declared the novel coronavirus outbreak a pandemic. This study represents an interesting observational effort to evaluate the causality relationship of specific measures on incident cases. In conclusion, although some studies show that some interventions such as closing school and restricting gathering places are effective to contain cases of COVID 19, the study' results demonstrate that specific interventions do not correlate with incident cases of COVID-19 in the four considered European countries.

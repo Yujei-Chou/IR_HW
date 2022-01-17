@@ -1,0 +1,3 @@
+34745905|PMC8563095
+{'Chemical', 'Disease', 'Species', 'Gene'}
+In India, the major drivers of both internal and international migration are the prevailing unemployment, competitive labour market and enhanced livelihood prospects in the destination state or country. Poor wage rates in less prosperous states, persistent wage inequalities between regular and casual workers and lack of formal employment opportunities leads to low-skilled and semi-skilled workers migrate overseas to enhance their economic well-being (Karan & Selvaraj,; Sasikumar & Thimothy,). The fourth part consists of the analysis which examines the common themes emerging from the experiences of the internal and international migrants from India.

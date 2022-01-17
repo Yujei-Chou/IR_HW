@@ -1,0 +1,3 @@
+34575864|PMC8472021
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The importance of a healthy microbiome cannot be overemphasized. Two major mechanisms for how the gut microbiome may be involved in CVD have been proposed; these are not mutually exclusive. Infection with SARS-CoV-2 not only downregulates ACE2 expression in the lungs but also in the gut, and since ACE2 tightly controls the local production of antimicrobial peptides in the gut, this may have direct effects on the microbiome.

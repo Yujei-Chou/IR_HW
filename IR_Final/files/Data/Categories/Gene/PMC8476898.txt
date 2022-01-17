@@ -1,0 +1,4 @@
+34526175|PMC8476898
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objective
+The coronavirus disease 2019 (Covid-19) pandemic, caused by the severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2), has resulted in millions of deaths and strained healthcare systems around the globe. The main outcome measure collected was the number of patients referred with Covid-19 vaccine associated cervical lymphadenopathy. Scans performed at or within four weeks of swelling onset showed significantly larger nodes (6.5 +- 1.4 mm) compared with scans performed after four weeks (4.8 +- 0.8 mm) (p = 0.03).The overall scan impression was recorded as benign reactive lymphadenopathy in all patients, but two cases had increased vascularity on colour Doppler ultrasound scans (Figure 2, Table 3).

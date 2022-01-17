@@ -1,0 +1,3 @@
+34765590|PMC8576180
+{'Chemical', 'Disease', 'Species'}
+Pulmonary diseases, driven by pollution, industrial farming, vaping, and the infamous COVID-19 pandemic, lead morbidity and mortality rates worldwide. Material properties were perturbed to calculate the sensitivity of the error, which informed the alternate directions adopted by the optimization algorithm. While a one-to-one comparison between our reduced-order model and extracted pulmonary tissue specimen measures is impractical, we strived to compare the compound material parameters (averaging shear modulus of hundreds of kPa in all three constitutive models) with the reported ranges for parenchyma, airway, and pleura layer individual component responses (Tables 1, 2 and Figure 4).

@@ -1,0 +1,3 @@
+34631206|PMC8460308
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The outbreak of coronavirus disease 2019 (COVID-19) is caused by the infection of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), which leads to the disruption of immune system, exacerbated inflammation, and even multiple organ dysfunction syndrome. In a prospective cohort of COVID-19 patients, the expression of Notch-4 in circulating Tregs increased, which suppressed the release of IL-18 induced AREG, thus restraining AREG-dependent tissue repair and promoting severe lung injury. The reduction of Treg levels may contribute to the overactive immune system and lung injury in patients with COVID-19.

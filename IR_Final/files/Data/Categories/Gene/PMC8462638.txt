@@ -1,0 +1,4 @@
+34559092|PMC8462638
+{'Disease', 'Species', 'Gene'}
+Abstract
+In January 2020, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) was identified as the cause of a series of pneumonia cases first diagnosed in Wuhan, Hubei Province, China. In adult patients, the most common CT manifestation is ground-glass opacities. In a systemic review, including 4121 cases of adult COVID-19 patients, it was found that the prevalence of typical ground-glass opacity was 68.1% (95% CI: 56.9%-78.2%) and that most patients had bilateral lung involvement (73.8%; 95% CI: 65.9%-81.1%) or lesions in multiple lung lobes (67.3%; 95% CI: 54.8%-78.7%).

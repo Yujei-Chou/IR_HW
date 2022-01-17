@@ -1,0 +1,4 @@
+34546559|PMC8453033
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Corona Virus Disease (COVID-19) is a disease caused by the newly identified human coronavirus (HCoV) named Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2). The treatment of headache in COVID-19 patients may be difficult. The effectiveness of NSAIDs such as Indomethacin in COVID-19 coagulopathy, discouraging the SARS viral replication, the inflammasome deactivation, and synergistic inhibition of H5N1 viral infection with representative antiviral drugs, have provided a silver lining in adjuvant COVID-19 therapy.

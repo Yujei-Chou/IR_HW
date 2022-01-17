@@ -1,0 +1,3 @@
+34777739|PMC8589496
+{'Disease', 'Species', 'Gene'}
+COVID-19 is an infectious disease-causing flu-like respiratory problem with various symptoms such as cough or fever, which in severe cases can cause pneumonia. The proposed model achieved an accuracy of 99.26%.Other research published in offered three pretrained models for building a diagnostic system: ResNet50V2, VGG16, and Inception V3. In Figure 6, we represent the confusion matrix of the generated model classification using stacking technique.

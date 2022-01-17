@@ -1,0 +1,3 @@
+34764867|PMC8576273
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background and Aims: Qingfei Paidu decoction (QPD) and Xuanfei Baidu decoction (XBD) are two typical traditional Chinese medicines with proven efficacy for the treatment of SARS-CoV-2, although the underlying mechanism is not well defined. However, the exact contribution of macrophages in the pathogenesis of SARS-Cov-2 remains to be elucidated. Similar results were obtained when the M0 THP-1-derived macrophages were stimulated by LPS for 6 h first and then treated with QPD or XBD for 24 h (Figure 3D).Activation of the transcription factor nuclear factor kappa B (NF-kappaB) is a key step in mediating the expression of various cytokines.

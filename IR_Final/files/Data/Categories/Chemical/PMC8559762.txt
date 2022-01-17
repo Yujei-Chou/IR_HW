@@ -1,0 +1,4 @@
+34733025|PMC8559762
+{'Chemical', 'Disease', 'Species', 'Gene'}
+ABSTRACT
+Severe acute respiratory syndrome-related coronavirus-2 (SARS-CoV-2) is a virus-targeted respiratory disorder with a broad range of symptoms ranging from asymptomatic cases to severe pneumonia or acute respiratory distress syndrome (ARDS); the reported mortality rate is as high as 78% in critically ill patients. Taking into account a receiver-operating characteristic (ROC) curve value of 0.70 as significant for pre-NIV A-a gradient as a predictor of 28-day mortality, a null hypothesis ROC curve value of 0.50, an alpha error of 0.05, an 80% power, and a survival: mortality ratio of 3:1, we required sample size of 88 (66:22). For validity analysis, we plotted a ROC curve for each ABG parameter.

@@ -1,0 +1,4 @@
+34675740|PMC8502007
+{'Disease', 'Species'}
+Dear editor
+We would like to thank Cooper et al for their study in which they looked at the efficacy of online web-based seminars in medical education. In this study, the authors conducted webinar tutorials on specialities written examinations revision materials. To further reinforce this study, the authors could consider utilising knowledge-based quizzes alongside the self-reported questionnaires.

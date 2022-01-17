@@ -1,0 +1,4 @@
+34598682|PMC8485105
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Since the outbreak at the end of 2019, coronavirus disease 2019 (COVID-19) has caused a global pandemic. A comparison of the LOD of the biosensors for the detection of the SARS-CoV-2 spike glycoprotein is listed in Table 2. has an excellent performance for detecting the SARS-CoV-2 spike glycoprotein with an LOD of 1 fg/mL. A lateral flow point of care diagnostic device reported by Baker et al.

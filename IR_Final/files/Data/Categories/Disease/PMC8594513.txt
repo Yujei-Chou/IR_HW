@@ -1,0 +1,3 @@
+34259663|PMC8594513
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Supplemental Digital Content is available in the text. In all cases, the random effects (DerSimonian and Laird) model was employed. 5, http://links.lww.com/CCM/G588).Based on the above, the overall pooled sepsis prevalence estimate among 218,184 COVID-19 patients, irrespectively of ICU or non-ICU admission, was 51.6 (95% CI, 47.6-55.5; I2 = 100%), as shown in Supplementary Figure 6 (http://links.lww.com/CCM/G588).Organ dysfunctions were assessed as defined in the original publications.

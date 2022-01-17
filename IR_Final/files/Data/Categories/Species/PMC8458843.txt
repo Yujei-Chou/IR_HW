@@ -1,0 +1,3 @@
+34486509|PMC8458843
+{'Disease', 'Species'}
+To the Editor:We would like to share our ideas on the recent article, "Healthcare-associated transmission of severe acute respiratory coronavirus virus 2 (SARS-CoV-2) among Thai healthcare personnel who receive 2 doses of a coronavirus disease 2019 (COVID-19) vaccine: A call for considering a booster dose." Apisarnthanarak et al proposed that "HCP were at extremely high risk for healthcare-associated SARS-CoV-2 transmission despite receiving 2 doses of COVID-19 ... suboptimal immune response following CoronaVac, particularly after day 60." The belief or misinformation that vaccination absolutely prevents severe infection might lead to careless infection prevention behavior.

@@ -1,0 +1,4 @@
+34727096|PMC8574165
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Patient: Male, 34-year-old 
+It is recognized that the SARS-CoV-2 virus can cause many adverse effects in organs other than the lungs, but it has been debatable whether these effects are directly mediated by presence of the virus or are secondary to immune system activation. The immunosuppressive therapy during the entire follow-up included: 1) prednisone administered enterally in a dose of 60 mg/day for 19 weeks followed by reduction to 50 mg/day and further reductions by 5 mg/day every 2 weeks until the dose of 5 mg/day was reached at 38 weeks of follow-up; and 2) cyclosporine A, 400 mg/day from the 19th week and 300 mg/day from the 43rd week (Table 3).The patient was diagnosed with COVID-19 pneumonia, FSGS, and interstitial nephritis. The intensity of lesions was low and not sufficient to diagnose a collapsing glomerulopathy.

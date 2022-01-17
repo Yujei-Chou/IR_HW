@@ -1,0 +1,3 @@
+34685625|PMC8534339
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+The PD-L1/PD-1 immune checkpoint axis is the strongest T cell exhaustion inducer. Therefore, neutralizing antibodies directed against IFNgamma or IL-17A were added or not to these cocultures. Of interest, CTL activity was reduced in the presence of obese adipocytes in comparison with lean adipocytes, as demonstrated by granzyme B intracellular staining (Figure S2), thus suggesting that ASC-mediated spreading of PD-L1 overexpression towards obese adipocytes may inhibit obese adipocytes' ability to activate CTL effectors.

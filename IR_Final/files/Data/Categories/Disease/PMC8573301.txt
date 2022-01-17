@@ -1,0 +1,4 @@
+34748143|PMC8573301
+{'Disease', 'Species'}
+Background
+As the COVID-19 pandemic unfolded, it became clear that increasing age was an independent risk factor for mortality and long-term morbidity. A common public health response in many countries included advice that people over the age of 70 self-isolate, restrict movements outside the home, and curtail social interactions. This study is the first to describe older adult's expressed priorities during the pandemic and supports the findings of Baily, et al. (

@@ -1,0 +1,3 @@
+34804989|PMC8595283
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+This study aimed to detect the SARS-COV2 viral component directly from inoculated VTM without RNA extraction. Also, a significant difference was found between the concordance percentage for both the individual genes, i.e., N gene (p<0.001) and ORF1ab gene (p<0.001), among the experimental groups respectively ( Figure 2 ).Amplication curves of group I and group II clearly showed delayed rise and decreased Relative fluorescence units (RFUs) for both the genes when compared to original amplication graphs of group III ( Figure 3 ). But it is intriguing to observe 100% specificity by using the PK addition in the sample.

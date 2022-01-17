@@ -1,0 +1,4 @@
+34780983|PMC8590473
+{'Disease', 'Species'}
+Introduction
+The COVID-19 global pandemic led to a substantial investment into the funding, execution, and publication/dissemination of research at unprecedented speeds and volumes. The AGREE II is useful for assessing rapid guidelines as it provides a blueprint to highlight the strengths and limitations of a guideline, and provides an estimate of trustworthiness, and a mechanism for public health decision-makers, clinicians and health system leaders to have a better sense of likely impact on patients and populations and successful implementation. During pandemic, for instance, identifying high-quality guidance for specific questions could facilitate the work for organizations that are planning to develop a new CPG.

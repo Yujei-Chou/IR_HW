@@ -1,0 +1,3 @@
+34729006|PMC8553586
+{'Disease', 'Species'}
+The cost effectiveness of COVID-19 vaccination is sensitive to vaccine price and productivity losses, according to findings of a Danish study published in Clinical Drug Investigation. Four scenarios were considered: vaccinating 25% of the total population but targeting people aged >=60 years; vaccinating 25% of the population but targeting people aged <60 years; vaccinating 40% of the population including 15% aged <60 years and 25% aged >=60 years; and vaccinating 40% of the population but targeting those aged <60 years. The estimated cost per life-year gained (LYG) was increased when people aged >=60 years only were targeted, or when both older and younger people were included.

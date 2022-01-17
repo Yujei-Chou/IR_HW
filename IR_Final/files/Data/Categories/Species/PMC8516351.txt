@@ -1,0 +1,3 @@
+34659444|PMC8516351
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Aim: The current study undertaken in Tunisia examines the use of wastewaters to monitor SARS-CoV-2 circulation. The standard curve was constructed using single stranded RNA fragments of SARS-CoV-2 containing the target region: gene N (Joint Research Centre, EURM-019).During the first period of our study between 8 September 2020 and 2 October 2020, nine influent and nine effluent wastewater samples were investigated for the presence of SARS-CoV-2 RNA. Our results are in accordance with recent studies undertaken around the world demonstrating the presence of SARS-CoV-2 RNA in raw wastewater samples.

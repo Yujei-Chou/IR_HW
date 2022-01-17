@@ -1,0 +1,4 @@
+34775229|PMC8584715
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Background
+In March 2020, the World Health Organization (WHO) declared the COVID-19 outbreak as a pandemic. Before COVID-19 treatment in hospital, participants ran   17 km/week on average. It has been demonstrated that during walking at different velocities (i.e., 0.54; 0.75; 1.15; 1.56 m/s), the abductor, vasti, and plantarflexor muscles make significantly larger contributions to mediolateral GRFs compared to the contributions of passive dynamics (i.e., gravity and velocity-related forces).

@@ -1,0 +1,4 @@
+34722775|PMC8553467
+{'Disease', 'Species'}
+Background
+The recognition of a possible outbreak followed the identification of a cluster of cases presenting with a rare type of pneumonia. The lockdown resulted in restrictions on movement among residents of the province requiring all to stay indoors during this period. When measuring the magnitude of change between the pre- and postintervention periods, we obtained a 60% (95%CI = 25.98, 95.51) decline and 240% (95%CI = 167.97, 313.01) decline in the occurrence of daily cases for Tables 1 and 3, respectively.

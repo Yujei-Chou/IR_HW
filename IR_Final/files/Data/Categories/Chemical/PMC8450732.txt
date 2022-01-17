@@ -1,0 +1,3 @@
+34584310|PMC8450732
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Amidst the growing concerns due to the second wave of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection, the various available vaccines have come as a respite for the masses. As per the recommendations by the National Expert Group on Vaccine Administration for COVID-19 (NEGVAC) constituted in India, the vaccine was offered on a priority basis to healthcare workers and various other frontline workers, and later, to persons above 60 years, followed by individuals older than 45 years with associated comorbidities. In a situation where the NR denies the vaccine for a PwSMI, then the further course of action is something worth pondering upon.

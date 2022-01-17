@@ -1,0 +1,4 @@
+34777805|PMC8573487
+{'Disease', 'Species', 'Gene'}
+Introduction:
+COVID-19 has first emerged as a group of mysterious cases of pneumonia in Wuhan, China and it was declared as a pandemic disease by World Health Organization (WHO) on 11 March 2020 after it was declared first as a public health emergency disease back in the start of March 2020. The questions that we have tried to answer to this study were as follows: To what extent do HCWs have prepared toward COVID-19 pandemics? Whereas, those HCWs, who were not scared of transmitting COVID-19 to patients, were 4.6 times more prepared than their counterparts (AOR = 4.6, 95% CI: 2.2-10.0).HCWs, who were satisfied with the ICP at their institution, were six times more likely to be prepared for COVID-19 than their counterparts (AOR = 6.0, 95% CI: 2.3-15.0).

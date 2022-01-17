@@ -1,0 +1,3 @@
+34236735|PMC8447464
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Dear Editor, We present the case of a 60-year-old patient who reported the onset of pernio-like lesions on both hands, approximately 14 days after the administration of the second dose of the Pfizer-BioNTech vaccine. During the COVID-19 pandemic, an increase in the occurrence of pernio-like acral lesions was highlighted, and therefore, a correlation between COVID-19 infection and this cutaneous eruption has been hypothesized. The patient had never experienced chilblain-like eruptions before; therefore, it cannot be excluded that these manifestations were related to the vaccine.

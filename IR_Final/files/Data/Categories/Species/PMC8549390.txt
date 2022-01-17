@@ -1,0 +1,3 @@
+34712904|PMC8549390
+{'Chemical', 'Disease', 'Species', 'Gene'}
+COVID-19 severity and progression are determined by several host and virological factors that may influence the final outcome of SARS-CoV-2-infected patients. In a related study, analysis of the viral RNA level in upper respiratory tract samples from 76 patients with COVID-19 revealed significantly lower Ct values (cycle threshold, which is inversely correlated with viral RNA level), and longer virus-shedding periods in those patients classified as severe, as compared with those who exhibited mild disease. Our cohort includes individuals whose swab is represented by the diagnostic one, and we recorded this time interval for 102 patients.

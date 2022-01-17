@@ -1,0 +1,4 @@
+34688583|PMC8519807
+{'Disease', 'Species'}
+Dear Editor:
+Dear Editor:Simulation-based medical education, which allows clinicians to develop skills to manage serious and infrequent situations without detriment of patient safety, is even more important during unexpected public health emergencies like the pandemic we are currently experiencing. In 9 PICUs, the COVID-19 training programme was an initiative of the unit itself. Compared to simulation-based training programmes offered prior to COVID-19, engagement of the team in trainings during the pandemic was the same in 9 of the units and greater in 7.When it came to the continuation of simulation-based activities unrelated to COVID-19, 14 of the 19 units continued implementing simulation-based activities, although less frequently and with fewer participants.

@@ -1,0 +1,4 @@
+34702423|PMC8569907
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Aim:
+Policies determining issues as complex as how patients should be treated at the end-of-life (EOL) are implemented within multifaceted and interacting social layers; influenced by a myriad of contextual factors from small scale interactions between patients and family or professionals to broader structural, societal and government processes. Ambitions for Palliative Care' (NPELCP,) is accepted here as the most significant policy document to emerge in the last decade, presenting a framework of six ambitions for EOLC, namely to: individualise care; provide fair access; maximise comfort; coordinate care; ensure staff are prepared to care and facilitate community involvement. Results from the case studies are presented in relation to the position in the broad social structure at which the identified causal mechanisms are seen to reside; micro, macro, meso.

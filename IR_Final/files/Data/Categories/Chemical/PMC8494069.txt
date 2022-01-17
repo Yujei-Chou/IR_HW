@@ -1,0 +1,4 @@
+34519667|PMC8494069
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The COVID-19 pandemic has raised profound concerns about the potential effects of app-based public health surveillance. We included the information in order to engage participants in a discussion of the long-term implications of digital contact tracing. Second, we describe how user privacy concerns constitute a productive means for identifying long-term implications of an emergent class apps used for public health surveillance.

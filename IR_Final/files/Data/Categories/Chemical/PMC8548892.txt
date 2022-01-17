@@ -1,0 +1,4 @@
+34760002|PMC8548892
+{'Chemical', 'Disease', 'Species'}
+Background:
+Coronavirus disease 2019 (COVID-19) is spreading at an enormous rate. Early preliminary reports and studies have warned physicians about the potential complications of COVID-19 in patients receiving DMTs. Although the definite risks and severity of COVID-19 infection in MS patients on DMTs are currently unknown, when deciding on initiating or continuing DMTs in MS patients, the pathophysiology and prognostic factors for severe COVID-19 infection should be foreseen.

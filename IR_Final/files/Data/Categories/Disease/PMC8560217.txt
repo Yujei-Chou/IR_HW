@@ -1,0 +1,4 @@
+34724950|PMC8560217
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Health research is crucial for practicing evidence-based medicine. Both the pre- and the post-quiz for each RW were identical, and tested participants' research-related knowledge and application of research-skills. In addition, the difference in the mean improvement of pre-workshop and post-workshop quiz for RW 5 (Improving Networking Skills for Research) was significantly higher among the participants who had conducted research before compared to the participants who had not conducted research previously (14.55% +- 18.95% vs. 9.27% +- 17.57%; p-value = 0.013).The pre- and post-workshop analysis revealed a significant improvement in all the 16 self-efficacy scores grouped into 5 categories (p <  0.001).

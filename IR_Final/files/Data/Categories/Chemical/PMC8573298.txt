@@ -1,0 +1,4 @@
+34749822|PMC8573298
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+Severe mental illnesses (SMI), including schizophrenia spectrum disorder, bipolar disorder and major depressive disorder (MDD), are the leading causes of years lived with disability, affecting approximately 3-5% of the population. In patients with schizophrenia and depression, there was an improvement in positive affect and wellbeing, and a reduction in psychological distress and state anxiety from pre-training to 15 min post-HIIT. The novel two-part design is based on the need to adapt to COVID-19 restrictions.

@@ -1,0 +1,4 @@
+34564730|PMC8500096
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+This is the first study to assemble a high-quality data set of harmonized mortality estimates, life tables and age by cause decomposition for 29 countries representing most of Europe, Chile and the USA to provide novel evidence of the cumulative, comparative impacts of the pandemic on population health. To enable reliable cross-national comparisons of life expectancy over the period 2015-2020, we harmonized death counts and population estimates from multiple sources, leveraging major ongoing efforts collecting data on all-cause mortality and official COVID-19 deaths. Increased death rates at ages >=80 years contributed most to life-expectancy losses among females.

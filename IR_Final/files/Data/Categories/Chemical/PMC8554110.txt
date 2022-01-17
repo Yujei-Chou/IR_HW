@@ -1,0 +1,3 @@
+34728871|PMC8554110
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The disruptive effects of the COVID-19 pandemic had affected the education sector at an unprecedented scale. At the global level, estimate that the school closure amid COVID-19 could result in a loss of 0.3 to 0.9 years of LAYS. Considering the effect of COVID-19, the study finds a substantial decrease in LAYS with a worsening consequence for girls than boys.

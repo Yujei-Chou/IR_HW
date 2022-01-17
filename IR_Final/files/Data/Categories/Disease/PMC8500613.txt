@@ -1,0 +1,4 @@
+34622847|PMC8500613
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Abstract
+Coronavirus disease 2019 (COVID-19) is an emergent, bursting infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). COVID-19 patients with more underlying comorbidities above related to worse prognosis and prolonged virus shedding. To the best of our knowledge, there was no specific antiviral medication for SARS-CoV-2 until now, and most of the drugs undergoing clinical tests with COVID-19 patients were designed for influenza, HIV, Ebola, etc.

@@ -1,0 +1,3 @@
+34334627|PMC8452242
+{'Chemical', 'Disease', 'Species'}
+This edition of Current Opinion in Critical Care is focused on Severe Infections. Thus, all articles published in this edition will approach the challenges of caring for hospitalized patients with COVID-19, an infection caused by SARS-CoV-2.Sweeney et al. discuss a relevant and evolving topic regarding 'Secondary pneumonias in critically ill patients with COVID-19: risk factors and outcomes'.

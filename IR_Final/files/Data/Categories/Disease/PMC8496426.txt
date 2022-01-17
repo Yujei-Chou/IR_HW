@@ -1,0 +1,4 @@
+34618300|PMC8496426
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+In December 2019, unusual pneumonia cases began to appear in Wuhan, China, and a new coronavirus species was detected as the causative agent. while hospital admissions increased during the pandemic period, there was no change in emergency surgical need. Despite the decrease in the visit frequency of total adult trauma patients during the pandemic period, the needs for emergency surgery, ICU, and ward admission did not change.

@@ -1,0 +1,3 @@
+34669713|PMC8528305
+{'Chemical', 'Disease', 'Species', 'Gene'}
+During the early months of the COVID-19 pandemic, there was an unusually high submission rate of scholarly articles. For names classified by gender-guesser as 'mostly_male', 'mostly_female', 'andy' (androgynous) or 'unknown' (name not found), we used GenderAPI (see https://gender-api.com/), which ensures that the level of mis-classification is around 5% (see Table 4 in) and has the highest coverage on multiple name origins (see Table 5 in). Some related work was mentioned in the introduction section of the manuscript, but providing additional literature survey will allow the readers to understand the topic much better.

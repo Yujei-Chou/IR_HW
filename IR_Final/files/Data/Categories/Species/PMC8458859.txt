@@ -1,0 +1,4 @@
+34308825|PMC8458859
+{'Chemical', 'Disease', 'Species'}
+Background:
+The novel outbreak of Coronavirus disease 2019 (COVID-19) was first reported from Wuhan city in China in December 2019. Figure 1 summarizes the frequency of use of sources of information to obtain COVID-19 knowledge among community members. However, in the COVID-19 context, more persons with lower educational levels are, therefore, likely to place higher level of trust in the NCDC and adopt the recommended COVID-19 preventive measures.

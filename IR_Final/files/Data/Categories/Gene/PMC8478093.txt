@@ -1,0 +1,4 @@
+34138823|PMC8478093
+{'Disease', 'Species', 'Gene'}
+Objective:
+Since March 2020, healthcare workers (HCWs) within emergency departments (ED) and emergency medical services (EMS) have served on the frontlines of the coronavirus disease (COVID-19) pandemic. Given that the study was anonymous, it was not feasible to record the number of HCWs that the survey reached. A multivariate logistic regression model revealed that the odds of vaccine intent/uptake was lower among females and those with a history of COVID-19 infection, and higher among those with an advanced degree education and high perceived COVID-19 vulnerability (Table 3).

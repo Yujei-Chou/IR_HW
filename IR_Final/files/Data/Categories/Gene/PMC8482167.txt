@@ -1,0 +1,4 @@
+34524103|PMC8482167
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+American adolescents' access to smartphones has increased from 73% in 2015 to 95% in 2018. A full description of the adjusted treatment effects on the cybervictimization and bystander scores at 8 and 16 weeks are presented in Table 3. Intervention participants reported significantly fewer physical fights at 8 weeks than control participants (beta=-.60, SE 0.28, P=.01) but no change in dating violence or in-person bullying.

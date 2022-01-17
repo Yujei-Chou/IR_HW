@@ -1,0 +1,4 @@
+34736426|PMC8568363
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The COVID-19 pandemic has caused unprecedented changes to daily life, affecting the operation of everything, from economic markets to local education systems. Bangladesh population had a larger proportion (69.7%) of individuals in the older age group (15-18 years old) than in the younger group (10-14 years old), while other countries had a greater proportion of younger adolescents (51.3-59.6%).Although the proportion of adolescents who studied in the past day varied by country (16.6-86.1%), the percentages of adolescents who received remote education (0.5-20.7%) or online courses (0.5-14.4%) were low across all six countries (Table 2 & Fig. Findings in the current study indicated that large proportions of respondents felt boredom or missed friends during the lockdown.

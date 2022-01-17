@@ -1,0 +1,3 @@
+34665818|PMC8525751
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Continuous positive airway pressure (CPAP) has been successfully applied to patients with COVID-19 to prevent endotracheal intubation. Patients were stratified according to the maximum oxygen and ventilatory support required, Fig 2.General and obstetric characteristics of the cohort are summarised in Table 1. 31 Aug 2021 PONE-D-21-18341Feasibility of CPAP application and factors associated with worsening of respiratory failure in pregnant women with SARS-CoV-2 pneumonia: experience of a tertiary care centrePLOS ONEDear Dr. Faverio,Thank you for submitting your manuscript to PLOS ONE.

@@ -1,0 +1,4 @@
+34145087|PMC8555600
+{'Disease', 'Species', 'Gene'}
+Sir,
+Sir,I came across the article by Mukhopadhyay et al on protective efficacy of various SARS-CoV-2 vaccine candidates in non-human primates (NHPs). As per the published literature of NHP model of SARS-CoV-2, there is no predilection for particular lung lobes that are preferentially involved due the disease. This factor is important because not all the seven lobes of lung of NHPs are easily accessible during bronchoscopy.

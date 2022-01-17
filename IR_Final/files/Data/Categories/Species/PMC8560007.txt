@@ -1,0 +1,3 @@
+34734180|PMC8560007
+{'Chemical', 'Disease', 'Species'}
+Objective: To measure the impact of restrictions due to COVID on the proportion of matches won at home, away and draw in professional soccer and rugby union. For example, in the French championship, a significant increase in away victories from 27.9% +- 1.6% with public in stadium to 36.8% +- 5.8% without supporters is observed (Figure 2). Numerous studies observe that officials make more subjective decisions in favor of the home team (Thomas et al.,;

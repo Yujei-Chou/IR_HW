@@ -1,0 +1,3 @@
+34692281|PMC8523338
+{'Chemical', 'Disease', 'Species', 'Gene'}
+During the coronavirus 2019 (COVID-19) pandemic, sundry dermatological conditions related to COVID-19 pneumonia have been published. Atypical presentations of HZ have been published especially in patients who are lymphopenic. Furthermore, a portion of Bell's palsy patients have Ramsay Hunt syndrome (zoster sine herpete), which is diagnosed by a fourfold increase in VZV antibody or the detection of VZV DNA in auricular skin, blood mononuclear cells, middle ear fluid, or saliva.

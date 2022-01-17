@@ -1,0 +1,4 @@
+34132580|PMC8552758
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+ABSTRACT
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), as a novel pathogen causing the coronavirus disease 2019 (COVID-19) pandemic, has been raging for more than a year and is affecting more than 200 countries and territories around the world. Recently, the cryo-electron microscopy (cryo-EM) structure of a complex containing the 40S ribosomal subunit and SARS-CoV-2 Nsp1 revealed that two C-terminal alpha helices, consisting of amino acid residues 154 to 160 and amino acid residues 166 to 179, bind to the mRNA entry tunnel in the ribosomal subunit. However, when aa 11 to 125 were deleted (Nsp1/Delta11-125) or only aa 126 to 180 of Nsp1 (Nsp1/126-180) were expressed, the translational inhibition effect of Nsp1 was partially rescued but still significantly impaired compare to that of full-length Nsp1 (Fig.

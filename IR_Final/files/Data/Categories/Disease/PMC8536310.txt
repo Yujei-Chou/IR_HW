@@ -1,0 +1,3 @@
+34707965|PMC8536310
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Pheochromocytomas are rare tumors that may have variable presentations. After a retroperitoneal ultrasound, he was found to have a 7 cm mass in the right adrenal gland with elevated chromogranin A, urine vanillylmandelic acid (VMA), and urinary 24-hour metanephrines to confirm the diagnosis of a pheochromocytoma. There is a report of a pheochromocytoma being triggered by high-dose exogenous steroids and another that describes cases of hypertensive crisis in patients with pheochromocytomas being triggered by certain drugs including rocuronium, pancuronium, and atracurium.

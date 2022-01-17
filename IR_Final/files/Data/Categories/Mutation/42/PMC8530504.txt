@@ -1,0 +1,3 @@
+34674770|PMC8530504
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+SARS-CoV-2 infection could cause severe acute respiratory syndrome, largely attributed to dysregulated immune activation and extensive lung tissue damage. Moreover, the micronuclei were also observed in Hela-ACE2 cells infected with the authentic SARS-CoV-2 viruses (Fig. In line with this idea, immunostaining indicated a strong localization of cGAS on the micronuclei formed in syncytia induced by either spike transfection and SARS-CoV-2 infection (Fig.

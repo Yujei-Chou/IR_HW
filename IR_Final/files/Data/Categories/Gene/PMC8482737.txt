@@ -1,0 +1,4 @@
+34593052|PMC8482737
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+On March 2020, the World Health Organization (WHO) declared the coronavirus disease 2019 (COVID-19) a global health pandemic. Minus any citizen oversight on the state resulting from the lockdown, abuse of resources by officials was said to be rampart particularly resources donated to the fight against COVID-19. As such, most participants felt the virulence in Zambia did not justify the lockdown.

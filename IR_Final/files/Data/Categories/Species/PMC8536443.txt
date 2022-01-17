@@ -1,0 +1,4 @@
+34691195|PMC8536443
+{'Disease', 'Species', 'Gene'}
+Background
+In December 2019, an unknown manifestation of pneumonia was detected in Wuhan, China, by a new virus called coronavirus disease 2019 (COVID-19). The majority of the participants were female (68.4%) and were married (70.6%).The result of anti-SARS-CoV-2 IgM antibody test was positive in 28 subjects (5.6%), and the anti-SARS-CoV-2 IgG antibody test was positive in168 subjects (33.3%).The seroprevalence of anti-SARS-CoV-2 IgM and IgG antibodies according to the characteristics of the study population is shown in Table 1.The comparison of the seroprevalence of anti-SARS-CoV-2 antibodies in the current study with some other studies is presented in Table 2. According to the results of our study, fever was the most common symptom associated with a positive anti-SARS-CoV-2 antibody test.

@@ -1,0 +1,4 @@
+34687413|PMC8540871
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background and Objective
+Severe acute respiratory syndrome Coronavirus 2 (SARS-CoV-2), the causative factor for Coronavirus disease 2019 (COVID-19), like SARS-CoV and Middle-East respiratory syndrome coronavirus (MERS-CoV), is a member of the beta Coronaviridae family of Coronaviruses. Four studies in the literature were found that showed significantly less time to clinical improvement with IFN-beta as compared to that with control. In this regard, the number of properly designed studies and those designed to investigate the early versus late effect of IFN-beta in COVID-19 patients is low, and future studies are needed to further confirm the importance of IFN-beta therapy in COVID-19 taking these factors into consideration.

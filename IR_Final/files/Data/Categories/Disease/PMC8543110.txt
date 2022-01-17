@@ -1,0 +1,3 @@
+34694546|PMC8543110
+{'Chemical', 'Disease', 'Species', 'Gene'}
+We have a responsibility to obey COVID-19 rules, in order to minimize risk. Evidence suggests that people generally understand and try to comply with social distancing rules and messages, even if some:like Jack:might forget them occasionally (Benham et al. ). So the rule makes sense but won't seem to make sense to anyone who doesn't understand virus vectors and contact tracing:which is unfortunately a large segment of society.

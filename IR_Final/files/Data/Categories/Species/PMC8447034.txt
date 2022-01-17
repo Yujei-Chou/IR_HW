@@ -1,0 +1,4 @@
+34057409|PMC8447034
+{'Chemical', 'Disease', 'Species'}
+Abstract
+Since late 2019, the world has been experiencing a fatal pandemic of a coronavirus disease (COVID-19) that is caused by SARS-CoV2. The survey included three general questions (for age, sex, and discipline) and six COVID-specific questions: 1) Do you think that PWE are at increased risk of contracting COVID-19? Finally, being infected with COVID-19 (physicians or their family members) did not have an impact on their recommendation of COVID-19 vaccination (60 out of 82 [73%] with infection and 89 out of 120 [74%] without infection would recommend the vaccine; p = 0.87).This survey showed that the majority (74%) of the physicians (neurologists and psychiatrists) would recommend a COVID-19 vaccine to their PWE, however, they have concerns and considerations and hold different opinions.

@@ -1,0 +1,3 @@
+34755047|PMC8543377
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+The author discussed recently the possible molecular mechanisms that cause the COVID-19 disease symptoms. In other words, the gut microorganisms producing tryptamine are more resistant to SARS-CoV-2 fecal viral activity than microorganisms producing no tryptamine. Tryptamine formation in canned tuna fish was stimulated (up to 5.4-fold) by inoculation with M. morganii or Proteus mirabilis.

@@ -1,0 +1,3 @@
+34561385|PMC8505149
+{'Disease', 'Species', 'Mutation', 'Gene'}
+Supplemental Digital Content is available in the text. In total, 44% of students requiring special educational support developed COVID-19. This cluster was caused by lineage B.1.1.214, which does not have currently spreading mutations in the spike protein, such as N501Y and E484K. The phylogenetic tree analysis suggested that 4 strains including B.1.1, B.1.1.214, B.1.1.284 and R.1 were circulating in Niigata Prefecture and that the independent virus strain in B.1.1.214 caused the school cluster (see Figure, Supplemental Digital Content 4, http://links.lww.com/INF/E543).This study was limited by the nature of the study design.

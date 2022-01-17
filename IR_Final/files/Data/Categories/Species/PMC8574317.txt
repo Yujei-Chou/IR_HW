@@ -1,0 +1,4 @@
+34694381|PMC8574317
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+Implication for practiceMonitoring electrocardiogram (ECG) in patients in the prone position is challenging. Of note, precordial derivations are recommended to measure QT interval. The main findings of this study were that (i) the prone position induced significant changes in ECG, notably a decrease in QRS duration and (ii) that frontal plane leads can monitor the ECG as reliably with the electrodes adequately positioned dorsally as with the electrodes positioned on the torso in patients in the prone position (with V6 left in place) for COVID-19-induced ARDS.

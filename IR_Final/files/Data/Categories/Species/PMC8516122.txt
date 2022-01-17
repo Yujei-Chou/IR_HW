@@ -1,0 +1,3 @@
+34656734|PMC8516122
+{'Disease', 'Species'}
+Thank you for your comments regarding our article titled "Obstetrical outcomes and follow-up for patients with asymptomatic COVID-19 at delivery: a multicenter prospective cohort study." The author brings up several issues that we wish to address. However, when we analyzed our data and found that most of the patients who tested positive were asymptomatic, we determined that the addition of viral load data would not strengthen our results.

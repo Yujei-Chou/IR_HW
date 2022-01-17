@@ -1,0 +1,4 @@
+34521240|PMC8447108
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objective
+The Western Pacific region experiences high mortality rates by suicide, but there has been little or no research in certain island communities while important efforts are being made in the larger countries of the Asia-Pacific region to improve the epidemiological monitoring of suicidal behaviour and promote prevention. Most recent psychological autopsy studies underline the need to have multiple sources of information and a control group. Data have been published only for the 2005-2010 period and showed higher suicide rates in young people (15-24 years), in males (29.5/100 000) and females (21.8/100 000) and suicide was the first cause of death in this age class.

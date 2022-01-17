@@ -1,0 +1,3 @@
+34710137|PMC8553043
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Effective, low-cost therapeutics are needed to prevent and treat COVID-19. We conducted two sets of analyses to examine the associations between disulfiram treatment and SARS-CoV-2 test positivity. Of note, patients treated with disulfiram were less likely to be vaccinated against SARS-CoV-2 during our study period (11.6%) compared to those untreated (15.7%; P < 0.001; S1 Table), which if anything would result in an underestimation of the HR for those on disulfiram.

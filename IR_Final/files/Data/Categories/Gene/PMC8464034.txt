@@ -1,0 +1,3 @@
+34604720|PMC8464034
+{'Species', 'Gene'}
+Emerging evidence indicates that severe acute respiratory syndrome-related coronavirus-2 (SARS-CoV-2) is transmitted through the human nasal mucosa via the principal entry factors angiotensin-converting enzyme 2 (ACE2) and transmembrane serine protease 2 (TMPRSS2), which are highly expressed in the nasal epithelium. Therefore, the biologics targeting host entry factors on human nasal mucosa will be necessary for complete control of SARS-CoV-2. Both ACE2 and TMPRSS2 transcriptions were significantly decreased in nasal epithelium in response to S. epidermidis and were relatively lower in human nasal mucus with large number of S. epidermidis.

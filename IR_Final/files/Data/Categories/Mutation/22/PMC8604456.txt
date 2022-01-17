@@ -1,0 +1,4 @@
+34804382|PMC8604456
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+ABSTRACT
+The novel coronavirus disease, COVID-19, has presented a multitude of challenges for public health officials and healthcare providers. A summary of the previously published literature on SARS-CoV-2 reinfections with a genetically different strain is outlined in Table 1. Early on, the temporary nature of immunity and the consequent possibility for reinfection was not clear, so genomic testing was not repeated in studies of subsequent COVID-19 cases.

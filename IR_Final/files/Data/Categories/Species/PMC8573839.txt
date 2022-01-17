@@ -1,0 +1,3 @@
+34803444|PMC8573839
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Use of information technologies to analyse big data on SARS-CoV-2 genome provides an insight for tracking variations and examining the evolution of the virus. Even though there are limited number of platforms or tools for monitoring the mutations that occur in the genome of SARS-CoV-2 during the pandemic, like NextSrain5 (Hadfield et al., Considering the number of SNV harboured by the isolates, it is a remarkable finding that a total of 3715 isolate genome sequences out of sequences analysed in this study were the same as the sequence from Wuhan strain (NC_045512.2) (Figure 2).

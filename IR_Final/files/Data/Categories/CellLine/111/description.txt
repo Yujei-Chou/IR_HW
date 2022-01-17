@@ -1,0 +1,1 @@
+cell,factor,blood,tissue,activity,procoagulant,enterotoxin,endothelial,human,novel,peripheral,monocytic,predominantly,expressed,coagulation,initiator,major,whole,study,mononuclear,one,tf,author,assessed,influence,von,willebrand,vwf,clearance,platelet

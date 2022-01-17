@@ -1,0 +1,4 @@
+34697930|PMC8546308
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Introduction
+The National Academy of Medicine of Korea (NAMOK), established in 2004, is a non-profit organization involving erudite scholars belonging to medicine and health systems science that aims to improve public health by advancing medicine; leading modernization; and providing trusted, authoritative, and scientific advice to the government and Korean population. As discussed in the short-term pending issues, the capacity to perform infectious disease diagnostic tests needs to be expanded. Despite the efforts of healthcare authorities and the public, the number of confirmed cases of community infection continues to increase because of the characteristic of COVID-19, i.e., the asymptomatic nature of infection.

@@ -1,0 +1,3 @@
+34696458|PMC8537371
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+The emergence of variants of SARS-CoV-2 has created challenges for the testing infrastructure. Analysis using the typing panel confirmed the absence of ORF8 and identified the genotype to be most likely derived from the "Alpha" lineage: N501Y, HV 69/70 deletion, K417WT, E484WT and P681H (other).The typing panel described in this manuscript has been successfully deployed as a "reflex" assay to aid the identification of designated SARS-CoV-2 variants of concern (VOC). Underpinning the requirement for the implementation of this technique is a requirement to describe the population structure of SARS-CoV-2 lineage attributable to both hospital and community infection within the United Kingdom.

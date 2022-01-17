@@ -1,0 +1,3 @@
+34552110|PMC8458503
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+As the SARS-CoV-2 has spread and the pandemic has dragged on, the virus continued to evolve rapidly resulting in the emergence of new highly transmissible variants that can be of public health concern. The complex of SARS2-S RBD with the receptor was used to point out unique and conserved residues. Specifically, Phe 456 and Phe 486 that are under positive selection were selected because they generate more hydrophobic contacts with the receptor than the Leu's at the same positions present in SARS-S. At the other edge of the interface, Gln 498 which was selected neutrally in the RBD enables a hydrophilic surface that permits interactions with the receptor by van der Waals forces (Fig.

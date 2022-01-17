@@ -1,0 +1,4 @@
+34294403|PMC8462016
+{'Chemical', 'Disease', 'Species', 'Gene'}
+MitraClip Work-Up Flow Chart
+The 2020 American College of Cardiology expert consensus on the management of mitral regurgitation (MR) recommends initial evaluation of the severity and mechanism of MR by transthoracic echocardiography (TTE). Even in the post-COVID world, a requirement for TEE presents a barrier to treatment for many patients. Out of the 30 patients with single-session TEE-MitraClip 1 had the procedure cancelled because on intraoperative TEE we concluded that the patient's aortic stenosis was the dominate valve lesion and only moderate MR at most even after volume and pressure loads.

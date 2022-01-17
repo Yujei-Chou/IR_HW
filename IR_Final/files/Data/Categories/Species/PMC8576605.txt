@@ -1,0 +1,3 @@
+34764908|PMC8576605
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Based on the scarcity theory, this study focuses on exploring the relationship between the severity of public health emergencies (i.e., COVID-19) and individual irrational consumer behaviors through the serial mediating variables of perceived scarcity (PS) and negative mentality (NM). These findings indicate that mediating effects account for all the observed relationships between PPS and ICB. 3) PS and NM operate as serial mediators between PPS and ICB.The original contributions presented in the study are included in the article/Supplementary Material, further inquiries can be directed to the corresponding author.

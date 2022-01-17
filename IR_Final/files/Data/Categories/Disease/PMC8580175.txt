@@ -1,0 +1,4 @@
+34609313|PMC8580175
+{'Chemical', 'Disease', 'Species'}
+Background
+COVID-19, caused by SARS-CoV-2, has devastated people nationwide in the United States, particularly people who are incarcerated. A total of 13 participants provided the same rating with respect to data about correctional officers and prison staff. The only significant difference between returning and nonreturning citizens was whether the data included on the ADOC website describe incarcerated people's COVID-19 infection rates (P=0.03): 80% (n=4) of the returning citizens reported the data included as "fair" and below compared to 75% (n=12) of the nonreturning citizens reporting the data included as "good" and "very good.

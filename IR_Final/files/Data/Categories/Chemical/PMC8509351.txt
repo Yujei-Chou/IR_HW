@@ -1,0 +1,3 @@
+34640390|PMC8509351
+{'Chemical', 'Disease', 'Species'}
+COVID-19, as a disease involving the endothelium of multiple organs, is characterized by high mortality rates among hospitalized patients. Clinical characteristics of high EASIX versus low EASIX COVID-19 patients are shown in Table 2.Patients with high EASIX were more often males than women (63% vs. 51%, p = 0.009) and were characterized by a higher prevalence of hypertension (p = 0.003), chronic heart failure (p = 0.03) and chronic kidney disease (p < 0.001). EASIX is an easy tool to predict endothelial dysfunction in the case of hematological disorders.

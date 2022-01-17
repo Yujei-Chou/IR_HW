@@ -1,0 +1,4 @@
+34258806|PMC8447433
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+The Coronavirus disease 2019 (COVID-19) has rapidly spread worldwide (Zhu et al.,), Firstly, we purposely selected older adults with different infection histories regarding COVID-19 and living statuses (e.g. were infected with COVID-19 or not, lived with family members or alone, lived in different districts in Wuhan). Some participants also reported that quarantine interventions caused inconvenience in going out, having daily activities and entertainments.

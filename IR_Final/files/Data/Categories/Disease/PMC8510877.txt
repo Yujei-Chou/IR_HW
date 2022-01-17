@@ -1,0 +1,3 @@
+34638181|PMC8510877
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Digital PCR (dPCR) is the third-generation PCR that enables real-time absolute quantification without reference materials. Following the evolving trend of this technique, a new dPCR equipment (Lab On An Array [LOAA] digital real-time PCR analyzer; LOAA dPCR, Optolane, Seongnam, Korea) was launched in South Korea last year. As a result, we could identify that when the number of wells increases, 99.5% of wells are digitized to 0 or 1 (Fig.

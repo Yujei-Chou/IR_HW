@@ -1,0 +1,3 @@
+34647745|PMC8525344
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Cellular binding and entry of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) are mediated by its spike glycoprotein (S protein), which binds with not only the human angiotensin-converting enzyme 2 (ACE2) receptor but also glycosaminoglycans such as heparin. On the basis of this scientific premise, we hypothesize that a higher level of heparin on the cellular nanosponges will lead to a higher binding ability with the viral S protein and hence a higher inhibition efficacy against SARS-CoV-2 for host protection. The cell surface N3 level increased significantly when the cells were incubated with Ac4ManNAz (Figure 2A).

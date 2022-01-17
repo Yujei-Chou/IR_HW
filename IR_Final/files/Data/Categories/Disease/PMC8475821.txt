@@ -1,0 +1,4 @@
+34562263|PMC8475821
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Comparable to other infectious viral diseases, at least temporary immunity is assumed for most individuals after recovery from a SARS-CoV-2 infection. 1a, 4) and were also significantly above the levels of study participants immediately after COVID-19 infection (p < 0.001).Elevated SARS-CoV-2-S-protein-reactive memory T cell counts were detectable both in individuals with previous COVID-19 and in COVID-19-naive vaccine recipients (Fig. This number compares well with published reinfection rates after natural infection or vaccination.

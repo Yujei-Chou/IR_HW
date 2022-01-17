@@ -1,0 +1,4 @@
+34728971|PMC8513952
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Sir,
+Sir,A 64-year-old male, a native of Kochi, Kerala, who is a diabetic, was under quarantine after returning from Nigeria. Blood investigations revealed improving trend in thrombocytopenia [110 K/uL]. Co-infection with COVID-19 is known to be in about 7% of the patients, with doubling the rate in ICU patients.

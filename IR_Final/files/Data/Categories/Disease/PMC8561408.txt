@@ -1,0 +1,4 @@
+34524100|PMC8561408
+{'Disease', 'Species', 'Gene'}
+Background
+The internet and smartphones are increasingly popular both as a means to access health care information and as tools for health care management. Wang et al surveyed 535 women and showed that the most common reasons women used apps were to monitor fetal development (83%) and to obtain information on nutrition (26.2%) and antenatal care (23.9%). Google Incognito mode was used to limit variation of results based on the user's browser cookies.

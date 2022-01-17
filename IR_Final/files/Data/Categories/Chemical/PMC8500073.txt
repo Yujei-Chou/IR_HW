@@ -1,0 +1,3 @@
+34646795|PMC8500073
+{'Chemical', 'Disease', 'Species', 'Gene'}
+On March 10, 2020, the State of Michigan reported its first case of severe acute respiratory syndrome due to coronavirus disease 2019, which was admitted to Ascension Providence Hospital (APH). The team initiated the "crisis capacity surge plan" that was focused on patient care and led mainly by our trainee. Education on COVID-19 and experimental therapies: GME, Simulation Center and Infection Control Department developed an up-to-date accessible online guideline for management of COVID-19.

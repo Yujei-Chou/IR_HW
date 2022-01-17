@@ -1,0 +1,4 @@
+34715939|PMC8554514
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The World Health Organization defines intimate partner violence (IPV) as physical, sexual, and emotional abuse and controlling behaviours by an intimate partner (World Health Organization). Asymptotic linear-by-linear association tests were statistically significant for frequency of IPV screening (ordered) by age (26-35 vs. 36-45 years of age) (statistic: 8.898; p = 0.003) and by mentorship (no vs. yes) (statistic: 10.33; p = 0.001). Other models for quality improvement projects in healthcare settings similarly include both traditional training and an element of coaching or mentorship for physicians (Li et al.;

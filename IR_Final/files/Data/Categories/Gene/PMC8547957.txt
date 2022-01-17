@@ -1,0 +1,3 @@
+34720276|PMC8547957
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Infectious diseases caused by pathogenic microbes have posed a major health issue for the public, such as the ongoing COVID-19 global pandemic. Given that many proteins are found inclined to form amyloid fibrils that share a universal structure irrespective of the initial protein sequence, d-AQuA might represent a promising approach in the future to monitor pathogenic protein-associated diseases in environmental samples, for example, prion proteins in wastewater. reported a microfluidic strategy to immobilize single cell-laden droplets that enables them to monitor the enzymatic activity of alkaline phosphatase (AP) secreted by single E. coli cell in droplets (Fig.

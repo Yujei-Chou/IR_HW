@@ -1,0 +1,4 @@
+34660095|PMC8509093
+{'Chemical', 'Disease', 'Species'}
+Introduction and objectives
+In the end of December 2019, a virus named COVID-19 by WHO, was reported in Wuhan, China for the first time and spread rapidly around the world. Furthermore, age affects the environment [F(3,396)=3.74, p=0.011] (Table 3).Independent sample t-test was utilized to examine the effect of gender on quality of life. One-way Anova was utilized to examine the effect of marital status on quality of life.

@@ -1,0 +1,4 @@
+34790435|PMC8592616
+{'Chemical', 'Disease', 'Species', 'Gene'}
+ABSTRACT
+The COVID-19 pandemic has transformed almost every component of healthcare delivery around the world, including the learning environments and training of health professionals. Since we accredit organisations (using a trust and verify approach), rather than accrediting individual activities (using a review and approve approach), education providers could respond nimbly to the evolving environment and the needs of their institutions, learners, and communities. We determined that this temporary modification would benefit providers, with minimal risk of compromising the independence of the education.

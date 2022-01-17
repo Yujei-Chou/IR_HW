@@ -1,0 +1,3 @@
+34667147|PMC8526700
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+In the absence of virus-targeting small-molecule drugs approved for the treatment and prevention of COVID-19, broadening the repertoire of potent SARS-CoV-2-neutralizing antibodies represents an important area of research in response to the ongoing pandemic. BLI (Bio-Layer Interferometry) analysis indicated that only two RBD-specific antibodies, iB1 and iB2, were low-affinity (KD = 1.0 and 1.5 muM, respectively) and three were in the moderate affinity subgroup (iB3 78 nM, iB4 31 nM, iB10 106 nM). F490L fully abrogated neutralization by iB12 and iB15.

@@ -1,0 +1,4 @@
+34648103|PMC8514806
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The ongoing SARS-CoV-2 pandemic, which is dramatically spreading worldwide, is well known for its respiratory sequelae. Dosage of serum antiganglioside antibodies with indirect ELISA test showed anti-GM1 IgM positivity (index 53.4; normal value 0-50).Clinical, laboratory, and neurophysiological findings were consistent with mononeuropathy with reversible CB associated with anti-GM1 antibodies. Also, systemic causes of peroneal neuropathy were excluded since the normalcy of laboratory results.

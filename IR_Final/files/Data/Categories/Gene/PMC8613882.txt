@@ -1,0 +1,3 @@
+34809490|PMC8613882
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Evidence regarding the effects of environmental factors on COVID-19 transmission is mixed. To facilitate comparisons, the associations of air pollutants and meteorological factors with daily confirmed new cases were reported as odds ratios (ORs) with 95% confidence intervals (95% CIs) for an IQR increase in daily average concentrations of air pollutants as well as 1 C, 1%, and 1 m/s increase in daily mean temperature, relative humidity, and wind velocity, respectively. In addition, we considered the associations of meteorological factor combinations on COVID-19 infection.

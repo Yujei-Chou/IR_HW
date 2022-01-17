@@ -1,0 +1,4 @@
+34660096|PMC8506500
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The coronavirus disease 2019 (COVID-19) pandemic is a crucial public health issue, as it grabs headlines worldwide. The other sources of information were health care workers (n = 41, 12.5%), family or friends' experiences (n = 37, 11.3%), and the least common resources were researches that mentioned that the vaccines are harmful (n = 31, 9.5%).When the group was asked about the factors that can contribute to changing their decision regarding immunization, the majority (n = 201, 61.5%) chose home visits for the vaccines as an alternative way to receive the vaccines, whereas physicians' advice in a clinic visit represented a possibility of changing the decision for 93 (28.4%) participants. A high percentage of the respondents (59%) believed that despite the COVID-19 pandemic, routine childhood vaccines must be administered on time.

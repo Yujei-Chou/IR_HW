@@ -1,0 +1,3 @@
+34529762|PMC8450138
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The urgency of the COVID-19 pandemic has led to accelerated vaccine development within less than a year. In this context, we evaluated the humoral response by determining the titers of neutralizing antibodies (NAbs) against SARS-CoV-2 in patients with Waldenstrom Macroglobulinemia (WM) after vaccination with the BNT162b2 or AZD1222 vaccine. Disease-related immune dysregulation and therapy-related immunosuppression are involved in the low humoral response.

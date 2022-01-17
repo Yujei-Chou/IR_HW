@@ -1,0 +1,3 @@
+34370697|PMC8592170
+{'Chemical', 'Disease', 'Species'}
+Globally, significant mortality and morbidity as a result of the COVID-19 pandemic have been documented in over 216 countries/territories of the world. The aim of this study therefore, was to review community-level responses to infectious disease outbreaks in SSA and highlight strategies that would be useful in managing the present COVID-19 pandemic. A four-prong approach in sensitizing community members on "socially and culturally" appropriate Ebola virus disease (EVD) prevention practices was implemented.

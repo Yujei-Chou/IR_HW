@@ -1,0 +1,3 @@
+34147144|PMC8494618
+{'Chemical', 'Disease', 'Species', 'Gene'}
+This World Refugee Day, June 20, coincides with 70 years of the 1951 Refugee Convention, a multilateral treaty that shaped the standards that provide the bedrock of international protection for refugees against discrimination and violation of their human rights. The COVID-19 pandemic has weighed heavily on the 26 3 million refugees worldwide today. A report by the ECDC shows how even in high-income countries with advanced immunisation programmes that include (and in some cases prioritise) refugees, barriers to care and vaccination still exist.

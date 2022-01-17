@@ -1,0 +1,4 @@
+34492105|PMC8499904
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+The development of antibodies that can be used therapeutically is progressing mostly for intravenous administration. Moreover, AIDG23S mice are more susceptible to Yersinia invasion into mesenteric lymph nodes as well and are more severely affected by oral cholera toxin challenge than wild-type mice are, indicating that high-affinity IgA produced in wild-type mice can protect from pathogen invasion more efficiently than low-affinity IgA produced in AIDG23S mice does, even without immunization against those pathogens. Although pathogen-specific vaccination can induce protective IgA responses, aged individuals or those with defects in the production of high-affinity antibody cannot.

@@ -1,0 +1,4 @@
+34632708|PMC8581334
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+The COVID-19 pandemic has led to the death of more than 4.2 million people worldwide, with more than 196 million infections reported. DSC viability at infusion was median 94% (range 90%-96%).A 68-year-old man with ischaemic heart disease (IHD) had cough, fever and shivering. A randomized study was performed using BM-MSCs at a dose of 10 x 106 cells/kg.

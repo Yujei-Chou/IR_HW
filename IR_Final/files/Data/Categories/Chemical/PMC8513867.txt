@@ -1,0 +1,4 @@
+34644316|PMC8513867
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Coronavirus disease 2019 (COVID-19), caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection, includes a wide range of clinical presentations; from asymptomatic to severe pneumonia with acute respiratory injury (ARI) or acute respiratory distress syndrome (ARDS) in about 20% of patients seeking medical care due to COVID-19. When the analyses were re-performed including only individuals 55 years of age or less, the same pattern was seen (S2 Table).BMI as a continuous variable was associated with the risk of death during the ICU stay (OR per SD increase 1.20, 95% CI 1.05-1.37, adjusted for age and sex). The results establish obesity as an independent risk factor for severe outcome from intensive care in patients with COVID-19.

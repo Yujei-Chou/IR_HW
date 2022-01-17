@@ -1,0 +1,3 @@
+34595717|PMC8483804
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Surfaces can be contaminated by droplets produced through coughing or sneezing. Aggregates of organisms, often associated with small particles, are a historical problem in UV disinfection (Azimi et al.; It was shown, using a conservative estimation of beta for very small droplets, that a two-log reduction of SARS-CoV-2 was probable (p=75%) at a dose of 60 mJ/cm2.

@@ -1,0 +1,3 @@
+33536264|PMC8522998
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Acute respiratory distress syndrome (ARDS) is a devastating critical illness that can be triggered by a wide range of insults and remains associated with a high mortality of around 40%. This iatrogenic injury should be considered a second hit after the first insult and adds additional complexity to the syndrome. On the other hand, biomarkers of endothelial injury and lung epithelial damage were significantly different between patients with pulmonary and non-pulmonary causes of lung injury, but still showed so much overlap that we cannot equate the etiological factor with a particular biological phenotype.

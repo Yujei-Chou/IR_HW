@@ -1,0 +1,4 @@
+34713202|PMC8521901
+{'Chemical', 'Disease', 'Species'}
+Introduction
+For millions of people, the year of the COVID-19 pandemic represented an annus horribilis, marked by illness, loss, isolation, and unemployment. We do not know the extent to which mental health has been affected by the overinflated use of digital media and difficulties with online learning/working during the pandemic, but problems already linked to digital technologies may have worsened as screen time exploded, especially for those at risk, including adolescents with internet gaming disorder and online gamblers with anxiety and depression. In a British study that assessed mental health factors in a large population sample across three pandemic "waves," younger adults (18-29 year olds) reported higher levels of suicidal ideation (12.5%) than those aged 30-59 years (8.4%; p = 0.002) and those >=60 years (1.9%, p < 0.0001).

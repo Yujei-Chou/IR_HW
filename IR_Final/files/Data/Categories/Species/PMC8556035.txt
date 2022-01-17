@@ -1,0 +1,4 @@
+34713866|PMC8556035
+{'Disease', 'Species', 'Gene'}
+Abstract
+In late December 2019, Wuhan, Hubei Province, China, reported a group of pneumonia cases of unknown cause. Therefore, this study intends to use a retrospective observational design to describe the epidemic trends of COVID-19 in Jiangxi and compare them with trends in the whole country (excluding Hubei). The city least affected by the COVID-19 outbreak was Jingdezhen, with only 6 cases.

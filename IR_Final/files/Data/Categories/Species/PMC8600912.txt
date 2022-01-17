@@ -1,0 +1,4 @@
+34792722|PMC8600912
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Purpose
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV2) has drastically impacted all the domains of humanity and solid-organ transplant recipient (SOT) is not a mere exception. Mild cases (73% vs 43%; p-value = 0.1) were higher and there were fewer cases (20% vs 9%; p-value = 0.69) with severe COVID-19 in post-COVID-19 mucormycosis. Immunosuppression alteration is challenging and there is no fixed consensus in such complex cases.

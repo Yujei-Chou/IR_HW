@@ -1,0 +1,4 @@
+34636964|PMC8506100
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The coronavirus disease 2019 (COVID-19) pandemic has significantly changed the lives of billions of people worldwide. Parental mental illness was related to lower HRQoL (- 0.16 SD) and more pronounced mental health problems (+ 0.32 SD), anxiety (+ 0.28 SD), depressive symptoms (+ 0.30 SD) and psychosomatic complaints (+ 0.26 SD).Concerning pandemic-related risk factors, parental burden caused by the pandemic and by changes in occupational status, family conflicts and the escalation of conflicts were all related to impairments in almost all HRQoL and mental health outcomes. The analyses were controlled for age, gender, age*gender interaction and time (wave 2 vs. wave 1).

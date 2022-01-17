@@ -1,0 +1,4 @@
+34048368|PMC8507591
+{'Disease', 'Species'}
+OBJECTIVES:
+New unemployment is common in survivors from critical care, and this is associated with long-term consequences that impact physical, psychologic, and social dimensions. Our aim was to undertake a preliminary assessment of return to work and unemployment after COVID-19 acute respiratory distress syndrome (ARDS) requiring intensive care admission. Those who did not work prior to COVID-19 reported 80 (75-85) (out of 100).This is one of the first reports specifically exploring return to work after critical illness due to COVID-19 respiratory failure.

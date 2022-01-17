@@ -1,0 +1,3 @@
+34777029|PMC8578853
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The COVID-19 outbreak has affected healthcare across all levels. In the current report we explored a possible source of resiliency in the correlation of selfobject needs with symptom profiles. In community samples, Mirroring has been previously found to be a stronger correlate of self-reported mental health symptoms than the other selfobject needs, and the effect is general and does not discriminate between symptom domains.

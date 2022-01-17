@@ -1,0 +1,4 @@
+34804011|PMC8600565
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Introduction
+The COVID-19 pandemic caused by SARS-CoV-2 has caused ongoing challenges for health care systems across the globe 1 . As for patients with psoriasis, male and female patients, during the pandemic, showed similar and increased levels of disease activity, i.e. higher PASI scores, than before the pandemic ( Table 1 ). Female patients with psoriasis showed increased and markedly higher rates of biologic treatment during the pandemic, 45.8% in 2020, up from 28.3% in 2019 ( Table 1  and  Figure 2A ).Before the pandemic, 91.7% of male CSU patients treating with omalizumab had controlled disease, i.e. a UCT>=12.

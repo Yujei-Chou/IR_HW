@@ -1,0 +1,3 @@
+34692735|PMC8531584
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Coronavirus-19 (COVID-19) has rapidly spread throughout the world resulting in a significant amount of morbidity and mortality. In the first patient removal of exosomes and exosomal microRNAs was associated with improved coagulopathy, oxygenation, and clinical recovery, while in a second patient removal of COVID-19 by the Hemopurifier cartridge was observed. The patient received 6 h and 15 min of Aethlon Hemopurifier treatment in series with CRRT.

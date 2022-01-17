@@ -1,0 +1,4 @@
+34772377|PMC8586617
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has resulted in a worldwide pandemic since its outbreak in Wuhan, China, in December 2019. The present case report describes the shedding of SARS-CoV-2 in the pharynx and the rectum of a 22-day-old neonate, to draw further attention to the possible prolonged shedding of SARS-CoV-2 in neonates. Two days after the boy was discharged, the mother tested positive for COVID-19.

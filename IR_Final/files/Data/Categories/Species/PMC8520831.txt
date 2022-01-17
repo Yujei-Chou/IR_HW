@@ -1,0 +1,3 @@
+34673106|PMC8520831
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+The severe acute respiratory syndrome corona virus-2 (SARS-CoV-2) keeps on destroying normal social integrity worldwide, bringing about extraordinary medical services, cultural and financial interruption. Thus, the level of Cys34 cysteinylated albumin is significantly increased in patients with DM, liver, and kidney diseases. Previous studies demonstrated that hyperglycemia upregulates adhesion molecules (intracellular cell attachment molecule-1, vascular cell attachment molecule-1, eselectin and CD11b) on endothelial cells and neutrophils, which is believed to diminish neutrophil chemotaxis at sites of SARS-CoV-2 infection.

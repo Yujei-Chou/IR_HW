@@ -1,0 +1,4 @@
+34730436|PMC8567243
+{'Chemical', 'Disease', 'Species'}
+ABSTRACT
+Coronavirus disease 19 (COVID-19), a novel coronavirus-induced pneumonia caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), was first recognized and confirmed in December 2019 in Wuhan, China. Other studies have found similar results where sensitivities reflect the timing of symptom onset. Among the 45 discrepant specimens, the median CT value (29.2; IQR, 27.4 to 33.3) was higher among the NPS than the median CT value of common positive (25.3; IQR, 22.0 to 31.1) samples, indicating that the viral load was beyond the detection level in these saliva specimens.

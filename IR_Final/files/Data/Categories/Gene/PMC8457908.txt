@@ -1,0 +1,4 @@
+34580649|PMC8457908
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Purpose
+Since the global spreading of the Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) in December 2019, the situation has worsened, resulted in the pandemic declaration by the World Health Organization (WHO) on March 11th, 2020. To date and the best of our knowledge, this is the first case report of transient visual field defect after the COVID-19 vaccination (CoronaVac), self-observed by an ophthalmologist and confirmed by the computerized automated perimetry. The patient could present with acute monocular scotoma, with otherwise normal fundus.

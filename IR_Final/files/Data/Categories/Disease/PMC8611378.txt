@@ -1,0 +1,4 @@
+34817731|PMC8611378
+{'Disease'}
+Correction to :  Neurological Sciences (2021) 
+ Correction to :  Neurological Sciences (2021)  https://doi.org/10.1007/s10072-021-05756-4 Originally, affiliation 1 incorrectly presented online. Affiliation 1 should be change to "Functional Neurosurgery Research Center, Shohada Tajrish Neurosurgical Comprehensive Center of Excellence, Shahid Beheshti University of Medical Sciences, Tehran, Iran".

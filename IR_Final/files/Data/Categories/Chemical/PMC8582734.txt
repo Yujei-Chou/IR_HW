@@ -1,0 +1,3 @@
+34769806|PMC8582734
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Despite its severe adverse effects, such as agranulocytosis, clozapine is the primary treatment for treatment-resistant schizophrenia. This review aimed to assess the current evidence on the neutrophil changes in the patient on clozapine treatment and infected with COVID-19. Despite numerous limitations, current evidence indicates that clozapine use during COVID-19 infection did not result in significant reduction in ANC levels.

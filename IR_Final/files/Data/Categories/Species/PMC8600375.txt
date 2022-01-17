@@ -1,0 +1,4 @@
+34812257|PMC8600375
+{'Disease', 'Species'}
+Abstract
+To date, there is little historical research documenting the school social work role during a pandemic. One SSW described their concern this way: "It has been very difficult to provide special education services from a distance. Findings from this study and from quantitative work with this sample suggest that schools and districts will have to contend with the large numbers of families who do not have Internet access and computers or tablets with which to engage in virtual schooling and virtual social work services.

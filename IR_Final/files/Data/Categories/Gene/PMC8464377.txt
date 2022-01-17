@@ -1,0 +1,4 @@
+34584474|PMC8464377
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The coronavirus disease-2019 (COVID-19) pandemic has affected over 190 million people with over 4.2 million deaths worldwide at the time of writing. This fear has in itself contributed to the high mortality through suicide as noted in series of reports in different countries. At binary logistic regression, factors independently associated with herbal medication use were: being female (aOR: 1.59, 95% CI: 1.11-2.33, p=0.012) and being unemployed (aOR: 1.64, 95% CI: 1.15-2.38, p=0.008), (Table 6) Participants who used herbal remedies had a high median FCV-19S score compared to non-users (23 versus 21, p<0.001) (Figure 2).

@@ -1,0 +1,4 @@
+34622748|PMC8523975
+{'Disease', 'Species'}
+Introduction:
+A growing evidence-base has explored the lived experience of health care providers throughout the coronavirus disease 2019 (COVID-19) pandemic and reported major changes in the utilization of health care services. People may be choosing to stay away for fear of exposure to, or infection with coronavirus, a concern reflected among research participants in this study. This need for clear, repeated communication was demonstrated by Gina*: Mum didn't understand that she could call back.

@@ -1,0 +1,3 @@
+34568745|PMC8455179
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Over a year ago, the WHO declared COVID-19 a pandemic; from then on, all hopes were on the development of vaccines. COVID-19 infections increase the risk of developing TE. All patient 19,501 cases admitted between February 1 st , 2020 and February 8 th , 2021 with the International Statistical Classification of Diseases and Related Health Problems (ICD-10) code U07.1 (= PCR-confirmed infection with SARS-CoV-2), were included.

@@ -1,0 +1,3 @@
+34690471|PMC8527283
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The current investigation was conducted to test the correlation between fear due to coronavirus (COVID-19) and mental health outcomes (stress, depression, and anxiety) and the mediating role of social support during the Covid-19 Pandemic in Palestine. As people display a fear of becoming infected and choose to stay in quarantine, that is to isolate themselves from others; mental health impairments might be expected to appear among these individuals (Barbisch et al.,; ,).Recent literature highlighted that a lack of social support was a risk factor for depression, anxiety, and PTSD during the outbreak of a viral epidemic (Cabello et al.,).

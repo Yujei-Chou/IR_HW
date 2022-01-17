@@ -1,0 +1,4 @@
+34721950|PMC8532571
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Purpose of Review
+According to the Centers for Disease Control and Prevention (CDC), as of June 2021, there have been over 33 million reported cases and nearly 600 thousand deaths resulting from COVID-19 in the USA alone. This likely means the full impact of the COVID-19 disease on the eyes will not be fully understood for some time. While patients who are known to be COVID positive will likely not be undergoing elective refractive surgery, this phenomenon is worth considering in unvaccinated patients with unknown COVID status.

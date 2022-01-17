@@ -1,0 +1,4 @@
+34048372|PMC8507590
+{'Disease', 'Species'}
+To the Editor:
+Coronavirus disease 2019 is associated with hypercoagulable states, but the prophylactic strategy including anticoagulation therapy remains unestablished. It is uncertain whether the severity of coronavirus disease 2019, which is quantified by several biomarkers, or the severity of respiratory failure, which is quantified by blood gas data, is associated with the hypercoagulable status. It is of interest to know whether the add-on anticoagulation therapy would have survival benefit maintaining similar bleeding risk among those receiving antiplatelets.

@@ -1,0 +1,3 @@
+34751264|PMC8566164
+{'Disease', 'Species', 'Gene'}
+The impact of COVID-19 on nursing home residents has been particularly damaging in the metropolitan area of Madrid, Spain, a densely populated region of 6 7 million, 48 768 of whom were living in nursing homes in 2019. According to official figures provided by the Madrid government and the Ministry of Health, at least 9470 deaths in March and April 2020 among nursing home residents occurred in Madrid, accounting for a 53% excess mortality over the one expected had COVID-19 mortality been equally distributed among all regions, the highest among Spain's 17 regions. D Figuera and M Garcia contributed with validating the final letter.

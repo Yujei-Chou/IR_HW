@@ -1,0 +1,3 @@
+34720609|PMC8548732
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The diverse climate types and the complex anthropogenic source emissions in China lead to the great regional differences of air pollution mechanisms. We observed that generally, O3 was negatively correlated with other air pollutants. S6, diurnal variations of SO2 and CO were prominent in cold regions with heating demands (NEC, NW, MG, TP).

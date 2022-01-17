@@ -1,0 +1,3 @@
+34642651|PMC8497065
+{'Chemical', 'Disease', 'Species', 'Gene'}
+As the second wave of COVID-19 disease is gripping the globe, liver transplant centers are increasingly receiving patients recovered from SARS-CoV-2 infection in recent few weeks. Due to significant bleeding from dense perihepatic collaterals, recipient hepatectomy was done with porta-first approach, prolonging the anhepatic time. The presence of cholestasis in the liver biopsy indicates the presence of DILI in addition to acute cellular rejection.

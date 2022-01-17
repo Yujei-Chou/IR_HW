@@ -1,0 +1,3 @@
+34655899|PMC8503973
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Recently, an outbreak of a novel coronavirus disease (COVID-19) has reached pandemic proportions, and there is an urgent need to develop nutritional supplements to assist with prevention, treatment, and recovery. The peptides NDQF, CQDCY, and ASGCGDC, which showed significant inhibition in previous docking with the Mpro, were used in the CDOCKER program for molecular docking with the spike RBD.The SARS-CoV-2 spike RBD docking positions with NDQF, CQDCY, and ASGCGDC peptides are shown in Fig. These results indicated that peptides NDQF and ASGCGDC interacted with the SARS-COV-2 spike RBD.

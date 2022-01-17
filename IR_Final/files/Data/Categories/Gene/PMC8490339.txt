@@ -1,0 +1,4 @@
+34632447|PMC8490339
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+Emergency physicians routinely face occupational safety hazards that differ markedly from those faced by workers in most other occupations, as well as those faced by most adults in everyday life. In this review, the baseline risk of occupational related mortality for emergency physicians could not be determined. The beginning of the COVID-19 pandemic raised ethical concerns regarding a physician's duty to treat patients when adequate PPE is not available and when an increased risk of occupational mortality likely exists.

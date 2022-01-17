@@ -1,0 +1,3 @@
+34769934|PMC8583577
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Understanding of strategies to support individuals recovering from coronavirus disease 2019 (COVID-19) is limited. ' Individually tailored support is therefore required to address the unique challenges posed by COVID-19. F09; 10 months post-infection)  'I fully expected, at some point, I'll start to feel better and that this, you know, there may or may not be a long-term effect on the lungs but, if there is, then this is something I can deal with' (F03; 7 months post-infection) However, given the novelty and uncertainty regarding COVID-19, participants discussed the difficulties they experienced in obtaining appropriate medical advice to understand how to manage their recovery.

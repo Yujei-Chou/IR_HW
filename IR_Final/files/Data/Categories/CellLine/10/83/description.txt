@@ -1,0 +1,1 @@
+patient,course,group,disease,risk,factor,background,hospitalization,treatment,arbidol,infection,parameter,severe,duration,worsening,appear,focus,presence,fatality,kt,appears,protective,identify,aimed,analysis,critical,case,higher,ferritin,recipient

@@ -1,0 +1,4 @@
+34622079|PMC8452288
+{'Chemical', 'Disease', 'Species'}
+Summary
+The COVID-19 pandemic has caused an unprecedented threat to Europe, given that many member states have experienced a sustained spread of the virus for several months. The automatic renewal of drug prescriptions, especially for the chronically ill patients, has been implemented in several countries such as Italy, Germany and Spain in order to avoid crowding of people waiting in general medicine clinics. Sweden, on the other hand, has never applied this measure by asking incoming travelers to self-isolate if potentially at risk.

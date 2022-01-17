@@ -1,0 +1,4 @@
+34764167|PMC8587350
+{'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+While we conducted a rapid review, we ensured that we completed it in a systematic manner with a broad initial search (eg, no restriction on study design) to develop recommendations from lessons in risk communication that we can translate to the current pandemic. A narrative synthesis was conducted to identify key themes with respect to: (1) what influenced people's responses to public health messages in general and for subpopulations in particular during salient time points (further details are presented in online supplemental appendix 6) and (2) interpreted recommendations for effective public health messaging for managing risk and preventing disease during epidemics/pandemics, which are presented below. Six high-quality studies found that framing and choice of language are influential in how individuals understand the threat and in turn behave.

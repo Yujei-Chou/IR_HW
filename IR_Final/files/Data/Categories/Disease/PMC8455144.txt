@@ -1,0 +1,3 @@
+34568606|PMC8455144
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The academic sectors are badly affected by the COVID-19 pandemic globally. Regarding the academic institutions' student evaluation and monitoring system, schools and universities have different provisions in Nepal. Meanwhile, the greatly impacted sector by the COVID-19 pandemic is the research activities in higher education, according to the respondents.

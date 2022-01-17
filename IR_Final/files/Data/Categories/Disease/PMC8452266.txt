@@ -1,0 +1,3 @@
+34556290|PMC8452266
+{'Disease', 'Species'}
+Academics and public health practitioners studying communicable disease dynamics have long advocated for open-access data to better inform risk assessments. While the news media has traditionally reported on events of public health importance, media outlets over the course of the COVID-19 pandemic have also conducted data collation, including detailed summaries of case counts and deaths, data curation, and, in some instances, analysis (table ). Supporting collaborations between news media outlets that can provide an expedient data stream and academic institutions that can support targeted analyses could be an important step towards improving outbreak response timeliness in the future.

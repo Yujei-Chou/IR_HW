@@ -1,0 +1,3 @@
+34677152|PMC8562399
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+Coronavirus disease 2019 (COVID-19) triggers important changes in routine blood tests. In the non-ICU group, basophil count was higher in spring than other two seasons, mean corpuscular hemoglobin value was only higher in spring than autumn, and mean corpuscular hemoglobin concentration (MCHC), neutrophil, platelet distribution width and red cell distribution width (RDW) values were higher in autumn than spring and higher in spring than summer. Additional Table 6: Differences in inflammatory, cardiac and coagulation biomarkers between the groups on admission.

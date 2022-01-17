@@ -1,0 +1,4 @@
+34315105|PMC8567536
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Coronavirus 2 (SARS-CoV-2), commonly known as COVID-19, was first identified in 2019 in Wuhan, the capital of China's Hubei province, and has since spread globally, resulting in an ongoing pandemic. Log Likelihood = -2800.85, p < .01, var(residual) = 383.33, AIC = 5647.32, BIC = 5726.85).Logistic regressions were used to explore predictors of attrition, examining factors associated with completing fewer than three surveys (N = 198), compared to those who had completed three or more surveys (N = 186). In line with this, we showed that self-reported anxiety and personal coping drinking motives were associated with greater consumption.

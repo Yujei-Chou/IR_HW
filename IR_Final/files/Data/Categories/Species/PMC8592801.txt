@@ -1,0 +1,4 @@
+34804673|PMC8592801
+{'Disease', 'Species'}
+Background
+Since the outbreak of the coronavirus disease 2019 (COVID-19) in Wuhan, Hubei Province, China, in late December 2019, as of September 2021, there have been 223 million confirmed cases, including 4.6 million deaths globally . The questionnaire contained sociodemographic data and a list of 12 symptoms commonly seen in patients with COVID-19. A higher proportion of patients across all age groups experienced headache as seen in Table 1.The average days to testing from symptom onset was 2.56 days as seen in Figure 2 and Table 2.

@@ -1,0 +1,4 @@
+34735451|PMC8568145
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+COVID-19 has been a unique challenge to the field of nephrology. This creates a survival bias as patient may have died in subsequent admissionThe authors have used variable end-points. Particularly, this concerns the following:- Please correct the titles of the tables "Univariable-Multivariable logistic regression..." to better readers' perception, and use the coherent terminology in the title and the column names (Univariate/Multivariate);- Please exclude subtitles "-Mortality of CA-AKI vs HA-AKI: ", etc from the "Discussion", changing them with a short introductory phrase.

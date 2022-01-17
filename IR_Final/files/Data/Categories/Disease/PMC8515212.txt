@@ -1,0 +1,4 @@
+34643720|PMC8515212
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Key Points
+The global COVID-19 pandemic that began in late 2019 has caused more than 187 million infections and 4 million deaths as of July 10, 2021. Inclusion criteria included the following: previous COVID-19 diagnosis and reported PASC frequencies. They were impairment in general functioning (9 studies; median [IQR], 44.0% [23.4%-62.6%]), mobility decline (6 studies; median [IQR], 20.2% [14.9%-30.6%]), and reduced exercise tolerance (2 studies; median [IQR], 14.7% [10.6%-18.8%]) (Figure 2D).Due to their subjective nature and self-reportage of symptoms (Table), general well-being and constitutional symptoms varied widely between studies.

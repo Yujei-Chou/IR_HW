@@ -1,0 +1,4 @@
+34557926|PMC8500131
+{'Chemical', 'Disease', 'Species', 'Gene'}
+ABSTRACT
+Despite decades of intense, coordinated efforts aimed at malaria elimination and eradication, the World Health Organization estimates 229 million cases of malaria occurred in 2019, resulting in 409,000 deaths. Review of all thick and thin smears did not demonstrate evidence to support coinfection with P. ovale, P. malariae, or P. vivax. Other polymorphisms known to be protective against some manifestations of severe P. falciparum infection were either not present (G6PD deficiency) or deemed unlikely (e.g., Dantu blood group, only found regularly in East African populations) or unknown (e.g., complement receptor 1 polymorphism).Although P. falciparum is responsible for 95% of malaria infections in Cameroon, the patient's delayed presentation was, more conventionally, suggestive of P. ovale or P. vivax relapse.

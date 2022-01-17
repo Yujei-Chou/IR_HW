@@ -1,0 +1,4 @@
+34652343|PMC8518203
+{'Chemical', 'Disease', 'Species', 'Gene'}
+To the Editor: 
+ To the Editor: Novel coronavirus disease 2019 (COVID-19) is an emerging disease of public health concern, and the current pandemic is having a major global impact. Serum hydrogen sulfide and outcome association in pneumonia by the SARS-CoV-2 corona virus" published in this journal. Therefore, co-expression of ACE2 and TMPRSS2 is critical for the cell entry process of COVID-19.The other line through the contributions of H2S to maintenance of elevated level of glutathione level (GSH), which can itself be another player with antiviral effect, very recently, GSH was also proposed as potentially useful agent against COVID-19.We advocate for a clinical trial exploring the use of inhaled H2S for the management of COVID-19 ARDS to be conducted as a matter of urgency.

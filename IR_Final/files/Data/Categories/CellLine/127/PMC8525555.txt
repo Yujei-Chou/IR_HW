@@ -1,0 +1,4 @@
+34665013|PMC8525555
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+ABSTRACT
+Genomic surveillance of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) virus plays a critical role in tracking its evolution during the current global coronavirus disease 2019 (COVID-19) pandemic. One possible explanation for this finding could be that the sludge matrix was inhibitory to reverse transcription-PCR (RT-PCR); however, no inhibition of reverse transcription-quantitative PCR on sludge RNA extracts was detected using internal controls (see Text S1 in the supplemental material and Table S2 at https://doi.org/10.6084/m9.figshare.16416528). Improvements with the 400-bp scheme versus the 1,200-bp scheme were marginal, yet 83% of paired influent samples with CT values over 32.5 (10 of 12) showed higher breadth of coverage with the 400-bp scheme (Fig.

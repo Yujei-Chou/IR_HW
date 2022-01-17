@@ -1,0 +1,4 @@
+34711266|PMC8551940
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Hypertension (>= 140/90 mmHg) affects approximately 1 in 4 people in the UK and is a leading modifiable risk factor for mortality. Are the proposed process and outcome measures valid for this group of service users?Any change in BP following the IE intervention will be determined using the home blood pressure data (measured using an automated upper arm blood pressure monitor [Omron M3 Intellisense, Kyoto, Japan] at weeks 4, 12, and 24) recorded in the participants diaries and comparing this against their observed baseline (recorded at day 1). A list of potential isometric exercise specific AEs was provided to the HCPs/investigators.

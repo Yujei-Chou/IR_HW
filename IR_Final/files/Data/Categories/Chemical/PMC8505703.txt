@@ -1,0 +1,3 @@
+34650494|PMC8505703
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The COVID-19 pandemic hit hard society, strongly affecting the emotions of the people and wellbeing. The term psychophysical numbing is used in the literature to refer to a striking human condition: Individuals become less worried when the population suffering increases (Fetherstonhaugh et al.,; It is worth noting that people tend to show low adherence to wearing masks (Huynh,), even though researchers have shown that wearing masks reduce the spread of COVID (e.g., Mitze et al.,;

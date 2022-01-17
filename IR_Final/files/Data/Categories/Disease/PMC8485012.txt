@@ -1,0 +1,3 @@
+34538283|PMC8485012
+{'Disease', 'Species'}
+recently demonstrated heterogeneity in mental health responses to the coronavirus disease 2019 (COVID-19) pandemic over time from a nationally representative sample of UK adults (March-July 2020). Here, we extend these findings using two additional survey waves from the COVID-19 Psychological Research Consortium (C19PRC) study, thereby modelling mental health trajectories for the UK population within the entire first year of the pandemic. In the third phase of the analysis, the classes from the GMMs were regressed on the predictor variables.

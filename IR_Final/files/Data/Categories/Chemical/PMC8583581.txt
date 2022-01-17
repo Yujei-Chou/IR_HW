@@ -1,0 +1,4 @@
+34766187|PMC8583581
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+Purpose
+Studies have documented worrisome trends in wellbeing and mental health disorders among young adults in past decades, with changes potentially accelerating over time. Estimates were adjusted for the UKHLS design variables and cross-sectional weights, and performed in "complete-case" samples using Stata 16.Table 2 summarizes change coefficients, including 95% confidence intervals, for differences between 1991-2018.In 1991, the prevalence of mental distress (GHQ 4 +) varied between 14% in men aged 16-24, 16% in men aged 25-34, 22% in women aged 16-24, and 22% in women aged 25-34. Comparing differences in scores between 1991-2018 and 2018-2020, the 28 year increase in distress could be equated to 94-97% of the estimated impact of the first lockdown in men (b1991-2018 = 1.7 versus bW10-Apr20 = 1.7) and women (b1991-2018 = 2.2 versus bW10-Apr20 = 2.3) aged 16-24.

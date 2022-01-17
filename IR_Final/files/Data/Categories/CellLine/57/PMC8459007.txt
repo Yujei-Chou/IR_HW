@@ -1,0 +1,3 @@
+34566686|PMC8459007
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+In December 2019, a cluster of pneumonia was reported in Wuhan, China. In a study of 1,500+ COVID-19 patients with smoking or alcohol consumption histories, Dai et al. They postulate that dual vs. single substance use might promote tissue damage, decrease immune response and pathogen clearance, and increase IL-6 and IL-8 production and inflammation, which would elevate COVID-19 complications risk.

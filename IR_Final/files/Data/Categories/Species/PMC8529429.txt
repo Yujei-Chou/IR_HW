@@ -1,0 +1,4 @@
+34423593|PMC8529429
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+Coronavirus disease 2019 (COVID-19) is a respiratory infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The results showed that oropharyngeal microbial alpha diversity in the CCs was remarkedly reduced versus in Hs (p < 0.001) (Figure 2a; Figure S1a,b and Table S2, Supporting Information). In addition, the oropharyngeal microbiome variation between CCs and CCRs was roughly the same as the oropharyngeal microbiome variation between SCs and SCRs (Figure 6e; Table S15, Supporting Information).In total, these data showed that the oropharyngeal microbial characterization of SCs was similar to that of CCs from the perspective of the microbiome.

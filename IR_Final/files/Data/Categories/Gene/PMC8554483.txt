@@ -1,0 +1,3 @@
+34746722|PMC8554483
+{'Disease', 'Species', 'Gene'}
+Health data on Asian Americans were deficient pre-pandemic, with 0.17% of clinical research funded by National Institutes of Health focused on Asian American, Native Hawaiian and Pacific Islander participants between 1992 and 2018, and this deficiency has been magnified during the COVID-19 pandemic. Moreover, datasets routinely and indiscriminately aggregate individuals into arbitrary 'race/ethnicity' categories (e.g., no distinctions between Chinese, Filipino), limiting the ability to describe and/or intervene on specific concerns for different groups. One's biases play a large role in how data are interpreted or reported.

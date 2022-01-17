@@ -1,0 +1,4 @@
+34697001|PMC8536495
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Introduction
+At the end of 2019, cases of pneumonia caused by a yet unknown virus were detected in patients in Wuhan, China. In the period before the pandemic, RSV was responsible for 73.0% of cases of AB that required admission between November and February in which tests were performed for aetiological diagnosis, while during the rest of the year RSV, was only responsible for 26.5% of cases of AB. Only 18 of the 52 total patients with AB underwent testing for detection of rhinovirus.

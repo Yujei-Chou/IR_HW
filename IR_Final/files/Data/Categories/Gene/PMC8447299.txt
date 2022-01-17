@@ -1,0 +1,4 @@
+34139069|PMC8447299
+{'Chemical', 'Disease', 'Species', 'Gene'}
+CONFLICT OF INTEREST
+Dr. Babar K. Rao is a consultant for Caliber ID (The manufacturer of VivaScope). Herein, we report the first case of favipiravir-induced AGEP with histologic findings. The lesions resolved with desquamation after 7 days with oral methylprednisolone treatment (Figure 1D).Favipiravir is a purine nucleoside analogue and competitive inhibitor of viral RNA-dependent RNA polymerase with antiviral activity against influenza A and B viruses and SARS-CoV-2 virus.

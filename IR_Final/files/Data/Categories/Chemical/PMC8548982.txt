@@ -1,0 +1,3 @@
+34721912|PMC8548982
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Early in the 2020 Coronavirus pandemic stay-at-home guidelines, there were public health orders that elective surgeries be deferred to prioritize hospital beds for critically ill COVID-19 patients. The aim of this study was to describe individual responses to minimally invasive complete excision of endometriosis through 40 days of follow-up of women whose endometriosis was considered severe enough to proceed with surgery during the fourth, fifth, and sixth months of constraints imposed by the pandemic. Even though both were asymptomatic and the patient tested negative for Coronavirus, her surgery was postponed for 14 days.

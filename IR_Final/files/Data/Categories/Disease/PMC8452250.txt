@@ -1,0 +1,4 @@
+34495904|PMC8452250
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Summary:
+In a matter of weeks, coronavirus disease of 2019 (COVID-19) swept across the United States and disrupted nearly every aspect of health care delivery. With restrictions slowly lifting, plastic surgery leaders have the responsibility to develop more robust surge capacity protocols in anticipation of future waves of COVID-19. This pandemic exemplifies the need for health care leaders to consistently deliver the facts during a crisis, particularly in the face of emerging COVID-19 misinformation campaigns that engender fear and confusion.

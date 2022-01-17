@@ -1,0 +1,3 @@
+34812394|PMC8545204
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Cardio Vascular Diseases (CVD) is the leading cause of death globally and is increasing at an alarming rate, according to the American Heart Association's Heart Attack and Stroke Statistics-2021. Multi-agent intelligent healthcare systems that can enable robots to select the most useful plan for unmanaged situations and communicate the choice to the physician for approval have been proposed in. Combined with the new generation of smart-processing algorithms, the accessibility of information at large scales and spatial longitudes will accelerate development in the medical sector.

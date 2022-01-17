@@ -1,0 +1,3 @@
+34764947|PMC8576143
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Extracellular vesicles (EVs) are nano-sized membrane vesicles secreted by cells. Several studies have proven that MSC-EVs can improve the outcomes of sepsis in animal models. The use of MSC-EVs has several benefits, namely, (a) small vesicles, readily circulating and penetrating biological barriers, like blood-brain; (b) low tumorigenesis; and (c) stable properties, MSC-EVs may achieve a higher "dose" than MSCs due to the poor viability and considerable death of engrafted MSCs in target tissues.

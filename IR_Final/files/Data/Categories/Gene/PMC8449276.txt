@@ -1,0 +1,4 @@
+34533569|PMC8449276
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Key Points
+The syndemic of COVID-19 and deaths from drug overdose in the US continues to evolve. In subgroup analyses, we compared behavioral health treatment and diagnosis claims among individuals who died of overdose in Rhode Island and were enrolled in Medicaid during the 12 months before death (Table 2). Two-factor combinations of characteristics and behavioral health treatment and diagnosis claims among those who died due to drug overdose and were Medicaid beneficiaries in Rhode Island, stratified by observation period, are presented in Table 3.During the first 8 months of 2020, the rate of deaths due to overdose increased 28% in Rhode Island compared with the same period in 2019.

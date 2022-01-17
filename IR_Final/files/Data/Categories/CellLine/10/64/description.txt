@@ -1,0 +1,1 @@
+temperature,thermometer,c,used,welch,allyn,oral,subject,plus,ranged,suretemp,infrared,san,ca,measurement,accuracy,monitor,mode,measure,sublingual,diego,detecting,model,ncit,ncits,widely,pandemic,tool,screening,isolating

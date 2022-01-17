@@ -1,0 +1,4 @@
+34703656|PMC8531914
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Purpose of Review 
+ On 4/26/2020, a new illness emerged in children exposed to the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). In some articles discussing MIS-C, the elevated cardiac enzymes were further stratified by clinical presentation. reported CMR results in 42/286 (14.7%) patients; T2 hyperintensity was found in 14 (33.3%), pericardial effusion in 10 (23.8%), early gadolinium enhancement in 1 (2.4%), and late gadolinium enhancement in 6 (14.3%).

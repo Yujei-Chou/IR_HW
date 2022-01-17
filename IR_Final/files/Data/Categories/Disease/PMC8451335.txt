@@ -1,0 +1,4 @@
+34604567|PMC8451335
+{'Disease'}
+Summary
+The novel coronavirus disease (COVID-19) pandemic, which was first detected in December 2019, has continued to ravage the entire world. However, there was no significant difference between the scores of those in Clinical Sciences/Dentistry/Public Health and Pharmacy/Basic Medical Sciences (5.7 +- 3.4), p = 0.64.Additionally, students in the Faculty of Education had a higher mean score on depression (7.2 +- 3.9) than those in the faculties of Pharmacy/Basic Medical Sciences (5.7 +- 3.4), p = 0.04.Table II shows that 20.7% of the students experienced moderate-to-severe anxiety, with another 20.7% suffering from mild anxiety. A multiple linear regression was performed to determine to what extent some variables predicted the presence of depression, as shown in Table VII.

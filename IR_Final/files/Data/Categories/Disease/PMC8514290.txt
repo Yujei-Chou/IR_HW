@@ -1,0 +1,4 @@
+34092370|PMC8514290
+{'Chemical', 'Disease', 'Species'}
+Background
+Nationally there is a critical lack of diversity in academic nursing. Increasing diversity in the academy of nursing will address issues identified by BLM and COVID-19 health disparities. We offer various recommendations to better support BIPOC scholars by; enhancing workplace climate, developing culturally aware collaboration, mentoring as foundational to BIPOC success and promoting cultural safety and allyship in support of BIPOC scholars.

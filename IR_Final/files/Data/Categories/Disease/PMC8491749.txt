@@ -1,0 +1,4 @@
+34611781|PMC8491749
+{'Disease', 'Species'}
+Dear Editor,
+Dear Editor,The COVID-19 pandemic has dealt a significant blow to the health and economic well-being of the global community. This survey study aimed to assess self-isolation adherence in discharged emergency department (ED) patients with confirmed or suspected COVID-19, surveying individuals discharged from three EDs in Vancouver, British Columbia (BC) from May to June of 2020. In agreement with previously studied responses to quarantine measures, our results demonstrate lack of access to essential supplies can lead to decreased adherence.

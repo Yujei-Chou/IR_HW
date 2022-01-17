@@ -1,0 +1,4 @@
+34585726|PMC8500151
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+Abstract
+With the coronavirus disease 2019 (COVID-19) pandemic outbreak, unprecedented efforts have been dedicated to the sampling and sequencing of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), with the objective of capturing and then studying SARS-CoV-2 variations and their effects. In their study, authors studied the conservation of these epitopes across 17 000 SARS-CoV-2 sequences publicly available at the time of writing. By using Mode 1 of EpiSurf (Custom Epitopes), it is possible to replicate such epitopes as ranges of positions on the proteins, respectively, on [553-570], [769-786] and [809-826] on Spike and [153-170] on N. These may be checked, for instance, against the EpiSurf sequence population from the USA, of about 205 000 sequences as of 9 May 2021.

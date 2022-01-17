@@ -1,0 +1,3 @@
+34716088|PMC8519808
+{'Disease', 'Species', 'Gene'}
+December 2021 marks 2 years since the first reports of an outbreak were covered by a handful of international media outlets. With lockdowns in place worldwide, laboratory closures and restrictions imperiled research on a global scale. It is our hope that our communities continue to contribute to these successful public outreach efforts, even after we emerge from this pandemic, and that the communication and support of each other experienced during these trying times remains.

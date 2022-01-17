@@ -1,0 +1,4 @@
+34667920|PMC8511881
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+Quality of vitamin K antagonist therapy after coronavirus disease 2019 (COVID-19) is unknown. Two separate analyses were conducted: (i) including only patients with a confirmed COVID-19, and (ii) including also patients with suspicion of COVID-19.Fifty-one patients were registered as positive (ie, confirmed by PCR testing) for COVID-19 by the anticoagulation clinic (Table 1), which is 0.2% of the total population followed by the anticoagulation clinic during the study period (27 853 individuals). Explanations for the unstable INR in previously stable patients during COVID-19 are probably multifactorial and difficult to identify clearly.

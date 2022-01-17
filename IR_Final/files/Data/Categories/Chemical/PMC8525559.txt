@@ -1,0 +1,4 @@
+34379527|PMC8525559
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+ABSTRACT
+The rapid implementation of genomic epidemiology has enabled unparalleled understanding and monitoring of viral evolution during the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic. At CT values of 25 to 29 (up to 2,000 copies/mul), all three WGS methods generated nearly complete SARS-CoV-2 genomes with >10x coverage (Fig. The presence of low-frequency variants was confirmed, at the same genome position by all three methods, in two culture isolates (median number of sites, 2; range, 0 to 4): isolate 1 at positions 657, 27972, and 29585 and isolate 2 at positions 12299 and 16466 (Table S2 [supplemental file 5]).

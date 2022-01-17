@@ -1,0 +1,3 @@
+34696404|PMC8538289
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Several vaccines with varying efficacies have been developed and are currently administered globally to minimize the spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Irrespective of continents/countries, the prevalence of these adaptive mutations until 29 May 2021 was found to have the following order in the global population; N501Y (41.24%) > L452R (6.75%) > E484K (5.32%) > S477N (4.74%) > K417T (1.82%) > T478K (1.8%) > S494P (1.11%), while the rest of the mutations were found in less than 0.7% of the sequences, with Y453F being the least found (0.01%) (Figure 1C). It is worth noting that 3 out of 65 sequences from Egypt carried this mutation (Supplementary Material).

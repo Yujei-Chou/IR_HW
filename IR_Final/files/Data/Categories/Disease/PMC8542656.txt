@@ -1,0 +1,4 @@
+34721881|PMC8542656
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Purpose
+Coronaviruses are a large family of viruses that usually cause mild to moderate upper-respiratory tract illnesses, like the common cold. The present CFD model predicts the number of aerosol droplets inhaled by other individuals inside enclosed space through breathing and speaking only. The main findings of the present work can be summarised as follows:Although the distance between the individuals was kept 1.5 m. The person directly facing the infected person inhaled more than 300 aerosol droplets after only 20 min and more than 800 droplets after 50 min.

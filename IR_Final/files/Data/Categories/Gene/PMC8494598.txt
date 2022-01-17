@@ -1,0 +1,3 @@
+34630785|PMC8494598
+{'Disease', 'Species', 'Gene'}
+Recent literature has reported that radiological features of coronavirus disease (COVID-19) patients are influenced by computed tomography. One senior radiologist reviewed each CXR in order to define the radiological aspects of COVID-19. The mean of maximum RALE score was 2.13 +- 1.9 and 0.57 +- 0.77 for 120 hospitalized patients and 110 discharged (recovered) patients, respectively.

@@ -1,0 +1,3 @@
+34219277|PMC8447331
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Elevated levels of inflammatory cytokines are reported in the peripheral blood and lung tissue of critically ill patients with COVID-19, which correlate with disease severity and mortality. Once supported on ECMO, there are limited effective therapeutic options targeting the dysregulated immune response in patients with severe COVID-19. All pre and posttreatment cytokine, inflammatory, and biochemical data are reported in Table 3.Overall survival of patients who underwent hemoadsorption on VV-ECMO was 90% (9/10 patients) (Table 4) with a median length of stay of 47 days (IQR 34-88) and a median of 22 days (IQR 13-64) on VV-ECMO.

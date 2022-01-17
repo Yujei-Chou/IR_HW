@@ -1,0 +1,3 @@
+34681802|PMC8540652
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+SARS-CoV-2, or severe acute respiratory syndrome coronavirus 2, represents a new pathogen from the family of Coronaviridae that caused a global pandemic of COVID-19 disease. The maximum number of conformations was set at 25 and RMSD threshold of 0.8 A afforded 205 million compound conformations ready for HTVS.The available Cryo-electron microscopy SARS-CoV-2 RNA-dependent RNA polymerase in complex (four protein chains, 1122 residues, 17800 atoms) with cofactors (PDB ID: 6M71; Resolution: 2.90 A; by Gao et al.) Its parameters used were hierarchical clustering in a pairwise average-linkage manner with a backbone RMSD score (Figure 4).

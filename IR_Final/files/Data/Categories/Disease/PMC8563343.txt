@@ -1,0 +1,3 @@
+34762851|PMC8563343
+{'Chemical', 'Disease', 'Species', 'Mutation', 'CellLine', 'Gene'}
+Variability in SARS-CoV-2 susceptibility and COVID-19 disease severity between individuals is partly due to genetic factors. While our genetics analysis determined that decreased expression of at least one of the four genes in this locus is likely causally associated with COVID-19 disease severity, we are unable to pinpoint the exact gene(s).The 17:43205356-45363133 locus showed colocalization between eQTLs in multiple tissues and COVID-19 disease severity (Figures 3 and 4K). All eQTLs had positive effect sizes (Table S3), indicating that they were associated with increased expression.

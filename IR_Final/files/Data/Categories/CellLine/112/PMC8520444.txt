@@ -1,0 +1,4 @@
+34691451|PMC8520444
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Introduction
+Keratoconjunctivitis (KC) is an inflammatory condition that involves both the conjunctiva and the cornea. During his stay in the ED, the patient developed one spike of high-grade fever (oral temperature = 38.5C). Given the documented fever and positive history of contact with sick people, a Nasopharyngeal swab for COVID-19 polymerase chain reaction (PCR) was sent, which came positive with (CT value of 26.18).On day two of the hospital stay, the patient started to complain of a productive cough.

@@ -1,0 +1,3 @@
+34640344|PMC8509395
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Over the years, sexual behaviour has changed due to the growing interest in everything related to the sexual sphere. Since in our cohort the rate of occasional partners (10.5%) and polyamorous relationship (1.2%) were low, we believe is fundamental that new and more incisive awareness campaigns should be carried out, in order to avoid the spread of sexually transmitted diseases. Our survey was born with the aim of gaining a representative picture of sexuality in Italy before COVID-19 pandemic.

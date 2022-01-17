@@ -1,0 +1,4 @@
+34687400|PMC8536904
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Introduction
+Inflammation and endotheliopathy characterize the vascular disease. This study differs for having studied these biomarkers and measures in moderate COVID-19.Moderate COVID-19 exhibits increased inflammation including IL-6 and TNF-alpha and endotheliopathy including TF, VWF and TFPI and that profound inflammation and endothelial activation are determinant to coagulation activation and platelet activation through mechanisms involving D-dimer, TAT, and Fib and PF4 and beta-TG, and P-selectin, respectively. First, we measured IL-6 and TNF-alpha levels that reflect a higher inflammatory state in moderate COVID-19 patients than mild COVID-19 patients.

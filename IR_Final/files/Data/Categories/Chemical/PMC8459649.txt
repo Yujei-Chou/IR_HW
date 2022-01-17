@@ -1,0 +1,4 @@
+34580647|PMC8459649
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Introduction
+Obesity has been declared as epidemic that does not discriminate based on age, gender, or ethnicity and thus needs urgent containment and management. studied an association between consumption of junk food and cardiometabolic risk factors in Iranian children and adolescent population. It is observed that a reduction in MuR expression in the offspring of dams maintained on a junk food diet during pregnancy and lactation is present in the VTA at the weaning stage, i.e., 3 weeks after birth.

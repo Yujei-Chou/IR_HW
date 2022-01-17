@@ -1,0 +1,4 @@
+34754664|PMC8569643
+{'Disease', 'Species', 'Gene'}
+Introduction
+The Standardized Video Interview (SVI) was a novel residency application component introduced by the Association of American Medical Colleges (AAMC) and piloted with the Emergency Medicine (EM) Residency application process, with programs receiving results of the score calculated in a reportedly standardized fashion by an independent body. The number of students advised per respondent ranged from one to greater than 26 students (Figure 1).The source of advice cited by respondents was commonly consensus opinion from national organizations, including the AAMC, the Emergency Medicine Residents Association (EMRA), and CORD EM, as well as personal experience and perspective. Does your medical school or residency program use an internal institutional resource other than an advisor/EM faculty for SVI preparation?

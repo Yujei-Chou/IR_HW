@@ -1,0 +1,4 @@
+34812973|PMC8609172
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Opinion statement
+More than 12 months into the COVID-19 pandemic, over 100 million cases and 2.3 million COVID-19-related deaths have been confirmed globally. In these cases : especially in those patients who have received neoadjuvant chemotherapy (NACT) and are immunocompromised : additional chemotherapy should be considered. Patients who have undergone surgery for early cervical cancer and who require adjuvant radiation are considered priority B. Across the disease sites, the panel recommends that the total number of EBRT and brachytherapy fractions be minimized when possible.

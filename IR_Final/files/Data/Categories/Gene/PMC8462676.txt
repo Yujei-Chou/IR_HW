@@ -1,0 +1,4 @@
+34559845|PMC8462676
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Purpose
+Wearing a mask is one of the simplest ways to reduce the spread of COVID-19. It would be helpful also to have details on the existing information campaigning around masking in Chennai. Changes made: Tables 1, 2, 3Comment: Results, p. 8: "The appropriate mask use compliance did not differ between morning and evening both in the slums (29% vs. 26%; p>0 05) and non-slums (37% vs. 35%; p>0 05) areas of Chennai": It would be very interesting if you made this comparison for the second round both for outdoor and indoor public places, too.

@@ -1,0 +1,4 @@
+34804513|PMC8580289
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+The Coronavirus disease of 2019 (COVID-19) was first reported in Wuhan, China in December 2019 but has now spread globally impacting negatively on human health, health systems, and overall well-being including economic activities and household incomes. In Machakos Level 5 hospital, for instance, there was a significant decrease in the outpatient attendance in April 2020 (44.3% decrease from March 2020) after which a slight increase was noted in May 2020 compared to the previous year where an increase was noted (Table 3). This could be attributable to population growth dynamics as well as the adoption of Universal Health Coverage within Machakos County which was launched in December 2018.

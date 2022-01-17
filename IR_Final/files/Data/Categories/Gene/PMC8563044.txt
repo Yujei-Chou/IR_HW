@@ -1,0 +1,4 @@
+34759453|PMC8563044
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background:
+Previous pandemic and catastrophic events significantly changed the life of every human being, bringing him into a state of stress and the need to quickly adapt to new ways of daily activity. Available evidence-based studies on ways to combat stress and the effect of the proposed measures on human mental health and the immune system were analyzed. Social isolation, loneliness, sudden changes in daily habits, unemployment and financial insecurity become risk factors for major depressive and post-traumatic stress disorder (Post-Coronavirus Stress Syndrome- PCSS) described and published by the same authors of this paper one year ago, as one of most important consequences of the COVID-19 pandemic, as it potentially has long-term effects on physiology and brain function.

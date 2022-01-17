@@ -1,0 +1,3 @@
+34713057|PMC8521877
+{'Chemical', 'Disease', 'Species', 'Gene'}
+As the volume of published medical research continues to grow rapidly, staying up-to-date with the best-available research evidence regarding specific topics is becoming an increasingly challenging problem for medical experts and researchers. Choosing the best three-sentence summary is a combinatorial optimization problem, and MMR enables us to approach sentence selection in a sequential manner. Sentence position has been shown to be a crucial metric for extractive summarization in domains including news and medical.

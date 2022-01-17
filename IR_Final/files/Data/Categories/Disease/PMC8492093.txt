@@ -1,0 +1,4 @@
+34629845|PMC8492093
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Acute kidney injury (AKI) is a rapid reduction in the renal functions due to renal ischemia, inflammatory reactions, and acute renal tubular injury that caused by pre-renal, renal, and post-renal causes. Hence, suppression of IL-6 may be a prime therapeutic regimen in COVID-19, as low molecular heparin is effective in management of COVID-19 through inhibition of IL-6.To our acquaintance, a higher expression of kidney ACE2 is not utilitarian to explain and clarify AKI in COVID-19. Moreover, high circulating Ang II in patients with COVID-19 activates renal expression of DPP4 which is causing glomerular and tubular injury (Fig.

@@ -1,0 +1,3 @@
+34775132|PMC8585560
+{'Disease', 'Species', 'Gene'}
+We read with interest the article by Heesom et al. on the use of procalcitonin (PCT) for antimicrobial stewardship in patients with COVID-19 (coronavirus disease 2019) [1]. Furthermore, the degree of PCT removal appears to be dependent on the membrane used, with a greater effect noted with high-flux membranes [6].In conclusion, evidence to date suggest that PCT is removed by RRT, however the extent of this effect on the serum PCT level is unclear.

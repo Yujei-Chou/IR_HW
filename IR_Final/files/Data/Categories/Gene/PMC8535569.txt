@@ -1,0 +1,3 @@
+34682712|PMC8535569
+{'Disease', 'Species', 'Gene'}
+With limited US federal leadership on closing and re-opening strategies to mitigate the COVID-19 pandemic, cities and states were left to enact their own policies. While some cities and states re-opened middle and high schools for in-person instruction in addition to elementary schools, we focus on public elementary school re-openings because the long-term social and health impacts of in-person elementary learning are clearly stated in the literature and elementary school children have had the hardest time with remote learning. Contrary to our hypothesis, re-opening dining was more common in cities across the country than re-opening in-person learning.

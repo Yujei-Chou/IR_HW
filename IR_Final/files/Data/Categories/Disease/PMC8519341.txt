@@ -1,0 +1,4 @@
+34581678|PMC8519341
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+The COVID-19 pandemic has been accompanied by a substantive, pervasive outpouring of misinformation about the disease that can be described as an infodemic. For the first component of this aim, we examined believability profiles for narrative statements about COVID-19 using latent profile analysis. This hypothesis was partly upheld, as there was no evidence of a direct effect, but some evidence of a mediated effect (Table 4; Figure 6).In the multinomial analysis, controlling for all covariates, the direct effect of viewing the intervention on belonging to Profile Two (versus Profile One) was nonsignificant (adjusted odds ratio [AOR] 0.96, SE 0.35, 95% CI 0.28-1.64, z=-0.10, P=.92), but there was some evidence of a marginal indirect effect mediated by trust in science (AOR 0.92, SE 0.04, 95% CI 0.84-1.00, z=-1.95, P=.051).

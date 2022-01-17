@@ -1,0 +1,4 @@
+34666164|PMC8520177
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Dear Editor, 
+The latent viral reservoir is the main obstacle preventing HIV eradication, as the virus persists, integrated in long-lived quiescent cells. Adherence to ART was indirectly confirmed by therapeutic drug monitoring, showing tenofovir trough concentrations (21 ng/l) within the expected range for TAF (10-25 ng/ml) on a leftover blood sample obtained on the same day viremia was assessed. GB was involved in the patient's care and conceived and drafted the present work.

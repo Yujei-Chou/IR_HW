@@ -1,0 +1,3 @@
+34697584|PMC8529288
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The hematologic system is one of the vulnerable parts of the human body in coronavirus disease-2019 (COVID-19) infection. Studies reported some cases with lymphopenia, prolonged prothrombin time (PT), activated partial thromboplastin time (aPTT), and disseminated intravascular coagulation (DIC).Idiopathic thrombocytopenic purpura (ITP, also called immune thrombocytopenic purpura) is one of the common causes of thrombocytopenia in adults. One case was a 50-year-old male with no history of comorbidity, presenting generalized petechial lesions and oral blisters.

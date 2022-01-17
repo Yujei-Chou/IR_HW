@@ -1,0 +1,4 @@
+33844932|PMC8489856
+{'Chemical', 'Disease', 'Species'}
+From the Authors: 
+ From the Authors: We thank Dr. Avdeev and colleagues for their interest in our article and for their comments, which allow us to clarify some points. Irrespective of any a priori hypothesis, our data showed a robust association with outcome. Regarding the paper by Franco and colleagues, Avdeev only focuses on the patients with a PaO2/FiO2 ratio in the 100-200-mm Hg interval, but if one considers the entire population, mortality was 30% versus 21% under or above the 150-mm Hg threshold.

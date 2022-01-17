@@ -1,0 +1,3 @@
+34554265|PMC8459134
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Multisystem inflammatory syndrome in children is a term that encompasses the systemic inflammation seen in children 4-6 weeks following COVID-19 infection. Repeat TTE at this time showed a slightly improved but persistently reduced GLS of - 18.6 with no other abnormalities (Fig. At 4-week follow-up, the patient was asymptomatic; repeat EKG was normal while TTE showed a reduced GLS of - 17.5 with trace mitral and tricuspid valve regurgitation (Fig.

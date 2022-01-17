@@ -1,0 +1,3 @@
+34658487|PMC8502491
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Politics may color interpretations of facts, and thus perceptions of risk. Is the difference in behavior for different politically-leaning groups driven by media streams from which they consume news or the authority figures conveying interpretation of that news? Using novel data on individuals' search behavior on Google and geospatial mapping data capturing changes in individuals' daily travel distance and trips to non-essential businesses and service locations, we document a significant divergence in the reactions of areas with high and low Trump vote shares in the 2016 presidential election to local COVID-19 cases.

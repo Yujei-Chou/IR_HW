@@ -1,0 +1,4 @@
+34254718|PMC8447164
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+The World Health Organization announced a global pandemic caused by COVID-19 disease on March 11, 2020. The rate of CS among pregnant women infected with COVID-19 was exceed up to 80% in Huntley et al. In that study, among 86 pregnant and postpartum women with severe COVID-19 who received remdesivir, recovery rates were high and maternal death did not occurred.

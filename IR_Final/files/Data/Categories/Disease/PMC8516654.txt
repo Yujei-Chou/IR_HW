@@ -1,0 +1,3 @@
+34671414|PMC8516654
+{'Disease', 'Species', 'Gene'}
+Objective structured clinical examinations (OSCEs) are often used to assess the clinical competence of students in preprofessional osteopathy training. The hybrid OSCE was conducted safely during Stage 4 restrictions adhering to COVID Safe guidelines, allowing robust competency assessment of final year students, enabling timely graduation and transition to practice. Due to the additional pressures on staff and resources resulting from multiple lockdowns during this time, formal evaluation was not conducted.

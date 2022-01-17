@@ -1,0 +1,4 @@
+34765217|PMC8572347
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+Adrenergic myocarditis is a very rare manifestation of pheochromocytoma. Histopathological evaluations confirmed the diagnosis of pheochromocytoma. It has been suggested that an acute hemorrhagic necrosis of the tumor may cause an abnormally high catecholamine release which can lead to cardiogenic shock.

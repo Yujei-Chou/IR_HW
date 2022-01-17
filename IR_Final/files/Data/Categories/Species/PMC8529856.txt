@@ -1,0 +1,4 @@
+34452871|PMC8529856
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+A cluster of pneumonia cases with an unexplained etiology in China's central city, Wuhan, was reported for the first time on 31st December 2019, and one week later, it was detected as a contagious disease now named COVID-19. In comparison, transportation mobility has a rising positive effect on COVID-19. On the other side, the impact of transportation mobility on COVID-19 is very condensed and negative at lower quantiles of transportation mobility and low to high quantiles of COVID-19 for all selected countries.

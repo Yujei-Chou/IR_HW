@@ -1,0 +1,3 @@
+34573250|PMC8469984
+{'Chemical', 'Disease', 'Species'}
+Media news during the Coronavirus Disease 2019 (COVID-19) pandemic often entail complex numerical concepts such as exponential increase or reproduction number. Contrary to the version by, we recoded the participants' answers in order to correspond to a scale ranging from one to seven. The estimates referring to the current anxiety and depression states were significantly higher than those referring to the period before the pandemic (t-tests, both p < 0.01).The people performing at ceiling on the COV Numeracy Scale scored on the HNS (z = -2.872, p < 0.01, d = 0.65) and in the CRT (z = -4.111, p < 0.001, d = 0.93) more accurately than the people not performing at ceiling.

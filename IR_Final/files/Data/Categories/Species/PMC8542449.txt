@@ -1,0 +1,3 @@
+34723227|PMC8542449
+{'Chemical', 'Disease', 'Species'}
+Deep Learning (DL) models typically require large-scale, balanced training data to be robust, generalizable, and effective in the context of healthcare. We show that contrastive loss (CL) improves the performance of CEL especially in imbalanced electronic health records (EHR) data for COVID-19 analyses. To compare the performance of CEL and CL, models are tested on the full data set and a restricted data set.

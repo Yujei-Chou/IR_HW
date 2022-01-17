@@ -1,0 +1,4 @@
+34764709|PMC8575488
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Africa in general and Ethiopia, in particular, contributed very little to COVID-19 research. The remaining 88 articles were retrieved for full-text review (Figure 1). Studies conducted soon after the first reported cases have shown good level of awareness and favorable attitudes by community and HCWs towards COVID-19 and its control.

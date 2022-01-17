@@ -1,0 +1,3 @@
+34669138|PMC8527811
+{'Chemical', 'Disease', 'Species', 'Gene'}
+The outbreak of new infectious diseases is threatening human survival. An earlier study examining the seasonality of C. jejuni and C. coli has shown that increased precipitation is associated with an increased incidence of campylobacteriosis (Febriani et al.).Viral gastroenteritis caused by rotavirus (December-May) and norovirus (November-May) occurred more frequently in the dry and cold seasons, with 703 out of 797 cases (88.2%) of rotavirus and 768 out of 955 cases (77.2%) of norovirus being detected during this season. As in this study, a study to understand the characteristics of infectious diseases depending on meteorological factors is considered necessary as basic data.

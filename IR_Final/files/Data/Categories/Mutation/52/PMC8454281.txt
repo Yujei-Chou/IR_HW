@@ -1,0 +1,3 @@
+34233345|PMC8454281
+{'Disease', 'Species', 'Mutation', 'Gene'}
+Rates of severe coronavirus disease 2019 (COVID-19), intensive care unit admission, and maternal mortality increased among pregnant and postpartum women admitted for COVID-19 in the second wave compared with the first wave in India. ECARP/2020/63 dated May 27, 2020) and ICMR-NIRRH (IEC no. The rates of severe COVID-19, admission to the intensive care unit or high dependency unit, case fatality rate, and maternal mortality ratio were higher during the second wave (Table 1).

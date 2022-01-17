@@ -1,0 +1,4 @@
+34620207|PMC8496615
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Objective
+The World Health Organization's declaration of the severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2)-related COVID-19 as a pandemic in March 2020, resulted in the imposition of various restrictions globally, leading to a "shut down" of social and economic activities. Further analysis of "Other" types of COVID-19 research indicates these were Pittsburgh Sleep Quality Index (PSQI) 1 (1%), usual care 1 (1%), prevention study 4 (5%), experimental study 5 (7%), training 5, survey 21 (28%), and observational study 38 (51%).We set out to describe the types of COVID-19 research conducted in Africa using data in the WHO's International Clinical Trials Registry Platform (ICTRP) portal in this paper. These vaccines were granted conditional approval based on clinical trial data mainly not generated from the African population.

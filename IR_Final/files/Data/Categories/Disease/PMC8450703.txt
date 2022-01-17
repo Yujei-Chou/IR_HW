@@ -1,0 +1,4 @@
+34544463|PMC8450703
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+The order of the items has been modified to group similar items (see http://www.equator-network.org/reporting-guidelines/spirit-2013-statement-defining-standard-protocol-items-for-clinical-trials/). The absolute value and the change from baseline will be analyzed for the 24-h fluid balance parameter by means of summary descriptive statistics at each time point through day 7. The absolute value and the change from baseline will be analyzed for each hemodynamic parameter (i.e., mean arterial pressure, pulmonary blood volume (PBV), cardiac index and cardiac output) by means of summary descriptive statistics at each time point until the end of treatment.

@@ -1,0 +1,4 @@
+34619815|PMC8542752
+{'Disease', 'Species', 'CellLine'}
+Objective
+The coronavirus disease of 2019 (COVID-19) increases in spread the number of confirmed cases and deaths are also on a rapid rise. The remaining data is listed in Table 3.The one-way ANOVA for young and middle-aged groups (<60 years old) demonstrated that there was a significant difference in social distance (F [2, 711]=18.007, p<0.01), social adaptation (F [2, 711]=13.603, p<0.01), and social information (F [2, 711]=13.042, p<0.01) for three nationalities. In the factor of social distance, the post-hoc analysis demonstrated that scores of Japanese were more than Taiwanese and Koreans.

@@ -1,0 +1,4 @@
+34159356|PMC8488864
+{'Chemical', 'Disease', 'Species'}
+ABSTRACT
+See corresponding perspective on page 1261 and editorial on page 1277.Large-scale food fortification strategies hold great promise for reducing micronutrient deficiencies in low-income populations. The evidence base regarding efficacy of SQ-LNSs has grown substantially in the past 10 y. Recent systematic reviews have demonstrated a 16%-21% reduction in anemia, a 56% reduction in iron deficiency, and a 64% reduction in iron deficiency anemia when SQ-LNSs are provided, similar to the efficacy of MNPs. These should include the prevention of iron deficiency with evidence-based interventions targeted at children <2 y old.

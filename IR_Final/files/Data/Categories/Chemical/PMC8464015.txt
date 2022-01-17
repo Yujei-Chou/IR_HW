@@ -1,0 +1,4 @@
+34580654|PMC8464015
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Introduction:
+In recent decades, humans have been threatened by a variety of viruses that lead to acute respiratory infections affecting human life and human societies, sometimes leading to death. Of course, it should be mentioned that index patients who were infected with Influenza (children) slept with their parents without wearing facemask throughout the night, which may block any effect of interventional protection during the day. This systematic review showed that using facemasks or respirators aided in preventing the spread of respiratory viruses.

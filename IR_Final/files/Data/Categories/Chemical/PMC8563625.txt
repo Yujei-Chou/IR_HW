@@ -1,0 +1,3 @@
+34744963|PMC8563625
+{'Chemical', 'Disease', 'Species', 'Mutation', 'Gene'}
+Many reports suggest the SARS-CoV-2 infection may result in neurological complications. Many neurological manifestations of the infection mentioned above are possible to distinguish using radiological imaging techniques. In patients with PRES, MRI examination shows bilateral T2/FLAIR hyperintensities in affected areas, usually in occipital and parietal lobes and diffusion restriction in DWI sequences due to edema.

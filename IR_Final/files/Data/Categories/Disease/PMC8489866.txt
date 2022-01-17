@@ -1,0 +1,4 @@
+33636092|PMC8489866
+{'Disease', 'Species', 'CellLine'}
+To the Editor:
+To the Editor:The novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) coronavirus disease (COVID-19) pandemic impacted healthcare delivery in the United States and around the world. Satisfaction (86% initial, 89% follow-up; P = 0.7), positive impact on clinician-patient relationship (58% initial, 57% follow-up; P = 1), and improved efficiency (56% more efficient than in-person visits on both assessments; P = 0.9) remained consistent across both assessments. In conclusion, we characterized telehealth usage patterns and preferences among a cohort of CF clinicians.

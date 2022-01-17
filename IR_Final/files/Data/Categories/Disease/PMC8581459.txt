@@ -1,0 +1,4 @@
+34753533|PMC8581459
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background:
+In late December 2019, an ongoing outbreak of severe acute respiratory syndrome coronaviruses 2 (SARS-CoV-2) infection, which was termed as coronavirus disease 2019 (COVID-19), was reported in Wuhan, China (Zhu et al.,). Male, 29 years old)The patients acknowledged that the importance of diagnosing COVID-19 in the healthcare system increased the triage pre-entry time. It is believed that unbalanced psychological conditions have negative effects on readiness and coping with changes during the COVID-19 pandemic (Vinkers et al.

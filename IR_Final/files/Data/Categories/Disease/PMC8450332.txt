@@ -1,0 +1,3 @@
+34552906|PMC8450332
+{'Disease', 'Species', 'CellLine', 'Gene'}
+Background: The negative impact of COVID-19 on mental health has been reported by media throughout the world, although this role is not well-understood in low-and middle-income countries (LMIC). However, one of the evaluation surveys conducted by Kaan Pete Roi reported by the media noted that during the lockdown, that as all family members have to stay at home, clients cannot talk freely and have reduced use of services. A content analysis conducted in Bangladesh and India revealed that there is an imbalance in reporting the suicide cases that often detailed information on the process and means of suicide.

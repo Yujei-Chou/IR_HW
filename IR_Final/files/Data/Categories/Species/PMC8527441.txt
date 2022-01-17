@@ -1,0 +1,4 @@
+34670607|PMC8527441
+{'Chemical', 'Disease', 'Species'}
+Background
+In April 2020, the CSO-HNS (Canadian Society of Otolaryngology-Head & Neck Surgery) taskforce published recommendations on performance of tracheotomy during the COVID-19 pandemic. If a patient is COVID-19 positive and it has been more than 20 days since symptom onset or first positive diagnostic test, a tracheotomy can be performed if otherwise clinically indicated. See Table 2 for a summary of the current recommendations based on COVID RT-PCR positivity.

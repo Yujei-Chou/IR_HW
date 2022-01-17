@@ -1,0 +1,4 @@
+34521577|PMC8492937
+{'Chemical', 'Disease', 'Species'}
+Purpose
+The current study provides unique insights to changes in chronic pain experience during the COVID-19 pandemic in a large longitudinal school sample. The best LASSO model distinguishing "falling chronic pain" from "stable chronic pain" trajectory groups (n = 149; lambdamin = .033) included gender (ORgirl = .65) and the following COVID-19-related items: experiencing cancellation of events as difficult (OR = 1.06), experiencing time with family as harmonious (OR = 1.06), and experiencing time with family as tense (OR = 1.00). Although dropout analyses did not indicate a serious systematic effect of variables assessed at baseline, participants coping well during the pandemic might be more likely to partake.

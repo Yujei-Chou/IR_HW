@@ -1,0 +1,3 @@
+34720917|PMC8525262
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Herein, we report a case of a new-onset Raynaud's phenomenon (RP), which occurred in an otherwise healthy 31-year-old Caucasian woman, who lacked any known risk factors and associations with possible causes for secondary RP. 2B) revealed notable temperature differences of up to 10.9 C between the individual fingers with 21.4 C and 21.2 C in the left index and middle finger, respectively, indicating reduced perfusion, and 32.1 C and 30 C in the right middle and ring finger, indicative of reactive hyperemia. The study was conducted in accordance with the World Medical Association Declaration of Helsinki.

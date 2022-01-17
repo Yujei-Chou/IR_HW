@@ -1,0 +1,4 @@
+34711190|PMC8552982
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+Surveillance and notification systems in Public Health are subject to uncertainties that cause difficulties to estimate the morbidity and mortality rates affecting populations. Since COVID-19 severity strongly depends on age and gender, we evaluate the above-mentioned rates accounting for demography to improve the estimation accuracy of the number of infections. The graphical comparison between the observed and corrected numbers of infections for Chicago can be found in Fig.

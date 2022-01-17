@@ -1,0 +1,3 @@
+34653903|PMC8492362
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Covid-19 associated several neurological manifestation in the form of Post-infectious transverse myelitis(TM) and para-infectious TM has been reported. The neurotropism of SARS-CoV-2 in particular has been well demonstrated, affecting both the central and peripheral nervous system either in isolation or rarely simultaneously. We herein present an index case of a middle-aged female with MRI-negative myeloradiculoneuropathy following Covid-19 infection.

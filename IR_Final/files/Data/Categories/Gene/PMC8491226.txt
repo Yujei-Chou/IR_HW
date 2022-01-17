@@ -1,0 +1,3 @@
+34766122|PMC8491226
+{'Disease', 'Species', 'Gene'}
+The coronavirus disease 2019 (COVID-19) outbreak has brought numerous challenges to the public health system since December 2019. Upgrade to respirators N95, protective grown, gloves, and goggles would be applied, if a patient suspected of COVID-19 infection seeks surgical consultation. In the surgical ward, we take multiple measures to prevent the COVID-19 transmission.

@@ -1,0 +1,3 @@
+34769973|PMC8582844
+{'Disease', 'Species', 'Gene'}
+Though pain is a frequent symptom of long COVID-19, little attention has been paid to vertebral algic syndrome. The pain intensity and root irritation symptoms decreased and remain stabilized three months after surgery (Table 1).The course of low back pain with radicular irritation in two SARS-CoV-2 positive patients is presented. COVID-19 infection was considered as the factor of decompensation of an already existing degenerative spine disorder.

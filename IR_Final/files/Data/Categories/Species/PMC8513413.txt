@@ -1,0 +1,4 @@
+34661187|PMC8513413
+{'Disease', 'Species', 'Gene'}
+Key ethical insights from the COVID-19 Pandemic
+The COVID-19-pandemic has brought many ethical issues of public healthcare systems to public attention in a new, urgent light. One important lesson from the COVID-19 pandemic is that ethics needs to be an integral feature of resilient healthcare systems. To underline this lesson and to further the debate around practical approaches for integrating ethics into healthcare systems more sustainably in future, we reflect on four key ethical concerns: 1) the distribution of scarce resources; 2) research ethics; 3) structural inequities; and 4) solidarity and social cohesion.

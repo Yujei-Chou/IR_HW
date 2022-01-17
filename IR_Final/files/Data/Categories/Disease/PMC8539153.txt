@@ -1,0 +1,4 @@
+34723230|PMC8539153
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Objectives
+Hepatitis C virus (HCV) causes chronic hepatitis in 55-85% of those infected, leading to liver cirrhosis and hepatocellular carcinoma in 15-30% of this subpopulation. The dataset provided by PHE to the West Midlands ODN identified 4540 individuals, with 31.7% (n=1440) having a valid PCR result identified by the 5 engaged local laboratories. The West Midlands ODN was supplied with a dataset for their region by PHE within a memorandum of understanding.

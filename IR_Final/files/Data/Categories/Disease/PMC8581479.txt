@@ -1,0 +1,4 @@
+34403865|PMC8581479
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Background
+Environmental, economic and other major disruptions that create even brief periods of social instability are referred to as "Big Events". We used multiple logistic regression to examine factors independently associated with ED use during the pandemic. The findings also reinforce the fact that, in times of crisis or Big Events, EDs continue to provide low barrier access to care for people who may not have access to alternative treatment options, including homeless and unstably housed individuals living in the United States.

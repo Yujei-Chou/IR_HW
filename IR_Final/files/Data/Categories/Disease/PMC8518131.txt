@@ -1,0 +1,4 @@
+34688100|PMC8518131
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Introduction
+The high risk of deep vein thrombosis (DVT) and pulmonary embolism (PE), collectively termed venous thromboembolism (VTE), in patients with Coronavirus disease 2019 (COVID-19) is now well-established. Data on indication for pre-admission therapeutic anticoagulation were not routinely collected. These results did not materially change in the secondary analysis of anticoagulant and/or antiplatelet therapy (HR for mortality, 1.07 [95%,CI 0.85-1.37] and HR for ICU admission, 0.96 [95%,CI 0.57-1.08]).In the sensitivity analysis including only patients <=70 years, 98 patients using anticoagulant therapy prior to admission could be matched to 98 patients not using anticoagulant therapy prior to admission.

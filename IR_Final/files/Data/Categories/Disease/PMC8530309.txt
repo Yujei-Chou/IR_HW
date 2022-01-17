@@ -1,0 +1,4 @@
+34673813|PMC8530309
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Background
+As of September 21st, 2021, the coronavirus disease 2019 (COVID-19) has affected 230 million individuals around the world and claimed the lives of 4.7 million people. However, coffee or tea consumption association with COVID-19 symptoms was lost after adjustments in model 3. Page 3, line 14, the author may add few information about initial prevention approaches (benefits) for COVID-19 i.e. social distancing, improving health (by anti-covid biomolecules), and future challenges by their high mutation ability (variants) and treatments with citations doi: 10.1371/journal.pone.0252300; doi: 10.1007/s12088-020-00893-4; doi: 10.1007/s12088-020-00908-0).REPLY: As requested, we discussed the benefits of mitigation measures and the challenges related to the emergence of new variants in the respective paragraph.

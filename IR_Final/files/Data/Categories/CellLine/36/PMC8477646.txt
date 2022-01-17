@@ -1,0 +1,4 @@
+34581996|PMC8477646
+{'Chemical', 'Disease', 'Species', 'CellLine', 'Gene'}
+Graphical abstract
+In December 2019, a novel coronavirus was discovered in Wuhan China. Another recent report has studied the interactions between the SARS-CoV-2 spike protein receptor binding domain (RBD) and the host receptor ACE2, revealing that pangolins, snakes, and turtles may also serve as potential intermediate hosts of SARS-CoV-2 (Liu et al.).Like other human coronaviruses (e.g., 229E, OC43, NL63, HRU1), SARS-CoV-2 infection is characterized by symptoms similar to those of the common cold including fever, cough, fatigue, sore throat, and shortness of breath (Guan et al.; Another theory postulates that SARS-CoV-2 enters and invades the CNS via the nasal route hence the loss of smell symptom experienced by some patients (Mao et al.).

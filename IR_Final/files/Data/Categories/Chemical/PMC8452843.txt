@@ -1,0 +1,3 @@
+34518005|PMC8452843
+{'Chemical', 'Disease', 'Species', 'Gene'}
+During the pandemic, virtual conferences became the norm. A total of 733 responders were included in this study (Table 1 ). The American College of Mohs Surgery has put out a call to fellows-in-training to create PowerPoint presentations with audio overlay for inclusion in an online database and provided fellows-in-training with information about an online resource entitled "MDLive Online Dermatology Programs" (available at mdlive.net) that provides courses in dermatologic surgery and cosmetic dermatology.

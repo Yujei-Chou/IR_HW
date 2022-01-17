@@ -1,0 +1,3 @@
+34708017|PMC8542756
+{'Chemical', 'Disease', 'Species'}
+A lack of social connectedness is common among older adults due to living alone, loss of loved ones, reduced mobility, and, more recently, social distancing created by the global Covid-19 pandemic. Chung and Woo's study analyzed comments from consumers of Xiaomi XiaoAI, were not specific to older adults. Nonetheless, the small number and methodological characteristics of the studies reviewed portray that the state of the science of older adults' VHA use and its influence on social isolation and loneliness is in its infancy.

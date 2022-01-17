@@ -1,0 +1,4 @@
+34617101|PMC8522378
+{'Chemical', 'Disease', 'Species', 'Gene'}
+Abstract
+The COVID-19 pandemic hits different parts of a population to a different extent and infection rates have often been higher among immigrants than among native inhabitants. Among the selected occupations, food service counter attendants and waiters had the highest rate among Norwegian-born (Table 2).Within the selected occupational groups, immigrants from Somalia, Pakistan, Iraq, Afghanistan and Turkey generally had higher odds of notified COVID-19 than Norwegian-born (Table 4). Among immigrants from these five countries in total, taxi drivers, bus and tram drivers and health care workers had slightly higher odds than others for COVID-19.
