@@ -16,12 +16,6 @@ python manage.py runserver 0.0.0.0:5000
 ```
 
 ### Website
-- <h4>2D Query:</h4>
-<p align="center"><img src="https://user-images.githubusercontent.com/56510169/141831398-ae05878d-cd88-4e42-871c-262afec67620.png" width="90%"/></p>
-
-- <h4>3D Query:</h4>
-<p align="center"><img src="https://user-images.githubusercontent.com/56510169/141831590-6025c38c-636d-46b9-b292-4cc091d155ba.png" width="90%"/></p>
-
-- <h4>Show 5 most similar words:</h4>
-<p align="center"><img src="https://user-images.githubusercontent.com/56510169/141831760-ab794d81-2c14-489e-8288-9e558ee7133c.png" width="90%"/></p>
+- <h4>Searching:</h4>
+<p align="center"><img src="https://user-images.githubusercontent.com/56510169/149759317-f5baaae3-3a94-4215-9fa4-93e96e6fad20.png" width="90%"/></p>
 
