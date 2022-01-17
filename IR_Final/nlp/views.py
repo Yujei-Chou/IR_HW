@@ -120,7 +120,7 @@ def Search(rootPath, searchText, result):
                 articleTags = articleTags.replace(' ', '')
                 articleTags = articleTags.replace('\n', '')
                 tagList = articleTags.split(',')
-                articleContent = f.readline()
+                articleContent = f.readline().replace('\n', '')
                 articleScore = GetSentenceSimilarity(searchText, articleContent)
                 result.append(["{:.2f}".format(articleScore),PMID, tagList])
     else:
